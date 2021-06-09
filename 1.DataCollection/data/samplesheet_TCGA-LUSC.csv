@@ -1,0 +1,413 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-18-3417,6055424054,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,65,
+TCGA-18-3417,6055424086,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,65,
+TCGA-18-4721,6055424054,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-18-4721,6055424076,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-18-5592,6042308120,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,57,
+TCGA-18-5592,6042308120,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,57,
+TCGA-18-5595,6042308078,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,50,
+TCGA-18-5595,6042308087,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,50,
+TCGA-21-5782,6042308087,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,68,WHITE
+TCGA-21-5783,7786923091,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,76,WHITE
+TCGA-21-5784,6042308087,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,80,WHITE
+TCGA-21-5786,6042308078,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,64,WHITE
+TCGA-21-5787,6042308087,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,65,BLACK OR AFRICAN AMERICAN
+TCGA-21-A5DI,9305216126,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,77,WHITE
+TCGA-22-4593,6057825034,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,77,WHITE
+TCGA-22-4599,6055424084,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,73,WHITE
+TCGA-22-4599,6055424086,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,73,WHITE
+TCGA-22-4601,6055424054,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,73,WHITE
+TCGA-22-4601,6055424084,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,73,WHITE
+TCGA-22-4605,6929742075,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,78,
+TCGA-22-4609,6929742073,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,81,WHITE
+TCGA-22-4613,6055424054,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,73,WHITE
+TCGA-22-4613,6055424076,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,73,WHITE
+TCGA-22-5471,6042308078,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,75,WHITE
+TCGA-22-5471,6042308078,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,75,WHITE
+TCGA-22-5472,6042308087,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,67,WHITE
+TCGA-22-5472,6042308078,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,67,WHITE
+TCGA-22-5473,6042308087,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,78,WHITE
+TCGA-22-5473,6042308099,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,78,WHITE
+TCGA-22-5474,6042308120,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-22-5474,6042308078,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-22-5477,6042308099,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,65,WHITE
+TCGA-22-5477,6042308078,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,65,WHITE
+TCGA-22-5478,6042308099,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,79,
+TCGA-22-5478,6042308120,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,79,
+TCGA-22-5479,6264496025,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,64,WHITE
+TCGA-22-5480,6042308087,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,66,WHITE
+TCGA-22-5480,6042308078,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,66,WHITE
+TCGA-22-5481,6264496026,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,72,WHITE
+TCGA-22-5482,6042308120,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,81,WHITE
+TCGA-22-5482,6042308087,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,81,WHITE
+TCGA-22-5483,6057825048,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-22-5485,6042308078,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,58,WHITE
+TCGA-22-5485,6042308078,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,58,WHITE
+TCGA-22-5489,6042308078,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,64,WHITE
+TCGA-22-5489,6042308087,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,64,WHITE
+TCGA-22-5491,6042308087,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-22-5491,6042308120,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-22-5492,6042308120,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,73,
+TCGA-22-5492,6042308120,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,73,
+TCGA-22-A5C4,9283265142,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-33-4566,6055424086,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,40,WHITE
+TCGA-33-4566,6055424086,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,40,WHITE
+TCGA-33-4582,6055424076,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,55,WHITE
+TCGA-33-4582,6055424084,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,55,WHITE
+TCGA-33-4583,6055424076,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-33-4583,6055424076,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-33-4586,6055424086,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,57,WHITE
+TCGA-33-4586,6055424054,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,57,WHITE
+TCGA-33-4587,6929742073,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Small Cell Squamous Cell Carcinoma,FEMALE,63,WHITE
+TCGA-33-4589,6055424054,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,62,WHITE
+TCGA-33-4589,6055424084,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,62,WHITE
+TCGA-33-6737,6057825048,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,71,WHITE
+TCGA-33-6738,6264496026,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,80,WHITE
+TCGA-33-A4WN,8784241130,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,60,WHITE
+TCGA-33-A5GW,9283265142,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,67,WHITE
+TCGA-33-AAS8,3999492078,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-33-AASB,3999492078,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-33-AASD,3999492078,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,83,BLACK OR AFRICAN AMERICAN
+TCGA-33-AASI,3999492078,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,65,BLACK OR AFRICAN AMERICAN
+TCGA-33-AASJ,3999492078,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-33-AASL,3999492078,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-34-5231,6057825034,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,72,WHITE
+TCGA-34-5232,6057825034,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,75,BLACK OR AFRICAN AMERICAN
+TCGA-34-5234,6042308087,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,71,WHITE
+TCGA-34-5236,6057825034,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,60,WHITE
+TCGA-34-5239,6057825034,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,75,WHITE
+TCGA-34-5240,6055424054,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Basaloid Squamous Cell Carcinoma,FEMALE,73,WHITE
+TCGA-34-5241,6055424086,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,79,WHITE
+TCGA-34-5927,6057825101,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,70,WHITE
+TCGA-34-5928,6057825034,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,83,WHITE
+TCGA-34-5929,6057825048,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,78,WHITE
+TCGA-34-5929,6057825101,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,78,WHITE
+TCGA-34-7107,6264496026,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-34-8454,7786923103,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,62,WHITE
+TCGA-34-8455,7786923103,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,67,WHITE
+TCGA-34-8456,7786923103,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,71,WHITE
+TCGA-34-A5IX,9283265142,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,80,WHITE
+TCGA-37-5819,6042308099,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,64,WHITE
+TCGA-37-A5EL,9305216133,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,53,WHITE
+TCGA-37-A5EM,9283265144,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,49,WHITE
+TCGA-37-A5EN,9305216126,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,59,WHITE
+TCGA-39-5011,6055424084,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,70,WHITE
+TCGA-39-5011,6055424084,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,70,WHITE
+TCGA-39-5016,6055424076,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Basaloid Squamous Cell Carcinoma,MALE,44,WHITE
+TCGA-39-5016,6055424086,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Basaloid Squamous Cell Carcinoma,MALE,44,WHITE
+TCGA-39-5019,6057825101,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-39-5019,6057825048,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-39-5021,6055424040,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-39-5021,6055424076,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-39-5022,6057825048,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,76,WHITE
+TCGA-39-5024,6057825048,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,65,WHITE
+TCGA-39-5027,6057825101,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-39-5028,6055424076,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,75,WHITE
+TCGA-39-5028,6055424076,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,75,WHITE
+TCGA-39-5029,6055424076,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,67,WHITE
+TCGA-39-5029,6055424054,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,67,WHITE
+TCGA-39-5030,6055424084,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,81,ASIAN
+TCGA-39-5030,6055424076,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,81,ASIAN
+TCGA-39-5031,6055424054,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,76,
+TCGA-39-5031,6055424086,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,76,
+TCGA-39-5034,6055424086,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,73,WHITE
+TCGA-39-5034,6055424084,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,73,WHITE
+TCGA-39-5035,6055424086,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,72,WHITE
+TCGA-39-5035,6055424086,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,72,WHITE
+TCGA-39-5036,6055424086,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-39-5036,6055424084,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-39-5037,6055424084,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,65,WHITE
+TCGA-39-5037,6055424040,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,65,WHITE
+TCGA-39-5039,6055424054,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,76,WHITE
+TCGA-39-5039,6055424040,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,76,WHITE
+TCGA-39-5040,6929742070,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,59,WHITE
+TCGA-43-3394,6042316106,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,52,BLACK OR AFRICAN AMERICAN
+TCGA-43-3920,6042316106,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,71,WHITE
+TCGA-43-5668,6042308120,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,78,WHITE
+TCGA-43-5668,6042308120,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,78,WHITE
+TCGA-43-5670,6929742073,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-43-6143,6057825034,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Basaloid Squamous Cell Carcinoma,MALE,70,WHITE
+TCGA-43-6647,6057825101,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,69,WHITE
+TCGA-43-6770,6057825034,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-43-6771,6057825048,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,85,WHITE
+TCGA-43-6771,6057825101,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Solid Tissue Normal,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,85,WHITE
+TCGA-43-6773,6264496026,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,76,WHITE
+TCGA-43-7656,6929742073,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,71,WHITE
+TCGA-43-7657,6929742070,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,68,WHITE
+TCGA-43-7658,6929742075,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,75,WHITE
+TCGA-43-8115,6264488071,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,72,WHITE
+TCGA-43-8116,6264488071,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-43-8118,8784225054,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,55,WHITE
+TCGA-43-A474,8784241036,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,66,WHITE
+TCGA-43-A475,8784241001,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,67,WHITE
+TCGA-43-A56U,9305216133,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,76,WHITE
+TCGA-43-A56V,9305216074,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-46-6025,6057825048,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,71,WHITE
+TCGA-46-6026,6057825048,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,81,WHITE
+TCGA-51-6867,6285633083,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,72,WHITE
+TCGA-52-7622,6929742068,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,62,WHITE
+TCGA-52-7809,6929742075,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Basaloid Squamous Cell Carcinoma,MALE,74,WHITE
+TCGA-52-7810,6929742070,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,60,WHITE
+TCGA-52-7811,6929742073,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,67,WHITE
+TCGA-52-7812,6929742070,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,68,WHITE
+TCGA-56-5897,6042308087,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-56-5898,6042308120,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,69,WHITE
+TCGA-56-6545,6057825048,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,77,WHITE
+TCGA-56-6546,6057825101,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,67,WHITE
+TCGA-56-7221,6285633083,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,79,WHITE
+TCGA-56-7222,6285633073,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,60,WHITE
+TCGA-56-7223,6285633079,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,66,WHITE
+TCGA-56-7579,6285633073,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,61,WHITE
+TCGA-56-7580,6285633079,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,84,WHITE
+TCGA-56-7582,6285633079,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,83,WHITE
+TCGA-56-7730,6929742070,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-56-7731,6929742073,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,66,WHITE
+TCGA-56-7822,6929742073,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,75,BLACK OR AFRICAN AMERICAN
+TCGA-56-7823,6264488072,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,58,WHITE
+TCGA-56-8082,6264488072,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,80,WHITE
+TCGA-56-8083,6264488072,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,56,WHITE
+TCGA-56-8201,6264488074,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-56-8304,7786923103,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,73,WHITE
+TCGA-56-8305,6285633040,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,72,WHITE
+TCGA-56-8307,6285633040,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,55,WHITE
+TCGA-56-8308,6285633040,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,79,WHITE
+TCGA-56-8309,7796806154,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,66,WHITE
+TCGA-56-8503,8784225054,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,76,WHITE
+TCGA-56-8504,8784225054,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-56-8622,8784225054,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,68,WHITE
+TCGA-56-8623,8784225109,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,71,WHITE
+TCGA-56-8624,8784225054,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,84,WHITE
+TCGA-56-8625,8784225054,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,66,WHITE
+TCGA-56-8626,8784225054,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,59,WHITE
+TCGA-56-8628,8784225109,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,78,WHITE
+TCGA-56-8629,8784225054,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,63,WHITE
+TCGA-56-A49D,8784241001,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,67,WHITE
+TCGA-56-A4BW,8784241001,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,55,WHITE
+TCGA-56-A4BX,8784241001,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-56-A4BY,8784241001,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,66,WHITE
+TCGA-56-A4ZJ,8784241130,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,75,WHITE
+TCGA-56-A4ZK,8784241132,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,76,WHITE
+TCGA-56-A5DR,9283265144,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,81,WHITE
+TCGA-56-A5DS,9283265144,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,72,WHITE
+TCGA-56-A62T,3999492078,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,78,BLACK OR AFRICAN AMERICAN
+TCGA-58-8386,6285633040,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,75,
+TCGA-58-8387,6285633054,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,60,WHITE
+TCGA-58-8388,7786923090,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Basaloid Squamous Cell Carcinoma,MALE,60,WHITE
+TCGA-58-8390,7786923103,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-58-8391,7786923103,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,57,WHITE
+TCGA-58-8392,7786923103,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-58-8393,7786923103,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,68,WHITE
+TCGA-58-A46J,8784241001,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,64,WHITE
+TCGA-58-A46K,8784241036,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Basaloid Squamous Cell Carcinoma,MALE,59,WHITE
+TCGA-58-A46L,8784241001,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Basaloid Squamous Cell Carcinoma,MALE,73,WHITE
+TCGA-58-A46M,8784241001,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,61,WHITE
+TCGA-58-A46N,8784241001,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Basaloid Squamous Cell Carcinoma,MALE,52,WHITE
+TCGA-60-2697,6929742073,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,41,WHITE
+TCGA-60-2703,6285633083,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-60-2704,6285633073,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-60-2709,6057825034,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-63-5128,6055424054,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,NA,
+TCGA-63-5131,6055424084,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,NA,
+TCGA-63-6202,6057825101,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,NA,
+TCGA-63-7020,6264496026,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,NA,
+TCGA-63-7021,6264496026,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,NA,
+TCGA-63-7022,6264496026,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,NA,
+TCGA-63-7023,6264496025,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,NA,
+TCGA-63-A5M9,9305216133,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,NA,
+TCGA-63-A5MB,9305216074,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,62,
+TCGA-63-A5MG,9283265127,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,68,
+TCGA-63-A5MH,9283265142,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,68,
+TCGA-63-A5MI,9283265142,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,65,
+TCGA-63-A5MJ,9283265142,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,54,
+TCGA-63-A5ML,9283265144,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,68,
+TCGA-63-A5MM,9305216126,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,69,
+TCGA-63-A5MN,9283265144,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,78,
+TCGA-63-A5MP,9305216074,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,56,
+TCGA-63-A5MR,9283265144,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,70,
+TCGA-63-A5MS,9305216121,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,78,
+TCGA-63-A5MT,9305216126,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,
+TCGA-63-A5MU,9305216121,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,48,
+TCGA-63-A5MV,9305216074,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,69,
+TCGA-63-A5MW,9305216121,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,76,
+TCGA-63-A5MY,9305216121,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,63,
+TCGA-68-7755,6929742070,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,60,WHITE
+TCGA-68-7756,6929742070,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,84,WHITE
+TCGA-68-7757,6285633054,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-68-8250,6285633054,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-68-8251,6285633040,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,78,WHITE
+TCGA-68-A59I,9305216159,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,73,BLACK OR AFRICAN AMERICAN
+TCGA-68-A59J,9305216121,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,74,WHITE
+TCGA-6A-AB49,3999492078,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,73,BLACK OR AFRICAN AMERICAN
+TCGA-70-6722,6057825034,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,47,ASIAN
+TCGA-70-6723,6057825034,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Papillary Squamous Cell Caricnoma,MALE,65,ASIAN
+TCGA-77-6842,6264496025,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,79,WHITE
+TCGA-77-6843,6264496025,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-77-6844,6264496025,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-77-6845,6264496026,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,69,WHITE
+TCGA-77-7138,6285633083,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,67,
+TCGA-77-7139,6285633083,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,56,WHITE
+TCGA-77-7140,6285633079,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,69,WHITE
+TCGA-77-7141,6285633073,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,64,WHITE
+TCGA-77-7142,6285633079,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,59,WHITE
+TCGA-77-7335,6285633079,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,62,WHITE
+TCGA-77-7337,6285633083,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,65,WHITE
+TCGA-77-7338,6285633079,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,64,WHITE
+TCGA-77-7463,6285633079,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,75,WHITE
+TCGA-77-7465,6285633079,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,58,WHITE
+TCGA-77-8007,7786923091,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,68,
+TCGA-77-8008,7786923091,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,68,
+TCGA-77-8009,7786923091,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,68,
+TCGA-77-8128,6264488072,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,60,
+TCGA-77-8130,6264488071,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,69,
+TCGA-77-8131,6264488071,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,72,
+TCGA-77-8133,6264488071,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,
+TCGA-77-8136,6264488072,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,74,
+TCGA-77-8138,6264488072,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,
+TCGA-77-8139,6264488072,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,72,
+TCGA-77-8140,6264488072,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,66,
+TCGA-77-8143,6264488074,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,76,
+TCGA-77-8144,6264488074,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,
+TCGA-77-8145,6264488074,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,
+TCGA-77-8146,6264488076,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,72,
+TCGA-77-8148,6264488074,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,68,
+TCGA-77-8150,6264488071,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,64,
+TCGA-77-8153,8784225109,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,77,
+TCGA-77-8154,6264488074,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,67,
+TCGA-77-8156,6264488074,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,60,
+TCGA-77-A5FZ,9283265127,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Papillary Squamous Cell Caricnoma,MALE,64,
+TCGA-77-A5G1,9283265142,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,75,
+TCGA-77-A5G3,9283265142,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,63,
+TCGA-77-A5G6,9283265142,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,66,
+TCGA-77-A5G7,9283265144,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,63,
+TCGA-77-A5G8,9283265144,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,
+TCGA-77-A5GA,9283265144,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,76,
+TCGA-77-A5GB,9283265127,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,90,
+TCGA-77-A5GF,9283265142,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,
+TCGA-77-A5GH,9283265142,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,81,
+TCGA-79-5596,6264496025,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,NA,
+TCGA-85-6175,6057825048,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,63,WHITE
+TCGA-85-6560,6057825048,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,59,WHITE
+TCGA-85-6561,6057825101,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,66,WHITE
+TCGA-85-6798,6264496026,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,57,WHITE
+TCGA-85-7696,6929742070,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,64,WHITE
+TCGA-85-7697,6929742068,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,49,WHITE
+TCGA-85-7698,6929742070,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,48,WHITE
+TCGA-85-7699,6929742073,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-85-7710,6929742073,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,59,WHITE
+TCGA-85-7843,6929742073,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,50,WHITE
+TCGA-85-7844,6929742070,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,71,WHITE
+TCGA-85-7950,7786923091,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,46,WHITE
+TCGA-85-8048,6264488071,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,62,WHITE
+TCGA-85-8049,6264488072,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,57,WHITE
+TCGA-85-8052,6264488071,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,53,WHITE
+TCGA-85-8070,6264488072,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,71,WHITE
+TCGA-85-8071,6264488071,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,52,WHITE
+TCGA-85-8072,6264488071,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,60,WHITE
+TCGA-85-8276,6285633054,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,62,WHITE
+TCGA-85-8277,6285633054,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-85-8287,6285633054,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,72,WHITE
+TCGA-85-8288,6285633040,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-85-8350,6285633054,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,61,WHITE
+TCGA-85-8351,6285633040,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,72,WHITE
+TCGA-85-8352,7786923103,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,67,WHITE
+TCGA-85-8353,6285633054,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,72,WHITE
+TCGA-85-8354,7786923103,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,53,WHITE
+TCGA-85-8355,6285633054,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,63,WHITE
+TCGA-85-8479,7786923090,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Papillary Squamous Cell Caricnoma,MALE,66,WHITE
+TCGA-85-8481,7786923103,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Papillary Squamous Cell Caricnoma,MALE,70,WHITE
+TCGA-85-8580,8784225054,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,52,WHITE
+TCGA-85-8582,8784225054,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,49,WHITE
+TCGA-85-8584,8784225109,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Papillary Squamous Cell Caricnoma,MALE,71,WHITE
+TCGA-85-8664,8784225054,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-85-8666,8784225054,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,65,WHITE
+TCGA-85-A4CL,9305216126,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,65,WHITE
+TCGA-85-A4CN,8784241001,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,56,WHITE
+TCGA-85-A4JB,8784241132,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-85-A4JC,8784241020,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,84,WHITE
+TCGA-85-A4PA,8784241020,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,61,WHITE
+TCGA-85-A4QQ,8784241130,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,68,WHITE
+TCGA-85-A4QR,8784241020,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,67,WHITE
+TCGA-85-A50M,8784241130,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,47,ASIAN
+TCGA-85-A50Z,8784241130,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,57,WHITE
+TCGA-85-A510,9305216126,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,74,WHITE
+TCGA-85-A511,8784241048,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,62,WHITE
+TCGA-85-A512,9305216159,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,46,WHITE
+TCGA-85-A513,9305216133,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,60,ASIAN
+TCGA-85-A53L,9305216133,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,63,ASIAN
+TCGA-85-A5B5,9305216074,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,58,WHITE
+TCGA-90-6837,6264496026,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,64,WHITE
+TCGA-90-7766,6929742075,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,66,WHITE
+TCGA-90-7767,6929742070,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,56,WHITE
+TCGA-90-7769,6929742073,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,55,WHITE
+TCGA-90-7964,7786923091,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-90-A4ED,8784241020,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,69,WHITE
+TCGA-90-A4EE,8784241020,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,53,WHITE
+TCGA-90-A59Q,9305216133,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,61,WHITE
+TCGA-92-7340,6285633083,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,45,WHITE
+TCGA-92-7341,6285633083,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,71,WHITE
+TCGA-92-8063,6264488074,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,52,WHITE
+TCGA-92-8064,6264488071,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,58,WHITE
+TCGA-92-8065,6264488072,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,74,WHITE
+TCGA-94-7033,6264496025,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-94-7557,6929742070,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,BLACK OR AFRICAN AMERICAN
+TCGA-94-7943,7786923091,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,80,WHITE
+TCGA-94-8035,6264488074,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,64,WHITE
+TCGA-94-8490,7786923103,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-94-8491,7786923090,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-94-A4VJ,8784241020,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,71,WHITE
+TCGA-94-A5I4,9305216126,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,61,WHITE
+TCGA-94-A5I6,9283265142,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,62,WHITE
+TCGA-96-7544,6285633079,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,83,WHITE
+TCGA-96-7545,6285633079,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-96-8169,6285633054,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,67,WHITE
+TCGA-96-8170,6285633040,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,75,WHITE
+TCGA-96-A4JK,8784241020,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,65,WHITE
+TCGA-96-A4JL,8784241020,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,78,ASIAN
+TCGA-98-7454,6285633079,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-98-8020,6264488071,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,56,BLACK OR AFRICAN AMERICAN
+TCGA-98-8021,6264488074,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,75,WHITE
+TCGA-98-8022,6264488074,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,61,WHITE
+TCGA-98-8023,6264488072,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-98-A538,8784241130,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,67,WHITE
+TCGA-98-A539,8784241048,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,63,WHITE
+TCGA-98-A53A,8784241130,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,BLACK OR AFRICAN AMERICAN
+TCGA-98-A53B,8784241130,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,69,WHITE
+TCGA-98-A53C,8784241048,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,77,WHITE
+TCGA-98-A53D,9305216159,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,68,WHITE
+TCGA-98-A53H,8784241130,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,76,WHITE
+TCGA-98-A53I,8784241130,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,64,WHITE
+TCGA-98-A53J,9305216121,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,77,WHITE
+TCGA-J1-A4AH,8784241001,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-L3-A4E7,8784241020,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,71,WHITE
+TCGA-L3-A524,8784241130,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,45,WHITE
+TCGA-LA-A446,8784241020,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,68,WHITE
+TCGA-LA-A7SW,3999492078,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,71,BLACK OR AFRICAN AMERICAN
+TCGA-MF-A522,8784241048,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,54,WHITE
+TCGA-NC-A5HD,9305216133,R02C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,79,WHITE
+TCGA-NC-A5HE,9305216133,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,60,WHITE
+TCGA-NC-A5HF,9305216074,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-NC-A5HG,9305216121,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Basaloid Squamous Cell Carcinoma,MALE,59,WHITE
+TCGA-NC-A5HH,9305216126,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Basaloid Squamous Cell Carcinoma,MALE,53,WHITE
+TCGA-NC-A5HI,9305216074,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,68,WHITE
+TCGA-NC-A5HJ,9305216133,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,59,WHITE
+TCGA-NC-A5HK,9305216133,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,58,WHITE
+TCGA-NC-A5HL,9305216121,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-NC-A5HM,9305216126,R06C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,76,WHITE
+TCGA-NC-A5HN,9305216126,R02C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,77,WHITE
+TCGA-NC-A5HO,9305216074,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,70,WHITE
+TCGA-NC-A5HP,9305216121,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,69,WHITE
+TCGA-NC-A5HQ,9305216133,R06C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-NC-A5HR,9305216074,R03C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Basaloid Squamous Cell Carcinoma,FEMALE,75,WHITE
+TCGA-NC-A5HT,9305216126,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,69,WHITE
+TCGA-NK-A5CR,9305216074,R01C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,77,
+TCGA-NK-A5CT,9305216133,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-NK-A5CX,9305216121,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-NK-A5D1,9305216121,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Basaloid Squamous Cell Carcinoma,MALE,57,WHITE
+TCGA-NK-A7XE,3999492078,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-O2-A52N,9305216121,R05C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,78,WHITE
+TCGA-O2-A52Q,9305216074,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,44,WHITE
+TCGA-O2-A52S,8784241130,R03C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,57,WHITE
+TCGA-O2-A52V,8784241048,R04C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,75,BLACK OR AFRICAN AMERICAN
+TCGA-O2-A52W,9305216126,R05C02,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),MALE,63,BLACK OR AFRICAN AMERICAN
+TCGA-O2-A5IB,9283265144,R04C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,71,WHITE
+TCGA-XC-AA0X,3999492078,R01C01,Illumina Human Methylation 450,TCGA-LUSC,JHU_USC,Primary Tumor,Lung,Lung Squamous Cell Carcinoma- Not Otherwise Specified (NOS),FEMALE,77,BLACK OR AFRICAN AMERICAN

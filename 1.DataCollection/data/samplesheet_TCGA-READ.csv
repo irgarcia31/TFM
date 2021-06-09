@@ -1,0 +1,106 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-AF-2687,6055424097,R04C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,57,WHITE
+TCGA-AF-2690,6055424097,R01C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,76,WHITE
+TCGA-AF-2693,6055424075,R04C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,,,MALE,75,WHITE
+TCGA-AF-3911,6055424097,R05C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,48,WHITE
+TCGA-AF-4110,6055424097,R04C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,,,MALE,77,WHITE
+TCGA-AF-6136,6929718081,R03C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,72,WHITE
+TCGA-AF-6655,6929718081,R02C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,66,WHITE
+TCGA-AF-6672,6929718081,R06C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,43,WHITE
+TCGA-AF-A56K,9828653044,R03C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,56,BLACK OR AFRICAN AMERICAN
+TCGA-AF-A56L,9828653044,R04C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,48,BLACK OR AFRICAN AMERICAN
+TCGA-AF-A56N,9828653044,R05C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,47,BLACK OR AFRICAN AMERICAN
+TCGA-AG-3591,6055424075,R03C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,66,
+TCGA-AG-3592,6055424075,R03C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,68,
+TCGA-AG-3725,6055424097,R02C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Solid Tissue Normal,Rectum,Rectal Adenocarcinoma,FEMALE,90,
+TCGA-AG-3725,6055424075,R01C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,90,
+TCGA-AG-3731,6055424075,R04C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Solid Tissue Normal,Rectum,Rectal Adenocarcinoma,MALE,65,
+TCGA-AG-3731,6055424040,R04C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,65,
+TCGA-AG-3732,6929718058,R01C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,78,
+TCGA-AG-3742,6929718058,R02C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,85,
+TCGA-AG-4021,6055424097,R03C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,84,
+TCGA-AG-4022,6055424097,R06C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,59,
+TCGA-AG-A01W,5775041086,R01C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,67,
+TCGA-AG-A01W,5775041086,R02C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Solid Tissue Normal,Rectum,Rectal Adenocarcinoma,FEMALE,67,
+TCGA-AG-A01Y,5775041086,R04C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,49,
+TCGA-AG-A01Y,5775041086,R05C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Solid Tissue Normal,Rectum,Rectal Adenocarcinoma,FEMALE,49,
+TCGA-AG-A020,5775041086,R06C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Mucinous Adenocarcinoma,FEMALE,57,
+TCGA-AG-A020,5775041086,R01C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Solid Tissue Normal,Rectum,Rectal Mucinous Adenocarcinoma,FEMALE,57,
+TCGA-AG-A026,5775041086,R02C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,66,
+TCGA-AG-A02N,5775041086,R03C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,67,
+TCGA-AG-A02N,5775041086,R04C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Solid Tissue Normal,Rectum,Rectal Adenocarcinoma,MALE,67,
+TCGA-AG-A036,5775041086,R05C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,71,
+TCGA-AG-A036,5775041086,R06C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Solid Tissue Normal,Rectum,Rectal Adenocarcinoma,MALE,71,
+TCGA-AH-6544,6929718058,R06C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,60,WHITE
+TCGA-AH-6547,6929718061,R05C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,79,WHITE
+TCGA-AH-6549,6929718081,R05C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,66,WHITE
+TCGA-AH-6643,6929718061,R06C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,50,WHITE
+TCGA-AH-6644,6929718081,R04C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,73,WHITE
+TCGA-AH-6897,6929718114,R05C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,48,WHITE
+TCGA-AH-6903,6929718114,R02C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Mucinous Adenocarcinoma,MALE,46,WHITE
+TCGA-BM-6198,6055424075,R01C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,73,WHITE
+TCGA-CI-6619,6929718081,R01C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,41,WHITE
+TCGA-CI-6620,6929718058,R03C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,41,WHITE
+TCGA-CI-6621,6929718061,R01C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,63,WHITE
+TCGA-CI-6622,6929718061,R06C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,74,WHITE
+TCGA-CI-6623,6929718061,R01C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,44,WHITE
+TCGA-CI-6624,6929718058,R04C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,53,WHITE
+TCGA-CL-4957,6055424040,R03C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,79,
+TCGA-CL-5917,6929718042,R01C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,71,WHITE
+TCGA-CL-5918,6929718058,R05C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,90,WHITE
+TCGA-DC-4745,6055424040,R06C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,49,WHITE
+TCGA-DC-4749,6055424040,R06C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,57,WHITE
+TCGA-DC-5337,6929718042,R06C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,69,WHITE
+TCGA-DC-5869,6929718058,R06C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,62,BLACK OR AFRICAN AMERICAN
+TCGA-DC-6154,6929718113,R03C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,57,WHITE
+TCGA-DC-6155,6929718042,R03C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,31,WHITE
+TCGA-DC-6156,6929718042,R02C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,62,WHITE
+TCGA-DC-6157,6929718058,R02C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,48,BLACK OR AFRICAN AMERICAN
+TCGA-DC-6158,6929718042,R04C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,70,WHITE
+TCGA-DC-6160,6929718058,R01C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,68,WHITE
+TCGA-DC-6681,6929718081,R03C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,70,WHITE
+TCGA-DC-6682,6929718081,R01C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,57,WHITE
+TCGA-DC-6683,6929718081,R05C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,43,WHITE
+TCGA-DT-5265,6929718081,R04C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Mucinous Adenocarcinoma,MALE,51,ASIAN
+TCGA-DY-A0XA,6264509055,R02C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,57,WHITE
+TCGA-DY-A1DC,6264509055,R03C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,72,WHITE
+TCGA-DY-A1DD,6264509055,R04C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,77,WHITE
+TCGA-DY-A1DE,6264509055,R05C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,56,WHITE
+TCGA-DY-A1DF,6264509055,R06C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,73,WHITE
+TCGA-DY-A1DG,6264509055,R01C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,75,WHITE
+TCGA-DY-A1H8,6264509055,R02C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,77,WHITE
+TCGA-EF-5830,6929718042,R05C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,54,WHITE
+TCGA-EF-5831,6929718042,R06C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,72,WHITE
+TCGA-EI-6506,6055424097,R06C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,78,WHITE
+TCGA-EI-6507,6055424097,R03C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,60,WHITE
+TCGA-EI-6508,6055424040,R04C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,48,WHITE
+TCGA-EI-6509,6055424040,R02C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,53,WHITE
+TCGA-EI-6510,6055424075,R06C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,77,WHITE
+TCGA-EI-6511,6055424075,R02C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,52,WHITE
+TCGA-EI-6512,6055424097,R01C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,64,WHITE
+TCGA-EI-6513,6055424075,R05C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,59,WHITE
+TCGA-EI-6514,6055424075,R02C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,59,WHITE
+TCGA-EI-6881,6929718114,R05C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,60,WHITE
+TCGA-EI-6882,6929718114,R03C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Mucinous Adenocarcinoma,MALE,59,WHITE
+TCGA-EI-6883,6929718114,R06C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,63,WHITE
+TCGA-EI-6884,6929718114,R02C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,71,WHITE
+TCGA-EI-6885,6929718114,R04C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,57,WHITE
+TCGA-EI-6917,6929718114,R01C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,33,WHITE
+TCGA-EI-7002,6929718113,R05C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,58,WHITE
+TCGA-EI-7004,6929718113,R04C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Mucinous Adenocarcinoma,FEMALE,37,WHITE
+TCGA-F5-6464,6055424040,R05C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,77,WHITE
+TCGA-F5-6465,6055424097,R05C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,64,WHITE
+TCGA-F5-6571,6929718061,R03C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,62,WHITE
+TCGA-F5-6702,6929718061,R04C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,71,WHITE
+TCGA-F5-6811,6929718061,R04C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,72,WHITE
+TCGA-F5-6812,6929718081,R02C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,67,WHITE
+TCGA-F5-6813,6929718081,R06C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,70,WHITE
+TCGA-F5-6814,6929718113,R06C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,57,WHITE
+TCGA-F5-6861,6929718114,R01C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,60,WHITE
+TCGA-F5-6863,6929718114,R03C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,71,WHITE
+TCGA-F5-6864,6929718114,R04C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,FEMALE,74,WHITE
+TCGA-G5-6233,6055424097,R02C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,74,WHITE
+TCGA-G5-6235,6055424040,R05C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,72,WHITE
+TCGA-G5-6572,6929718061,R03C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Adenocarcinoma,MALE,56,WHITE
+TCGA-G5-6572,6929718061,R02C02,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Recurrent Tumor,Rectum,Rectal Adenocarcinoma,MALE,56,WHITE
+TCGA-G5-6641,6929718061,R02C01,Illumina Human Methylation 450,TCGA-READ,JHU_USC,Primary Tumor,Rectum,Rectal Mucinous Adenocarcinoma,MALE,67,WHITE

@@ -1,0 +1,46 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-3X-AAV9,9996247050,R02C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,72,ASIAN
+TCGA-3X-AAVA,3999997079,R05C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,50,WHITE
+TCGA-3X-AAVB,9996247047,R06C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; distal,FEMALE,70,WHITE
+TCGA-3X-AAVC,9996247047,R04C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; hilar/perihilar,FEMALE,72,WHITE
+TCGA-3X-AAVE,9996247050,R04C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,60,ASIAN
+TCGA-4G-AAZO,3999997083,R05C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,71,WHITE
+TCGA-4G-AAZT,9996247050,R01C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,62,WHITE
+TCGA-W5-AA2G,9996247050,R01C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,62,WHITE
+TCGA-W5-AA2H,9996247061,R01C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; distal,FEMALE,70,WHITE
+TCGA-W5-AA2I,9996247047,R04C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Solid Tissue Normal,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,66,WHITE
+TCGA-W5-AA2I,9996247050,R06C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,66,WHITE
+TCGA-W5-AA2O,3999997083,R01C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,57,WHITE
+TCGA-W5-AA2Q,9996247047,R06C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,68,WHITE
+TCGA-W5-AA2Q,9996247050,R03C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Solid Tissue Normal,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,68,WHITE
+TCGA-W5-AA2R,3999997083,R06C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Solid Tissue Normal,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,77,WHITE
+TCGA-W5-AA2R,9996247061,R02C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,77,WHITE
+TCGA-W5-AA2T,3999997083,R02C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,64,WHITE
+TCGA-W5-AA2U,3999997079,R04C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,78,WHITE
+TCGA-W5-AA2U,9996247047,R05C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Solid Tissue Normal,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,78,WHITE
+TCGA-W5-AA2W,3999997083,R03C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,31,WHITE
+TCGA-W5-AA2X,9996247061,R05C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Solid Tissue Normal,Bile duct,Cholangiocarcinoma; hilar/perihilar,MALE,67,WHITE
+TCGA-W5-AA2X,3999997083,R03C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; hilar/perihilar,MALE,67,WHITE
+TCGA-W5-AA2Z,9996247061,R01C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,29,WHITE
+TCGA-W5-AA30,9996247047,R03C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,82,WHITE
+TCGA-W5-AA30,3999997083,R01C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Solid Tissue Normal,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,82,WHITE
+TCGA-W5-AA31,9996247050,R02C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Solid Tissue Normal,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,71,WHITE
+TCGA-W5-AA31,9996247050,R03C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,71,WHITE
+TCGA-W5-AA33,9996247047,R02C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,60,WHITE
+TCGA-W5-AA34,9996247050,R04C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,75,WHITE
+TCGA-W5-AA34,3999997083,R02C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Solid Tissue Normal,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,75,WHITE
+TCGA-W5-AA36,9996247061,R06C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; hilar/perihilar,FEMALE,51,WHITE
+TCGA-W5-AA38,9996247047,R02C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,55,WHITE
+TCGA-W5-AA39,9996247047,R01C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,81,WHITE
+TCGA-W6-AA0S,9996247047,R05C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,46,WHITE
+TCGA-WD-A7RX,9996247050,R05C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,71,WHITE
+TCGA-YR-A95A,3999997083,R04C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; hilar/perihilar,MALE,52,WHITE
+TCGA-ZD-A8I3,9996247047,R03C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,73,ASIAN
+TCGA-ZH-A8Y1,9996247050,R05C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,74,WHITE
+TCGA-ZH-A8Y2,9996247061,R03C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-ZH-A8Y4,9996247061,R04C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,58,WHITE
+TCGA-ZH-A8Y5,3999997083,R04C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,69,WHITE
+TCGA-ZH-A8Y6,9996247061,R03C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,FEMALE,41,BLACK OR AFRICAN AMERICAN
+TCGA-ZH-A8Y8,9996247047,R01C01,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,73,WHITE
+TCGA-ZU-A8S4,9996247061,R04C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Solid Tissue Normal,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,52,WHITE
+TCGA-ZU-A8S4,3999997079,R06C02,Illumina Human Methylation 450,TCGA-CHOL,JHU_USC,Primary Tumor,Bile duct,Cholangiocarcinoma; intrahepatic,MALE,52,WHITE

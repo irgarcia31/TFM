@@ -1,0 +1,81 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-RZ-AB0B,9682764019,R05C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,FEMALE,47,WHITE
+TCGA-V3-A9ZX,9682764019,R02C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,MALE,56,WHITE
+TCGA-V3-A9ZY,9682764063,R06C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,54,WHITE
+TCGA-V4-A9E5,9682764085,R02C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,FEMALE,51,WHITE
+TCGA-V4-A9E7,9934398062,R06C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,76,WHITE
+TCGA-V4-A9E8,9934398062,R03C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,49,WHITE
+TCGA-V4-A9E9,9682764062,R02C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,50,WHITE
+TCGA-V4-A9EA,9682764085,R06C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,66,WHITE
+TCGA-V4-A9EC,9934398062,R05C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,75,WHITE
+TCGA-V4-A9ED,9682764062,R03C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,MALE,45,WHITE
+TCGA-V4-A9EE,9682764085,R01C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,86,WHITE
+TCGA-V4-A9EF,9682764085,R06C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,MALE,56,WHITE
+TCGA-V4-A9EH,9682764063,R03C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,53,WHITE
+TCGA-V4-A9EI,9682764019,R03C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,78,WHITE
+TCGA-V4-A9EJ,9934398111,R02C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,38,WHITE
+TCGA-V4-A9EK,9934398111,R02C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,FEMALE,37,WHITE
+TCGA-V4-A9EL,9934398062,R02C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,60,WHITE
+TCGA-V4-A9EM,9682764019,R02C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,53,WHITE
+TCGA-V4-A9EO,9682764063,R04C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,MALE,74,WHITE
+TCGA-V4-A9EQ,9934398111,R06C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,MALE,64,WHITE
+TCGA-V4-A9ES,9934398062,R06C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,FEMALE,54,WHITE
+TCGA-V4-A9ET,9682764063,R04C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary bodyIris,NA,MALE,57,WHITE
+TCGA-V4-A9EU,9682764063,R05C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,FEMALE,83,WHITE
+TCGA-V4-A9EV,9682764062,R02C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,59,WHITE
+TCGA-V4-A9EW,9934398111,R05C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,44,WHITE
+TCGA-V4-A9EX,9934398119,R02C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,55,WHITE
+TCGA-V4-A9EY,9682764062,R03C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,66,WHITE
+TCGA-V4-A9EZ,9682764019,R04C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,78,WHITE
+TCGA-V4-A9F0,9934398119,R02C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,MALE,59,WHITE
+TCGA-V4-A9F1,9682764019,R05C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,46,WHITE
+TCGA-V4-A9F2,9682764085,R01C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,FEMALE,78,WHITE
+TCGA-V4-A9F3,9682764019,R01C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,FEMALE,49,WHITE
+TCGA-V4-A9F4,9934398119,R01C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,41,WHITE
+TCGA-V4-A9F5,9682764062,R04C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,FEMALE,85,WHITE
+TCGA-V4-A9F7,9682764019,R01C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,78,WHITE
+TCGA-V4-A9F8,9682764062,R01C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,68,WHITE
+TCGA-VD-A8K7,9682764085,R04C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,39,
+TCGA-VD-A8K8,9682764019,R06C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,56,
+TCGA-VD-A8K9,9682764085,R03C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,71,
+TCGA-VD-A8KA,9934398111,R01C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,22,
+TCGA-VD-A8KB,9934398062,R01C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,66,
+TCGA-VD-A8KD,9682764085,R05C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,72,
+TCGA-VD-A8KE,9682764019,R04C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,74,
+TCGA-VD-A8KF,9682764062,R05C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,MALE,68,
+TCGA-VD-A8KG,9682764085,R03C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,47,
+TCGA-VD-A8KH,9682764085,R04C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,MALE,69,
+TCGA-VD-A8KI,9682764063,R06C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,68,
+TCGA-VD-A8KJ,9934398062,R02C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,53,
+TCGA-VD-A8KK,9682764062,R05C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,54,
+TCGA-VD-A8KL,9934398119,R03C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,77,
+TCGA-VD-A8KM,9682764062,R01C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,65,
+TCGA-VD-A8KN,9682764063,R01C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,60,
+TCGA-VD-A8KO,9934398111,R01C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,51,
+TCGA-VD-AA8M,9934398111,R03C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,64,
+TCGA-VD-AA8N,9682764085,R05C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,86,
+TCGA-VD-AA8O,9682764062,R06C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,MALE,77,
+TCGA-VD-AA8P,9934398062,R04C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,64,
+TCGA-VD-AA8Q,9682764063,R02C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,71,
+TCGA-VD-AA8R,9934398119,R05C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,78,
+TCGA-VD-AA8S,9682764063,R01C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,40,
+TCGA-VD-AA8T,9934398111,R06C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,FEMALE,83,
+TCGA-WC-A87T,9934398062,R01C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,64,WHITE
+TCGA-WC-A87U,9682764019,R03C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,MALE,73,WHITE
+TCGA-WC-A87W,9934398111,R03C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,57,WHITE
+TCGA-WC-A87Y,9682764063,R02C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,59,WHITE
+TCGA-WC-A880,9934398119,R01C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,63,WHITE
+TCGA-WC-A881,9934398062,R03C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,75,WHITE
+TCGA-WC-A882,9934398119,R04C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,FEMALE,50,WHITE
+TCGA-WC-A883,9682764085,R02C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,76,WHITE
+TCGA-WC-A884,9934398111,R04C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary bodyIris,NA,FEMALE,35,WHITE
+TCGA-WC-A885,9682764062,R06C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,60,WHITE
+TCGA-WC-A888,9682764019,R06C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,76,WHITE
+TCGA-WC-A88A,9682764063,R03C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,75,WHITE
+TCGA-WC-AA9A,9934398062,R05C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,70,WHITE
+TCGA-WC-AA9E,9934398119,R03C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,MALE,60,WHITE
+TCGA-YZ-A980,9934398119,R06C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,MALE,75,WHITE
+TCGA-YZ-A982,9934398111,R04C02,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,ChoroidCiliary body,NA,FEMALE,79,WHITE
+TCGA-YZ-A983,9682764063,R05C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,51,WHITE
+TCGA-YZ-A984,9934398062,R04C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,50,WHITE
+TCGA-YZ-A985,9934398111,R05C01,Illumina Human Methylation 450,TCGA-UVM,JHU_USC,Primary Tumor,Choroid,NA,FEMALE,41,WHITE

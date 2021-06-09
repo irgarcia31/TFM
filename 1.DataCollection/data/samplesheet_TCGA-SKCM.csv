@@ -1,0 +1,476 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-3N-A9WB,9829119010,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,71,WHITE
+TCGA-3N-A9WC,9829119007,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,82,WHITE
+TCGA-3N-A9WD,9829119010,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,82,WHITE
+TCGA-BF-A1PU,6285633038,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,46,WHITE
+TCGA-BF-A1PV,6929671096,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,74,WHITE
+TCGA-BF-A1PX,6929671124,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,56,WHITE
+TCGA-BF-A1PZ,6929671108,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,71,WHITE
+TCGA-BF-A1Q0,6285633037,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,80,WHITE
+TCGA-BF-A3DJ,6285633011,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,36,WHITE
+TCGA-BF-A3DL,6285633011,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,84,WHITE
+TCGA-BF-A3DM,6285633011,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,63,WHITE
+TCGA-BF-A3DN,6285633012,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,81,WHITE
+TCGA-BF-A5EO,9283265127,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,65,WHITE
+TCGA-BF-A5EP,9283265066,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,75,WHITE
+TCGA-BF-A5EQ,9283265066,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,63,WHITE
+TCGA-BF-A5ER,9283265066,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,63,WHITE
+TCGA-BF-A5ES,9283265066,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,76,WHITE
+TCGA-BF-A9VF,9934625087,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,77,WHITE
+TCGA-BF-AAOU,9828653018,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,73,WHITE
+TCGA-BF-AAOX,9828653018,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,83,WHITE
+TCGA-BF-AAP0,9828653018,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,40,WHITE
+TCGA-BF-AAP1,9828653018,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,86,WHITE
+TCGA-BF-AAP2,3999492082,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,62,WHITE
+TCGA-BF-AAP4,3999492082,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,61,WHITE
+TCGA-BF-AAP6,3999492082,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,55,WHITE
+TCGA-BF-AAP7,3999492082,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,76,WHITE
+TCGA-BF-AAP8,3999492082,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,58,WHITE
+TCGA-D3-A1Q1,6929671037,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,79,WHITE
+TCGA-D3-A1Q3,6929671124,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,64,WHITE
+TCGA-D3-A1Q4,6929671108,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,53,WHITE
+TCGA-D3-A1Q5,6929671108,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,60,WHITE
+TCGA-D3-A1Q6,6929671003,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,55,WHITE
+TCGA-D3-A1Q7,6929671126,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,42,WHITE
+TCGA-D3-A1Q8,6929671093,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,33,WHITE
+TCGA-D3-A1Q9,6285633038,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,72,WHITE
+TCGA-D3-A1QA,9934625029,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Additional Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,55,WHITE
+TCGA-D3-A1QA,6929671125,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,55,WHITE
+TCGA-D3-A1QB,6929671121,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,75,WHITE
+TCGA-D3-A2J6,6929671124,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,65,WHITE
+TCGA-D3-A2J7,6929671110,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,67,WHITE
+TCGA-D3-A2J8,6929671125,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,48,WHITE
+TCGA-D3-A2J9,6929671105,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,75,WHITE
+TCGA-D3-A2JA,6929671073,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,68,WHITE
+TCGA-D3-A2JB,6929671073,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,70,BLACK OR AFRICAN AMERICAN
+TCGA-D3-A2JC,6929671108,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,53,WHITE
+TCGA-D3-A2JD,6929671154,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,58,WHITE
+TCGA-D3-A2JE,9934625050,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,75,WHITE
+TCGA-D3-A2JF,6929671073,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,74,WHITE
+TCGA-D3-A2JG,6929671093,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,30,WHITE
+TCGA-D3-A2JH,6929671154,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,68,WHITE
+TCGA-D3-A2JK,6929671073,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,24,WHITE
+TCGA-D3-A2JL,6929671073,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,43,WHITE
+TCGA-D3-A2JN,6929671125,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,46,WHITE
+TCGA-D3-A2JO,6929671093,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,50,WHITE
+TCGA-D3-A2JP,6929671067,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,37,WHITE
+TCGA-D3-A3BZ,6929671126,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,63,WHITE
+TCGA-D3-A3C1,6285641097,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,NA,WHITE
+TCGA-D3-A3C3,6929671154,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,NA,WHITE
+TCGA-D3-A3C6,6929671105,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,54,WHITE
+TCGA-D3-A3C7,6929671093,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,57,WHITE
+TCGA-D3-A3C8,6929671073,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,58,WHITE
+TCGA-D3-A3CB,6285633037,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,39,WHITE
+TCGA-D3-A3CC,6929671105,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,69,WHITE
+TCGA-D3-A3CE,6929671037,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,74,WHITE
+TCGA-D3-A3CF,6929671121,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,61,WHITE
+TCGA-D3-A3ML,7796806006,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,70,WHITE
+TCGA-D3-A3MO,7796806005,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,47,WHITE
+TCGA-D3-A3MR,7796806006,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,42,WHITE
+TCGA-D3-A3MU,7796806005,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,53,WHITE
+TCGA-D3-A3MV,7796806006,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,38,WHITE
+TCGA-D3-A51E,8784241119,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,39,WHITE
+TCGA-D3-A51F,8784241119,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,51,WHITE
+TCGA-D3-A51G,8784241038,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,NA,WHITE
+TCGA-D3-A51H,8784241119,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,60,WHITE
+TCGA-D3-A51J,8784241119,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,19,WHITE
+TCGA-D3-A51K,8784241038,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,51,WHITE
+TCGA-D3-A51N,8784241035,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,56,WHITE
+TCGA-D3-A51R,8784241038,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,60,WHITE
+TCGA-D3-A51T,8784241038,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,59,WHITE
+TCGA-D3-A5GL,9283265127,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,74,WHITE
+TCGA-D3-A5GN,9283265127,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,15,WHITE
+TCGA-D3-A5GO,9283265127,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,61,WHITE
+TCGA-D3-A5GR,9283265066,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,23,WHITE
+TCGA-D3-A5GS,9283265066,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,58,WHITE
+TCGA-D3-A5GT,9305216006,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,43,WHITE
+TCGA-D3-A5GU,9283265066,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,36,WHITE
+TCGA-D3-A8GB,9934625087,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,48,WHITE
+TCGA-D3-A8GC,9934625033,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,48,WHITE
+TCGA-D3-A8GD,9934625033,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,63,WHITE
+TCGA-D3-A8GE,9934625050,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,26,WHITE
+TCGA-D3-A8GI,9934625087,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,68,WHITE
+TCGA-D3-A8GJ,9934625033,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,18,WHITE
+TCGA-D3-A8GK,9934625050,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,45,WHITE
+TCGA-D3-A8GL,9934625087,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,43,WHITE
+TCGA-D3-A8GM,9934625050,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,73,WHITE
+TCGA-D3-A8GN,9934625029,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,FEMALE,27,WHITE
+TCGA-D3-A8GO,9934625087,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,FEMALE,NA,WHITE
+TCGA-D3-A8GP,9934625033,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,77,WHITE
+TCGA-D3-A8GQ,9934625029,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,66,WHITE
+TCGA-D3-A8GR,9934625033,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,FEMALE,54,WHITE
+TCGA-D3-A8GS,9934625050,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,52,WHITE
+TCGA-D3-A8GV,9934625087,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,25,WHITE
+TCGA-D9-A148,6285633037,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,40,WHITE
+TCGA-D9-A149,6929671126,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,65,WHITE
+TCGA-D9-A1JW,6929671037,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,82,WHITE
+TCGA-D9-A1JX,6285633038,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,80,WHITE
+TCGA-D9-A1X3,6929671098,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,63,WHITE
+TCGA-D9-A3Z1,8795194017,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,66,WHITE
+TCGA-D9-A3Z3,8784241122,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,39,WHITE
+TCGA-D9-A3Z4,8795194017,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,54,WHITE
+TCGA-D9-A4Z2,8795194104,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,50,WHITE
+TCGA-D9-A4Z3,8784241038,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,73,WHITE
+TCGA-D9-A4Z5,8784241119,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,68,WHITE
+TCGA-D9-A4Z6,8784241038,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,54,WHITE
+TCGA-D9-A6E9,9283265167,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,75,WHITE
+TCGA-D9-A6EA,9305216006,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,70,WHITE
+TCGA-D9-A6EC,9305216028,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,56,WHITE
+TCGA-D9-A6EG,9422491113,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,56,WHITE
+TCGA-DA-A1HV,6929671110,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,75,WHITE
+TCGA-DA-A1HW,6929671073,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,37,WHITE
+TCGA-DA-A1HY,6929671110,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,42,WHITE
+TCGA-DA-A1I0,6285633012,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,63,WHITE
+TCGA-DA-A1I1,6929671037,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,55,WHITE
+TCGA-DA-A1I2,6929671096,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,45,WHITE
+TCGA-DA-A1I4,6929671096,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,51,WHITE
+TCGA-DA-A1I5,6929671108,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,27,WHITE
+TCGA-DA-A1I7,6929671096,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,62,WHITE
+TCGA-DA-A1I8,6929671019,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,63,WHITE
+TCGA-DA-A1IA,6929671098,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,32,WHITE
+TCGA-DA-A1IB,6929671067,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,69,WHITE
+TCGA-DA-A1IC,6929671121,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,81,WHITE
+TCGA-DA-A3F2,6285633011,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,55,WHITE
+TCGA-DA-A3F3,6285633011,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,52,WHITE
+TCGA-DA-A3F5,6285633012,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,45,WHITE
+TCGA-DA-A3F8,6285633011,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,39,WHITE
+TCGA-DA-A95V,9934625050,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,83,WHITE
+TCGA-DA-A95W,9934625029,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,52,WHITE
+TCGA-DA-A95X,9934625029,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,62,WHITE
+TCGA-DA-A95Y,9934625087,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,68,WHITE
+TCGA-DA-A95Z,9934625050,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,87,WHITE
+TCGA-DA-A960,9934625050,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,73,WHITE
+TCGA-EB-A1NK,6929671152,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,48,WHITE
+TCGA-EB-A24C,6929671037,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,56,WHITE
+TCGA-EB-A24D,6285641097,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,72,WHITE
+TCGA-EB-A299,6929671154,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,63,WHITE
+TCGA-EB-A3HV,7796806006,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,37,WHITE
+TCGA-EB-A3XB,8795194017,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,63,WHITE
+TCGA-EB-A3XC,8784241122,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,74,WHITE
+TCGA-EB-A3XD,8784241122,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,53,WHITE
+TCGA-EB-A3XE,8784241122,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,77,WHITE
+TCGA-EB-A3XF,8795194017,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,57,WHITE
+TCGA-EB-A3Y6,8784241122,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,56,WHITE
+TCGA-EB-A3Y7,8795194017,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,86,WHITE
+TCGA-EB-A41A,8795194104,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,90,WHITE
+TCGA-EB-A41B,8795194104,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,76,WHITE
+TCGA-EB-A42Y,8795194104,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,73,ASIAN
+TCGA-EB-A42Z,8795194139,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,49,ASIAN
+TCGA-EB-A430,8795194139,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,83,WHITE
+TCGA-EB-A431,8784241119,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,34,WHITE
+TCGA-EB-A44N,8784241035,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,59,WHITE
+TCGA-EB-A44O,8784241119,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,69,WHITE
+TCGA-EB-A44P,8784241035,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,58,WHITE
+TCGA-EB-A44Q,8784241035,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,51,ASIAN
+TCGA-EB-A44R,8784241119,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,52,ASIAN
+TCGA-EB-A4IQ,8784241035,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,42,ASIAN
+TCGA-EB-A4IS,8784241119,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,77,WHITE
+TCGA-EB-A4OY,8784241119,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,65,WHITE
+TCGA-EB-A4OZ,8784241038,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,41,WHITE
+TCGA-EB-A4P0,8784241038,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,82,WHITE
+TCGA-EB-A4XL,9283265066,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,56,WHITE
+TCGA-EB-A51B,9283265127,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,53,WHITE
+TCGA-EB-A550,9283265127,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,75,WHITE
+TCGA-EB-A551,9283265127,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,78,WHITE
+TCGA-EB-A553,9283265066,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,62,WHITE
+TCGA-EB-A57M,9305216006,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,56,ASIAN
+TCGA-EB-A5FP,9283265066,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,65,WHITE
+TCGA-EB-A5KH,9283265066,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,55,ASIAN
+TCGA-EB-A5SE,9283265167,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,73,WHITE
+TCGA-EB-A5SF,9305216006,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,78,WHITE
+TCGA-EB-A5SG,9283265167,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,FEMALE,57,WHITE
+TCGA-EB-A5SH,9305216028,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,FEMALE,60,WHITE
+TCGA-EB-A5UL,9305216028,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,71,WHITE
+TCGA-EB-A5UM,9283265167,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,48,WHITE
+TCGA-EB-A5UN,9305216028,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,49,WHITE
+TCGA-EB-A5VU,9422491113,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,56,ASIAN
+TCGA-EB-A5VV,9422491113,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,74,WHITE
+TCGA-EB-A6L9,9422491152,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,55,ASIAN
+TCGA-EB-A6QY,9422491113,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,71,WHITE
+TCGA-EB-A6QZ,9422491113,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,76,WHITE
+TCGA-EB-A6R0,9422491112,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,58,WHITE
+TCGA-EB-A82B,9426020036,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,58,ASIAN
+TCGA-EB-A82C,9426020036,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,70,ASIAN
+TCGA-EB-A85I,9426020036,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,66,WHITE
+TCGA-EB-A85J,9426020036,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,66,WHITE
+TCGA-EB-A97M,9829119007,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,66,WHITE
+TCGA-EE-A17X,6929671124,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,54,WHITE
+TCGA-EE-A17Y,6929671105,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,69,ASIAN
+TCGA-EE-A17Z,6285633037,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,57,WHITE
+TCGA-EE-A180,7796806006,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,69,WHITE
+TCGA-EE-A181,6929671121,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,82,WHITE
+TCGA-EE-A182,6929671152,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,84,WHITE
+TCGA-EE-A183,6929671096,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,48,WHITE
+TCGA-EE-A184,6929671093,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,72,WHITE
+TCGA-EE-A185,6929671067,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,55,WHITE
+TCGA-EE-A20B,6929671073,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,66,WHITE
+TCGA-EE-A20C,6929671003,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,59,WHITE
+TCGA-EE-A20F,6929671073,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,53,WHITE
+TCGA-EE-A20H,6285633037,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,56,WHITE
+TCGA-EE-A20I,6929671105,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,79,WHITE
+TCGA-EE-A29A,6929671110,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,68,WHITE
+TCGA-EE-A29B,6929671037,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,67,WHITE
+TCGA-EE-A29C,6929671003,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,20,WHITE
+TCGA-EE-A29D,6929671126,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,87,WHITE
+TCGA-EE-A29E,6929671103,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,54,WHITE
+TCGA-EE-A29G,6929671154,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,53,WHITE
+TCGA-EE-A29H,6929671121,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,59,WHITE
+TCGA-EE-A29L,6929671154,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,78,WHITE
+TCGA-EE-A29M,6929671126,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,33,WHITE
+TCGA-EE-A29N,6929671103,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,78,WHITE
+TCGA-EE-A29P,6929671019,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,73,WHITE
+TCGA-EE-A29Q,6929671108,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,70,WHITE
+TCGA-EE-A29R,6929671093,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,48,WHITE
+TCGA-EE-A29S,6929671108,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,79,WHITE
+TCGA-EE-A29T,6929671152,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,51,WHITE
+TCGA-EE-A29V,6929671098,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,85,WHITE
+TCGA-EE-A29W,6929671125,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,42,WHITE
+TCGA-EE-A29X,6929671108,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,58,WHITE
+TCGA-EE-A2A0,6929671110,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,77,WHITE
+TCGA-EE-A2A1,6929671067,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,46,WHITE
+TCGA-EE-A2A2,6929671105,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,71,WHITE
+TCGA-EE-A2A5,6929671096,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,43,WHITE
+TCGA-EE-A2A6,6929671093,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,43,WHITE
+TCGA-EE-A2GB,6285633038,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,51,WHITE
+TCGA-EE-A2GC,6929671003,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,82,WHITE
+TCGA-EE-A2GD,6285641097,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,58,WHITE
+TCGA-EE-A2GE,6929671105,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,44,WHITE
+TCGA-EE-A2GH,6929671103,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,34,WHITE
+TCGA-EE-A2GI,6929671003,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,39,WHITE
+TCGA-EE-A2GJ,6285633037,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,83,WHITE
+TCGA-EE-A2GK,6929671121,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,46,WHITE
+TCGA-EE-A2GL,6929671103,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,40,WHITE
+TCGA-EE-A2GM,6285633037,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,70,WHITE
+TCGA-EE-A2GN,6929671096,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,67,WHITE
+TCGA-EE-A2GO,6929671105,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,66,WHITE
+TCGA-EE-A2GP,6929671124,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,80,WHITE
+TCGA-EE-A2GR,6285633023,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,78,WHITE
+TCGA-EE-A2GS,6929671124,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,28,WHITE
+TCGA-EE-A2GT,6929671098,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,77,WHITE
+TCGA-EE-A2GU,6929671093,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,65,WHITE
+TCGA-EE-A2M5,6285633037,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,49,WHITE
+TCGA-EE-A2M6,6929671096,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,61,WHITE
+TCGA-EE-A2M7,6929671110,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,66,WHITE
+TCGA-EE-A2M8,6929671152,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,54,WHITE
+TCGA-EE-A2MC,6929671126,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,73,WHITE
+TCGA-EE-A2MD,6929671103,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,52,WHITE
+TCGA-EE-A2ME,6929671096,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,51,WHITE
+TCGA-EE-A2MF,7796806006,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,39,WHITE
+TCGA-EE-A2MG,6929671093,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,23,WHITE
+TCGA-EE-A2MH,6929671125,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,66,WHITE
+TCGA-EE-A2MI,6929671125,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,43,WHITE
+TCGA-EE-A2MJ,6929671003,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,60,WHITE
+TCGA-EE-A2MK,6285633023,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,18,WHITE
+TCGA-EE-A2ML,6929671124,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,35,WHITE
+TCGA-EE-A2MM,6929671073,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,63,WHITE
+TCGA-EE-A2MN,6285633023,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,58,WHITE
+TCGA-EE-A2MP,6929671126,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,34,WHITE
+TCGA-EE-A2MQ,6285633038,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,70,WHITE
+TCGA-EE-A2MR,6929671154,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,61,WHITE
+TCGA-EE-A2MS,6929671105,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,72,WHITE
+TCGA-EE-A2MT,6929671103,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,45,WHITE
+TCGA-EE-A2MU,6285633037,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,71,WHITE
+TCGA-EE-A3AA,6929671126,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,47,WHITE
+TCGA-EE-A3AB,6929671124,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,30,WHITE
+TCGA-EE-A3AC,6929671019,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,47,WHITE
+TCGA-EE-A3AD,6929671125,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,50,WHITE
+TCGA-EE-A3AE,6929671098,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,52,WHITE
+TCGA-EE-A3AF,6929671093,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,FEMALE,48,WHITE
+TCGA-EE-A3AG,6285633037,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,25,WHITE
+TCGA-EE-A3AH,6929671067,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,30,WHITE
+TCGA-EE-A3J3,6285633012,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,42,WHITE
+TCGA-EE-A3J4,6285633012,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,72,WHITE
+TCGA-EE-A3J5,6285633012,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,71,WHITE
+TCGA-EE-A3J7,6285633012,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,43,WHITE
+TCGA-EE-A3J8,6285633011,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,59,WHITE
+TCGA-EE-A3JA,6285633012,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,44,WHITE
+TCGA-EE-A3JB,7796806005,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,60,WHITE
+TCGA-EE-A3JD,6285633012,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,70,WHITE
+TCGA-EE-A3JE,6285633012,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,75,WHITE
+TCGA-EE-A3JH,7796806006,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,54,WHITE
+TCGA-EE-A3JI,7796806005,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,48,WHITE
+TCGA-ER-A193,6929671110,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,62,WHITE
+TCGA-ER-A194,6929671067,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,77,WHITE
+TCGA-ER-A195,6929671152,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,46,WHITE
+TCGA-ER-A196,6929671154,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,64,WHITE
+TCGA-ER-A197,6929671108,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,83,WHITE
+TCGA-ER-A198,6929671124,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,45,WHITE
+TCGA-ER-A199,6285633023,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,FEMALE,86,WHITE
+TCGA-ER-A19A,6929671121,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,79,WHITE
+TCGA-ER-A19B,6929671152,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,42,WHITE
+TCGA-ER-A19C,6929671067,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,77,WHITE
+TCGA-ER-A19D,6929671110,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,46,WHITE
+TCGA-ER-A19E,6929671110,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,36,WHITE
+TCGA-ER-A19F,6929671126,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,82,WHITE
+TCGA-ER-A19G,6285633038,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,48,WHITE
+TCGA-ER-A19H,6929671121,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,40,WHITE
+TCGA-ER-A19J,6285633038,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,54,WHITE
+TCGA-ER-A19K,6929671154,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,79,WHITE
+TCGA-ER-A19L,6929671067,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,35,WHITE
+TCGA-ER-A19M,8784241122,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,36,WHITE
+TCGA-ER-A19N,6929671124,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,47,WHITE
+TCGA-ER-A19O,6929671126,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,56,WHITE
+TCGA-ER-A19P,6929671019,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,47,WHITE
+TCGA-ER-A19Q,6929671098,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,37,WHITE
+TCGA-ER-A19S,6929671152,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,81,WHITE
+TCGA-ER-A19T,6929671108,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,51,WHITE
+TCGA-ER-A19T,6929671124,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,51,WHITE
+TCGA-ER-A19W,8784241122,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,48,WHITE
+TCGA-ER-A1A1,6929671152,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,58,WHITE
+TCGA-ER-A2NB,6929671125,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,57,WHITE
+TCGA-ER-A2NC,6929671037,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,50,WHITE
+TCGA-ER-A2ND,6929671125,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,57,WHITE
+TCGA-ER-A2NE,6285633038,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,39,WHITE
+TCGA-ER-A2NF,6285633038,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,53,WHITE
+TCGA-ER-A2NF,6929671067,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,53,WHITE
+TCGA-ER-A2NG,6929671037,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,43,WHITE
+TCGA-ER-A2NH,6929671003,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,49,WHITE
+TCGA-ER-A3ES,6285633012,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,25,WHITE
+TCGA-ER-A3ET,6285633011,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,64,WHITE
+TCGA-ER-A3EV,6285633011,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,55,WHITE
+TCGA-ER-A3PL,8795194017,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,30,WHITE
+TCGA-ER-A42H,8795194139,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,76,WHITE
+TCGA-ER-A42K,8795194139,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,40,WHITE
+TCGA-ER-A42L,8795194139,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,49,WHITE
+TCGA-FR-A2OS,7796806006,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,49,WHITE
+TCGA-FR-A3R1,8795194017,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,69,WHITE
+TCGA-FR-A3YN,8795194017,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,44,WHITE
+TCGA-FR-A3YO,8795194017,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,FEMALE,NA,WHITE
+TCGA-FR-A44A,8795194139,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,FEMALE,29,WHITE
+TCGA-FR-A69P,9305216006,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,FEMALE,34,WHITE
+TCGA-FR-A726,9422491113,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,90,WHITE
+TCGA-FR-A728,9422491152,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,54,WHITE
+TCGA-FR-A729,9426020036,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,FEMALE,38,WHITE
+TCGA-FR-A7U8,9426020036,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,50,WHITE
+TCGA-FR-A7U9,9426020036,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,63,WHITE
+TCGA-FR-A7UA,9426020036,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,FEMALE,65,WHITE
+TCGA-FR-A8YC,9934625087,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,78,WHITE
+TCGA-FR-A8YD,9934625087,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,FEMALE,56,WHITE
+TCGA-FR-A8YE,9934625050,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,41,WHITE
+TCGA-FS-A1YW,6929671121,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,52,WHITE
+TCGA-FS-A1YX,6929671003,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,39,WHITE
+TCGA-FS-A1YY,6929671124,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,55,WHITE
+TCGA-FS-A1Z0,6929671152,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,32,WHITE
+TCGA-FS-A1Z3,6929671125,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,72,WHITE
+TCGA-FS-A1Z4,6929671098,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,62,WHITE
+TCGA-FS-A1Z7,6929671154,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,19,WHITE
+TCGA-FS-A1ZA,6929671073,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,45,WHITE
+TCGA-FS-A1ZB,6929671003,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,57,WHITE
+TCGA-FS-A1ZC,6929671110,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,51,WHITE
+TCGA-FS-A1ZD,6929671105,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,63,WHITE
+TCGA-FS-A1ZE,6929671121,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,40,WHITE
+TCGA-FS-A1ZF,6929671098,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,78,WHITE
+TCGA-FS-A1ZG,6929671108,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,60,WHITE
+TCGA-FS-A1ZH,6929671154,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,71,WHITE
+TCGA-FS-A1ZJ,6929671121,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,75,WHITE
+TCGA-FS-A1ZK,6285633037,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,68,WHITE
+TCGA-FS-A1ZM,6929671108,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,74,WHITE
+TCGA-FS-A1ZN,6929671126,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,43,WHITE
+TCGA-FS-A1ZP,6929671096,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,52,WHITE
+TCGA-FS-A1ZQ,6929671096,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,31,WHITE
+TCGA-FS-A1ZR,6929671037,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,36,WHITE
+TCGA-FS-A1ZS,6929671067,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,54,WHITE
+TCGA-FS-A1ZT,6929671037,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,55,WHITE
+TCGA-FS-A1ZU,6285633038,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,70,WHITE
+TCGA-FS-A1ZW,6929671105,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,65,WHITE
+TCGA-FS-A1ZY,6929671103,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,71,WHITE
+TCGA-FS-A1ZZ,6929671152,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,54,WHITE
+TCGA-FS-A4F0,8795194139,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,67,WHITE
+TCGA-FS-A4F2,8795194139,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,46,WHITE
+TCGA-FS-A4F4,8784241038,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,64,WHITE
+TCGA-FS-A4F5,8784241119,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,77,WHITE
+TCGA-FS-A4F8,8784241038,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,52,WHITE
+TCGA-FS-A4F9,8795194139,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,80,WHITE
+TCGA-FS-A4FB,8784241038,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,FEMALE,46,WHITE
+TCGA-FS-A4FC,8795194139,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,75,WHITE
+TCGA-FS-A4FD,8784241035,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,39,WHITE
+TCGA-FW-A3I3,7796806006,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,FEMALE,59,WHITE
+TCGA-FW-A3R5,8784241122,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,68,WHITE
+TCGA-FW-A3R5,8784241122,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Solid Tissue Normal,Non-glabrous skin,Non-glabrous skin,MALE,68,WHITE
+TCGA-FW-A3TU,8784241122,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,72,WHITE
+TCGA-FW-A3TV,8795194017,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,57,WHITE
+TCGA-FW-A5DX,9283265066,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,71,WHITE
+TCGA-FW-A5DY,9305216006,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,48,WHITE
+TCGA-GF-A2C7,6285633023,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,48,WHITE
+TCGA-GF-A3OT,8784241122,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,58,WHITE
+TCGA-GF-A4EO,8795194139,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,74,WHITE
+TCGA-GF-A6C8,9305216006,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,62,WHITE
+TCGA-GF-A6C9,9305216006,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,78,WHITE
+TCGA-GF-A769,9422491152,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,39,WHITE
+TCGA-GN-A262,6285633038,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,47,WHITE
+TCGA-GN-A263,6929671096,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,24,WHITE
+TCGA-GN-A264,6929671125,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,60,WHITE
+TCGA-GN-A265,6285633037,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,53,WHITE
+TCGA-GN-A266,6929671105,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,45,WHITE
+TCGA-GN-A267,6929671093,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,38,WHITE
+TCGA-GN-A268,6929671152,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,83,WHITE
+TCGA-GN-A269,6929671037,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,70,WHITE
+TCGA-GN-A26A,6929671067,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,63,WHITE
+TCGA-GN-A26C,6929671098,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,77,WHITE
+TCGA-GN-A26D,6929671067,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,72,WHITE
+TCGA-GN-A4U3,9422491113,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,30,WHITE
+TCGA-GN-A4U4,9422491152,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,73,WHITE
+TCGA-GN-A4U5,9422491113,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,61,WHITE
+TCGA-GN-A4U7,9422491113,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,56,WHITE
+TCGA-GN-A4U8,9422491113,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Solid Tissue Normal,Non-glabrous skin,Non-glabrous skin,MALE,51,WHITE
+TCGA-GN-A4U8,9422491113,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,51,WHITE
+TCGA-GN-A4U9,9422491113,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,71,WHITE
+TCGA-GN-A8LK,9934625029,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,70,WHITE
+TCGA-GN-A8LL,9934625087,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,68,WHITE
+TCGA-GN-A8LN,9934625087,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,68,WHITE
+TCGA-GN-A9SD,3999492082,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,59,WHITE
+TCGA-HR-A2OG,6929671126,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,50,
+TCGA-HR-A2OH,6929671110,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,46,
+TCGA-HR-A5NC,9283265127,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,90,
+TCGA-IH-A3EA,6285633011,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,61,WHITE
+TCGA-LH-A9QB,9829119010,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,24,WHITE
+TCGA-OD-A75X,9422491152,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,49,WHITE
+TCGA-QB-A6FS,9305216006,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,49,WHITE
+TCGA-QB-AA9O,9828653018,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,73,WHITE
+TCGA-RP-A690,9305216006,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,66,WHITE
+TCGA-RP-A693,9305216006,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,77,WHITE
+TCGA-RP-A694,9305216006,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,71,WHITE
+TCGA-RP-A695,9283265167,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,NA,WHITE
+TCGA-RP-A6K9,9426020036,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,NA,WHITE
+TCGA-W3-A824,9426020036,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,63,WHITE
+TCGA-W3-A825,9426020036,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,60,WHITE
+TCGA-W3-A828,9426020036,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,66,WHITE
+TCGA-W3-AA1O,9829119007,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,MALE,85,WHITE
+TCGA-W3-AA1Q,9829119007,R04C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,57,WHITE
+TCGA-W3-AA1R,9828653018,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,71,WHITE
+TCGA-W3-AA1V,3999492082,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,63,WHITE
+TCGA-W3-AA1W,9829119010,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,64,WHITE
+TCGA-W3-AA21,9829119010,R01C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,26,WHITE
+TCGA-WE-A8JZ,9934625033,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,70,
+TCGA-WE-A8K1,9934625033,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,74,WHITE
+TCGA-WE-A8K4,9934625050,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,85,WHITE
+TCGA-WE-A8K5,9934625033,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,65,WHITE
+TCGA-WE-A8K6,9934625029,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,79,WHITE
+TCGA-WE-A8ZM,9934625029,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,70,WHITE
+TCGA-WE-A8ZN,9934625029,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,57,
+TCGA-WE-A8ZO,9934625050,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,73,
+TCGA-WE-A8ZQ,9934625033,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,48,
+TCGA-WE-A8ZR,9934625029,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,49,WHITE
+TCGA-WE-A8ZT,9934625033,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,,,FEMALE,25,WHITE
+TCGA-WE-A8ZX,9934625033,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,45,WHITE
+TCGA-WE-A8ZY,9934625033,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,62,WHITE
+TCGA-WE-AA9Y,9829119007,R02C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,37,WHITE
+TCGA-WE-AAA0,9829119010,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,47,WHITE
+TCGA-WE-AAA3,9829119007,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,84,WHITE
+TCGA-WE-AAA4,9829119007,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,56,WHITE
+TCGA-XV-A9VZ,9829119010,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,90,WHITE
+TCGA-XV-A9W2,9828653018,R01C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,81,WHITE
+TCGA-XV-A9W5,9829119010,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,51,WHITE
+TCGA-XV-AAZV,3999492082,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,56,WHITE
+TCGA-XV-AAZW,3999492082,R06C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,62,WHITE
+TCGA-XV-AAZY,3999492082,R06C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,FEMALE,76,WHITE
+TCGA-XV-AB01,3999492082,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,54,WHITE
+TCGA-YD-A89C,9934625029,R03C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,43,WHITE
+TCGA-YD-A9TA,9828653018,R05C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,75,WHITE
+TCGA-YD-A9TB,3999492082,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,NA,WHITE
+TCGA-YG-AA3N,9829119007,R02C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Primary Tumor,Non-glabrous skin,Non-glabrous skin,MALE,67,
+TCGA-YG-AA3O,9829119007,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,62,
+TCGA-YG-AA3P,9829119007,R05C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,63,
+TCGA-Z2-A8RT,9934625029,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,42,WHITE
+TCGA-Z2-AA3S,9828653018,R03C02,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,MALE,58,WHITE
+TCGA-Z2-AA3V,9828653018,R04C01,Illumina Human Methylation 450,TCGA-SKCM,JHU_USC,Metastatic,Non-glabrous skin,Non-glabrous skin,FEMALE,57,WHITE

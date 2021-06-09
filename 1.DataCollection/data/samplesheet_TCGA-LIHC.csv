@@ -1,0 +1,431 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-2V-A95S,9934987028,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,NA,ASIAN
+TCGA-2Y-A9GS,9721366062,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,58,WHITE
+TCGA-2Y-A9GT,9721366044,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,51,WHITE
+TCGA-2Y-A9GU,9721366044,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,55,WHITE
+TCGA-2Y-A9GV,9721366037,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,54,WHITE
+TCGA-2Y-A9GW,9721366037,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,64,WHITE
+TCGA-2Y-A9GX,9721366062,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,68,WHITE
+TCGA-2Y-A9GY,9721366037,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,64,WHITE
+TCGA-2Y-A9GZ,9704031124,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,82,WHITE
+TCGA-2Y-A9H0,9721366044,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,49,WHITE
+TCGA-2Y-A9H1,9721366044,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,58,WHITE
+TCGA-2Y-A9H2,9721366062,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,64,WHITE
+TCGA-2Y-A9H3,9721366044,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,45,WHITE
+TCGA-2Y-A9H4,9721366044,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-2Y-A9H5,9721366037,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,59,WHITE
+TCGA-2Y-A9H6,9704031058,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,68,WHITE
+TCGA-2Y-A9H7,9761749160,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,81,WHITE
+TCGA-2Y-A9H8,9704031081,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,85,WHITE
+TCGA-2Y-A9H9,9704031081,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,70,WHITE
+TCGA-2Y-A9HA,9704031058,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,70,WHITE
+TCGA-2Y-A9HB,9704031124,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,66,
+TCGA-3K-AAZ8,9704031081,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,65,BLACK OR AFRICAN AMERICAN
+TCGA-4R-AA8I,9721366044,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,66,WHITE
+TCGA-5C-A9VG,9934987028,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,58,WHITE
+TCGA-5C-A9VH,9934987122,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,70,WHITE
+TCGA-5C-AAPD,9704031124,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocholangiocarcinoma (Mixed),MALE,61,ASIAN
+TCGA-5R-AA1C,3999492031,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,57,WHITE
+TCGA-5R-AA1D,9721366037,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,17,WHITE
+TCGA-5R-AAAM,3999492009,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,65,WHITE
+TCGA-BC-4072,6285650086,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,74,WHITE
+TCGA-BC-4073,6285650060,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,73,WHITE
+TCGA-BC-A10Q,6285617025,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,72,WHITE
+TCGA-BC-A10Q,6929671129,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,72,WHITE
+TCGA-BC-A10R,6929671134,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,66,WHITE
+TCGA-BC-A10R,6285617025,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,66,WHITE
+TCGA-BC-A10S,6285650063,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,81,WHITE
+TCGA-BC-A10S,6285617025,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,81,WHITE
+TCGA-BC-A10T,6285650063,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,76,WHITE
+TCGA-BC-A10T,6285650086,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,76,WHITE
+TCGA-BC-A10U,6285650084,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,69,WHITE
+TCGA-BC-A10U,6285650063,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,69,WHITE
+TCGA-BC-A10W,6285650084,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,50,ASIAN
+TCGA-BC-A10W,6285650063,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,50,ASIAN
+TCGA-BC-A10X,6285650060,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,52,WHITE
+TCGA-BC-A10X,6929671129,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,52,WHITE
+TCGA-BC-A10Y,6285650084,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,76,WHITE
+TCGA-BC-A10Y,6285650060,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,76,WHITE
+TCGA-BC-A10Z,6285650047,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,62,WHITE
+TCGA-BC-A10Z,6285617025,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,62,WHITE
+TCGA-BC-A110,6285650086,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,51,BLACK OR AFRICAN AMERICAN
+TCGA-BC-A110,6285650060,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,51,BLACK OR AFRICAN AMERICAN
+TCGA-BC-A112,6285650047,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,80,WHITE
+TCGA-BC-A112,6285650084,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,80,WHITE
+TCGA-BC-A216,6285650090,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,62,WHITE
+TCGA-BC-A216,6285650090,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,62,WHITE
+TCGA-BC-A217,6285650086,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,75,WHITE
+TCGA-BC-A3KF,6285633097,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,66,WHITE
+TCGA-BC-A3KG,6285633097,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,68,WHITE
+TCGA-BC-A5W4,9305216081,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,69,WHITE
+TCGA-BC-A69H,9283265164,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,64,WHITE
+TCGA-BC-A69I,9283265164,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,69,WHITE
+TCGA-BC-A8YO,9934987122,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,66,WHITE
+TCGA-BD-A2L6,6285633107,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,69,WHITE
+TCGA-BD-A2L6,6285633107,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,69,WHITE
+TCGA-BD-A3EP,7796806032,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,75,BLACK OR AFRICAN AMERICAN
+TCGA-BD-A3EP,7796806009,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,75,BLACK OR AFRICAN AMERICAN
+TCGA-BD-A3ER,6285633107,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,62,WHITE
+TCGA-BW-A5NO,9305216203,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,50,BLACK OR AFRICAN AMERICAN
+TCGA-BW-A5NP,9305216203,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,26,WHITE
+TCGA-BW-A5NQ,9305216206,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,63,WHITE
+TCGA-CC-5258,6285650063,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,48,ASIAN
+TCGA-CC-5259,6285633076,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,60,ASIAN
+TCGA-CC-5260,6285650084,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,61,ASIAN
+TCGA-CC-5261,6285650060,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,44,ASIAN
+TCGA-CC-5262,6285650060,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,67,ASIAN
+TCGA-CC-5263,6929671129,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,35,ASIAN
+TCGA-CC-5264,6285650060,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,71,ASIAN
+TCGA-CC-A123,6285650063,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,24,ASIAN
+TCGA-CC-A1HT,6929671129,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,50,ASIAN
+TCGA-CC-A3M9,6285633107,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,45,ASIAN
+TCGA-CC-A3MA,6285633076,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,61,ASIAN
+TCGA-CC-A3MB,6285633097,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,36,ASIAN
+TCGA-CC-A3MC,7796806009,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,54,ASIAN
+TCGA-CC-A5UC,9305216081,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,63,ASIAN
+TCGA-CC-A5UD,9305216081,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,45,ASIAN
+TCGA-CC-A5UE,9305216081,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,48,ASIAN
+TCGA-CC-A7IE,9721366037,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,57,ASIAN
+TCGA-CC-A7IF,9422492093,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,59,ASIAN
+TCGA-CC-A7IG,9422492093,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,47,ASIAN
+TCGA-CC-A7IH,9422492093,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,58,ASIAN
+TCGA-CC-A7II,9422492098,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,54,ASIAN
+TCGA-CC-A7IJ,9422492052,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,56,ASIAN
+TCGA-CC-A7IK,9422492060,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,59,ASIAN
+TCGA-CC-A7IL,9422492052,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,61,ASIAN
+TCGA-CC-A8HS,9934987023,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,18,ASIAN
+TCGA-CC-A8HT,9934987023,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,74,ASIAN
+TCGA-CC-A8HU,9934987023,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,39,ASIAN
+TCGA-CC-A8HV,9934987023,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,51,ASIAN
+TCGA-CC-A9FS,9934987122,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,55,ASIAN
+TCGA-CC-A9FU,9934987122,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,52,ASIAN
+TCGA-CC-A9FV,9934987028,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,57,ASIAN
+TCGA-CC-A9FW,9934987122,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,68,ASIAN
+TCGA-DD-A113,6929671134,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,55,WHITE
+TCGA-DD-A113,6929671134,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,55,WHITE
+TCGA-DD-A114,6285617025,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,42,BLACK OR AFRICAN AMERICAN
+TCGA-DD-A114,6285650060,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,42,BLACK OR AFRICAN AMERICAN
+TCGA-DD-A115,6929671129,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,53,WHITE
+TCGA-DD-A115,6285617025,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,53,WHITE
+TCGA-DD-A116,6285650084,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,68,ASIAN
+TCGA-DD-A116,6285650047,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,68,ASIAN
+TCGA-DD-A118,6285650063,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,77,WHITE
+TCGA-DD-A118,6285650084,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,77,WHITE
+TCGA-DD-A119,6285650047,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,40,ASIAN
+TCGA-DD-A119,6285650063,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,40,ASIAN
+TCGA-DD-A11A,6285617025,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-DD-A11A,6285650063,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-DD-A11B,6285650084,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,73,WHITE
+TCGA-DD-A11B,6285650060,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,73,WHITE
+TCGA-DD-A11C,6285650060,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,69,WHITE
+TCGA-DD-A11C,6285650047,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,69,WHITE
+TCGA-DD-A11D,6285650086,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,57,WHITE
+TCGA-DD-A11D,6285650086,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,57,WHITE
+TCGA-DD-A1E9,6285650086,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,70,WHITE
+TCGA-DD-A1E9,6285650090,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,70,WHITE
+TCGA-DD-A1EA,6285650047,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,68,ASIAN
+TCGA-DD-A1EB,6929671129,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,72,
+TCGA-DD-A1EB,6285650063,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,72,
+TCGA-DD-A1EC,6285617025,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,20,WHITE
+TCGA-DD-A1EC,6285617025,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,20,WHITE
+TCGA-DD-A1ED,6285650090,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,68,WHITE
+TCGA-DD-A1ED,6285650090,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,68,WHITE
+TCGA-DD-A1EE,6285650047,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,73,WHITE
+TCGA-DD-A1EE,6285650084,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,73,WHITE
+TCGA-DD-A1EF,6285650086,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,57,WHITE
+TCGA-DD-A1EF,6285617025,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,57,WHITE
+TCGA-DD-A1EG,6285633107,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,76,WHITE
+TCGA-DD-A1EG,6285633076,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,76,WHITE
+TCGA-DD-A1EH,6285650086,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,23,WHITE
+TCGA-DD-A1EH,6285650084,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,23,WHITE
+TCGA-DD-A1EI,6285650047,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,46,ASIAN
+TCGA-DD-A1EI,6285650047,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,46,ASIAN
+TCGA-DD-A1EJ,6285650090,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,71,WHITE
+TCGA-DD-A1EJ,6285650086,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,71,WHITE
+TCGA-DD-A1EK,6285633076,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,64,WHITE
+TCGA-DD-A1EL,6285650086,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,23,BLACK OR AFRICAN AMERICAN
+TCGA-DD-A1EL,6285650090,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,23,BLACK OR AFRICAN AMERICAN
+TCGA-DD-A39V,6285633097,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,77,WHITE
+TCGA-DD-A39V,6285633107,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,77,WHITE
+TCGA-DD-A39W,6285633097,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,29,WHITE
+TCGA-DD-A39W,6285633076,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,29,WHITE
+TCGA-DD-A39X,6285633107,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,78,WHITE
+TCGA-DD-A39X,6285633097,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,78,WHITE
+TCGA-DD-A39Y,6285633107,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,67,ASIAN
+TCGA-DD-A39Z,6285633076,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,43,
+TCGA-DD-A39Z,6285633107,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,43,
+TCGA-DD-A3A0,6285633076,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,70,WHITE
+TCGA-DD-A3A1,6285633076,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,65,
+TCGA-DD-A3A1,6285633097,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,65,
+TCGA-DD-A3A2,6285633097,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,76,WHITE
+TCGA-DD-A3A2,6285633076,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,76,WHITE
+TCGA-DD-A3A3,7796806009,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,45,ASIAN
+TCGA-DD-A3A3,7796806032,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,45,ASIAN
+TCGA-DD-A3A4,7796806032,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,37,WHITE
+TCGA-DD-A3A5,7796806009,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,66,WHITE
+TCGA-DD-A3A6,7796806009,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,72,WHITE
+TCGA-DD-A3A7,7796806032,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,67,
+TCGA-DD-A3A8,7796806009,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,75,WHITE
+TCGA-DD-A3A9,8795194066,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,64,WHITE
+TCGA-DD-A4NA,8795194066,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,67,WHITE
+TCGA-DD-A4NB,8795194066,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Fibrolamellar Carcinoma,MALE,25,WHITE
+TCGA-DD-A4ND,8795194066,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,56,WHITE
+TCGA-DD-A4NE,9305216206,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,75,WHITE
+TCGA-DD-A4NF,9305216206,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,72,WHITE
+TCGA-DD-A4NG,9305216206,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,77,WHITE
+TCGA-DD-A4NH,9305216206,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,65,WHITE
+TCGA-DD-A4NI,9305216203,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,67,WHITE
+TCGA-DD-A4NJ,9305216203,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,54,WHITE
+TCGA-DD-A4NK,9305216081,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,80,WHITE
+TCGA-DD-A4NL,9305216081,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,46,WHITE
+TCGA-DD-A4NN,9305216038,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,56,WHITE
+TCGA-DD-A4NO,9305216038,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,65,WHITE
+TCGA-DD-A4NP,9305216081,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,32,WHITE
+TCGA-DD-A4NQ,9305216081,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,60,WHITE
+TCGA-DD-A4NR,9283265167,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,85,WHITE
+TCGA-DD-A4NS,9283265167,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,61,WHITE
+TCGA-DD-A4NV,9283265167,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,61,WHITE
+TCGA-DD-A73A,9422492114,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,71,WHITE
+TCGA-DD-A73B,9422492129,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,72,WHITE
+TCGA-DD-A73C,9422492093,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,65,WHITE
+TCGA-DD-A73D,9422492129,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,68,WHITE
+TCGA-DD-A73E,9422493013,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,66,WHITE
+TCGA-DD-A73F,9422493013,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,77,WHITE
+TCGA-DD-A73G,9422492129,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,73,WHITE
+TCGA-DD-AA3A,9934987122,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocholangiocarcinoma (Mixed),FEMALE,81,WHITE
+TCGA-DD-AAC8,3999492075,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,72,ASIAN
+TCGA-DD-AAC9,3999492040,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,51,ASIAN
+TCGA-DD-AACA,3999492040,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Recurrent Tumor,Liver,Hepatocellular Carcinoma,MALE,65,ASIAN
+TCGA-DD-AACA,3999492072,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Recurrent Tumor,Liver,Hepatocellular Carcinoma,MALE,65,ASIAN
+TCGA-DD-AACA,3999492067,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,65,ASIAN
+TCGA-DD-AACB,3999492055,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,74,ASIAN
+TCGA-DD-AACC,3999492075,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,61,ASIAN
+TCGA-DD-AACD,3999492031,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,48,ASIAN
+TCGA-DD-AACE,3999492072,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,62,ASIAN
+TCGA-DD-AACF,3999492053,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,68,ASIAN
+TCGA-DD-AACG,3999492009,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,52,ASIAN
+TCGA-DD-AACH,3999492053,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,69,ASIAN
+TCGA-DD-AACI,3999492040,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,69,ASIAN
+TCGA-DD-AACJ,3999492009,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,75,ASIAN
+TCGA-DD-AACK,3999492040,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,70,ASIAN
+TCGA-DD-AACL,3999492053,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,66,ASIAN
+TCGA-DD-AACM,3999492072,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,48,ASIAN
+TCGA-DD-AACN,3999492072,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,32,ASIAN
+TCGA-DD-AACO,3999492072,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,40,ASIAN
+TCGA-DD-AACP,3999492053,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,64,ASIAN
+TCGA-DD-AACQ,3999492031,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,50,ASIAN
+TCGA-DD-AACS,3999492072,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,39,ASIAN
+TCGA-DD-AACT,3999492053,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,69,ASIAN
+TCGA-DD-AACU,3999492055,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,59,ASIAN
+TCGA-DD-AACV,3999492031,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,53,ASIAN
+TCGA-DD-AACW,3999492031,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,43,ASIAN
+TCGA-DD-AACX,3999492031,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,66,ASIAN
+TCGA-DD-AACY,3999492009,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,61,ASIAN
+TCGA-DD-AACZ,3999492055,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,63,ASIAN
+TCGA-DD-AAD0,3999492053,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,73,ASIAN
+TCGA-DD-AAD1,3999492009,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,51,ASIAN
+TCGA-DD-AAD2,3999492067,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,66,ASIAN
+TCGA-DD-AAD3,3999492009,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,43,ASIAN
+TCGA-DD-AAD5,3999492053,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,54,ASIAN
+TCGA-DD-AAD6,3999492053,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,66,ASIAN
+TCGA-DD-AAD8,3999492031,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,73,ASIAN
+TCGA-DD-AADA,3999492067,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,66,ASIAN
+TCGA-DD-AADB,3999492072,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,51,ASIAN
+TCGA-DD-AADC,3999492031,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,53,ASIAN
+TCGA-DD-AADD,3999492055,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,51,ASIAN
+TCGA-DD-AADE,3999492072,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,50,ASIAN
+TCGA-DD-AADF,3999492055,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,64,ASIAN
+TCGA-DD-AADG,3999492040,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,70,ASIAN
+TCGA-DD-AADI,3999492040,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,43,ASIAN
+TCGA-DD-AADJ,3999492055,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,70,ASIAN
+TCGA-DD-AADK,3999492072,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,68,ASIAN
+TCGA-DD-AADL,3999492053,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,58,ASIAN
+TCGA-DD-AADM,3999492055,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,58,ASIAN
+TCGA-DD-AADN,3999492075,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,59,ASIAN
+TCGA-DD-AADO,3999492031,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,55,ASIAN
+TCGA-DD-AADP,9704031081,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,45,ASIAN
+TCGA-DD-AADQ,3999492055,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,59,ASIAN
+TCGA-DD-AADR,3999492055,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,58,ASIAN
+TCGA-DD-AADS,3999492072,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,63,ASIAN
+TCGA-DD-AADU,3999492040,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,60,ASIAN
+TCGA-DD-AADV,9704031081,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,50,ASIAN
+TCGA-DD-AADW,9704031081,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,48,ASIAN
+TCGA-DD-AADY,3999492009,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,55,ASIAN
+TCGA-DD-AAE0,3999492031,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,45,ASIAN
+TCGA-DD-AAE1,3999492067,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,52,ASIAN
+TCGA-DD-AAE2,3999492055,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,51,ASIAN
+TCGA-DD-AAE3,3999492067,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,50,ASIAN
+TCGA-DD-AAE4,3999492055,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,49,ASIAN
+TCGA-DD-AAE6,3999492040,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,59,ASIAN
+TCGA-DD-AAE7,3999492040,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,72,ASIAN
+TCGA-DD-AAE8,3999492067,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,45,ASIAN
+TCGA-DD-AAE9,3999492067,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,69,ASIAN
+TCGA-DD-AAEA,3999492031,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,65,ASIAN
+TCGA-DD-AAEB,3999492072,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,60,ASIAN
+TCGA-DD-AAED,3999492053,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,51,ASIAN
+TCGA-DD-AAEE,3999492055,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,55,ASIAN
+TCGA-DD-AAEG,9704031081,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,59,ASIAN
+TCGA-DD-AAEH,3999492067,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,73,ASIAN
+TCGA-DD-AAEI,3999492067,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,72,ASIAN
+TCGA-DD-AAEK,3999492067,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,51,ASIAN
+TCGA-DD-AAVP,3999492067,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,48,ASIAN
+TCGA-DD-AAVQ,3999492009,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,38,ASIAN
+TCGA-DD-AAVR,3999492040,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,44,ASIAN
+TCGA-DD-AAVS,3999492067,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,56,ASIAN
+TCGA-DD-AAVU,3999492040,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,46,ASIAN
+TCGA-DD-AAVV,3999492053,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,56,ASIAN
+TCGA-DD-AAVW,3999492075,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,35,ASIAN
+TCGA-DD-AAVX,3999492009,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,38,ASIAN
+TCGA-DD-AAVY,3999492031,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,56,ASIAN
+TCGA-DD-AAVZ,3999492053,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,38,ASIAN
+TCGA-DD-AAW0,3999492075,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,54,ASIAN
+TCGA-DD-AAW1,3999492009,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,55,ASIAN
+TCGA-DD-AAW2,3999492072,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,69,ASIAN
+TCGA-DD-AAW3,3999492009,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,69,ASIAN
+TCGA-ED-A459,8795194066,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,47,ASIAN
+TCGA-ED-A4XI,8795194066,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,58,ASIAN
+TCGA-ED-A5KG,9305216206,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,60,ASIAN
+TCGA-ED-A627,9283265167,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,74,WHITE
+TCGA-ED-A66X,9283265164,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,35,ASIAN
+TCGA-ED-A66Y,9283265167,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,51,ASIAN
+TCGA-ED-A7PX,9426021127,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,48,ASIAN
+TCGA-ED-A7PY,9422492060,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,20,ASIAN
+TCGA-ED-A7PZ,9422492060,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,61,ASIAN
+TCGA-ED-A7XO,9426021127,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,29,ASIAN
+TCGA-ED-A7XP,9426021127,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,53,ASIAN
+TCGA-ED-A82E,9426021127,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,60,ASIAN
+TCGA-ED-A8O5,9934625049,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,59,ASIAN
+TCGA-ED-A8O6,9934987023,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,50,ASIAN
+TCGA-ED-A97K,9721366062,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocholangiocarcinoma (Mixed),MALE,54,ASIAN
+TCGA-EP-A12J,6285650060,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,62,BLACK OR AFRICAN AMERICAN
+TCGA-EP-A12J,6285617025,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,62,BLACK OR AFRICAN AMERICAN
+TCGA-EP-A26S,6285650111,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,70,WHITE
+TCGA-EP-A26S,6285650111,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,70,WHITE
+TCGA-EP-A2KA,6929718042,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,52,WHITE
+TCGA-EP-A2KB,6929718042,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,46,WHITE
+TCGA-EP-A2KC,6285633072,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,62,BLACK OR AFRICAN AMERICAN
+TCGA-EP-A3JL,6285633076,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,76,WHITE
+TCGA-EP-A3RK,7796806009,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,73,WHITE
+TCGA-ES-A2HS,6929718042,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,80,WHITE
+TCGA-ES-A2HS,9828653052,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,80,WHITE
+TCGA-ES-A2HT,6929718042,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,54,BLACK OR AFRICAN AMERICAN
+TCGA-ES-A2HT,6929718030,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,54,BLACK OR AFRICAN AMERICAN
+TCGA-FV-A23B,6285650111,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,70,WHITE
+TCGA-FV-A23B,6285650111,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,70,WHITE
+TCGA-FV-A2QQ,7796806009,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,80,WHITE
+TCGA-FV-A2QR,6285633076,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,75,WHITE
+TCGA-FV-A2QR,6285633097,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,75,WHITE
+TCGA-FV-A3I0,7796806032,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocholangiocarcinoma (Mixed),FEMALE,76,WHITE
+TCGA-FV-A3I1,7796806009,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,81,WHITE
+TCGA-FV-A3R2,7796806032,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,75,WHITE
+TCGA-FV-A3R3,7796806009,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,38,WHITE
+TCGA-FV-A495,8795194066,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,51,WHITE
+TCGA-FV-A496,8795194066,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,84,WHITE
+TCGA-FV-A4ZP,8795194066,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,78,WHITE
+TCGA-FV-A4ZQ,8795194066,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,52,WHITE
+TCGA-G3-A25S,6285650111,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,64,WHITE
+TCGA-G3-A25T,6285650111,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,45,WHITE
+TCGA-G3-A25U,6285650111,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,63,ASIAN
+TCGA-G3-A25V,6285650090,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,68,WHITE
+TCGA-G3-A25W,6285650090,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,FEMALE,79,WHITE
+TCGA-G3-A25W,6285650111,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,79,WHITE
+TCGA-G3-A25X,6285650111,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Solid Tissue Normal,Liver,Hepatocellular Carcinoma,MALE,73,ASIAN
+TCGA-G3-A25X,6285650090,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,73,ASIAN
+TCGA-G3-A25Y,6285650090,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,52,ASIAN
+TCGA-G3-A25Z,6285650111,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,58,ASIAN
+TCGA-G3-A3CG,6285633097,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,80,WHITE
+TCGA-G3-A3CH,7796806009,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,53,ASIAN
+TCGA-G3-A3CI,6285633076,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,71,WHITE
+TCGA-G3-A3CJ,6285633097,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,52,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-G3-A3CK,6285633107,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,61,ASIAN
+TCGA-G3-A5SI,9305216206,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,44,ASIAN
+TCGA-G3-A5SJ,9305216206,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,59,WHITE
+TCGA-G3-A5SK,9305216206,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,58,WHITE
+TCGA-G3-A5SL,9305216206,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,70,WHITE
+TCGA-G3-A5SM,9305216081,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,58,WHITE
+TCGA-G3-A6UC,9422492093,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,65,WHITE
+TCGA-G3-A7M5,9422492052,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,76,ASIAN
+TCGA-G3-A7M6,9422492052,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,60,WHITE
+TCGA-G3-A7M7,9426021127,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,65,WHITE
+TCGA-G3-A7M8,9422492052,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,31,ASIAN
+TCGA-G3-A7M9,9426021127,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,70,WHITE
+TCGA-G3-AAUZ,9721366037,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,48,
+TCGA-G3-AAV0,9934987028,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,58,ASIAN
+TCGA-G3-AAV1,9721366037,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,51,ASIAN
+TCGA-G3-AAV2,9934987028,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,50,WHITE
+TCGA-G3-AAV3,9934987028,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,58,WHITE
+TCGA-G3-AAV4,9721366037,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,83,WHITE
+TCGA-G3-AAV5,9934987122,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,67,WHITE
+TCGA-G3-AAV6,9934987122,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,53,WHITE
+TCGA-G3-AAV7,9721366044,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,38,ASIAN
+TCGA-GJ-A3OU,9721366062,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,59,WHITE
+TCGA-GJ-A6C0,9283265164,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,75,WHITE
+TCGA-GJ-A9DB,9934987122,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,68,WHITE
+TCGA-HP-A5MZ,9305216203,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,78,
+TCGA-HP-A5N0,9305216081,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,90,
+TCGA-K7-A5RF,9305216038,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,64,WHITE
+TCGA-K7-A5RG,9305216081,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-K7-A6G5,9283265167,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,66,WHITE
+TCGA-K7-AAU7,9721366062,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocholangiocarcinoma (Mixed),MALE,61,WHITE
+TCGA-KR-A7K0,9422492052,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,65,WHITE
+TCGA-KR-A7K2,9422492052,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocholangiocarcinoma (Mixed),MALE,64,WHITE
+TCGA-KR-A7K7,9422492093,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,61,WHITE
+TCGA-KR-A7K8,9422492093,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,57,
+TCGA-LG-A6GG,9283265164,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,79,WHITE
+TCGA-LG-A9QC,9934987028,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,48,WHITE
+TCGA-LG-A9QD,9721366062,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,68,WHITE
+TCGA-MI-A75C,9422493013,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,64,WHITE
+TCGA-MI-A75E,9422492129,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,61,WHITE
+TCGA-MI-A75G,9422492129,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,63,WHITE
+TCGA-MI-A75H,9422492129,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,77,WHITE
+TCGA-MI-A75I,9422493013,R04C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-MR-A520,8795194066,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,58,WHITE
+TCGA-MR-A8JO,9934987023,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Fibrolamellar Carcinoma,MALE,34,WHITE
+TCGA-NI-A4U2,9305216038,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,71,WHITE
+TCGA-NI-A8LF,9934987023,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,74,WHITE
+TCGA-O8-A75V,9422492129,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,54,
+TCGA-PD-A5DF,9305216206,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,58,WHITE
+TCGA-QA-A7B7,9422492129,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,48,BLACK OR AFRICAN AMERICAN
+TCGA-RC-A6M3,9422492129,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,24,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-RC-A6M4,9422492114,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,74,WHITE
+TCGA-RC-A6M5,9422492114,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Fibrolamellar Carcinoma,FEMALE,20,WHITE
+TCGA-RC-A6M6,9422492129,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,75,WHITE
+TCGA-RC-A7S9,9422492052,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,47,ASIAN
+TCGA-RC-A7SB,9426021127,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,53,ASIAN
+TCGA-RC-A7SF,9426021127,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,66,ASIAN
+TCGA-RC-A7SH,9721366044,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,42,ASIAN
+TCGA-RC-A7SK,9426021127,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,59,ASIAN
+TCGA-RG-A7D4,9422492052,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-T1-A6J8,9422492129,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,68,WHITE
+TCGA-UB-A7MA,9422492052,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocholangiocarcinoma (Mixed),FEMALE,62,WHITE
+TCGA-UB-A7MB,9422492052,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,24,WHITE
+TCGA-UB-A7MC,9422492052,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,59,WHITE
+TCGA-UB-A7MD,9426021127,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-UB-A7ME,9422492093,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,51,ASIAN
+TCGA-UB-A7MF,9422492093,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,56,WHITE
+TCGA-UB-AA0U,9721366044,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,60,WHITE
+TCGA-UB-AA0V,9721366062,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,69,WHITE
+TCGA-WJ-A86L,9704031124,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,68,WHITE
+TCGA-WQ-A9G7,9934987028,R06C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,71,WHITE
+TCGA-WQ-AB4B,3999492009,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,62,WHITE
+TCGA-WX-AA44,9704031081,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,64,WHITE
+TCGA-WX-AA46,9704031081,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,61,WHITE
+TCGA-WX-AA47,9704031081,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,33,WHITE
+TCGA-XR-A8TC,9934987023,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,43,WHITE
+TCGA-XR-A8TD,9704031081,R06C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,49,WHITE
+TCGA-XR-A8TE,9934987023,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,16,WHITE
+TCGA-XR-A8TF,9934987023,R01C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,74,WHITE
+TCGA-XR-A8TG,9934987023,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,58,WHITE
+TCGA-YA-A8S7,9934987028,R02C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,68,WHITE
+TCGA-ZP-A9CV,9721366037,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,59,WHITE
+TCGA-ZP-A9CY,9721366037,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,66,WHITE
+TCGA-ZP-A9CZ,9721366062,R02C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,72,ASIAN
+TCGA-ZP-A9D0,9934987028,R03C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-ZP-A9D1,9721366037,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,56,WHITE
+TCGA-ZP-A9D2,9721366044,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,51,WHITE
+TCGA-ZP-A9D4,9934987122,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,64,WHITE
+TCGA-ZS-A9CD,9934987122,R03C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,73,WHITE
+TCGA-ZS-A9CE,9934987122,R05C01,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,FEMALE,79,WHITE
+TCGA-ZS-A9CF,9721366062,R04C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Recurrent Tumor,Liver,Hepatocellular Carcinoma,MALE,64,WHITE
+TCGA-ZS-A9CF,9721366062,R05C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,64,WHITE
+TCGA-ZS-A9CG,9934987028,R01C02,Illumina Human Methylation 450,TCGA-LIHC,JHU_USC,Primary Tumor,Liver,Hepatocellular Carcinoma,MALE,55,WHITE

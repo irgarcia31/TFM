@@ -1,0 +1,140 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-2G-AAEW,9934398104,R02C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,31,WHITE
+TCGA-2G-AAEX,9934398104,R03C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,38,WHITE
+TCGA-2G-AAF1,9934398104,R02C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,28,ASIAN
+TCGA-2G-AAF4,9934625105,R01C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,30,WHITE
+TCGA-2G-AAF6,9934625124,R02C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,28,WHITE
+TCGA-2G-AAF8,9934398103,R06C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,33,WHITE
+TCGA-2G-AAFE,9934625137,R02C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,37,WHITE
+TCGA-2G-AAFG,9934625105,R05C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Additional - New Primary,Testes,Seminoma; NOS100,MALE,30,WHITE
+TCGA-2G-AAFG,9934625118,R05C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,30,WHITE
+TCGA-2G-AAFH,9934625124,R03C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,38,WHITE
+TCGA-2G-AAFI,9934625118,R06C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma95Non-Seminoma; Yolk Sac Tumor5,MALE,41,WHITE
+TCGA-2G-AAFJ,9934625124,R06C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Mature)95Non-Seminoma; Yolk Sac Tumor5,MALE,23,ASIAN
+TCGA-2G-AAFL,9934625105,R04C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma100,MALE,35,WHITE
+TCGA-2G-AAFM,9934625118,R03C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma100,MALE,31,WHITE
+TCGA-2G-AAFN,9934625118,R04C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma100,MALE,26,WHITE
+TCGA-2G-AAFO,9934625118,R04C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma100,MALE,33,WHITE
+TCGA-2G-AAFV,9934398104,R06C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Yolk Sac Tumor100,MALE,31,WHITE
+TCGA-2G-AAFY,9934625118,R03C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma100,MALE,24,WHITE
+TCGA-2G-AAFZ,9934625137,R03C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Immature)40Non-Seminoma; Yolk Sac Tumor30Non-Seminoma; Embryonal Carcinoma20Non-Seminoma; Teratoma (Mature)10,MALE,32,WHITE
+TCGA-2G-AAG0,9934398118,R05C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma80Non-Seminoma; Yolk Sac Tumor10Non-Seminoma; Teratoma (Mature)10,MALE,23,WHITE
+TCGA-2G-AAG3,9934398103,R04C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Mature)35Seminoma; NOS50Non-Seminoma; Embryonal Carcinoma10Non-Seminoma; Yolk Sac Tumor5,MALE,53,WHITE
+TCGA-2G-AAG5,9934625137,R05C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Mature)100,MALE,36,WHITE
+TCGA-2G-AAG6,9934625124,R04C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Mature)95Non-Seminoma; Yolk Sac Tumor5,MALE,24,WHITE
+TCGA-2G-AAG7,9934398104,R04C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma40Non-Seminoma; Teratoma (Mature)20Non-Seminoma; Teratoma (Immature)20Non-Seminoma; Yolk Sac Tumor20,MALE,33,WHITE
+TCGA-2G-AAG8,9934625105,R01C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma100,MALE,21,WHITE
+TCGA-2G-AAG9,9934625105,R05C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,25,WHITE
+TCGA-2G-AAGA,9934398103,R05C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma100,MALE,38,WHITE
+TCGA-2G-AAGC,9934398118,R05C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Mature)40Non-Seminoma; Teratoma (Immature)30Non-Seminoma; Embryonal Carcinoma20Non-Seminoma; Yolk Sac Tumor10,MALE,28,WHITE
+TCGA-2G-AAGE,9934625124,R04C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma100,MALE,21,WHITE
+TCGA-2G-AAGF,9934625137,R03C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Mature)30Non-Seminoma; Teratoma (Immature)20Non-Seminoma; Embryonal Carcinoma45Non-Seminoma; Yolk Sac Tumor5,MALE,28,WHITE
+TCGA-2G-AAGG,9934625137,R06C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Mature)50Non-Seminoma; Teratoma (Immature)40Non-Seminoma; Embryonal Carcinoma5Non-Seminoma; Yolk Sac Tumor5,MALE,20,WHITE
+TCGA-2G-AAGI,9934398103,R02C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Additional - New Primary,Testes,Non-Seminoma; Teratoma (Mature)10Seminoma; NOS10Non-Seminoma; Embryonal Carcinoma75Non-Seminoma; Yolk Sac Tumor5,MALE,33,WHITE
+TCGA-2G-AAGI,9934625105,R02C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Mature)10Seminoma; NOS10Non-Seminoma; Embryonal Carcinoma75Non-Seminoma; Yolk Sac Tumor5,MALE,33,WHITE
+TCGA-2G-AAGJ,9934625124,R01C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma85Seminoma; NOS15,MALE,28,BLACK OR AFRICAN AMERICAN
+TCGA-2G-AAGK,9934625137,R04C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Yolk Sac Tumor85Non-Seminoma; Embryonal Carcinoma15,MALE,20,WHITE
+TCGA-2G-AAGM,9934398118,R04C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Yolk Sac Tumor100,MALE,51,WHITE
+TCGA-2G-AAGN,9934398118,R02C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma100,MALE,41,WHITE
+TCGA-2G-AAGO,9934625118,R02C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma100,MALE,41,WHITE
+TCGA-2G-AAGP,9934625124,R05C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Mature)40Non-Seminoma; Teratoma (Immature)35Non-Seminoma; Embryonal Carcinoma20Non-Seminoma; Yolk Sac Tumor5,MALE,33,WHITE
+TCGA-2G-AAGS,9934625118,R02C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Immature)80Non-Seminoma; Yolk Sac Tumor20,MALE,39,WHITE
+TCGA-2G-AAGT,9934398104,R01C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Yolk Sac Tumor80Non-Seminoma; Teratoma (Mature)20,MALE,30,WHITE
+TCGA-2G-AAGV,9934625124,R03C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Mature)100,MALE,23,WHITE
+TCGA-2G-AAGW,9934625105,R03C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Yolk Sac Tumor100,MALE,38,WHITE
+TCGA-2G-AAGX,9934625124,R06C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Mature)55Non-Seminoma; Embryonal Carcinoma20Non-Seminoma; Teratoma (Immature)15Non-Seminoma; Yolk Sac Tumor10,MALE,22,WHITE
+TCGA-2G-AAGY,9934625137,R01C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Additional - New Primary,Testes,Non-Seminoma; Teratoma (Mature)90Non-Seminoma; Teratoma (Immature)5Non-Seminoma; Embryonal Carcinoma5,MALE,28,WHITE
+TCGA-2G-AAGY,9934625118,R05C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Mature)90Non-Seminoma; Teratoma (Immature)5Non-Seminoma; Embryonal Carcinoma5,MALE,28,WHITE
+TCGA-2G-AAGZ,9934625105,R02C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma10Non-Seminoma; Teratoma (Mature)40Non-Seminoma; Choriocarcinoma5Non-Seminoma; Yolk Sac Tumor5Seminoma; NOS40,MALE,27,WHITE
+TCGA-2G-AAH0,9934398104,R01C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS95Non-Seminoma; Embryonal Carcinoma5,MALE,30,WHITE
+TCGA-2G-AAH2,9934398118,R02C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Mature)40Non-Seminoma; Teratoma (Immature)20Non-Seminoma; Yolk Sac Tumor15Non-Seminoma; Embryonal Carcinoma5Seminoma; NOS20,MALE,20,WHITE
+TCGA-2G-AAH3,9934398118,R03C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS35Non-Seminoma; Teratoma (Mature)40Non-Seminoma; Teratoma (Immature)20Non-Seminoma; Yolk Sac Tumor5,MALE,20,WHITE
+TCGA-2G-AAH4,9934398118,R06C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Yolk Sac Tumor80Non-Seminoma; Embryonal Carcinoma10Non-Seminoma; Teratoma (Mature)5Seminoma; NOS5,MALE,34,WHITE
+TCGA-2G-AAH8,9934625105,R03C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,45,WHITE
+TCGA-2G-AAHA,9934625137,R01C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,48,WHITE
+TCGA-2G-AAHC,9934398104,R05C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,33,WHITE
+TCGA-2G-AAHG,9934625124,R05C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,25,WHITE
+TCGA-2G-AAHL,9934625137,R02C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,26,WHITE
+TCGA-2G-AAHN,9934398118,R04C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,32,WHITE
+TCGA-2G-AAHP,9934398104,R04C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Additional - New Primary,Testes,Seminoma; NOS100,MALE,31,WHITE
+TCGA-2G-AAHP,9934398103,R05C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,31,WHITE
+TCGA-2G-AAHT,9934398103,R02C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,32,WHITE
+TCGA-2G-AAKD,9934398103,R03C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma70Non-Seminoma; Yolk Sac Tumor30,MALE,18,WHITE
+TCGA-2G-AAKG,9934398118,R01C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Additional - New Primary,Testes,Non-Seminoma; Embryonal Carcinoma100,MALE,22,WHITE
+TCGA-2G-AAKG,9934398104,R06C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma100,MALE,22,WHITE
+TCGA-2G-AAKH,9934625118,R01C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma95Seminoma; NOS5,MALE,19,WHITE
+TCGA-2G-AAKL,9934625105,R06C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma100,MALE,26,WHITE
+TCGA-2G-AAKM,9934625124,R01C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Mature)5Non-Seminoma; Embryonal Carcinoma90Non-Seminoma; Yolk Sac Tumor5,MALE,14,WHITE
+TCGA-2G-AAL5,9934398103,R06C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Mature)35Non-Seminoma; Teratoma (Immature)35Non-Seminoma; Yolk Sac Tumor20Non-Seminoma; Embryonal Carcinoma5Seminoma; NOS5,MALE,31,WHITE
+TCGA-2G-AAL7,9934398118,R03C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma95Non-Seminoma; Yolk Sac Tumor5,MALE,32,WHITE
+TCGA-2G-AALP,9934625105,R06C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Yolk Sac Tumor10Non-Seminoma; Embryonal Carcinoma60Non-Seminoma; Teratoma (Mature)20Non-Seminoma; Teratoma (Immature)10,MALE,43,WHITE
+TCGA-2X-A9D5,9934987018,R06C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,49,WHITE
+TCGA-2X-A9D6,9934625112,R05C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,42,WHITE
+TCGA-4K-AA1G,9934987018,R05C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,34,WHITE
+TCGA-4K-AA1H,9934987098,R06C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,26,WHITE
+TCGA-4K-AA1I,9934987098,R05C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,26,WHITE
+TCGA-4K-AAAL,9934625146,R03C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,31,WHITE
+TCGA-S6-A8JW,9934398130,R01C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,37,WHITE
+TCGA-S6-A8JX,9934987098,R06C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,27,WHITE
+TCGA-S6-A8JY,9934625146,R04C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,27,WHITE
+TCGA-SB-A6J6,9934398130,R04C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,22,WHITE
+TCGA-SB-A76C,9934625156,R05C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,38,WHITE
+TCGA-SN-A6IS,9934625146,R05C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS85Non-Seminoma; Teratoma (Mature)15,MALE,26,WHITE
+TCGA-SN-A84W,9934987098,R05C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS80Non-Seminoma; Teratoma (Mature)10Non-Seminoma; Embryonal Carcinoma5Non-Seminoma; Yolk Sac Tumor5,MALE,30,WHITE
+TCGA-SN-A84X,9934987018,R03C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma15Non-Seminoma; Yolk Sac Tumor5Non-Seminoma; Teratoma (Mature)30Non-Seminoma; Teratoma (Immature)30Seminoma; NOS20,MALE,21,WHITE
+TCGA-SN-A84Y,9934398130,R02C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Yolk Sac Tumor50Non-Seminoma; Embryonal Carcinoma50,MALE,18,WHITE
+TCGA-SO-A8JP,9934625112,R01C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,29,WHITE
+TCGA-VF-A8A8,9934625146,R02C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma95Non-Seminoma; Teratoma (Mature)5,MALE,18,WHITE
+TCGA-VF-A8A9,9934625112,R04C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,31,WHITE
+TCGA-VF-A8AA,9934987098,R02C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,51,WHITE
+TCGA-VF-A8AB,9934625156,R02C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,31,BLACK OR AFRICAN AMERICAN
+TCGA-VF-A8AC,9934625112,R06C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,29,WHITE
+TCGA-VF-A8AD,9934398130,R04C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma95Non-Seminoma; Yolk Sac Tumor5,MALE,36,WHITE
+TCGA-VF-A8AE,9934625112,R04C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,39,WHITE
+TCGA-W4-A7U2,9934625112,R03C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS50Non-Seminoma; Teratoma (Mature)45Non-Seminoma; Embryonal Carcinoma5,MALE,26,WHITE
+TCGA-W4-A7U3,9934625156,R03C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Mature)60Non-Seminoma; Teratoma (Immature)Non-Seminoma; Yolk Sac Tumor20Non-Seminoma; Embryonal Carcinoma10Non-Seminoma; Choriocarcinoma10,MALE,26,WHITE
+TCGA-W4-A7U4,9934987018,R01C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma99,MALE,23,WHITE
+TCGA-WZ-A7V3,9934625146,R01C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,20,WHITE
+TCGA-WZ-A7V4,9934625146,R02C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,28,WHITE
+TCGA-WZ-A7V5,9934625156,R06C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,27,WHITE
+TCGA-WZ-A8D5,9934625146,R06C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,38,WHITE
+TCGA-X3-A8G4,9934625112,R02C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS40Non-Seminoma; Yolk Sac Tumor35Non-Seminoma; Embryonal Carcinoma20Non-Seminoma; Teratoma (Immature)5,MALE,33,WHITE
+TCGA-XE-A8H1,9934987018,R02C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma100,MALE,24,WHITE
+TCGA-XE-A8H4,9934987098,R04C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,23,WHITE
+TCGA-XE-A8H5,9934987018,R01C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,29,
+TCGA-XE-A9SE,9934987126,R02C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,35,WHITE
+TCGA-XE-AANI,9934987018,R04C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Immature)85Non-Seminoma; Yolk Sac Tumor10Non-Seminoma; Embryonal Carcinoma5,MALE,37,WHITE
+TCGA-XE-AANJ,9934987098,R03C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,39,WHITE
+TCGA-XE-AANR,9934398130,R03C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,23,WHITE
+TCGA-XE-AANV,9934625156,R01C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,52,
+TCGA-XE-AAO3,9934987018,R05C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,33,ASIAN
+TCGA-XE-AAO4,9934625146,R03C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,40,WHITE
+TCGA-XE-AAO6,9934625112,R05C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,47,WHITE
+TCGA-XE-AAOB,9934987126,R01C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Choriocarcinoma5Non-Seminoma; Embryonal Carcinoma30Non-Seminoma; Yolk Sac Tumor5Non-Seminoma; Teratoma (Mature)30Non-Seminoma; Teratoma (Immature)30,MALE,27,WHITE
+TCGA-XE-AAOC,9934398130,R05C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Immature)49Non-Seminoma; Teratoma (Mature)50Non-Seminoma; Yolk Sac Tumor1,MALE,31,WHITE
+TCGA-XE-AAOD,9934625112,R03C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS80Non-Seminoma; Choriocarcinoma20,MALE,39,WHITE
+TCGA-XE-AAOF,9934625156,R03C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,50,ASIAN
+TCGA-XE-AAOJ,9934398130,R01C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS10Non-Seminoma; Yolk Sac Tumor50Non-Seminoma; Teratoma (Mature)20Non-Seminoma; Teratoma (Immature)20,MALE,24,WHITE
+TCGA-XE-AAOL,9934625156,R04C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,38,BLACK OR AFRICAN AMERICAN
+TCGA-XY-A89B,9934398130,R03C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS75,MALE,35,WHITE
+TCGA-XY-A8S2,9934987098,R03C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma100,MALE,67,WHITE
+TCGA-XY-A8S3,9934987018,R04C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma80Non-Seminoma; Yolk Sac Tumor15Non-Seminoma; Choriocarcinoma5,MALE,24,WHITE
+TCGA-XY-A9T9,9934625112,R01C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,37,WHITE
+TCGA-YU-A90P,9934987098,R01C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma100,MALE,25,WHITE
+TCGA-YU-A90Q,9934625146,R04C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,21,
+TCGA-YU-A90S,9934987018,R06C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,26,WHITE
+TCGA-YU-A90W,9934398130,R06C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,45,WHITE
+TCGA-YU-A90Y,9934625156,R04C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma95Non-Seminoma; Yolk Sac Tumor5,MALE,23,BLACK OR AFRICAN AMERICAN
+TCGA-YU-A912,9934987098,R02C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,34,BLACK OR AFRICAN AMERICAN
+TCGA-YU-A94D,9934625146,R06C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Teratoma (Immature)100,MALE,28,
+TCGA-YU-A94I,9934398130,R06C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma5Non-Seminoma; Yolk Sac Tumor95,MALE,66,
+TCGA-YU-AA4L,9934625156,R05C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma100,MALE,27,BLACK OR AFRICAN AMERICAN
+TCGA-YU-AA61,9934987098,R01C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Non-Seminoma; Embryonal Carcinoma25Non-Seminoma; Yolk Sac Tumor25Non-Seminoma; Teratoma (Immature)50,MALE,29,WHITE
+TCGA-ZM-AA05,9934987018,R03C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,36,WHITE
+TCGA-ZM-AA06,9934625146,R05C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,45,WHITE
+TCGA-ZM-AA0B,9934398130,R05C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,32,WHITE
+TCGA-ZM-AA0D,9934625146,R01C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,34,WHITE
+TCGA-ZM-AA0E,9934625156,R02C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,39,WHITE
+TCGA-ZM-AA0F,9934625156,R01C02,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,35,WHITE
+TCGA-ZM-AA0H,9934625156,R06C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,50,WHITE
+TCGA-ZM-AA0N,9934987018,R02C01,Illumina Human Methylation 450,TCGA-TGCT,JHU_USC,Primary Tumor,Testes,Seminoma; NOS100,MALE,44,WHITE

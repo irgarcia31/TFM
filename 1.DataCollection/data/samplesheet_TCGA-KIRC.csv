@@ -1,0 +1,486 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-3Z-A93Z,9701417162,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-6D-AA2E,9701417173,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-A3-3357,6042316163,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,62,WHITE
+TCGA-A3-3357,6055432006,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,62,WHITE
+TCGA-A3-3358,6285617068,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,57,WHITE
+TCGA-A3-3367,6042324022,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,72,WHITE
+TCGA-A3-3367,6055432006,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,72,WHITE
+TCGA-A3-3370,6055424116,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,48,WHITE
+TCGA-A3-3370,6042324022,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,48,WHITE
+TCGA-A3-3373,6042324113,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,54,WHITE
+TCGA-A3-3373,6055424037,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,54,WHITE
+TCGA-A3-3376,6042324027,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,51,BLACK OR AFRICAN AMERICAN
+TCGA-A3-3376,6055424116,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,51,BLACK OR AFRICAN AMERICAN
+TCGA-A3-3385,6042324027,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,46,WHITE
+TCGA-A3-3385,6042316163,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,46,WHITE
+TCGA-A3-3387,6285617026,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,49,WHITE
+TCGA-A3-A6NI,9422492127,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,47,BLACK OR AFRICAN AMERICAN
+TCGA-A3-A6NJ,9422492127,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-A3-A6NL,9422492127,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,49,BLACK OR AFRICAN AMERICAN
+TCGA-A3-A6NN,9422492127,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,78,BLACK OR AFRICAN AMERICAN
+TCGA-A3-A8CQ,9701417173,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-A3-A8OU,9701417173,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,74,BLACK OR AFRICAN AMERICAN
+TCGA-A3-A8OV,9701417173,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,75,BLACK OR AFRICAN AMERICAN
+TCGA-A3-A8OW,9701417173,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,37,BLACK OR AFRICAN AMERICAN
+TCGA-A3-A8OX,9701417173,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,65,BLACK OR AFRICAN AMERICAN
+TCGA-AK-3425,6042324004,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,68,WHITE
+TCGA-AK-3428,6042324009,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,62,WHITE
+TCGA-AK-3431,6042324009,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,62,WHITE
+TCGA-AK-3433,6055432001,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,48,WHITE
+TCGA-AK-3434,6042316137,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,72,WHITE
+TCGA-AK-3440,6042324033,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,58,WHITE
+TCGA-AK-3445,6042324033,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,69,WHITE
+TCGA-AK-3450,6055432001,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,85,WHITE
+TCGA-AK-3453,6042324043,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,58,WHITE
+TCGA-AK-3454,6042324004,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,84,WHITE
+TCGA-AK-3458,6042316017,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,48,WHITE
+TCGA-AK-3460,6042324033,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,58,WHITE
+TCGA-AK-3461,6042324043,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,72,WHITE
+TCGA-B0-4688,6042324033,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,46,WHITE
+TCGA-B0-4688,6042324004,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,46,WHITE
+TCGA-B0-4690,6055432001,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,65,WHITE
+TCGA-B0-4690,6042324033,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,65,WHITE
+TCGA-B0-4691,6042324043,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,55,WHITE
+TCGA-B0-4691,6042316057,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,55,WHITE
+TCGA-B0-4693,6055432001,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,72,WHITE
+TCGA-B0-4693,6042316137,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,72,WHITE
+TCGA-B0-4694,6042324004,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,72,WHITE
+TCGA-B0-4694,6042324033,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,72,WHITE
+TCGA-B0-4696,6042316137,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,58,WHITE
+TCGA-B0-4696,6055432001,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,58,WHITE
+TCGA-B0-4697,6042324033,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,46,WHITE
+TCGA-B0-4697,6042324004,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,46,WHITE
+TCGA-B0-4698,6042308163,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,75,WHITE
+TCGA-B0-4698,6042316017,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,75,WHITE
+TCGA-B0-4699,6042324043,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,74,WHITE
+TCGA-B0-4699,6042324009,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,74,WHITE
+TCGA-B0-4700,6285617026,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,60,WHITE
+TCGA-B0-4701,6055432001,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,66,WHITE
+TCGA-B0-4701,6042324009,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,66,WHITE
+TCGA-B0-4703,6055432001,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,51,WHITE
+TCGA-B0-4703,6042324004,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,51,WHITE
+TCGA-B0-4706,6042308163,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,61,WHITE
+TCGA-B0-4706,6042316009,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,61,WHITE
+TCGA-B0-4707,6042316137,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-B0-4707,6055432001,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-B0-4710,6042308132,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,75,WHITE
+TCGA-B0-4710,6042308157,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,75,WHITE
+TCGA-B0-4712,6042316009,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,76,WHITE
+TCGA-B0-4712,6042308132,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,76,WHITE
+TCGA-B0-4713,6042324043,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,76,WHITE
+TCGA-B0-4713,6042324033,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,76,WHITE
+TCGA-B0-4714,6042324009,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,81,WHITE
+TCGA-B0-4714,6042316137,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,81,WHITE
+TCGA-B0-4718,6042324043,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,57,WHITE
+TCGA-B0-4718,6042324009,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,57,WHITE
+TCGA-B0-4810,6042316038,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,47,WHITE
+TCGA-B0-4810,6042316038,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,47,WHITE
+TCGA-B0-4811,6042316038,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,48,WHITE
+TCGA-B0-4811,6042316046,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,48,WHITE
+TCGA-B0-4813,6055432001,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,68,WHITE
+TCGA-B0-4813,6042324043,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,68,WHITE
+TCGA-B0-4814,6042324033,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,58,WHITE
+TCGA-B0-4814,6042316057,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,58,WHITE
+TCGA-B0-4815,6042308157,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,65,WHITE
+TCGA-B0-4815,6042308132,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,65,WHITE
+TCGA-B0-4816,6042316009,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,49,WHITE
+TCGA-B0-4816,6042316038,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,49,WHITE
+TCGA-B0-4817,6042316137,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,81,WHITE
+TCGA-B0-4817,6042324009,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,81,WHITE
+TCGA-B0-4818,6042316009,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,68,WHITE
+TCGA-B0-4818,6042316009,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,68,WHITE
+TCGA-B0-4819,6042324009,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,60,WHITE
+TCGA-B0-4819,6042316137,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,60,WHITE
+TCGA-B0-4821,6042316009,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,68,ASIAN
+TCGA-B0-4821,6042308163,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,68,ASIAN
+TCGA-B0-4822,6042324004,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,78,WHITE
+TCGA-B0-4822,6042324004,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,78,WHITE
+TCGA-B0-4823,6055424116,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,88,WHITE
+TCGA-B0-4823,6055424037,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,88,WHITE
+TCGA-B0-4824,6042316137,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,49,WHITE
+TCGA-B0-4824,6042324043,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,49,WHITE
+TCGA-B0-4827,6042316163,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,77,WHITE
+TCGA-B0-4827,6042324012,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,77,WHITE
+TCGA-B0-4828,6042324043,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,79,WHITE
+TCGA-B0-4828,6042324009,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,79,WHITE
+TCGA-B0-4841,6042324004,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-B0-4841,6055432001,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-B0-4842,6042316163,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,73,WHITE
+TCGA-B0-4842,6055424037,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,73,WHITE
+TCGA-B0-4843,6042324004,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,57,WHITE
+TCGA-B0-4843,6042324009,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,57,WHITE
+TCGA-B0-4844,6042324033,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,60,WHITE
+TCGA-B0-4844,6042324009,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,60,WHITE
+TCGA-B0-4845,6042316137,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,70,WHITE
+TCGA-B0-4845,6042324033,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,70,WHITE
+TCGA-B0-4846,6042316137,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,52,WHITE
+TCGA-B0-4846,6042324043,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,52,WHITE
+TCGA-B0-4847,6055432001,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,60,WHITE
+TCGA-B0-4847,6042324009,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,60,WHITE
+TCGA-B0-4848,6042316137,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,54,WHITE
+TCGA-B0-4848,6042324043,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,54,WHITE
+TCGA-B0-4849,6042316137,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,51,WHITE
+TCGA-B0-4849,6042324004,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,51,WHITE
+TCGA-B0-4852,6042308163,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,78,WHITE
+TCGA-B0-4852,6042316017,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,78,WHITE
+TCGA-B0-4945,6042324012,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,75,WHITE
+TCGA-B0-4945,6042324022,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,75,WHITE
+TCGA-B0-5080,6042308157,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-B0-5080,6042316017,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-B0-5083,6042324012,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-B0-5083,6042316163,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-B0-5092,6055424116,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,53,WHITE
+TCGA-B0-5092,6042324012,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,53,WHITE
+TCGA-B0-5094,6055424116,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,62,WHITE
+TCGA-B0-5094,6042324022,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,62,WHITE
+TCGA-B0-5095,6055424116,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,81,WHITE
+TCGA-B0-5095,6042324022,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,81,WHITE
+TCGA-B0-5096,6042324012,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,72,WHITE
+TCGA-B0-5096,6055424116,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,72,WHITE
+TCGA-B0-5097,6042324027,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,59,WHITE
+TCGA-B0-5097,6042324027,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,59,WHITE
+TCGA-B0-5098,6042324022,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,53,BLACK OR AFRICAN AMERICAN
+TCGA-B0-5098,6055424037,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,53,BLACK OR AFRICAN AMERICAN
+TCGA-B0-5099,6042324022,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,88,WHITE
+TCGA-B0-5099,6042324027,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,88,WHITE
+TCGA-B0-5100,6042324027,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,72,BLACK OR AFRICAN AMERICAN
+TCGA-B0-5100,6042324012,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,72,BLACK OR AFRICAN AMERICAN
+TCGA-B0-5102,6042324012,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,74,WHITE
+TCGA-B0-5102,6055424116,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,74,WHITE
+TCGA-B0-5104,6055424116,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,90,WHITE
+TCGA-B0-5104,6042324022,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,90,WHITE
+TCGA-B0-5106,6055424116,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,64,WHITE
+TCGA-B0-5106,6042316163,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,64,WHITE
+TCGA-B0-5107,6042324022,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,65,WHITE
+TCGA-B0-5107,6042324113,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,65,WHITE
+TCGA-B0-5108,6055424037,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,54,WHITE
+TCGA-B0-5108,6055432006,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,54,WHITE
+TCGA-B0-5109,6042324113,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,69,WHITE
+TCGA-B0-5109,6055424116,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,69,WHITE
+TCGA-B0-5110,6042324113,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,71,WHITE
+TCGA-B0-5110,6042324113,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,71,WHITE
+TCGA-B0-5113,6055424037,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,69,WHITE
+TCGA-B0-5113,6055424037,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,69,WHITE
+TCGA-B0-5115,6055424037,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,43,WHITE
+TCGA-B0-5115,6042324012,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,43,WHITE
+TCGA-B0-5116,6042324113,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,52,WHITE
+TCGA-B0-5116,6055424037,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,52,WHITE
+TCGA-B0-5117,6042324022,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,40,WHITE
+TCGA-B0-5117,6055424116,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,40,WHITE
+TCGA-B0-5119,6042316163,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,61,WHITE
+TCGA-B0-5119,6042316163,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,61,WHITE
+TCGA-B0-5120,6042316163,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,72,WHITE
+TCGA-B0-5120,6042316163,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,72,WHITE
+TCGA-B0-5121,6042324113,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,56,WHITE
+TCGA-B0-5121,6042324012,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,56,WHITE
+TCGA-B0-5399,6042316038,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,46,WHITE
+TCGA-B0-5400,6042316009,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,59,WHITE
+TCGA-B0-5400,6042308157,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,59,WHITE
+TCGA-B0-5402,6042308163,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,64,WHITE
+TCGA-B0-5402,6042308132,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,64,WHITE
+TCGA-B0-5690,6285650094,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,53,WHITE
+TCGA-B0-5691,6285617068,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,66,WHITE
+TCGA-B0-5692,6285617026,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,66,WHITE
+TCGA-B0-5693,6929671144,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,47,WHITE
+TCGA-B0-5694,6285650093,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,71,WHITE
+TCGA-B0-5695,6929671134,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,61,WHITE
+TCGA-B0-5696,6285650094,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,69,WHITE
+TCGA-B0-5697,6929671134,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,50,WHITE
+TCGA-B0-5698,6929718091,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,77,BLACK OR AFRICAN AMERICAN
+TCGA-B0-5699,6285617026,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,53,WHITE
+TCGA-B0-5700,6285650094,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,77,WHITE
+TCGA-B0-5701,6285617026,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,65,WHITE
+TCGA-B0-5702,6285650095,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,71,WHITE
+TCGA-B0-5703,6285650095,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,73,WHITE
+TCGA-B0-5705,6285617068,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,65,WHITE
+TCGA-B0-5706,6285650093,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,45,WHITE
+TCGA-B0-5707,6285617068,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,39,WHITE
+TCGA-B0-5709,6285650106,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,62,WHITE
+TCGA-B0-5710,6929718090,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,57,WHITE
+TCGA-B0-5710,6929718092,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,57,WHITE
+TCGA-B0-5711,6929718088,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,50,WHITE
+TCGA-B0-5711,6929718091,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,50,WHITE
+TCGA-B0-5712,6929718088,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-B0-5712,6929718091,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-B0-5713,6929718090,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,75,WHITE
+TCGA-B0-5713,6929718092,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,75,WHITE
+TCGA-B0-5812,6929718090,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,53,WHITE
+TCGA-B2-3924,9305216018,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,73,WHITE
+TCGA-B2-3924,9305216018,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,73,WHITE
+TCGA-B2-4101,6055432001,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,52,WHITE
+TCGA-B2-5633,6285650094,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,56,WHITE
+TCGA-B2-5633,9305216018,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,56,WHITE
+TCGA-B2-5633,9305216018,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,56,WHITE
+TCGA-B2-5635,6929671134,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,74,WHITE
+TCGA-B2-5635,9305216018,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,74,WHITE
+TCGA-B2-5635,9305216018,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,74,WHITE
+TCGA-B2-5636,6285617068,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,79,WHITE
+TCGA-B2-5639,6929671144,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,46,WHITE
+TCGA-B2-5641,6285650093,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,79,WHITE
+TCGA-B2-A4SR,8795194065,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-B4-5377,6042308163,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,68,WHITE
+TCGA-B4-5378,6042316038,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,62,WHITE
+TCGA-B4-5832,6929718091,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,65,WHITE
+TCGA-B4-5834,6929718088,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,59,WHITE
+TCGA-B4-5835,6929718090,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,64,WHITE
+TCGA-B4-5836,6929718091,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,61,WHITE
+TCGA-B4-5838,6929718092,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,52,WHITE
+TCGA-B4-5843,6929718090,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,45,WHITE
+TCGA-B4-5844,6929718091,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,61,WHITE
+TCGA-B8-4146,6929718090,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,41,WHITE
+TCGA-B8-4153,6929718090,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,74,WHITE
+TCGA-B8-4621,6042316017,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,BLACK OR AFRICAN AMERICAN
+TCGA-B8-4622,6042324043,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,57,WHITE
+TCGA-B8-5158,6042324027,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,56,WHITE
+TCGA-B8-5159,6042324012,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,61,WHITE
+TCGA-B8-5162,6042324027,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,62,WHITE
+TCGA-B8-5163,6042324012,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,63,WHITE
+TCGA-B8-5164,6042324027,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,65,WHITE
+TCGA-B8-5165,6055424037,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,43,WHITE
+TCGA-B8-5545,6929718090,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,42,BLACK OR AFRICAN AMERICAN
+TCGA-B8-5546,6285617068,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,38,BLACK OR AFRICAN AMERICAN
+TCGA-B8-5549,6929671134,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,53,WHITE
+TCGA-B8-5550,6285650094,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,71,WHITE
+TCGA-B8-5551,6285650093,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,65,BLACK OR AFRICAN AMERICAN
+TCGA-B8-5552,6929718091,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,41,WHITE
+TCGA-B8-5553,6929671144,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,67,WHITE
+TCGA-B8-A54D,8795194065,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-B8-A54E,8795194065,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,62,BLACK OR AFRICAN AMERICAN
+TCGA-B8-A54F,8795194065,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,49,BLACK OR AFRICAN AMERICAN
+TCGA-B8-A54G,8795194065,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,50,BLACK OR AFRICAN AMERICAN
+TCGA-B8-A54H,9422492127,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-B8-A54I,9422492127,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,48,BLACK OR AFRICAN AMERICAN
+TCGA-B8-A54J,9422492127,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-B8-A54K,9422492127,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-B8-A7U6,9701417173,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,54,BLACK OR AFRICAN AMERICAN
+TCGA-B8-A8YJ,9704031058,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-BP-4177,6042324113,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,65,WHITE
+TCGA-BP-4177,6042324012,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,65,WHITE
+TCGA-BP-4760,6055424037,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-BP-4760,6055424037,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-BP-4770,6042316038,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,73,WHITE
+TCGA-BP-4770,6042308163,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,73,WHITE
+TCGA-BP-4782,6055432006,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,55,WHITE
+TCGA-BP-4782,6042324027,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,55,WHITE
+TCGA-BP-4795,6042324113,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,74,WHITE
+TCGA-BP-4795,6042324027,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,74,WHITE
+TCGA-BP-4801,6042316163,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,57,WHITE
+TCGA-BP-4801,6042316163,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,57,WHITE
+TCGA-BP-4993,6042324113,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,58,WHITE
+TCGA-BP-4993,6042324022,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,58,WHITE
+TCGA-BP-5010,6042324022,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-BP-5010,6042324113,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-BP-5168,6042324113,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,75,WHITE
+TCGA-BP-5168,6055432006,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,75,WHITE
+TCGA-BP-5169,6042308144,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,70,WHITE
+TCGA-BP-5169,6042308164,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,70,WHITE
+TCGA-BP-5170,6042308166,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,55,WHITE
+TCGA-BP-5170,6042308135,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,55,WHITE
+TCGA-BP-5173,6042308164,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,75,WHITE
+TCGA-BP-5173,6042308152,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,75,WHITE
+TCGA-BP-5174,6042308164,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,45,WHITE
+TCGA-BP-5174,6042308104,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,45,WHITE
+TCGA-BP-5175,6042308152,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,60,WHITE
+TCGA-BP-5175,6042308144,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,60,WHITE
+TCGA-BP-5176,6042308129,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,78,WHITE
+TCGA-BP-5176,6042308135,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,78,WHITE
+TCGA-BP-5177,6042308164,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,46,WHITE
+TCGA-BP-5177,6042308129,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,46,WHITE
+TCGA-BP-5178,6042308166,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,71,WHITE
+TCGA-BP-5178,6042308152,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,71,WHITE
+TCGA-BP-5180,6042308166,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,53,WHITE
+TCGA-BP-5180,6042308129,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,53,WHITE
+TCGA-BP-5181,6042308152,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,58,WHITE
+TCGA-BP-5181,6042308103,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,58,WHITE
+TCGA-BP-5182,6042308135,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,56,WHITE
+TCGA-BP-5182,6042308104,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,56,WHITE
+TCGA-BP-5183,6042308166,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,57,WHITE
+TCGA-BP-5183,6042308129,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,57,WHITE
+TCGA-BP-5184,6042308103,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,54,WHITE
+TCGA-BP-5184,6042308166,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,54,WHITE
+TCGA-BP-5185,6042308104,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,56,WHITE
+TCGA-BP-5185,6042308144,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,56,WHITE
+TCGA-BP-5186,6042308103,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,50,WHITE
+TCGA-BP-5186,6042308129,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,50,WHITE
+TCGA-BP-5187,6042308152,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,54,WHITE
+TCGA-BP-5187,6042308103,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,54,WHITE
+TCGA-BP-5189,6042308104,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,60,WHITE
+TCGA-BP-5189,6042308135,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,60,WHITE
+TCGA-BP-5190,6042308103,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,61,WHITE
+TCGA-BP-5190,6042308144,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,61,WHITE
+TCGA-BP-5191,6042308152,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,79,WHITE
+TCGA-BP-5191,6042308164,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,79,WHITE
+TCGA-BP-5192,6042308135,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,59,WHITE
+TCGA-BP-5192,6042308166,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,59,WHITE
+TCGA-BP-5194,6042308135,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,39,WHITE
+TCGA-BP-5194,6042308144,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,39,WHITE
+TCGA-BP-5195,6042308104,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,75,WHITE
+TCGA-BP-5195,6042308104,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,75,WHITE
+TCGA-BP-5196,6042308152,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,53,WHITE
+TCGA-BP-5196,6042308144,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,53,WHITE
+TCGA-BP-5198,6042308104,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,72,WHITE
+TCGA-BP-5198,6042308144,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,72,WHITE
+TCGA-BP-5199,6042308103,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,58,WHITE
+TCGA-BP-5199,6042308104,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,58,WHITE
+TCGA-BP-5200,6042308129,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,44,WHITE
+TCGA-BP-5200,6042308104,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,44,WHITE
+TCGA-BP-5201,6042308135,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-BP-5201,6042308166,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-BP-5202,6042308152,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,75,WHITE
+TCGA-BP-5202,6042308166,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,75,WHITE
+TCGA-CJ-4869,6042308103,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,49,WHITE
+TCGA-CJ-4869,6042308135,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,49,WHITE
+TCGA-CJ-4882,6042308129,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-CJ-4882,6042308103,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-CJ-4897,6042308164,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,79,WHITE
+TCGA-CJ-4897,6042308135,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,79,WHITE
+TCGA-CJ-4901,6042308103,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,47,WHITE
+TCGA-CJ-4901,6042308144,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,47,WHITE
+TCGA-CJ-4902,6042308152,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,61,WHITE
+TCGA-CJ-4902,6042308166,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,61,WHITE
+TCGA-CJ-4903,6042308166,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,50,WHITE
+TCGA-CJ-4903,6042308164,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,50,WHITE
+TCGA-CJ-4904,6042308166,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,60,WHITE
+TCGA-CJ-4904,6042308103,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,60,WHITE
+TCGA-CJ-4905,6042308144,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,62,WHITE
+TCGA-CJ-4905,6042308129,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,62,WHITE
+TCGA-CJ-4907,6042308164,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,58,WHITE
+TCGA-CJ-4907,6042308152,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,58,WHITE
+TCGA-CJ-4908,6042308129,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,38,WHITE
+TCGA-CJ-4908,6042308129,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,38,WHITE
+TCGA-CJ-4912,6042308129,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,61,WHITE
+TCGA-CJ-4912,6042308164,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,61,WHITE
+TCGA-CJ-4913,6042308164,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,45,WHITE
+TCGA-CJ-4913,6042308104,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,45,WHITE
+TCGA-CJ-4916,6042308164,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,69,WHITE
+TCGA-CJ-4916,6042308135,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,69,WHITE
+TCGA-CJ-4918,6042308135,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,64,WHITE
+TCGA-CJ-4918,6042308103,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,64,WHITE
+TCGA-CJ-4920,6042308103,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,64,WHITE
+TCGA-CJ-4920,6042308164,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,64,WHITE
+TCGA-CJ-4923,6042308104,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,63,WHITE
+TCGA-CJ-4923,6042308152,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,63,WHITE
+TCGA-CJ-5671,6929671144,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,51,WHITE
+TCGA-CJ-5672,6285650093,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,84,WHITE
+TCGA-CJ-5675,6285650093,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,70,WHITE
+TCGA-CJ-5676,6285650093,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,47,WHITE
+TCGA-CJ-5677,6285650094,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,54,WHITE
+TCGA-CJ-5678,6285650095,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,62,BLACK OR AFRICAN AMERICAN
+TCGA-CJ-5679,6285650094,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,73,WHITE
+TCGA-CJ-5680,6929671134,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,65,WHITE
+TCGA-CJ-5681,6285617026,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,44,WHITE
+TCGA-CJ-5682,6285617026,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,60,WHITE
+TCGA-CJ-5683,6285650093,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,78,WHITE
+TCGA-CJ-5684,6285650095,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,61,WHITE
+TCGA-CJ-5686,6929718090,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,59,WHITE
+TCGA-CJ-5689,6285650093,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,90,WHITE
+TCGA-CJ-6027,6929718091,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,77,WHITE
+TCGA-CJ-6028,6929718092,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,58,WHITE
+TCGA-CJ-6030,6929718092,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,65,WHITE
+TCGA-CJ-6031,6929718092,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,54,WHITE
+TCGA-CJ-6032,6929718088,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,63,WHITE
+TCGA-CJ-6033,6929718091,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,54,WHITE
+TCGA-CW-5580,6929718092,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,73,WHITE
+TCGA-CW-5581,6285617026,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,44,WHITE
+TCGA-CW-5583,6929671134,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,51,WHITE
+TCGA-CW-5584,6285617068,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,74,WHITE
+TCGA-CW-5585,6285650095,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,51,WHITE
+TCGA-CW-5587,6285650093,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,62,WHITE
+TCGA-CW-5588,6285650094,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,78,WHITE
+TCGA-CW-5589,6285650094,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,52,WHITE
+TCGA-CW-5590,6285650095,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,51,WHITE
+TCGA-CW-5591,6285650095,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,56,WHITE
+TCGA-CW-6087,6929718091,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,61,WHITE
+TCGA-CW-6088,6929718088,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,60,WHITE
+TCGA-CW-6090,6929718092,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,68,WHITE
+TCGA-CW-6093,6929718091,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,73,WHITE
+TCGA-CW-6097,6929718088,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,32,WHITE
+TCGA-CZ-4853,6042308152,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,82,WHITE
+TCGA-CZ-4853,6042308144,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,82,WHITE
+TCGA-CZ-4856,6042308129,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,62,WHITE
+TCGA-CZ-4856,6042308135,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,62,WHITE
+TCGA-CZ-4859,6042308144,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,59,WHITE
+TCGA-CZ-4859,6042308104,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,59,WHITE
+TCGA-CZ-4863,6042316017,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,51,WHITE
+TCGA-CZ-4863,6042308157,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,51,WHITE
+TCGA-CZ-4864,6042316046,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,86,WHITE
+TCGA-CZ-4864,6042316046,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,86,WHITE
+TCGA-CZ-4865,6042308132,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,70,WHITE
+TCGA-CZ-4865,6042308163,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,70,WHITE
+TCGA-CZ-4866,6042316017,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,79,WHITE
+TCGA-CZ-4866,6042316009,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,79,WHITE
+TCGA-CZ-5451,6042316046,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,74,WHITE
+TCGA-CZ-5451,6042316046,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,74,WHITE
+TCGA-CZ-5452,6042308132,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,69,WHITE
+TCGA-CZ-5452,6042316017,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,69,WHITE
+TCGA-CZ-5453,6042308157,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,67,WHITE
+TCGA-CZ-5453,6042316017,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,67,WHITE
+TCGA-CZ-5454,6042316046,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-CZ-5454,6042308132,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-CZ-5455,6042316046,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-CZ-5455,6042308157,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-CZ-5456,6042316038,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,57,WHITE
+TCGA-CZ-5456,6042316046,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,57,WHITE
+TCGA-CZ-5457,6042316017,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,62,WHITE
+TCGA-CZ-5457,6042316009,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,62,WHITE
+TCGA-CZ-5458,6042316046,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,43,WHITE
+TCGA-CZ-5458,6042316046,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,43,WHITE
+TCGA-CZ-5459,6042308163,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-CZ-5459,6042308132,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,63,WHITE
+TCGA-CZ-5460,6042308163,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,55,WHITE
+TCGA-CZ-5460,6042316017,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,55,WHITE
+TCGA-CZ-5461,6042316038,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,52,WHITE
+TCGA-CZ-5461,6042316038,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,52,WHITE
+TCGA-CZ-5462,6042308132,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,83,WHITE
+TCGA-CZ-5462,6042308157,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,83,WHITE
+TCGA-CZ-5463,6042308157,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,76,WHITE
+TCGA-CZ-5463,6042308157,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,76,WHITE
+TCGA-CZ-5464,6042308132,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,69,WHITE
+TCGA-CZ-5464,6042308132,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,69,WHITE
+TCGA-CZ-5465,6042308132,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,76,
+TCGA-CZ-5465,6042308157,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,76,
+TCGA-CZ-5466,6042316017,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,67,
+TCGA-CZ-5466,6042316038,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,67,
+TCGA-CZ-5467,6042316046,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,86,WHITE
+TCGA-CZ-5467,6042308157,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,86,WHITE
+TCGA-CZ-5468,6042316009,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,84,WHITE
+TCGA-CZ-5468,6042316046,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,84,WHITE
+TCGA-CZ-5469,6042308163,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,41,WHITE
+TCGA-CZ-5469,6042308163,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,41,WHITE
+TCGA-CZ-5470,6042316038,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Solid Tissue Normal,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,72,
+TCGA-CZ-5470,6042316009,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,72,
+TCGA-CZ-5982,6929718090,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,59,WHITE
+TCGA-CZ-5984,6929718091,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,51,WHITE
+TCGA-CZ-5985,6929718092,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,58,WHITE
+TCGA-CZ-5986,6929718088,R01C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,61,WHITE
+TCGA-CZ-5987,6929718088,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,60,WHITE
+TCGA-CZ-5988,6929718092,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,38,WHITE
+TCGA-CZ-5989,6929718088,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,60,WHITE
+TCGA-DV-5565,6285650093,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,59,WHITE
+TCGA-DV-5566,6285650095,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,67,WHITE
+TCGA-DV-5567,6285650106,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,40,BLACK OR AFRICAN AMERICAN
+TCGA-DV-5568,6929671134,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,26,WHITE
+TCGA-DV-5569,6929671134,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,29,WHITE
+TCGA-DV-5573,6285617026,R03C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,41,WHITE
+TCGA-DV-5574,6285650094,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,37,WHITE
+TCGA-DV-5575,6929671134,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,52,WHITE
+TCGA-DV-5576,6929671144,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-DV-A4VX,8795194065,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-DV-A4VZ,8795194065,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,53,BLACK OR AFRICAN AMERICAN
+TCGA-DV-A4W0,8795194065,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Additional - New Primary,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-DV-A4W0,8795194066,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-EU-5904,6929718088,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,47,WHITE
+TCGA-EU-5905,6929718088,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,67,WHITE
+TCGA-EU-5906,6929718088,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,55,WHITE
+TCGA-EU-5907,6929718090,R05C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,81,WHITE
+TCGA-G6-A5PC,9422492127,R04C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,54,BLACK OR AFRICAN AMERICAN
+TCGA-G6-A8L6,9701417173,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-G6-A8L7,9701417173,R06C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,81,BLACK OR AFRICAN AMERICAN
+TCGA-G6-A8L8,9701417173,R06C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,62,BLACK OR AFRICAN AMERICAN
+TCGA-GK-A6C7,9422492127,R02C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,76,BLACK OR AFRICAN AMERICAN
+TCGA-MM-A563,8795194065,R02C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,41,BLACK OR AFRICAN AMERICAN
+TCGA-MM-A564,8795194065,R04C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,MALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-MM-A84U,9701417173,R01C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,58,BLACK OR AFRICAN AMERICAN
+TCGA-MW-A4EC,8795194065,R03C01,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,72,BLACK OR AFRICAN AMERICAN
+TCGA-T7-A92I,9701417173,R05C02,Illumina Human Methylation 450,TCGA-KIRC,JHU_USC,Primary Tumor,Kidney,Kidney Clear Cell Renal Carcinoma,FEMALE,47,BLACK OR AFRICAN AMERICAN

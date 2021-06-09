@@ -1,0 +1,270 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-3B-A9HI,9828653014,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Upper Extremity - Upper arm/elbow,Dedifferentiated liposarcoma,MALE,68,WHITE
+TCGA-3B-A9HJ,9828653014,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Groin,Dedifferentiated liposarcoma,MALE,68,WHITE
+TCGA-3B-A9HL,9828653006,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,67,WHITE
+TCGA-3B-A9HO,9828653006,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Intraabdominal,Dedifferentiated liposarcoma,MALE,75,WHITE
+TCGA-3B-A9HP,9828653006,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),FEMALE,57,WHITE
+TCGA-3B-A9HQ,9828653006,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),FEMALE,66,WHITE
+TCGA-3B-A9HR,9806233138,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Leiomyosarcoma (LMS),FEMALE,38,BLACK OR AFRICAN AMERICAN
+TCGA-3B-A9HS,9828653010,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),MALE,60,WHITE
+TCGA-3B-A9HT,9828653004,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Head and Neck - Other (please specify,Leiomyosarcoma (LMS),MALE,53,WHITE
+TCGA-3B-A9HU,9828653002,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),FEMALE,53,BLACK OR AFRICAN AMERICAN
+TCGA-3B-A9HV,9828653004,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,48,WHITE
+TCGA-3B-A9HX,9828653002,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Colon,Leiomyosarcoma (LMS),FEMALE,70,WHITE
+TCGA-3B-A9HY,9828653002,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Leiomyosarcoma (LMS),MALE,49,WHITE
+TCGA-3B-A9HZ,9828653004,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Chest - Mediastinum,Leiomyosarcoma (LMS),MALE,66,WHITE
+TCGA-3B-A9I0,9828653004,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),MALE,33,WHITE
+TCGA-3B-A9I1,9828653010,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,56,BLACK OR AFRICAN AMERICAN
+TCGA-3B-A9I3,9828653002,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),MALE,62,WHITE
+TCGA-3R-A8YX,9701417153,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,66,
+TCGA-DX-A1KU,8795194080,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,82,WHITE
+TCGA-DX-A1KW,8795194080,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,67,WHITE
+TCGA-DX-A1KX,8795194080,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower abdominal/Pelvic - Pelvic,Dedifferentiated liposarcoma,FEMALE,67,WHITE
+TCGA-DX-A1KY,8795194107,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,66,WHITE
+TCGA-DX-A1KZ,8795194107,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,66,WHITE
+TCGA-DX-A1L0,8795194107,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,58,WHITE
+TCGA-DX-A1L1,8795194080,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,60,WHITE
+TCGA-DX-A1L2,8795194107,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,78,WHITE
+TCGA-DX-A1L3,8795194070,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,FEMALE,60,WHITE
+TCGA-DX-A1L4,8795194071,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,60,WHITE
+TCGA-DX-A23R,8795194071,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,FEMALE,55,WHITE
+TCGA-DX-A23T,8795194071,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,FEMALE,40,WHITE
+TCGA-DX-A23U,8795194071,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower abdominal/Pelvic - Pelvic,Dedifferentiated liposarcoma,MALE,81,WHITE
+TCGA-DX-A23V,9296930141,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,FEMALE,57,WHITE
+TCGA-DX-A23Y,9285451179,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,80,WHITE
+TCGA-DX-A23Z,9285451179,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,74,WHITE
+TCGA-DX-A240,9285451179,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower abdominal/Pelvic - Spermatic Cord,Dedifferentiated liposarcoma,MALE,51,WHITE
+TCGA-DX-A2IZ,7786915033,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,60,WHITE
+TCGA-DX-A2J0,7786915033,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,61,WHITE
+TCGA-DX-A2J1,7786915033,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,53,WHITE
+TCGA-DX-A2J4,7786915032,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Intraabdominal,Dedifferentiated liposarcoma,MALE,60,WHITE
+TCGA-DX-A3LS,7786915032,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,FEMALE,78,WHITE
+TCGA-DX-A3LT,7786915033,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Upper Extremity - Upper arm/elbow,Dedifferentiated liposarcoma,MALE,62,WHITE
+TCGA-DX-A3LU,7786915032,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,60,WHITE
+TCGA-DX-A3LW,7786915032,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,43,WHITE
+TCGA-DX-A3LY,9285451179,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,66,WHITE
+TCGA-DX-A3M1,7796806136,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,79,WHITE
+TCGA-DX-A3M2,7796806136,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,59,WHITE
+TCGA-DX-A3U5,7796806136,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,52,WHITE
+TCGA-DX-A3U6,9296931074,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,FEMALE,63,WHITE
+TCGA-DX-A3U7,9296931074,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Leiomyosarcoma (LMS),MALE,67,WHITE
+TCGA-DX-A3U8,9296931074,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower abdominal/Pelvic - Spermatic Cord,Leiomyosarcoma (LMS),MALE,43,
+TCGA-DX-A3U9,9283265164,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower abdominal/Pelvic - Other (please specify,Leiomyosarcoma (LMS),MALE,84,WHITE
+TCGA-DX-A3UA,9283265150,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Foot/ankle,Leiomyosarcoma (LMS),FEMALE,47,WHITE
+TCGA-DX-A3UB,9283265150,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Small Intestines,Leiomyosarcoma (LMS),MALE,54,WHITE
+TCGA-DX-A3UC,9283265162,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),FEMALE,37,WHITE
+TCGA-DX-A3UD,9283265162,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Kidney,Leiomyosarcoma (LMS),MALE,56,WHITE
+TCGA-DX-A3UE,9283265164,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Superficial Trunk - Back,Leiomyosarcoma (LMS),FEMALE,66,WHITE
+TCGA-DX-A3UF,9283265150,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),FEMALE,65,WHITE
+TCGA-DX-A48J,9283265162,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),MALE,44,BLACK OR AFRICAN AMERICAN
+TCGA-DX-A48K,9283265162,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Lower leg/calf,Leiomyosarcoma (LMS),MALE,65,WHITE
+TCGA-DX-A48L,9283265164,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Lower leg/calf,Leiomyosarcoma (LMS),FEMALE,49,WHITE
+TCGA-DX-A48N,9283265162,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,47,WHITE
+TCGA-DX-A48O,9283265150,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),FEMALE,63,WHITE
+TCGA-DX-A48P,9283265164,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),FEMALE,54,WHITE
+TCGA-DX-A48R,9283265150,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),MALE,41,WHITE
+TCGA-DX-A48U,9283265162,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),MALE,57,WHITE
+TCGA-DX-A48V,9283265164,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),MALE,78,WHITE
+TCGA-DX-A6B7,9283265162,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Colon,Leiomyosarcoma (LMS),MALE,55,WHITE
+TCGA-DX-A6B8,9283265162,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Upper Extremity - Shoulder/axilla,Leiomyosarcoma (LMS),MALE,80,WHITE
+TCGA-DX-A6B9,9422491161,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Colon,Leiomyosarcoma (LMS),FEMALE,45,BLACK OR AFRICAN AMERICAN
+TCGA-DX-A6BA,9283265162,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower abdominal/Pelvic - Pelvic,Leiomyosarcoma (LMS),FEMALE,53,WHITE
+TCGA-DX-A6BB,9422491159,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower abdominal/Pelvic - Pelvic,Leiomyosarcoma (LMS),MALE,74,WHITE
+TCGA-DX-A6BE,9422491161,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,77,WHITE
+TCGA-DX-A6BF,9283265150,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,FEMALE,82,WHITE
+TCGA-DX-A6BG,9283265150,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,51,WHITE
+TCGA-DX-A6BH,9283265162,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower abdominal/Pelvic - Pelvic,Dedifferentiated liposarcoma,MALE,34,WHITE
+TCGA-DX-A6BK,9283265150,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,FEMALE,85,WHITE
+TCGA-DX-A6YQ,9422492060,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Other (please specify,Myxofibrosarcoma,FEMALE,86,
+TCGA-DX-A6YR,9482801004,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Chest - Chest wall,Myxofibrosarcoma,MALE,75,WHITE
+TCGA-DX-A6YS,9482801004,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Other (please specify,Myxofibrosarcoma,MALE,61,WHITE
+TCGA-DX-A6YT,9482801004,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Myxofibrosarcoma,FEMALE,31,WHITE
+TCGA-DX-A6YU,9422492060,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Chest - Chest wall,Myxofibrosarcoma,FEMALE,50,WHITE
+TCGA-DX-A6YV,9482801004,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Myxofibrosarcoma,MALE,74,WHITE
+TCGA-DX-A6YX,3999547165,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Myxofibrosarcoma,FEMALE,68,
+TCGA-DX-A6YZ,9482801004,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Myxofibrosarcoma,MALE,59,WHITE
+TCGA-DX-A6Z0,9630789197,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Myxofibrosarcoma,FEMALE,78,WHITE
+TCGA-DX-A6Z2,9630789215,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),FEMALE,82,WHITE
+TCGA-DX-A7EF,9422492093,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,FEMALE,88,WHITE
+TCGA-DX-A7EI,9422492060,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,FEMALE,78,WHITE
+TCGA-DX-A7EL,9630789198,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Other (please specify,Leiomyosarcoma (LMS),FEMALE,56,WHITE
+TCGA-DX-A7EM,9630789215,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),MALE,61,WHITE
+TCGA-DX-A7EN,9828653002,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),FEMALE,53,WHITE
+TCGA-DX-A7EO,9630789198,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Superficial Trunk - Flank,Synovial Sarcoma - Biphasic,FEMALE,20,WHITE
+TCGA-DX-A7EQ,9828653014,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Synovial Sarcoma - Monophasic,MALE,72,WHITE
+TCGA-DX-A7ER,9630789198,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Chest - Lung/pleura,Synovial Sarcoma - Monophasic,MALE,69,WHITE
+TCGA-DX-A7ES,9828653004,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,FEMALE,50,WHITE
+TCGA-DX-A7ET,9630789198,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Superficial Trunk - Abdominal wall,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,MALE,71,BLACK OR AFRICAN AMERICAN
+TCGA-DX-A7EU,9630789198,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower abdominal/Pelvic - Pelvic,Myxofibrosarcoma,FEMALE,79,WHITE
+TCGA-DX-A8BG,3999547165,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Myxofibrosarcoma,FEMALE,83,WHITE
+TCGA-DX-A8BH,9701417153,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Superficial Trunk - Abdominal wall,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,MALE,86,WHITE
+TCGA-DX-A8BJ,3999547165,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Chest - Chest wall,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,MALE,76,WHITE
+TCGA-DX-A8BK,9701417153,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,FEMALE,61,WHITE
+TCGA-DX-A8BL,3999510111,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Upper Extremity - Shoulder/axilla,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,MALE,59,WHITE
+TCGA-DX-A8BM,3999547165,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,MALE,60,WHITE
+TCGA-DX-A8BN,9701417153,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,FEMALE,78,WHITE
+TCGA-DX-A8BO,3999547165,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Lower leg/calf,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,FEMALE,67,WHITE
+TCGA-DX-A8BP,9701417153,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,MALE,85,WHITE
+TCGA-DX-A8BQ,9701417153,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,MALE,63,WHITE
+TCGA-DX-A8BR,3999547163,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,FEMALE,63,WHITE
+TCGA-DX-A8BS,9701417153,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,FEMALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-DX-A8BT,9701417149,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Upper Extremity - Shoulder/axilla,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,FEMALE,63,WHITE
+TCGA-DX-A8BU,9701417161,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,MALE,58,WHITE
+TCGA-DX-A8BV,9701417149,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Myxofibrosarcoma,MALE,57,WHITE
+TCGA-DX-A8BX,9701417149,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,MALE,52,WHITE
+TCGA-DX-A8BZ,9701417153,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Superficial Trunk - Buttock,Leiomyosarcoma (LMS),FEMALE,78,BLACK OR AFRICAN AMERICAN
+TCGA-DX-AATS,3999547163,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,MALE,72,WHITE
+TCGA-DX-AB2E,9828653004,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Upper Extremity - Shoulder/axilla,Myxofibrosarcoma,MALE,60,WHITE
+TCGA-DX-AB2F,9828653014,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,FEMALE,76,WHITE
+TCGA-DX-AB2G,9828653002,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,36,WHITE
+TCGA-DX-AB2H,9828653004,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,FEMALE,80,WHITE
+TCGA-DX-AB2J,9828653006,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower abdominal/Pelvic - Pelvic,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,FEMALE,71,WHITE
+TCGA-DX-AB2L,3999547163,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Myxofibrosarcoma,MALE,35,WHITE
+TCGA-DX-AB2O,9828653004,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Lower leg/calf,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,FEMALE,78,WHITE
+TCGA-DX-AB2P,9806233138,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,MALE,79,WHITE
+TCGA-DX-AB2Q,9828653002,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Lower leg/calf,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,FEMALE,65,WHITE
+TCGA-DX-AB2S,9828653002,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Superficial Trunk - Back,Myxofibrosarcoma,FEMALE,53,WHITE
+TCGA-DX-AB2T,9828653006,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Myxofibrosarcoma,FEMALE,54,BLACK OR AFRICAN AMERICAN
+TCGA-DX-AB2V,3999547165,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Superficial Trunk - Back,Myxofibrosarcoma,MALE,81,WHITE
+TCGA-DX-AB2W,9828653002,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,FEMALE,62,WHITE
+TCGA-DX-AB2X,9828653006,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Lower leg/calf,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,FEMALE,73,WHITE
+TCGA-DX-AB2Z,9828653014,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,FEMALE,87,WHITE
+TCGA-DX-AB30,9828653004,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Myxofibrosarcoma,FEMALE,53,WHITE
+TCGA-DX-AB32,3999547163,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Chest - Chest wall,Myxofibrosarcoma,MALE,51,WHITE
+TCGA-DX-AB35,3999547165,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,65,WHITE
+TCGA-DX-AB36,3999547163,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Chest - Chest wall,Dedifferentiated liposarcoma,MALE,86,WHITE
+TCGA-DX-AB37,3999547163,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Dedifferentiated liposarcoma,FEMALE,73,WHITE
+TCGA-DX-AB3A,3999547165,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,MALE,80,WHITE
+TCGA-DX-AB3B,3999547165,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Foot/ankle,Synovial Sarcoma - Monophasic,FEMALE,28,WHITE
+TCGA-DX-AB3C,3999547163,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Synovial Sarcoma - Monophasic,MALE,27,WHITE
+TCGA-FX-A2QS,7786915033,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Other (please specify,Dedifferentiated liposarcoma,FEMALE,61,WHITE
+TCGA-FX-A3NJ,7786915033,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Kidney,Leiomyosarcoma (LMS),MALE,54,WHITE
+TCGA-FX-A3NK,7786915032,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Gastric,Dedifferentiated liposarcoma,MALE,53,WHITE
+TCGA-FX-A3RE,7796806136,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Ovary,Leiomyosarcoma (LMS),FEMALE,65,WHITE
+TCGA-FX-A3TO,7796806136,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Undifferentiated Pleomorphic Sarcoma (UPS),MALE,87,WHITE
+TCGA-FX-A48G,8795194080,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,56,WHITE
+TCGA-FX-A48G,8795194080,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Solid Tissue Normal,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,56,WHITE
+TCGA-FX-A76Y,9482801004,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,49,WHITE
+TCGA-FX-A8OO,9630789215,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Chest - Lung/pleura,Sarcoma; synovial; poorly differentiated,FEMALE,31,WHITE
+TCGA-HB-A2OT,7786915033,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Undifferentiated Pleomorphic Sarcoma (UPS),FEMALE,78,BLACK OR AFRICAN AMERICAN
+TCGA-HB-A3L4,7786915033,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - UterusGynecological - Cervix,Leiomyosarcoma (LMS),FEMALE,46,WHITE
+TCGA-HB-A3YV,8795194080,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Kidney,Undifferentiated Pleomorphic Sarcoma (UPS),MALE,75,WHITE
+TCGA-HB-A43Z,8795194107,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,58,WHITE
+TCGA-HB-A5W3,9296930141,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Kidney,Leiomyosarcoma (LMS),FEMALE,58,WHITE
+TCGA-HS-A5N7,8795194071,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),FEMALE,67,
+TCGA-HS-A5N8,8795194071,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,69,
+TCGA-HS-A5N9,8795194071,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,58,
+TCGA-HS-A5NA,8795194071,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,65,
+TCGA-IE-A3OV,7796806136,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Leiomyosarcoma (LMS),MALE,42,WHITE
+TCGA-IE-A4EH,8795194107,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,35,WHITE
+TCGA-IE-A4EI,8795194107,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Leiomyosarcoma (LMS),FEMALE,67,WHITE
+TCGA-IE-A4EJ,8795194107,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Undifferentiated Pleomorphic Sarcoma (UPS),FEMALE,84,WHITE
+TCGA-IE-A4EK,8795194080,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Kidney,Leiomyosarcoma (LMS),MALE,54,WHITE
+TCGA-IE-A6BZ,9283265162,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Superficial Trunk - Buttock,Undifferentiated Pleomorphic Sarcoma (UPS),FEMALE,65,WHITE
+TCGA-IF-A3RQ,7796806136,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - RetroperitoneumRetroperitoneum/Upper abdominal - IntraabdominalLower abdominal/Pelvic - Pelvic,Dedifferentiated liposarcoma,FEMALE,70,WHITE
+TCGA-IF-A4AJ,8795194070,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Solid Tissue Normal,Lower Extremity - Lower leg/calf,Leiomyosarcoma (LMS),MALE,80,WHITE
+TCGA-IF-A4AJ,8795194080,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Lower leg/calf,Leiomyosarcoma (LMS),MALE,80,WHITE
+TCGA-IF-A4AK,8795194107,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Leiomyosarcoma (LMS),FEMALE,82,WHITE
+TCGA-IS-A3K6,7786915033,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,55,WHITE
+TCGA-IS-A3K7,7786915033,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,63,WHITE
+TCGA-IS-A3K8,7786915032,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,44,WHITE
+TCGA-IS-A3KA,7786915033,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,73,WHITE
+TCGA-IW-A3M4,7786915033,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,48,WHITE
+TCGA-IW-A3M5,7786915032,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,76,WHITE
+TCGA-IW-A3M6,7786915032,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,59,ASIAN
+TCGA-JV-A5VE,9296931074,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower abdominal/Pelvic - PelvicGynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-JV-A5VF,9296931074,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower abdominal/Pelvic - PelvicGynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-JV-A75J,9422491161,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,43,WHITE
+TCGA-K1-A3PN,7796806136,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Recurrent Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,64,WHITE
+TCGA-K1-A3PN,7796806136,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,64,WHITE
+TCGA-K1-A3PO,7786915032,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower abdominal/Pelvic - Bladder,Leiomyosarcoma (LMS),MALE,42,WHITE
+TCGA-K1-A42W,8795194107,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Pancreas,Leiomyosarcoma (LMS),FEMALE,65,WHITE
+TCGA-K1-A42X,8795194080,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Solid Tissue Normal,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,62,WHITE
+TCGA-K1-A42X,8795194070,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Recurrent Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,62,WHITE
+TCGA-K1-A42X,8795194080,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,62,WHITE
+TCGA-K1-A6RT,9422492060,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Leiomyosarcoma (LMS),MALE,48,WHITE
+TCGA-K1-A6RU,9422491161,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Myxofibrosarcoma,FEMALE,66,WHITE
+TCGA-K1-A6RV,9422491159,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Leiomyosarcoma (LMS),MALE,67,WHITE
+TCGA-KD-A5QS,9285451185,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,55,WHITE
+TCGA-KD-A5QT,9285451185,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - UterusGynecological - Cervix,Leiomyosarcoma (LMS),FEMALE,69,
+TCGA-KD-A5QU,9285451185,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - UterusGynecological - Other (please specify,Leiomyosarcoma (LMS),FEMALE,41,WHITE
+TCGA-KF-A41W,8795194070,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,71,WHITE
+TCGA-KF-A41W,8795194070,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Solid Tissue Normal,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,71,WHITE
+TCGA-LI-A67I,9283265150,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Myxofibrosarcoma,FEMALE,75,WHITE
+TCGA-LI-A9QH,9701417161,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Lower leg/calf,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,FEMALE,72,WHITE
+TCGA-MB-A5Y8,9296930141,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Lower leg/calf,Undifferentiated Pleomorphic Sarcoma (UPS),FEMALE,60,WHITE
+TCGA-MB-A5Y9,9296931074,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Lower leg/calf,Undifferentiated Pleomorphic Sarcoma (UPS),MALE,90,WHITE
+TCGA-MB-A5YA,9296930141,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Colon,Leiomyosarcoma (LMS),MALE,63,WHITE
+TCGA-MB-A8JK,9630789215,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,MALE,49,WHITE
+TCGA-MB-A8JL,9630789198,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Chest - Breast,Leiomyosarcoma (LMS),FEMALE,53,WHITE
+TCGA-MJ-A68H,9283265150,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower abdominal/Pelvic - Other (please specify,Leiomyosarcoma (LMS),FEMALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-MJ-A68J,9283265150,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Lower leg/calf,Myxofibrosarcoma,FEMALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-MJ-A850,9482801004,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Head and Neck - NeckHead and Neck - Other (please specify,Synovial Sarcoma - Monophasic,MALE,28,WHITE
+TCGA-MO-A47P,8795194080,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Kidney,Dedifferentiated liposarcoma,FEMALE,37,ASIAN
+TCGA-MO-A47R,8795194107,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Intraabdominal,Leiomyosarcoma (LMS),FEMALE,75,ASIAN
+TCGA-N1-A6IA,9422491161,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,41,BLACK OR AFRICAN AMERICAN
+TCGA-PC-A5DK,9285451185,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),MALE,63,WHITE
+TCGA-PC-A5DL,8795194071,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),MALE,67,WHITE
+TCGA-PC-A5DM,9285451179,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Other (please specify,Leiomyosarcoma (LMS),MALE,73,WHITE
+TCGA-PC-A5DN,9285451179,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),FEMALE,77,WHITE
+TCGA-PC-A5DO,8795194071,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),FEMALE,59,WHITE
+TCGA-PC-A5DP,8795194071,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Leiomyosarcoma (LMS),FEMALE,72,WHITE
+TCGA-PT-A8TR,9701417153,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,57,WHITE
+TCGA-QC-A6FX,9422492030,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Superficial Trunk - Back,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,MALE,68,WHITE
+TCGA-QC-A7B5,9422492060,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Head and Neck - Head,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,MALE,75,WHITE
+TCGA-QC-AA9N,9828653002,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Superficial Trunk - Buttock,Undifferentiated Pleomorphic Sarcoma (UPS),FEMALE,53,BLACK OR AFRICAN AMERICAN
+TCGA-QQ-A5V2,9422491161,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower abdominal/Pelvic - Pelvic,Giant cell 'MFH' / Undifferentiated pleomorphic sarcoma with giant cells,MALE,42,WHITE
+TCGA-QQ-A5V9,9422491161,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Undifferentiated Pleomorphic Sarcoma (UPS),MALE,76,WHITE
+TCGA-QQ-A5VA,9422491161,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Dedifferentiated liposarcoma,FEMALE,60,WHITE
+TCGA-QQ-A5VB,9630789198,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Groin,Leiomyosarcoma (LMS),FEMALE,53,WHITE
+TCGA-QQ-A5VC,9422491161,R06C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Leiomyosarcoma (LMS),FEMALE,63,WHITE
+TCGA-QQ-A5VD,9422491161,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Foot/ankle,Leiomyosarcoma (LMS),MALE,52,WHITE
+TCGA-QQ-A8VB,9701417149,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Superficial Trunk - Buttock,Malignant Peripheral Nerve Sheath Tumors (MPNST),FEMALE,68,WHITE
+TCGA-QQ-A8VD,9828653004,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - IntraabdominalRetroperitoneum/Upper abdominal - Small Intestines,Desmoid Tumor,MALE,56,WHITE
+TCGA-QQ-A8VF,9701417161,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Lower leg/calf,Leiomyosarcoma (LMS),MALE,70,WHITE
+TCGA-QQ-A8VG,9701417153,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Superficial Trunk - Back,Malignant Peripheral Nerve Sheath Tumors (MPNST),MALE,52,WHITE
+TCGA-QQ-A8VH,9701417161,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Chest - Other (please specify,Malignant Peripheral Nerve Sheath Tumors (MPNST),FEMALE,31,WHITE
+TCGA-RN-A68Q,9283265150,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Head and Neck - Other (please specify,Malignant Peripheral Nerve Sheath Tumors (MPNST),FEMALE,62,WHITE
+TCGA-RN-AAAQ,9828653002,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Upper Extremity - Shoulder/axilla,Malignant Peripheral Nerve Sheath Tumors (MPNST),MALE,52,WHITE
+TCGA-SG-A6Z4,9422492060,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Pleomorphic 'MFH' / Undifferentiated pleomorphic sarcoma,MALE,47,WHITE
+TCGA-SG-A6Z7,9422491159,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - KidneyRetroperitoneum/Upper abdominal - LiverRetroperitoneum/Upper abdominal - Other (please specify,Dedifferentiated liposarcoma,FEMALE,44,WHITE
+TCGA-SG-A849,9482801004,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Upper Extremity - Upper arm/elbow,Undifferentiated Pleomorphic Sarcoma (UPS),MALE,78,WHITE
+TCGA-SI-A71O,9828653014,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Metastatic,Lower Extremity - Other (please specify,Malignant Peripheral Nerve Sheath Tumors (MPNST),MALE,29,WHITE
+TCGA-SI-A71O,9422492093,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Other (please specify,Malignant Peripheral Nerve Sheath Tumors (MPNST),MALE,29,WHITE
+TCGA-SI-A71P,9422492060,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,,Malignant Peripheral Nerve Sheath Tumors (MPNST),MALE,50,WHITE
+TCGA-SI-A71Q,9422492060,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Chest - Chest wall,Malignant Peripheral Nerve Sheath Tumors (MPNST),FEMALE,34,BLACK OR AFRICAN AMERICAN
+TCGA-SI-AA8B,9828653014,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Undifferentiated Pleomorphic Sarcoma (UPS),FEMALE,80,WHITE
+TCGA-SI-AA8C,9828653014,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Malignant Peripheral Nerve Sheath Tumors (MPNST),FEMALE,20,WHITE
+TCGA-UE-A6QT,9422492030,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Head and Neck - HeadChest - Chest wall,Undifferentiated Pleomorphic Sarcoma (UPS),FEMALE,50,ASIAN
+TCGA-UE-A6QU,9422491161,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Upper Extremity - Shoulder/axilla,Undifferentiated Pleomorphic Sarcoma (UPS),FEMALE,90,ASIAN
+TCGA-VT-A80G,9630789198,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Other (please specify,Undifferentiated Pleomorphic Sarcoma (UPS),MALE,66,WHITE
+TCGA-VT-A80J,3999547163,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Recurrent Tumor,Lower Extremity - Lower leg/calf,Undifferentiated Pleomorphic Sarcoma (UPS),FEMALE,49,WHITE
+TCGA-VT-A80J,9630789198,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Lower leg/calf,Undifferentiated Pleomorphic Sarcoma (UPS),FEMALE,49,WHITE
+TCGA-VT-AB3D,3999547165,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Upper Extremity - Upper arm/elbow,Undifferentiated Pleomorphic Sarcoma (UPS),MALE,71,WHITE
+TCGA-WK-A8XO,9701417161,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - RetroperitoneumRetroperitoneum/Upper abdominal - Small IntestinesRetroperitoneum/Upper abdominal - Other (please specify,Dedifferentiated liposarcoma,FEMALE,66,WHITE
+TCGA-WK-A8XQ,9701417161,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - IntraabdominalRetroperitoneum/Upper abdominal - Other (please specify,Dedifferentiated liposarcoma,MALE,57,WHITE
+TCGA-WK-A8XS,9701417161,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Gastric,Leiomyosarcoma (LMS),FEMALE,58,WHITE
+TCGA-WK-A8XT,9701417149,R06C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Kidney,Synovial Sarcoma - Monophasic,FEMALE,40,WHITE
+TCGA-WK-A8XX,9701417161,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - RetroperitoneumRetroperitoneum/Upper abdominal - Other (please specify,Leiomyosarcoma (LMS),MALE,70,WHITE
+TCGA-WK-A8XY,9701417149,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Small IntestinesRetroperitoneum/Upper abdominal - Other (please specify,Leiomyosarcoma (LMS),FEMALE,53,WHITE
+TCGA-WK-A8XZ,9701417153,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - RetroperitoneumRetroperitoneum/Upper abdominal - Other (please specify,Leiomyosarcoma (LMS),FEMALE,56,WHITE
+TCGA-WK-A8Y0,3999547163,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Chest - Chest wall,Undifferentiated Pleomorphic Sarcoma (UPS),FEMALE,49,WHITE
+TCGA-WP-A9GB,9701417149,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,59,WHITE
+TCGA-X2-A95T,9701417153,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,49,WHITE
+TCGA-X6-A7W8,9482801004,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Myxofibrosarcoma,MALE,89,WHITE
+TCGA-X6-A7WA,9482801015,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Chest - Other (please specify,Leiomyosarcoma (LMS),FEMALE,90,WHITE
+TCGA-X6-A7WB,9482801004,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Gynecological - Uterus,Leiomyosarcoma (LMS),FEMALE,58,WHITE
+TCGA-X6-A7WC,9482801004,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Leiomyosarcoma (LMS),MALE,74,WHITE
+TCGA-X6-A7WD,9482801004,R05C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Lower leg/calf,Leiomyosarcoma (LMS),FEMALE,63,WHITE
+TCGA-X6-A8C2,9630789198,R02C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Lower leg/calf,Undifferentiated Pleomorphic Sarcoma (UPS),MALE,56,WHITE
+TCGA-X6-A8C3,9630789198,R04C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Lower leg/calf,Myxofibrosarcoma,FEMALE,59,ASIAN
+TCGA-X6-A8C4,9630789198,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Lower leg/calf,Undifferentiated Pleomorphic Sarcoma (UPS),FEMALE,70,WHITE
+TCGA-X6-A8C5,9630789215,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Small Intestines,Leiomyosarcoma (LMS),FEMALE,63,BLACK OR AFRICAN AMERICAN
+TCGA-X6-A8C6,9630789215,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Myxofibrosarcoma,MALE,55,WHITE
+TCGA-X6-A8C7,9630789215,R03C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Foot/ankle,Synovial Sarcoma - Biphasic,FEMALE,24,WHITE
+TCGA-X9-A971,9828653006,R04C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Upper Extremity - Shoulder/axilla,Leiomyosarcoma (LMS),FEMALE,52,WHITE
+TCGA-X9-A973,9828653006,R01C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower abdominal/Pelvic - Pelvic,Undifferentiated Pleomorphic Sarcoma (UPS),MALE,55,WHITE
+TCGA-Z4-A8JB,9701417161,R02C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Desmoid Tumor,FEMALE,24,WHITE
+TCGA-Z4-A9VC,9701417149,R05C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Lower Extremity - Thigh/knee,Dedifferentiated liposarcoma,MALE,37,WHITE
+TCGA-Z4-AAPF,9828653002,R01C01,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Upper Extremity - Upper arm/elbow,Sarcoma; synovial; poorly differentiated,FEMALE,35,WHITE
+TCGA-Z4-AAPG,9828653004,R03C02,Illumina Human Methylation 450,TCGA-SARC,JHU_USC,Primary Tumor,Retroperitoneum/Upper abdominal - Retroperitoneum,Undifferentiated Pleomorphic Sarcoma (UPS),FEMALE,64,WHITE

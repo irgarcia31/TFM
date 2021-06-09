@@ -1,0 +1,572 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-4C-A93U,9828653010,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,74,BLACK OR AFRICAN AMERICAN
+TCGA-BJ-A0YZ,6229009052,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,65,WHITE
+TCGA-BJ-A0Z0,6229009052,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,55,
+TCGA-BJ-A0Z2,6229009059,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-BJ-A0Z3,6285609024,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,33,WHITE
+TCGA-BJ-A0Z5,6229009053,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,58,WHITE
+TCGA-BJ-A0Z9,6229009053,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,57,WHITE
+TCGA-BJ-A0ZA,6229009053,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,67,WHITE
+TCGA-BJ-A0ZB,6229009059,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,66,WHITE
+TCGA-BJ-A0ZC,6285609024,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,55,WHITE
+TCGA-BJ-A0ZE,6229009053,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,63,WHITE
+TCGA-BJ-A0ZF,6229009052,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,"Other, specify",FEMALE,54,WHITE
+TCGA-BJ-A0ZG,6229009052,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,80,WHITE
+TCGA-BJ-A0ZH,6229009053,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,52,WHITE
+TCGA-BJ-A0ZJ,6229009053,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,36,WHITE
+TCGA-BJ-A18Y,6285609037,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,29,WHITE
+TCGA-BJ-A18Z,6285609006,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,58,WHITE
+TCGA-BJ-A190,6285609006,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,55,WHITE
+TCGA-BJ-A191,6285609024,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,"Other, specify",FEMALE,49,WHITE
+TCGA-BJ-A192,6285609024,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,54,WHITE
+TCGA-BJ-A28R,6929718113,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,38,WHITE
+TCGA-BJ-A28R,6929718112,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,38,WHITE
+TCGA-BJ-A28S,7310440042,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,79,WHITE
+TCGA-BJ-A28T,6929718112,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,34,WHITE
+TCGA-BJ-A28T,6929718089,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,34,WHITE
+TCGA-BJ-A28V,7310440011,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,80,WHITE
+TCGA-BJ-A28W,6929718089,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,32,WHITE
+TCGA-BJ-A28W,6929718089,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,32,WHITE
+TCGA-BJ-A28X,7796806070,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,32,WHITE
+TCGA-BJ-A28X,7796806058,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,32,WHITE
+TCGA-BJ-A28Z,6929718089,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,46,WHITE
+TCGA-BJ-A290,6285650032,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),MALE,70,WHITE
+TCGA-BJ-A290,6285650045,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),MALE,70,WHITE
+TCGA-BJ-A291,6929718113,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,56,WHITE
+TCGA-BJ-A2N7,6929718098,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,30,WHITE
+TCGA-BJ-A2N7,6929718097,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,30,WHITE
+TCGA-BJ-A2N8,6929718097,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,30,WHITE
+TCGA-BJ-A2N8,6929718097,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,30,WHITE
+TCGA-BJ-A2N9,6929718098,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,42,WHITE
+TCGA-BJ-A2N9,6929718098,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,42,WHITE
+TCGA-BJ-A2NA,7310440037,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,77,WHITE
+TCGA-BJ-A2NA,7310440037,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,77,WHITE
+TCGA-BJ-A2P4,6929718097,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,29,WHITE
+TCGA-BJ-A3EZ,6285633092,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,51,WHITE
+TCGA-BJ-A3F0,6285633092,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,64,WHITE
+TCGA-BJ-A3PR,7796806122,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,69,WHITE
+TCGA-BJ-A3PR,7796806107,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,69,WHITE
+TCGA-BJ-A3PT,7796806122,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,51,WHITE
+TCGA-BJ-A3PU,7796806136,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,52,WHITE
+TCGA-BJ-A3PU,7796806136,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,52,WHITE
+TCGA-BJ-A45C,8784241118,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,78,BLACK OR AFRICAN AMERICAN
+TCGA-BJ-A45D,8795194024,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,36,WHITE
+TCGA-BJ-A45E,8795194024,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,46,WHITE
+TCGA-BJ-A45F,8795194024,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,59,WHITE
+TCGA-BJ-A45G,8795194031,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,48,WHITE
+TCGA-BJ-A45H,8784241118,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,45,WHITE
+TCGA-BJ-A45I,8784241118,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,51,WHITE
+TCGA-BJ-A45J,8784241118,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,39,WHITE
+TCGA-BJ-A45K,8784241118,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,33,WHITE
+TCGA-BJ-A4O8,8784241074,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,47,WHITE
+TCGA-BJ-A4O9,8784241112,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,51,WHITE
+TCGA-CE-A13K,6229009053,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,30,ASIAN
+TCGA-CE-A27D,6929718089,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,28,ASIAN
+TCGA-CE-A3MD,6285633002,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,31,ASIAN
+TCGA-CE-A3ME,6285633011,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,51,ASIAN
+TCGA-CE-A481,8795194024,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,41,ASIAN
+TCGA-CE-A482,8784241118,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,27,ASIAN
+TCGA-CE-A483,8784241118,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,34,ASIAN
+TCGA-CE-A484,8795194024,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,37,ASIAN
+TCGA-CE-A485,8795194024,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,32,ASIAN
+TCGA-DE-A0XZ,6285650057,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,65,WHITE
+TCGA-DE-A0Y2,6229009053,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,30,WHITE
+TCGA-DE-A0Y3,6229009053,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,60,ASIAN
+TCGA-DE-A2OL,6929718099,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,44,WHITE
+TCGA-DE-A3KN,6285633002,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,49,WHITE
+TCGA-DE-A4M8,8784241112,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,61,WHITE
+TCGA-DE-A4M9,8784241003,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,28,WHITE
+TCGA-DE-A4MA,8784241003,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,52,BLACK OR AFRICAN AMERICAN
+TCGA-DE-A4MB,8784241074,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,79,WHITE
+TCGA-DE-A4MC,8784241112,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,43,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-DE-A4MD,8784241045,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,71,WHITE
+TCGA-DE-A4MD,8784241074,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Metastatic,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,71,WHITE
+TCGA-DE-A69J,9828653010,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,34,BLACK OR AFRICAN AMERICAN
+TCGA-DE-A69K,9828653010,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,58,BLACK OR AFRICAN AMERICAN
+TCGA-DE-A7U5,9828653010,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,36,BLACK OR AFRICAN AMERICAN
+TCGA-DJ-A13L,7796806107,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),MALE,85,WHITE
+TCGA-DJ-A13M,6229009059,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,28,WHITE
+TCGA-DJ-A13O,6229009059,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,56,WHITE
+TCGA-DJ-A13P,6229009053,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,52,WHITE
+TCGA-DJ-A13R,6229009053,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,50,WHITE
+TCGA-DJ-A13S,6229009052,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,19,WHITE
+TCGA-DJ-A13T,6229009059,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,37,WHITE
+TCGA-DJ-A13U,6229009052,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,60,WHITE
+TCGA-DJ-A13V,6229009052,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,21,
+TCGA-DJ-A13W,6229009052,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,45,WHITE
+TCGA-DJ-A13X,6229009053,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,51,
+TCGA-DJ-A1QD,6042316087,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,20,WHITE
+TCGA-DJ-A1QE,6042316071,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,62,WHITE
+TCGA-DJ-A1QF,6042316071,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,61,WHITE
+TCGA-DJ-A1QG,6042316071,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,62,WHITE
+TCGA-DJ-A1QH,6042316071,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,58,WHITE
+TCGA-DJ-A1QI,6042316087,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,63,WHITE
+TCGA-DJ-A1QL,6042316071,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,70,
+TCGA-DJ-A1QM,6042316087,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,42,WHITE
+TCGA-DJ-A1QN,6042316087,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,42,
+TCGA-DJ-A1QO,6042316087,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),MALE,69,WHITE
+TCGA-DJ-A1QQ,6042316087,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,43,ASIAN
+TCGA-DJ-A2PN,7310440037,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,70,WHITE
+TCGA-DJ-A2PO,7310440016,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,54,WHITE
+TCGA-DJ-A2PP,6929806069,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,47,
+TCGA-DJ-A2PQ,6929718098,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,26,WHITE
+TCGA-DJ-A2PR,6929806069,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,27,ASIAN
+TCGA-DJ-A2PS,6929718097,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,40,WHITE
+TCGA-DJ-A2PT,6929718099,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,70,WHITE
+TCGA-DJ-A2PU,6929806069,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,52,WHITE
+TCGA-DJ-A2PV,6929806069,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,53,WHITE
+TCGA-DJ-A2PW,7310440016,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,65,WHITE
+TCGA-DJ-A2PX,6929718098,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,55,WHITE
+TCGA-DJ-A2PY,6929718098,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,46,WHITE
+TCGA-DJ-A2PZ,6929718099,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,63,WHITE
+TCGA-DJ-A2Q0,6285633085,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,57,WHITE
+TCGA-DJ-A2Q1,7310440012,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,44,WHITE
+TCGA-DJ-A2Q2,7310440012,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,57,WHITE
+TCGA-DJ-A2Q3,6929718099,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,61,ASIAN
+TCGA-DJ-A2Q4,6929718099,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,53,WHITE
+TCGA-DJ-A2Q5,6929718097,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,51,WHITE
+TCGA-DJ-A2Q6,6929718098,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,38,WHITE
+TCGA-DJ-A2Q7,6929718097,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,52,ASIAN
+TCGA-DJ-A2Q8,6929718098,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,47,
+TCGA-DJ-A2Q9,6929718097,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,65,WHITE
+TCGA-DJ-A2QA,6929718098,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,56,ASIAN
+TCGA-DJ-A2QB,7310440016,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,53,ASIAN
+TCGA-DJ-A2QC,6929718097,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,70,
+TCGA-DJ-A3UK,7796806070,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,35,WHITE
+TCGA-DJ-A3UM,7796806058,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,45,ASIAN
+TCGA-DJ-A3UN,7796806070,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,51,WHITE
+TCGA-DJ-A3UO,7796806058,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,63,WHITE
+TCGA-DJ-A3UP,7796806058,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,38,
+TCGA-DJ-A3UQ,7796806093,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,45,ASIAN
+TCGA-DJ-A3UR,7796806093,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,51,WHITE
+TCGA-DJ-A3US,7796806070,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,37,WHITE
+TCGA-DJ-A3UT,7796806058,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,43,WHITE
+TCGA-DJ-A3UU,7796806070,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,49,WHITE
+TCGA-DJ-A3UV,7796806093,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,18,WHITE
+TCGA-DJ-A3UW,7796806048,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,50,WHITE
+TCGA-DJ-A3UX,7796806070,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,46,WHITE
+TCGA-DJ-A3UY,7796806093,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,32,WHITE
+TCGA-DJ-A3UZ,7796806154,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,70,WHITE
+TCGA-DJ-A3V0,7796806154,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),MALE,56,
+TCGA-DJ-A3V2,7796806141,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,44,WHITE
+TCGA-DJ-A3V3,7796806141,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,57,ASIAN
+TCGA-DJ-A3V4,7796806141,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,60,WHITE
+TCGA-DJ-A3V5,7796806154,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,76,WHITE
+TCGA-DJ-A3V6,7796806096,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),MALE,54,WHITE
+TCGA-DJ-A3V7,7800246203,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,44,WHITE
+TCGA-DJ-A3V8,7800246204,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,28,WHITE
+TCGA-DJ-A3V9,7800246198,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,50,WHITE
+TCGA-DJ-A3VA,7800246198,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,39,
+TCGA-DJ-A3VB,7800246165,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),MALE,52,
+TCGA-DJ-A3VD,7800246204,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,32,WHITE
+TCGA-DJ-A3VE,7800246204,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,50,WHITE
+TCGA-DJ-A3VF,7800246190,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,60,WHITE
+TCGA-DJ-A3VG,7800246147,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,40,WHITE
+TCGA-DJ-A3VI,7800246198,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,52,WHITE
+TCGA-DJ-A3VJ,7800246204,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,"Other, specify",MALE,22,WHITE
+TCGA-DJ-A3VK,7800246190,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,63,WHITE
+TCGA-DJ-A3VL,7800246147,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,38,WHITE
+TCGA-DJ-A3VM,7800246165,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,68,WHITE
+TCGA-DJ-A4UL,8784241058,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,68,WHITE
+TCGA-DJ-A4UP,8784241072,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,15,WHITE
+TCGA-DJ-A4UQ,8784241062,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,"Other, specify",MALE,60,ASIAN
+TCGA-DJ-A4UR,8784241062,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,36,ASIAN
+TCGA-DJ-A4UT,8784241003,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,32,WHITE
+TCGA-DJ-A4UW,8784241074,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,34,ASIAN
+TCGA-DJ-A4V0,8784241072,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,36,ASIAN
+TCGA-DJ-A4V2,8784241074,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,38,
+TCGA-DJ-A4V4,8784241062,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,48,WHITE
+TCGA-DJ-A4V5,8784241058,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,55,WHITE
+TCGA-DO-A1JZ,6285609037,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,23,BLACK OR AFRICAN AMERICAN
+TCGA-DO-A1JZ,6285609024,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,23,BLACK OR AFRICAN AMERICAN
+TCGA-DO-A1K0,6285609024,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,30,WHITE
+TCGA-DO-A2HM,7796806048,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,49,WHITE
+TCGA-E3-A3DY,6285633011,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,"Other, specify",MALE,37,WHITE
+TCGA-E3-A3DZ,6285633010,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,55,WHITE
+TCGA-E3-A3E0,6285633010,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,34,WHITE
+TCGA-E3-A3E1,6285633002,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,46,WHITE
+TCGA-E3-A3E2,6285633010,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,34,WHITE
+TCGA-E3-A3E3,6285633002,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,49,WHITE
+TCGA-E3-A3E5,6285633002,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,57,WHITE
+TCGA-E8-A242,6929718112,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,56,WHITE
+TCGA-E8-A2EA,6285650045,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,52,WHITE
+TCGA-E8-A2JQ,6929671042,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,18,WHITE
+TCGA-E8-A2JQ,6929671042,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,18,WHITE
+TCGA-E8-A3X7,7796806096,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,57,WHITE
+TCGA-E8-A413,7800246203,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,38,ASIAN
+TCGA-E8-A414,7800246165,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,45,ASIAN
+TCGA-E8-A415,7800246190,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,39,ASIAN
+TCGA-E8-A416,7800246198,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,51,ASIAN
+TCGA-E8-A417,7800246165,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,38,ASIAN
+TCGA-E8-A418,7800246204,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,75,WHITE
+TCGA-E8-A419,7800246204,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,30,WHITE
+TCGA-E8-A432,7800246165,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,57,ASIAN
+TCGA-E8-A433,7800246203,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,25,ASIAN
+TCGA-E8-A434,7800246147,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,56,ASIAN
+TCGA-E8-A436,8795194024,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,53,ASIAN
+TCGA-E8-A437,8784241118,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,57,WHITE
+TCGA-E8-A438,8795194024,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,23,WHITE
+TCGA-E8-A44K,8795194031,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,50,ASIAN
+TCGA-E8-A44M,8795194024,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,23,ASIAN
+TCGA-EL-A3CL,7310440012,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,70,WHITE
+TCGA-EL-A3CM,7310440012,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,64,WHITE
+TCGA-EL-A3CN,6285633002,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,47,WHITE
+TCGA-EL-A3CO,7310440012,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,88,WHITE
+TCGA-EL-A3CP,7310440011,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,50,BLACK OR AFRICAN AMERICAN
+TCGA-EL-A3CR,6285633092,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,78,WHITE
+TCGA-EL-A3CS,7310440012,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,62,WHITE
+TCGA-EL-A3CT,6285633106,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,78,WHITE
+TCGA-EL-A3CU,6929806069,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,70,WHITE
+TCGA-EL-A3CV,6929806069,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,40,WHITE
+TCGA-EL-A3CW,7310440037,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,87,WHITE
+TCGA-EL-A3CX,7310440016,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,22,WHITE
+TCGA-EL-A3CY,7310440037,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,28,WHITE
+TCGA-EL-A3CZ,7310440011,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,37,WHITE
+TCGA-EL-A3D0,6285633085,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,61,WHITE
+TCGA-EL-A3D1,7310440016,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,39,ASIAN
+TCGA-EL-A3D4,7310440011,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,62,BLACK OR AFRICAN AMERICAN
+TCGA-EL-A3D5,6285633106,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,44,WHITE
+TCGA-EL-A3D6,6285633092,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,51,WHITE
+TCGA-EL-A3GO,6285633106,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,31,WHITE
+TCGA-EL-A3GP,6285633083,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,70,BLACK OR AFRICAN AMERICAN
+TCGA-EL-A3GQ,6285633106,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,72,WHITE
+TCGA-EL-A3GR,6285633083,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,31,WHITE
+TCGA-EL-A3GS,6285633002,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,37,WHITE
+TCGA-EL-A3GU,7796806028,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,72,WHITE
+TCGA-EL-A3GV,7796806028,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,65,WHITE
+TCGA-EL-A3GW,6285633092,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,37,WHITE
+TCGA-EL-A3GX,6285633085,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,41,WHITE
+TCGA-EL-A3GY,6285633092,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,40,WHITE
+TCGA-EL-A3GZ,6285633010,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,34,WHITE
+TCGA-EL-A3GZ,6285633010,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,34,WHITE
+TCGA-EL-A3H1,7796806028,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-EL-A3H1,7796806028,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-EL-A3H2,6285633010,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,58,WHITE
+TCGA-EL-A3H2,6285633002,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,58,WHITE
+TCGA-EL-A3H3,6285633106,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,19,WHITE
+TCGA-EL-A3H4,6285633092,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,46,BLACK OR AFRICAN AMERICAN
+TCGA-EL-A3H5,6285633106,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,57,WHITE
+TCGA-EL-A3H7,7796806006,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,36,WHITE
+TCGA-EL-A3H7,7796806068,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,36,WHITE
+TCGA-EL-A3H8,6285633002,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,35,WHITE
+TCGA-EL-A3MW,6285633010,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,55,WHITE
+TCGA-EL-A3MW,6285633010,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,55,WHITE
+TCGA-EL-A3MX,7796806028,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,66,WHITE
+TCGA-EL-A3MX,7796806028,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,66,WHITE
+TCGA-EL-A3MY,7796806068,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,81,WHITE
+TCGA-EL-A3MY,7796806028,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,81,WHITE
+TCGA-EL-A3MZ,7796806028,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,66,WHITE
+TCGA-EL-A3N2,6285633002,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,24,WHITE
+TCGA-EL-A3N2,6285633002,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,24,WHITE
+TCGA-EL-A3N3,6285633002,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,53,WHITE
+TCGA-EL-A3N3,6285633010,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,53,WHITE
+TCGA-EL-A3T0,7796806048,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,45,WHITE
+TCGA-EL-A3T0,7796806058,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,45,WHITE
+TCGA-EL-A3T1,7796806048,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,38,BLACK OR AFRICAN AMERICAN
+TCGA-EL-A3T1,7796806058,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,38,BLACK OR AFRICAN AMERICAN
+TCGA-EL-A3T2,7796806048,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,55,WHITE
+TCGA-EL-A3T2,7796806093,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,55,WHITE
+TCGA-EL-A3T3,7796806048,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,63,WHITE
+TCGA-EL-A3T3,7796806058,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,63,WHITE
+TCGA-EL-A3T6,7796806122,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,34,WHITE
+TCGA-EL-A3T6,7796806107,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,34,WHITE
+TCGA-EL-A3T7,7796806058,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,47,WHITE
+TCGA-EL-A3T7,7796806070,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,47,WHITE
+TCGA-EL-A3T8,7796806058,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,36,ASIAN
+TCGA-EL-A3T8,7796806093,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,36,ASIAN
+TCGA-EL-A3T9,7796806048,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,69,WHITE
+TCGA-EL-A3TA,7796806058,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,42,WHITE
+TCGA-EL-A3TA,7796806048,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,42,WHITE
+TCGA-EL-A3TB,7796806070,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,47,WHITE
+TCGA-EL-A3TB,7796806048,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,47,WHITE
+TCGA-EL-A3ZG,7800246203,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,15,ASIAN
+TCGA-EL-A3ZG,7800246165,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,15,ASIAN
+TCGA-EL-A3ZH,7800246198,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,42,WHITE
+TCGA-EL-A3ZH,7800246198,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,42,WHITE
+TCGA-EL-A3ZK,7800246147,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,41,WHITE
+TCGA-EL-A3ZK,7800246190,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,41,WHITE
+TCGA-EL-A3ZL,7800246203,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,34,WHITE
+TCGA-EL-A3ZL,7800246198,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,34,WHITE
+TCGA-EL-A3ZM,7800246190,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,60,
+TCGA-EL-A3ZN,7800246190,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,28,WHITE
+TCGA-EL-A3ZO,7800246190,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,79,WHITE
+TCGA-EL-A3ZO,7800246165,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,79,WHITE
+TCGA-EL-A3ZP,7800246204,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,19,WHITE
+TCGA-EL-A3ZP,7800246198,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,19,WHITE
+TCGA-EL-A3ZQ,7800246190,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,78,WHITE
+TCGA-EL-A3ZR,7800246203,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,46,WHITE
+TCGA-EL-A3ZS,7800246147,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,22,WHITE
+TCGA-EL-A3ZT,7800246147,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,35,WHITE
+TCGA-EL-A4JV,8784241058,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,41,ASIAN
+TCGA-EL-A4JW,8784241074,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,38,WHITE
+TCGA-EL-A4JX,8784241072,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,31,BLACK OR AFRICAN AMERICAN
+TCGA-EL-A4JZ,8784241062,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,55,WHITE
+TCGA-EL-A4K0,8784241058,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,54,WHITE
+TCGA-EL-A4K1,8784241074,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,68,WHITE
+TCGA-EL-A4K2,8784241058,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,43,WHITE
+TCGA-EL-A4K4,8784241058,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,33,WHITE
+TCGA-EL-A4K6,8784241072,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,75,WHITE
+TCGA-EL-A4K7,8784241062,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,74,WHITE
+TCGA-EL-A4K9,8784241045,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,68,WHITE
+TCGA-EL-A4KD,8784241112,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,41,WHITE
+TCGA-EL-A4KG,8784241003,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,35,WHITE
+TCGA-EL-A4KH,8784241003,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,36,WHITE
+TCGA-EL-A4KI,8784241003,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,63,WHITE
+TCGA-EM-A1CS,6285609024,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,55,
+TCGA-EM-A1CS,6285609037,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,55,
+TCGA-EM-A1CT,6285609037,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,76,
+TCGA-EM-A1CT,6285609037,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,76,
+TCGA-EM-A1CU,6285609024,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,31,
+TCGA-EM-A1CU,6285609006,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,31,
+TCGA-EM-A1CV,6285609024,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,32,
+TCGA-EM-A1CV,6285609024,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,32,
+TCGA-EM-A1CW,6285609024,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,39,
+TCGA-EM-A1CW,6285609024,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,39,
+TCGA-EM-A1YA,6042316087,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,74,
+TCGA-EM-A1YB,6042316071,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,73,
+TCGA-EM-A1YC,6042316071,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,71,
+TCGA-EM-A1YC,6042316071,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,71,
+TCGA-EM-A1YD,6042316087,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,53,
+TCGA-EM-A1YD,6042316071,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,53,
+TCGA-EM-A1YE,6042316087,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,47,
+TCGA-EM-A1YE,6042316087,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,47,
+TCGA-EM-A22I,6285650057,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,52,
+TCGA-EM-A22J,6285650032,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,56,
+TCGA-EM-A22K,6285650032,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,46,
+TCGA-EM-A22L,6285650045,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,33,
+TCGA-EM-A22M,6285650032,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,52,ASIAN
+TCGA-EM-A22N,6285650045,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,68,
+TCGA-EM-A22O,6285650045,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,75,ASIAN
+TCGA-EM-A22P,7310440016,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,64,
+TCGA-EM-A22Q,6285650045,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,36,
+TCGA-EM-A2CJ,6285650045,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,49,
+TCGA-EM-A2CK,6285650045,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,28,
+TCGA-EM-A2CL,6285650032,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,31,
+TCGA-EM-A2CM,6285650032,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,"Other, specify",FEMALE,62,
+TCGA-EM-A2CN,7310440011,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,62,
+TCGA-EM-A2CO,7310440037,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,77,
+TCGA-EM-A2CP,6285650032,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,26,
+TCGA-EM-A2CQ,6285650032,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,40,
+TCGA-EM-A2CR,6285650045,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,46,
+TCGA-EM-A2CS,6929671042,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Metastatic,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,51,
+TCGA-EM-A2CS,6929671042,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,51,
+TCGA-EM-A2CT,6285650032,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,20,
+TCGA-EM-A2CU,6285650045,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,47,
+TCGA-EM-A2OV,6285633092,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,64,ASIAN
+TCGA-EM-A2OW,6285633092,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,37,
+TCGA-EM-A2OX,6285633092,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,46,
+TCGA-EM-A2OY,6285633106,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,46,
+TCGA-EM-A2OZ,6285633085,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,66,
+TCGA-EM-A2P0,6285633106,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,33,
+TCGA-EM-A2P1,6285633106,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,33,
+TCGA-EM-A2P1,6285633085,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Metastatic,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,33,
+TCGA-EM-A2P2,6285633085,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,46,
+TCGA-EM-A2P3,6285633106,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,47,
+TCGA-EM-A3AI,6285633106,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,67,WHITE
+TCGA-EM-A3AJ,6285633085,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,39,
+TCGA-EM-A3AK,6285633083,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,62,
+TCGA-EM-A3AL,6285633092,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,45,
+TCGA-EM-A3AN,6285633092,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,36,
+TCGA-EM-A3AO,6285633085,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,61,
+TCGA-EM-A3AP,6285633010,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,31,
+TCGA-EM-A3AQ,6285633010,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,85,
+TCGA-EM-A3AR,6285633010,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,41,
+TCGA-EM-A3FJ,7796806068,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,24,
+TCGA-EM-A3FK,7796806068,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,30,
+TCGA-EM-A3FL,7796806028,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,63,
+TCGA-EM-A3FM,7796806068,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,57,
+TCGA-EM-A3FN,7786915031,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,42,
+TCGA-EM-A3FO,7796806006,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,40,
+TCGA-EM-A3FP,7796806068,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,71,
+TCGA-EM-A3FQ,7796806028,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Metastatic,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,19,
+TCGA-EM-A3FQ,7796806028,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,19,
+TCGA-EM-A3FR,7796806122,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,55,
+TCGA-EM-A3O3,7796806107,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,83,
+TCGA-EM-A3O6,7796806104,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,54,
+TCGA-EM-A3O7,7796806122,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,46,
+TCGA-EM-A3O8,7796806136,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,33,
+TCGA-EM-A3O9,7796806104,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,40,
+TCGA-EM-A3OA,7796806122,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,55,
+TCGA-EM-A3OB,7796806104,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,33,
+TCGA-EM-A3ST,7796806154,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,62,
+TCGA-EM-A3ST,7796806141,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,62,
+TCGA-EM-A3SU,7796806141,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Metastatic,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,43,
+TCGA-EM-A3SU,7796806141,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,43,
+TCGA-EM-A3SX,7796806154,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,28,
+TCGA-EM-A3SY,7796806141,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,36,
+TCGA-EM-A3SZ,7796806141,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,42,
+TCGA-EM-A4FF,8784241058,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,40,
+TCGA-EM-A4FH,8784241003,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,69,
+TCGA-EM-A4FK,8784241062,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,33,
+TCGA-EM-A4FM,8784241058,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,59,
+TCGA-EM-A4FN,8784241062,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,49,
+TCGA-EM-A4FO,8784241062,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,72,
+TCGA-EM-A4FQ,8784241074,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,42,
+TCGA-EM-A4FR,8784241074,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,"Other, specify",MALE,28,
+TCGA-EM-A4FU,8784241058,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,35,
+TCGA-EM-A4FV,8784241003,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,64,
+TCGA-EM-A4G1,8784241074,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,26,
+TCGA-ET-A25G,6929718089,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,56,WHITE
+TCGA-ET-A25I,6929718089,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,37,WHITE
+TCGA-ET-A25J,6929718113,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,40,WHITE
+TCGA-ET-A25J,6929718112,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,40,WHITE
+TCGA-ET-A25K,6929718112,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,36,WHITE
+TCGA-ET-A25L,6929718112,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,52,WHITE
+TCGA-ET-A25M,6929718089,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,33,WHITE
+TCGA-ET-A25N,6929718113,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,28,WHITE
+TCGA-ET-A25N,6929718113,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,28,WHITE
+TCGA-ET-A25O,6929718113,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,35,BLACK OR AFRICAN AMERICAN
+TCGA-ET-A25P,6929718112,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,24,ASIAN
+TCGA-ET-A25R,6929718112,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,51,WHITE
+TCGA-ET-A2MX,7800246190,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,27,WHITE
+TCGA-ET-A2MY,6929718099,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,72,BLACK OR AFRICAN AMERICAN
+TCGA-ET-A2MY,6929718097,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,72,BLACK OR AFRICAN AMERICAN
+TCGA-ET-A2MZ,7310440011,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,39,WHITE
+TCGA-ET-A2N0,6929718098,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,51,WHITE
+TCGA-ET-A2N1,6929718099,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,47,ASIAN
+TCGA-ET-A2N3,7800246203,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,34,WHITE
+TCGA-ET-A2N4,7310440011,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,53,WHITE
+TCGA-ET-A2N5,6929718097,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,46,BLACK OR AFRICAN AMERICAN
+TCGA-ET-A2N5,6929718098,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,46,BLACK OR AFRICAN AMERICAN
+TCGA-ET-A39I,7310440012,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,83,WHITE
+TCGA-ET-A39J,7310440037,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,23,WHITE
+TCGA-ET-A39K,6929806069,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,48,WHITE
+TCGA-ET-A39L,7310440016,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,20,
+TCGA-ET-A39M,6929806069,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,34,WHITE
+TCGA-ET-A39N,7310440012,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,35,WHITE
+TCGA-ET-A39O,6929806069,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),MALE,39,WHITE
+TCGA-ET-A39P,7310440037,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,73,BLACK OR AFRICAN AMERICAN
+TCGA-ET-A39R,7310440037,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,24,WHITE
+TCGA-ET-A39S,7310440016,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,27,WHITE
+TCGA-ET-A39T,7310440016,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,55,WHITE
+TCGA-ET-A3BN,7310440016,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,33,ASIAN
+TCGA-ET-A3BO,7310440042,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,44,WHITE
+TCGA-ET-A3BP,7310440012,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,34,WHITE
+TCGA-ET-A3BQ,6285633085,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,27,WHITE
+TCGA-ET-A3BS,6285633106,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,42,ASIAN
+TCGA-ET-A3BT,7310440011,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,60,WHITE
+TCGA-ET-A3BU,7310440016,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,28,WHITE
+TCGA-ET-A3BV,7310440012,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,47,WHITE
+TCGA-ET-A3BW,7310440012,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,30,WHITE
+TCGA-ET-A3BX,7310440011,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,24,WHITE
+TCGA-ET-A3DO,6929806069,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,33,WHITE
+TCGA-ET-A3DP,7796806068,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,43,BLACK OR AFRICAN AMERICAN
+TCGA-ET-A3DP,7796806068,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,43,BLACK OR AFRICAN AMERICAN
+TCGA-ET-A3DQ,7310440037,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,43,WHITE
+TCGA-ET-A3DR,6929806069,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,42,WHITE
+TCGA-ET-A3DS,7310440037,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,33,WHITE
+TCGA-ET-A3DT,7310440011,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,23,WHITE
+TCGA-ET-A3DU,7310440012,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,21,WHITE
+TCGA-ET-A3DV,6285633085,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,68,WHITE
+TCGA-ET-A3DW,7310440037,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),MALE,64,ASIAN
+TCGA-ET-A3DW,6929806069,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),MALE,64,ASIAN
+TCGA-ET-A40P,7800246165,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,32,WHITE
+TCGA-ET-A40Q,7800246147,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),MALE,38,WHITE
+TCGA-ET-A40R,7800246147,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,24,WHITE
+TCGA-ET-A40S,7800246147,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,62,WHITE
+TCGA-ET-A40T,7800246204,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,26,WHITE
+TCGA-ET-A4KN,8784241058,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,51,WHITE
+TCGA-ET-A4KQ,8784241003,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,45,WHITE
+TCGA-FE-A22Z,6929718089,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,61,WHITE
+TCGA-FE-A230,6042316087,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,30,WHITE
+TCGA-FE-A231,6042316071,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,70,WHITE
+TCGA-FE-A232,6042316060,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,44,WHITE
+TCGA-FE-A233,6042316071,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,18,WHITE
+TCGA-FE-A234,6042316071,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,26,WHITE
+TCGA-FE-A235,6929718112,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,26,WHITE
+TCGA-FE-A236,6929718089,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,33,WHITE
+TCGA-FE-A237,6929718112,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,19,WHITE
+TCGA-FE-A238,6929718112,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,36,WHITE
+TCGA-FE-A239,6929718112,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,82,WHITE
+TCGA-FE-A23A,6929718089,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,27,WHITE
+TCGA-FE-A3PA,7796806107,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,16,WHITE
+TCGA-FE-A3PB,7796806107,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,33,WHITE
+TCGA-FE-A3PC,7796806122,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,37,WHITE
+TCGA-FE-A3PD,7796806107,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,17,WHITE
+TCGA-FK-A3S3,7796806048,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,43,BLACK OR AFRICAN AMERICAN
+TCGA-FK-A3SB,7796806093,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,28,ASIAN
+TCGA-FK-A3SD,7796806093,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,61,WHITE
+TCGA-FK-A3SE,7796806070,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,31,ASIAN
+TCGA-FK-A3SG,7796806070,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,21,WHITE
+TCGA-FK-A3SH,7796806048,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,50,WHITE
+TCGA-FK-A4UB,8784241072,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,51,WHITE
+TCGA-FY-A2QD,7310440011,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-FY-A3BL,7310440011,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,29,WHITE
+TCGA-FY-A3I4,7796806068,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,34,WHITE
+TCGA-FY-A3I5,7796806107,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,64,WHITE
+TCGA-FY-A3NM,7786915031,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,48,WHITE
+TCGA-FY-A3NN,7786915031,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,48,
+TCGA-FY-A3NP,7796806068,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,69,WHITE
+TCGA-FY-A3ON,7796806104,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,20,WHITE
+TCGA-FY-A3R6,7796806122,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,57,WHITE
+TCGA-FY-A3R7,7796806122,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,50,WHITE
+TCGA-FY-A3R8,7796806122,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,62,WHITE
+TCGA-FY-A3R9,7796806107,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,66,WHITE
+TCGA-FY-A3RA,7796806107,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,21,WHITE
+TCGA-FY-A3TY,7796806154,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,61,WHITE
+TCGA-FY-A3TY,7796806141,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,61,WHITE
+TCGA-FY-A3W9,7796806070,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,66,WHITE
+TCGA-FY-A3WA,7796806093,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,52,WHITE
+TCGA-FY-A3YR,7796806154,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,64,WHITE
+TCGA-FY-A40K,7800246147,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,46,WHITE
+TCGA-FY-A40L,7800246190,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,55,WHITE
+TCGA-FY-A40M,7800246198,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,51,WHITE
+TCGA-FY-A40N,7800246198,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,55,WHITE
+TCGA-FY-A4B0,8795194031,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,76,WHITE
+TCGA-FY-A4B3,8795194024,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,51,WHITE
+TCGA-FY-A4B4,8795194024,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,62,WHITE
+TCGA-FY-A76V,9828653010,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,54,BLACK OR AFRICAN AMERICAN
+TCGA-GE-A2C6,6929718079,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,33,WHITE
+TCGA-GE-A2C6,6929718113,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,33,WHITE
+TCGA-H2-A26U,6929718113,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,54,WHITE
+TCGA-H2-A2K9,6285650032,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,25,WHITE
+TCGA-H2-A2K9,6285650032,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,25,WHITE
+TCGA-H2-A3RH,7796806107,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,41,WHITE
+TCGA-H2-A3RI,7796806107,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Solid Tissue Normal,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,29,WHITE
+TCGA-H2-A3RI,7796806122,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,29,WHITE
+TCGA-H2-A421,7800246203,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,34,WHITE
+TCGA-H2-A422,7800246203,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,40,WHITE
+TCGA-IM-A3EB,6285633085,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,32,WHITE
+TCGA-IM-A3ED,6285633085,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,58,WHITE
+TCGA-IM-A3U2,7796806048,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,89,WHITE
+TCGA-IM-A3U3,7796806070,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,55,WHITE
+TCGA-IM-A41Y,8795194024,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,"Other, specify",FEMALE,42,WHITE
+TCGA-IM-A41Z,7800246165,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,37,WHITE
+TCGA-IM-A420,7800246165,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,39,WHITE
+TCGA-IM-A4EB,8784241072,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,"Other, specify",MALE,37,WHITE
+TCGA-J8-A3NZ,7796806068,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,52,WHITE
+TCGA-J8-A3O0,7796806028,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,38,WHITE
+TCGA-J8-A3O1,7796806068,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,33,WHITE
+TCGA-J8-A3O2,7800246147,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Metastatic,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,39,WHITE
+TCGA-J8-A3O2,7800246198,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,39,WHITE
+TCGA-J8-A3YD,7796806141,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,47,WHITE
+TCGA-J8-A3YE,7800246165,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,31,WHITE
+TCGA-J8-A3YF,7800246203,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,83,WHITE
+TCGA-J8-A3YG,7796806154,R01C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,54,WHITE
+TCGA-J8-A3YH,7796806141,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,39,WHITE
+TCGA-J8-A3YH,7800246147,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Metastatic,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,39,WHITE
+TCGA-J8-A42S,7800246198,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,45,WHITE
+TCGA-J8-A4HW,8784241072,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,59,WHITE
+TCGA-J8-A4HW,8784241074,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Metastatic,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,59,WHITE
+TCGA-J8-A4HY,8784241062,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,68,WHITE
+TCGA-KS-A41F,7800246203,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,37,WHITE
+TCGA-KS-A41I,7800246190,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,47,WHITE
+TCGA-KS-A41J,7800246190,R02C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,28,WHITE
+TCGA-KS-A41L,7800246165,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,39,WHITE
+TCGA-KS-A4I1,8784241072,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,37,ASIAN
+TCGA-KS-A4I3,8784241003,R02C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,41,ASIAN
+TCGA-KS-A4I5,8784241058,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,49,WHITE
+TCGA-KS-A4I7,8784241072,R06C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,61,WHITE
+TCGA-KS-A4I9,8784241072,R03C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,46,BLACK OR AFRICAN AMERICAN
+TCGA-KS-A4IB,8784241058,R04C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,41,ASIAN
+TCGA-KS-A4IC,8784241003,R04C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,45,WHITE
+TCGA-KS-A4ID,8784241062,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,55,WHITE
+TCGA-L6-A4EP,8784241072,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,41,ASIAN
+TCGA-L6-A4EQ,8784241045,R05C02,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,47,WHITE
+TCGA-L6-A4ET,8784241003,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),FEMALE,49,WHITE
+TCGA-L6-A4EU,8784241074,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Tall Cell (>= 50% tall cell features),FEMALE,58,BLACK OR AFRICAN AMERICAN
+TCGA-MK-A4N6,8784241062,R01C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,MALE,35,WHITE
+TCGA-MK-A4N7,8784241072,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,20,WHITE
+TCGA-MK-A4N9,8784241062,R05C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,41,WHITE
+TCGA-MK-A84Z,9828653010,R03C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Follicular (>= 99% follicular patterned),MALE,74,BLACK OR AFRICAN AMERICAN
+TCGA-QD-A8IV,9828653010,R06C01,Illumina Human Methylation 450,TCGA-THCA,JHU_USC,Primary Tumor,Thyroid,Thyroid Papillary Carcinoma - Classical/usual,FEMALE,50,BLACK OR AFRICAN AMERICAN

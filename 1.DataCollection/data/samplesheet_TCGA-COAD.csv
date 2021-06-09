@@ -1,0 +1,327 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-3L-AA1B,9702496157,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-4N-A93T,9702496157,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-4T-AA8H,3999492120,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,42,BLACK OR AFRICAN AMERICAN
+TCGA-5M-AAT4,3999492115,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,74,BLACK OR AFRICAN AMERICAN
+TCGA-5M-AAT6,3999492120,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,40,BLACK OR AFRICAN AMERICAN
+TCGA-5M-AATE,3999492120,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,76,BLACK OR AFRICAN AMERICAN
+TCGA-A6-2671,5775041065,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,85,WHITE
+TCGA-A6-2671,5775041068,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,85,WHITE
+TCGA-A6-2672,7796806109,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,82,WHITE
+TCGA-A6-2675,6042316001,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,78,WHITE
+TCGA-A6-2675,6042316015,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,78,WHITE
+TCGA-A6-2677,9305216012,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,68,WHITE
+TCGA-A6-2677,9305216012,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,68,WHITE
+TCGA-A6-2679,5775041065,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,73,WHITE
+TCGA-A6-2679,5775041068,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,FEMALE,73,WHITE
+TCGA-A6-2680,5775041068,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,FEMALE,72,BLACK OR AFRICAN AMERICAN
+TCGA-A6-2680,5775041084,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,72,BLACK OR AFRICAN AMERICAN
+TCGA-A6-2681,5775041088,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,73,WHITE
+TCGA-A6-2681,5775041068,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,FEMALE,73,WHITE
+TCGA-A6-2682,5775041084,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,70,WHITE
+TCGA-A6-2682,5775041068,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,70,WHITE
+TCGA-A6-2684,9305216012,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,75,WHITE
+TCGA-A6-2684,5775041068,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,FEMALE,75,WHITE
+TCGA-A6-2684,9305216012,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,75,WHITE
+TCGA-A6-2684,5775041007,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,75,WHITE
+TCGA-A6-2685,5775041088,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,48,BLACK OR AFRICAN AMERICAN
+TCGA-A6-2685,5775041068,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,FEMALE,48,BLACK OR AFRICAN AMERICAN
+TCGA-A6-2686,5775041007,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,81,WHITE
+TCGA-A6-2686,5775041068,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,FEMALE,81,WHITE
+TCGA-A6-3809,9305216012,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,71,WHITE
+TCGA-A6-3809,9305216012,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,71,WHITE
+TCGA-A6-3810,9305216015,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,62,WHITE
+TCGA-A6-3810,9305216015,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,62,WHITE
+TCGA-A6-4105,6057825020,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,79,WHITE
+TCGA-A6-4107,5775041068,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,FEMALE,57,WHITE
+TCGA-A6-4107,5775041065,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,57,WHITE
+TCGA-A6-5656,9305216015,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,74,WHITE
+TCGA-A6-5656,6929718065,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,74,WHITE
+TCGA-A6-5656,9305216015,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,74,WHITE
+TCGA-A6-5657,6285625037,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,65,BLACK OR AFRICAN AMERICAN
+TCGA-A6-5659,6285625037,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,82,WHITE
+TCGA-A6-5659,9305216015,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,82,WHITE
+TCGA-A6-5659,9305216015,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,82,WHITE
+TCGA-A6-5660,6285625037,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,73,BLACK OR AFRICAN AMERICAN
+TCGA-A6-5661,6285625011,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,80,BLACK OR AFRICAN AMERICAN
+TCGA-A6-5661,7796806109,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,80,BLACK OR AFRICAN AMERICAN
+TCGA-A6-5662,6285625011,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,46,WHITE
+TCGA-A6-5664,6929718079,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,80,BLACK OR AFRICAN AMERICAN
+TCGA-A6-5665,6285625057,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,84,WHITE
+TCGA-A6-5665,7796806109,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,84,WHITE
+TCGA-A6-5666,6285625057,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,78,WHITE
+TCGA-A6-5667,6042316015,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,FEMALE,40,WHITE
+TCGA-A6-5667,6042316015,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,40,WHITE
+TCGA-A6-6137,6057825028,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,55,WHITE
+TCGA-A6-6138,6057825020,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,61,WHITE
+TCGA-A6-6140,6057825002,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,62,WHITE
+TCGA-A6-6141,6057825020,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,31,BLACK OR AFRICAN AMERICAN
+TCGA-A6-6142,6057825028,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,56,WHITE
+TCGA-A6-6648,6057825020,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,56,WHITE
+TCGA-A6-6649,6057825020,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,66,WHITE
+TCGA-A6-6650,9305216015,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-A6-6650,9305216015,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-A6-6650,6057825028,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-A6-6651,6929718053,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,55,WHITE
+TCGA-A6-6652,6057825028,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-A6-6653,6057825028,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,82,WHITE
+TCGA-A6-6654,6929718065,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,65,WHITE
+TCGA-A6-6780,9305216015,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,74,WHITE
+TCGA-A6-6780,6929718053,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,74,WHITE
+TCGA-A6-6780,9305216015,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,74,WHITE
+TCGA-A6-6781,9305216015,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,43,WHITE
+TCGA-A6-6781,9305216015,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,43,WHITE
+TCGA-A6-6782,6929718053,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,82,WHITE
+TCGA-A6-A565,9296931074,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,34,BLACK OR AFRICAN AMERICAN
+TCGA-A6-A566,9296931073,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-A6-A567,9296931074,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,56,BLACK OR AFRICAN AMERICAN
+TCGA-A6-A56B,9296931073,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-A6-A5ZU,9296931073,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-AA-3488,5775041088,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,58,
+TCGA-AA-3488,5775041084,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,58,
+TCGA-AA-3489,6929718053,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,75,
+TCGA-AA-3492,5775041084,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,FEMALE,90,
+TCGA-AA-3492,5775041065,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,90,
+TCGA-AA-3494,5775041088,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,55,
+TCGA-AA-3494,5775041065,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,55,
+TCGA-AA-3495,5775041007,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,79,
+TCGA-AA-3495,5775041088,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,79,
+TCGA-AA-3496,6929718065,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,83,
+TCGA-AA-3502,5775041065,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,73,
+TCGA-AA-3502,5775041088,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,73,
+TCGA-AA-3506,5775041065,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,77,
+TCGA-AA-3506,5775041007,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,77,
+TCGA-AA-3509,5775041084,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,FEMALE,54,
+TCGA-AA-3509,5775041088,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,54,
+TCGA-AA-3510,5775041065,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,70,
+TCGA-AA-3510,5775041084,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,70,
+TCGA-AA-3511,6929718065,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,64,
+TCGA-AA-3655,6042308165,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,68,
+TCGA-AA-3655,6042316015,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,68,
+TCGA-AA-3660,6042308165,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,FEMALE,51,
+TCGA-AA-3660,6042308158,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,51,
+TCGA-AA-3662,6042308159,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,80,
+TCGA-AA-3663,6042316001,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,42,
+TCGA-AA-3663,6042316001,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,42,
+TCGA-AA-3697,6042308165,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,77,
+TCGA-AA-3697,6042316015,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,77,
+TCGA-AA-3712,6042316011,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,65,
+TCGA-AA-3712,6042308165,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,65,
+TCGA-AA-3713,6042308165,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,68,
+TCGA-AA-3713,6042316001,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,68,
+TCGA-AD-5900,6285625011,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,67,WHITE
+TCGA-AD-6548,6929718054,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,81,WHITE
+TCGA-AD-6901,6264496026,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,78,WHITE
+TCGA-AD-A5EJ,9296931073,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,74,BLACK OR AFRICAN AMERICAN
+TCGA-AD-A5EK,9296931073,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,51,BLACK OR AFRICAN AMERICAN
+TCGA-AM-5820,6285625037,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,59,WHITE
+TCGA-AM-5821,6285625037,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,68,WHITE
+TCGA-AU-3779,6042316001,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,80,WHITE
+TCGA-AU-6004,6042308159,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,69,WHITE
+TCGA-AY-5543,6285625037,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,65,BLACK OR AFRICAN AMERICAN
+TCGA-AY-6196,6042308165,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,47,WHITE
+TCGA-AY-6197,6042308159,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,60,WHITE
+TCGA-AY-6386,6042308165,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-AY-A54L,9296931073,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,74,BLACK OR AFRICAN AMERICAN
+TCGA-AY-A69D,9702496157,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-AY-A71X,9702496157,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,54,BLACK OR AFRICAN AMERICAN
+TCGA-AY-A8YK,3999492120,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,44,BLACK OR AFRICAN AMERICAN
+TCGA-AZ-4308,5775041065,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,47,WHITE
+TCGA-AZ-4313,5775041065,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,51,WHITE
+TCGA-AZ-4315,5775041084,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,61,WHITE
+TCGA-AZ-4323,6929718079,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,37,WHITE
+TCGA-AZ-4614,5775041084,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,71,WHITE
+TCGA-AZ-4615,5775041007,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,84,WHITE
+TCGA-AZ-4616,6929718054,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,82,WHITE
+TCGA-AZ-4681,5775041088,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,79,WHITE
+TCGA-AZ-4682,5775041065,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,61,WHITE
+TCGA-AZ-4684,5775041088,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,49,WHITE
+TCGA-AZ-5403,6285625057,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,43,WHITE
+TCGA-AZ-5407,6042308158,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,51,WHITE
+TCGA-AZ-6598,6057825020,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,77,WHITE
+TCGA-AZ-6598,6057825035,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,FEMALE,77,WHITE
+TCGA-AZ-6599,6057825020,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,72,WHITE
+TCGA-AZ-6599,6057825028,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,72,WHITE
+TCGA-AZ-6600,6057825020,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-AZ-6600,6057825020,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-AZ-6601,6057825002,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,68,WHITE
+TCGA-AZ-6601,6057825002,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,68,WHITE
+TCGA-AZ-6603,6929718053,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,77,WHITE
+TCGA-AZ-6605,6929718054,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,77,WHITE
+TCGA-AZ-6606,6929718065,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,81,WHITE
+TCGA-AZ-6607,6929718079,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,69,WHITE
+TCGA-AZ-6608,6929718065,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,55,WHITE
+TCGA-CA-5254,6929718065,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,42,ASIAN
+TCGA-CA-5255,6929718053,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,45,ASIAN
+TCGA-CA-5256,5775041084,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,54,ASIAN
+TCGA-CA-5796,6285625037,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,52,ASIAN
+TCGA-CA-5797,6285625057,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,56,ASIAN
+TCGA-CA-6715,6929718054,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,63,ASIAN
+TCGA-CA-6716,6929718054,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,65,ASIAN
+TCGA-CA-6717,6929718079,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,57,ASIAN
+TCGA-CA-6718,6929718054,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,46,ASIAN
+TCGA-CA-6719,6929718079,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,77,ASIAN
+TCGA-CK-4947,6285625037,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,46,WHITE
+TCGA-CK-4948,6285625068,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,45,WHITE
+TCGA-CK-4950,6042308165,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-CK-4951,5775041084,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,79,WHITE
+TCGA-CK-4952,6042308158,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,48,WHITE
+TCGA-CK-5912,6285625057,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,81,WHITE
+TCGA-CK-5913,6285625057,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,58,WHITE
+TCGA-CK-5914,6285625011,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,81,WHITE
+TCGA-CK-5915,6285625011,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,63,WHITE
+TCGA-CK-5916,6285625037,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,71,WHITE
+TCGA-CK-6746,6929718079,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,84,WHITE
+TCGA-CK-6747,6929718053,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,87,WHITE
+TCGA-CK-6748,6929718079,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,45,WHITE
+TCGA-CK-6751,6929718054,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,88,WHITE
+TCGA-CM-4743,6042316001,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,69,WHITE
+TCGA-CM-4744,5775041065,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,69,WHITE
+TCGA-CM-4746,5775041007,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-CM-4747,5775041088,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,47,WHITE
+TCGA-CM-4748,5775041084,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,53,WHITE
+TCGA-CM-4750,5775041007,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,34,WHITE
+TCGA-CM-4751,6929718053,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,62,WHITE
+TCGA-CM-4752,5775041088,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,58,BLACK OR AFRICAN AMERICAN
+TCGA-CM-5341,5775041088,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,82,WHITE
+TCGA-CM-5344,6042316001,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,39,WHITE
+TCGA-CM-5348,6042316015,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,72,WHITE
+TCGA-CM-5349,6042316011,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,68,WHITE
+TCGA-CM-5860,6285625037,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,44,WHITE
+TCGA-CM-5861,6285625011,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,63,WHITE
+TCGA-CM-5862,6285625068,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,80,WHITE
+TCGA-CM-5863,6929718053,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,60,WHITE
+TCGA-CM-5864,6285625068,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,60,WHITE
+TCGA-CM-5868,6285625057,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,59,WHITE
+TCGA-CM-6161,6285625037,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,36,WHITE
+TCGA-CM-6162,6285625068,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,48,WHITE
+TCGA-CM-6163,6929671148,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,74,WHITE
+TCGA-CM-6164,6285625068,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,46,WHITE
+TCGA-CM-6165,6929671148,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,74,WHITE
+TCGA-CM-6166,6285625011,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,48,WHITE
+TCGA-CM-6167,6929671148,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-CM-6168,6929671148,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,84,BLACK OR AFRICAN AMERICAN
+TCGA-CM-6169,6285625057,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-CM-6170,6285625057,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,73,WHITE
+TCGA-CM-6171,6285625037,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,77,WHITE
+TCGA-CM-6172,6285625068,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,70,WHITE
+TCGA-CM-6674,6929718054,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,39,WHITE
+TCGA-CM-6675,6929718054,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,35,BLACK OR AFRICAN AMERICAN
+TCGA-CM-6676,6929718053,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,82,WHITE
+TCGA-CM-6677,6929718065,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,75,WHITE
+TCGA-CM-6678,6929718054,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,63,WHITE
+TCGA-CM-6679,6929718079,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,58,WHITE
+TCGA-CM-6680,6929718054,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,78,WHITE
+TCGA-D5-5538,6929671148,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,60,WHITE
+TCGA-D5-5539,6285625011,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,60,WHITE
+TCGA-D5-5540,6285625011,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,73,WHITE
+TCGA-D5-5541,6285625011,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,63,WHITE
+TCGA-D5-6529,6057825028,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,69,WHITE
+TCGA-D5-6530,6042316011,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,53,WHITE
+TCGA-D5-6531,6042308158,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,75,WHITE
+TCGA-D5-6532,6042308165,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,61,WHITE
+TCGA-D5-6533,6042308158,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,68,WHITE
+TCGA-D5-6535,6042316011,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,80,WHITE
+TCGA-D5-6536,6042308159,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,73,WHITE
+TCGA-D5-6537,6042308158,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,64,WHITE
+TCGA-D5-6538,6042316015,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,79,WHITE
+TCGA-D5-6539,6042316011,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,45,WHITE
+TCGA-D5-6540,6042316001,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,66,WHITE
+TCGA-D5-6541,6042308158,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,49,WHITE
+TCGA-D5-6924,6264509018,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,68,WHITE
+TCGA-D5-7000,6264509018,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,79,WHITE
+TCGA-DM-A0X9,6042316010,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,71,WHITE
+TCGA-DM-A0XD,6042316010,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,65,WHITE
+TCGA-DM-A0XF,6042316008,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,,FEMALE,68,WHITE
+TCGA-DM-A1D0,6042316008,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,79,WHITE
+TCGA-DM-A1D4,6042316008,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,80,WHITE
+TCGA-DM-A1D6,6042316008,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,88,WHITE
+TCGA-DM-A1D7,6042316008,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,,MALE,82,WHITE
+TCGA-DM-A1D8,6042316010,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,50,WHITE
+TCGA-DM-A1D9,6042316008,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,67,WHITE
+TCGA-DM-A1DA,6042316008,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,71,WHITE
+TCGA-DM-A1DB,6042316008,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,68,WHITE
+TCGA-DM-A1HA,6042316008,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,82,WHITE
+TCGA-DM-A1HB,6929718086,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,,MALE,75,WHITE
+TCGA-DM-A280,6285625085,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,70,WHITE
+TCGA-DM-A282,6929671163,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,60,WHITE
+TCGA-DM-A285,6285625085,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,71,WHITE
+TCGA-DM-A288,6285625085,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,68,WHITE
+TCGA-DM-A28A,6285625085,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,78,WHITE
+TCGA-DM-A28C,6285625085,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,74,WHITE
+TCGA-DM-A28E,6285625085,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,72,WHITE
+TCGA-DM-A28F,6285625085,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,73,WHITE
+TCGA-DM-A28G,6285625085,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,75,WHITE
+TCGA-DM-A28H,6285625085,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,50,WHITE
+TCGA-DM-A28K,6285625085,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,75,WHITE
+TCGA-DM-A28M,6285625076,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,63,WHITE
+TCGA-F4-6459,6057825028,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,61,WHITE
+TCGA-F4-6460,6057825035,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,51,WHITE
+TCGA-F4-6461,6057825020,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,41,WHITE
+TCGA-F4-6463,6042308159,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,51,WHITE
+TCGA-F4-6569,6057825028,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,60,WHITE
+TCGA-F4-6570,6057825020,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,78,WHITE
+TCGA-F4-6703,6929718054,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,64,WHITE
+TCGA-F4-6704,6929718065,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,60,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-F4-6805,6929718079,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,58,WHITE
+TCGA-F4-6806,6929718079,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,59,WHITE
+TCGA-F4-6807,6929718079,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,51,WHITE
+TCGA-F4-6808,6929718053,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,54,WHITE
+TCGA-F4-6809,6929718065,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,52,WHITE
+TCGA-F4-6854,6264509127,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,77,WHITE
+TCGA-G4-6293,6042308159,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,49,WHITE
+TCGA-G4-6294,6057825035,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,75,WHITE
+TCGA-G4-6295,6042308165,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,FEMALE,70,WHITE
+TCGA-G4-6295,6042308165,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,70,WHITE
+TCGA-G4-6297,6042316001,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,55,WHITE
+TCGA-G4-6297,6042316015,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,FEMALE,55,WHITE
+TCGA-G4-6298,6042308159,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,90,BLACK OR AFRICAN AMERICAN
+TCGA-G4-6298,6042316015,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,90,BLACK OR AFRICAN AMERICAN
+TCGA-G4-6299,6057825002,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,69,WHITE
+TCGA-G4-6302,6042316001,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Mucinous Adenocarcinoma,FEMALE,90,WHITE
+TCGA-G4-6302,6042308158,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,90,WHITE
+TCGA-G4-6303,6057825002,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,54,WHITE
+TCGA-G4-6306,6057825028,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,71,WHITE
+TCGA-G4-6307,6042308158,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,37,WHITE
+TCGA-G4-6309,6929718053,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,40,BLACK OR AFRICAN AMERICAN
+TCGA-G4-6310,6042316001,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,69,WHITE
+TCGA-G4-6311,6042308159,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,80,WHITE
+TCGA-G4-6311,6042308159,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,80,WHITE
+TCGA-G4-6314,6042316011,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,76,WHITE
+TCGA-G4-6314,6042316015,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,FEMALE,76,WHITE
+TCGA-G4-6315,6042308158,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,66,WHITE
+TCGA-G4-6317,6042316015,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,51,WHITE
+TCGA-G4-6317,6929671042,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Recurrent Tumor,Colon,Colon Adenocarcinoma,FEMALE,51,WHITE
+TCGA-G4-6320,6042308165,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,MALE,73,WHITE
+TCGA-G4-6320,6042316015,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,73,WHITE
+TCGA-G4-6321,6042308158,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,60,WHITE
+TCGA-G4-6322,6042308158,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,65,WHITE
+TCGA-G4-6322,6042308159,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Mucinous Adenocarcinoma,MALE,65,WHITE
+TCGA-G4-6323,6042316001,R02C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,50,BLACK OR AFRICAN AMERICAN
+TCGA-G4-6586,6057825020,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,73,WHITE
+TCGA-G4-6588,6057825002,R06C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,58,WHITE
+TCGA-G4-6625,6057825028,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Solid Tissue Normal,Colon,Colon Adenocarcinoma,FEMALE,77,WHITE
+TCGA-G4-6625,6057825028,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,77,WHITE
+TCGA-G4-6626,6057825002,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,90,WHITE
+TCGA-G4-6627,6057825002,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,84,WHITE
+TCGA-G4-6628,6929718065,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,78,WHITE
+TCGA-NH-A50T,9296931074,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-NH-A50U,9702496157,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,MALE,42,BLACK OR AFRICAN AMERICAN
+TCGA-NH-A50V,9296931073,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-NH-A5IV,9702496157,R06C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,90,BLACK OR AFRICAN AMERICAN
+TCGA-NH-A6GA,9702496157,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,58,BLACK OR AFRICAN AMERICAN
+TCGA-NH-A6GB,9702496157,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,71,BLACK OR AFRICAN AMERICAN
+TCGA-NH-A6GC,3999492120,R04C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-NH-A8F7,3999492120,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,53,BLACK OR AFRICAN AMERICAN
+TCGA-NH-A8F7,3999492120,R03C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Metastatic,Colon,Colon Adenocarcinoma,FEMALE,53,BLACK OR AFRICAN AMERICAN
+TCGA-NH-A8F8,3999492120,R01C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,79,BLACK OR AFRICAN AMERICAN
+TCGA-QG-A5YV,9296931074,R05C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-QG-A5YW,9296931073,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-QG-A5YX,9296931073,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-QG-A5Z1,9296931074,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,71,BLACK OR AFRICAN AMERICAN
+TCGA-QG-A5Z2,9296931073,R05C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-QL-A97D,3999492120,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,84,BLACK OR AFRICAN AMERICAN
+TCGA-RU-A8FL,9702496157,R02C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,51,BLACK OR AFRICAN AMERICAN
+TCGA-SS-A7HO,9702496157,R03C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,FEMALE,44,BLACK OR AFRICAN AMERICAN
+TCGA-T9-A92H,9702496157,R04C02,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Adenocarcinoma,MALE,82,BLACK OR AFRICAN AMERICAN
+TCGA-WS-AB45,3999492120,R01C01,Illumina Human Methylation 450,TCGA-COAD,JHU_USC,Primary Tumor,Colon,Colon Mucinous Adenocarcinoma,FEMALE,52,BLACK OR AFRICAN AMERICAN

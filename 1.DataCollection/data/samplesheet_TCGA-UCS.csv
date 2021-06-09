@@ -1,0 +1,58 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-N5-A4R8,9298768145,R05C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,65,WHITE
+TCGA-N5-A4RA,9298768145,R03C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,63,WHITE
+TCGA-N5-A4RD,9305216029,R02C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,69,WHITE
+TCGA-N5-A4RF,9298768145,R05C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/MMMT: Homologous Type,FEMALE,68,WHITE
+TCGA-N5-A4RJ,9305216002,R04C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,61,WHITE
+TCGA-N5-A4RM,9305216029,R03C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,62,WHITE
+TCGA-N5-A4RN,9305216002,R01C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/MMMT: Homologous Type,FEMALE,71,WHITE
+TCGA-N5-A4RO,9298768127,R02C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/MMMT: Homologous Type,FEMALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-N5-A4RS,9305216002,R03C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/MMMT: Homologous Type,FEMALE,65,WHITE
+TCGA-N5-A4RT,9305216002,R02C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/MMMT: Homologous Type,FEMALE,69,WHITE
+TCGA-N5-A4RU,9305216002,R05C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/MMMT: Homologous Type,FEMALE,54,WHITE
+TCGA-N5-A4RV,9305216002,R01C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/MMMT: Homologous Type,FEMALE,62,WHITE
+TCGA-N5-A59E,9305216029,R06C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,62,WHITE
+TCGA-N5-A59F,9298768127,R02C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/MMMT: Homologous Type,FEMALE,65,BLACK OR AFRICAN AMERICAN
+TCGA-N6-A4V9,9298768145,R02C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,59,WHITE
+TCGA-N6-A4VC,9305216029,R01C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,83,WHITE
+TCGA-N6-A4VD,9305216002,R03C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,81,WHITE
+TCGA-N6-A4VE,9305216002,R06C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,84,WHITE
+TCGA-N6-A4VF,9305216021,R04C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,51,WHITE
+TCGA-N6-A4VG,9298768127,R05C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,77,WHITE
+TCGA-N7-A4Y0,9305216021,R02C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,65,WHITE
+TCGA-N7-A4Y5,9305216021,R03C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,87,WHITE
+TCGA-N7-A4Y8,9298768145,R06C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,72,WHITE
+TCGA-N7-A59B,9298768127,R06C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/MMMT: Homologous Type,FEMALE,69,WHITE
+TCGA-N8-A4PI,9305216029,R04C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,71,WHITE
+TCGA-N8-A4PL,9305216021,R05C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,82,WHITE
+TCGA-N8-A4PM,9298768145,R01C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/MMMT: Homologous Type,FEMALE,73,WHITE
+TCGA-N8-A4PN,9298768127,R04C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/MMMT: Homologous Type,FEMALE,68,WHITE
+TCGA-N8-A4PO,9305216002,R06C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-N8-A4PP,9305216002,R05C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/MMMT: Homologous Type,FEMALE,88,WHITE
+TCGA-N8-A4PQ,9298768145,R04C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,76,WHITE
+TCGA-N8-A56S,9305216029,R02C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,75,WHITE
+TCGA-N9-A4PZ,9298768145,R02C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,77,WHITE
+TCGA-N9-A4Q1,9298768127,R03C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,70,BLACK OR AFRICAN AMERICAN
+TCGA-N9-A4Q3,9305216029,R03C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,65,WHITE
+TCGA-N9-A4Q4,9305216029,R05C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-N9-A4Q7,9305216021,R06C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-N9-A4Q8,9298768145,R03C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,68,WHITE
+TCGA-NA-A4QV,9305216029,R04C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,72,BLACK OR AFRICAN AMERICAN
+TCGA-NA-A4QW,9305216002,R02C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,61,WHITE
+TCGA-NA-A4QX,9298768145,R04C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,60,WHITE
+TCGA-NA-A4QY,9305216021,R04C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,62,WHITE
+TCGA-NA-A4R0,9298768127,R05C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,80,WHITE
+TCGA-NA-A4R1,9305216021,R05C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,75,BLACK OR AFRICAN AMERICAN
+TCGA-NA-A5I1,9305216021,R02C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,80,WHITE
+TCGA-ND-A4W6,9298768127,R01C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-ND-A4WA,9305216021,R03C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,90,ASIAN
+TCGA-ND-A4WC,9298768145,R01C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/MMMT: Homologous Type,FEMALE,83,ASIAN
+TCGA-ND-A4WF,9298768127,R04C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,77,WHITE
+TCGA-NF-A4WU,9298768127,R06C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,59,WHITE
+TCGA-NF-A4WX,9305216002,R04C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,61,
+TCGA-NF-A4X2,9298768145,R06C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ MMMT: Heterologous Type,FEMALE,59,WHITE
+TCGA-NF-A5CP,9305216029,R01C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,90,WHITE
+TCGA-NG-A4VU,9305216021,R06C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,63,WHITE
+TCGA-NG-A4VW,9305216021,R01C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,74,WHITE
+TCGA-QM-A5NM,9298768127,R01C01,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,67,WHITE
+TCGA-QN-A5NN,9298768127,R03C02,Illumina Human Methylation 450,TCGA-UCS,JHU_USC,Primary Tumor,Uterus,Uterine Carcinosarcoma/ Malignant Mixed Mullerian Tumor (MMMT): NOS,FEMALE,55,ASIAN

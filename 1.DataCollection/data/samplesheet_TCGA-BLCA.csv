@@ -1,0 +1,441 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-2F-A9KO,9806233110,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,63,WHITE
+TCGA-2F-A9KP,9806233120,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,66,WHITE
+TCGA-2F-A9KQ,9806233091,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,69,WHITE
+TCGA-2F-A9KR,9806233125,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,59,
+TCGA-2F-A9KT,9806233120,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,83,WHITE
+TCGA-2F-A9KW,9806233091,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,67,WHITE
+TCGA-4Z-AA7M,9701417046,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,65,WHITE
+TCGA-4Z-AA7N,9701417046,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,65,WHITE
+TCGA-4Z-AA7O,9701417046,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-4Z-AA7Q,9701417046,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,79,WHITE
+TCGA-4Z-AA7R,9701417036,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,73,BLACK OR AFRICAN AMERICAN
+TCGA-4Z-AA7S,9701417036,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-4Z-AA7W,9701417046,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,55,WHITE
+TCGA-4Z-AA7Y,9701417036,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,60,WHITE
+TCGA-4Z-AA80,9701417046,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,73,WHITE
+TCGA-4Z-AA81,9701417044,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,80,WHITE
+TCGA-4Z-AA82,9701417046,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-4Z-AA83,9701417036,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,52,WHITE
+TCGA-4Z-AA84,9701417090,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,61,WHITE
+TCGA-4Z-AA86,9704031058,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-4Z-AA87,9701417044,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,72,BLACK OR AFRICAN AMERICAN
+TCGA-4Z-AA89,9701417044,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,60,WHITE
+TCGA-5N-A9KI,3999510104,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,76,WHITE
+TCGA-5N-A9KM,3999510091,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,Wall Lateral,WHITE
+TCGA-BL-A0C8,9305216007,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,,MALE,73,WHITE
+TCGA-BL-A0C8,6164655053,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,,MALE,73,WHITE
+TCGA-BL-A0C8,9305216007,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,,MALE,73,WHITE
+TCGA-BL-A13I,6264509127,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,57,WHITE
+TCGA-BL-A13I,9305216007,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,57,WHITE
+TCGA-BL-A13I,9305216007,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,57,WHITE
+TCGA-BL-A13J,6164655052,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,65,WHITE
+TCGA-BL-A13J,9305216007,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,65,WHITE
+TCGA-BL-A13J,9305216007,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,65,WHITE
+TCGA-BL-A13J,6164655053,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,65,WHITE
+TCGA-BL-A3JM,7786915031,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,62,WHITE
+TCGA-BL-A5ZZ,9305216005,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,80,WHITE
+TCGA-BT-A0S7,6164655053,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,75,WHITE
+TCGA-BT-A0YX,6164655052,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,70,WHITE
+TCGA-BT-A20J,6264496109,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,75,WHITE
+TCGA-BT-A20J,6264496107,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,75,WHITE
+TCGA-BT-A20N,6264496107,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,72,
+TCGA-BT-A20N,6264496107,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,72,
+TCGA-BT-A20O,6264496107,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,75,WHITE
+TCGA-BT-A20P,6264496107,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,81,WHITE
+TCGA-BT-A20P,6264496109,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,81,WHITE
+TCGA-BT-A20Q,6264496107,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,73,WHITE
+TCGA-BT-A20R,6057833166,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,79,WHITE
+TCGA-BT-A20R,6057833166,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,79,WHITE
+TCGA-BT-A20T,6264496107,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,63,WHITE
+TCGA-BT-A20U,6264496107,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,70,WHITE
+TCGA-BT-A20U,6264496109,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,70,WHITE
+TCGA-BT-A20V,6264496109,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-BT-A20V,6264496107,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-BT-A20W,6264496107,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,71,WHITE
+TCGA-BT-A20W,6264496107,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,71,WHITE
+TCGA-BT-A20X,6057833166,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,56,WHITE
+TCGA-BT-A20X,6057833166,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,56,WHITE
+TCGA-BT-A2LA,6285650057,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,54,WHITE
+TCGA-BT-A2LA,6285650044,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,54,WHITE
+TCGA-BT-A2LB,6285650057,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,73,WHITE
+TCGA-BT-A2LD,6285633017,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,78,WHITE
+TCGA-BT-A3PH,7796806101,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall NOS,WHITE
+TCGA-BT-A3PJ,7796806093,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,76,WHITE
+TCGA-BT-A3PK,7796806101,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-BT-A42B,7800246126,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,59,WHITE
+TCGA-BT-A42C,7800246126,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-BT-A42E,8784241118,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,74,WHITE
+TCGA-BT-A42F,8784241109,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,64,WHITE
+TCGA-C4-A0EZ,6164655053,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,69,
+TCGA-C4-A0F0,6164655053,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,60,
+TCGA-C4-A0F1,6164655052,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,71,
+TCGA-C4-A0F6,6164655053,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,82,
+TCGA-C4-A0F7,6164655053,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,77,
+TCGA-CF-A1HR,6285609006,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,62,ASIAN
+TCGA-CF-A1HS,6285609006,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,75,ASIAN
+TCGA-CF-A27C,6057833166,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,52,ASIAN
+TCGA-CF-A3MF,7786915031,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,34,ASIAN
+TCGA-CF-A3MG,6285633023,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,48,ASIAN
+TCGA-CF-A3MH,6285633017,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,75,ASIAN
+TCGA-CF-A3MI,6285633017,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,62,ASIAN
+TCGA-CF-A47S,8784241109,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,41,ASIAN
+TCGA-CF-A47T,8784241109,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,58,ASIAN
+TCGA-CF-A47V,8784241109,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,52,ASIAN
+TCGA-CF-A47W,8784241109,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,42,ASIAN
+TCGA-CF-A47X,8784241118,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,60,ASIAN
+TCGA-CF-A47Y,8784241118,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,55,ASIAN
+TCGA-CF-A5U8,9305216091,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,59,ASIAN
+TCGA-CF-A5UA,9305216110,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,67,ASIAN
+TCGA-CF-A7I0,9630789147,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,54,ASIAN
+TCGA-CF-A8HX,9934625034,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,55,ASIAN
+TCGA-CF-A8HY,9934398122,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,59,ASIAN
+TCGA-CF-A9FF,9806233091,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,52,ASIAN
+TCGA-CF-A9FH,9806233120,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,85,ASIAN
+TCGA-CF-A9FL,9806233110,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,85,ASIAN
+TCGA-CF-A9FM,9806233091,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,,MALE,50,ASIAN
+TCGA-CU-A0YN,6164655052,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,60,WHITE
+TCGA-CU-A0YN,6164655053,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,60,WHITE
+TCGA-CU-A0YO,6164655053,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,84,WHITE
+TCGA-CU-A0YR,6164655053,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,83,WHITE
+TCGA-CU-A0YR,6164655053,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,83,WHITE
+TCGA-CU-A3KJ,7786915031,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,75,WHITE
+TCGA-CU-A3QU,7796806075,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,58,WHITE
+TCGA-CU-A3YL,7796806055,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,67,WHITE
+TCGA-CU-A5W6,9305216091,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,70,WHITE
+TCGA-CU-A72E,9422491111,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Posterior,WHITE
+TCGA-DK-A1A3,6285609006,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,60,WHITE
+TCGA-DK-A1A5,6285609006,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,79,WHITE
+TCGA-DK-A1A6,3999997088,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Metastatic,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,53,WHITE
+TCGA-DK-A1A6,6264509127,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,53,WHITE
+TCGA-DK-A1A7,6285609006,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,67,WHITE
+TCGA-DK-A1AA,6285609006,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,57,WHITE
+TCGA-DK-A1AB,6264509127,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,74,WHITE
+TCGA-DK-A1AC,6285609006,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,72,WHITE
+TCGA-DK-A1AD,6285609006,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,69,WHITE
+TCGA-DK-A1AE,6264509127,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,84,WHITE
+TCGA-DK-A1AF,6264509127,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,84,WHITE
+TCGA-DK-A1AG,6285609006,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,65,WHITE
+TCGA-DK-A2HX,6285650057,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,80,WHITE
+TCGA-DK-A2I1,6929718034,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,73,WHITE
+TCGA-DK-A2I2,6929718034,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,63,WHITE
+TCGA-DK-A2I4,7786915032,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,79,WHITE
+TCGA-DK-A2I6,6285650057,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,81,WHITE
+TCGA-DK-A3IK,7786915031,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,87,WHITE
+TCGA-DK-A3IL,6285633017,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,79,WHITE
+TCGA-DK-A3IM,6285633023,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,76,WHITE
+TCGA-DK-A3IN,6285633017,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,72,WHITE
+TCGA-DK-A3IQ,6285633023,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,74,WHITE
+TCGA-DK-A3IS,7786915031,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,68,WHITE
+TCGA-DK-A3IT,6285633023,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,62,WHITE
+TCGA-DK-A3IU,6285633017,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,58,WHITE
+TCGA-DK-A3IV,7786915032,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,60,WHITE
+TCGA-DK-A3WW,7800246126,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,57,WHITE
+TCGA-DK-A3WX,7796806055,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,67,WHITE
+TCGA-DK-A3WY,7796806095,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,67,WHITE
+TCGA-DK-A3X1,7796806096,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,78,WHITE
+TCGA-DK-A3X2,7796806075,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,85,WHITE
+TCGA-DK-A6AV,9305216005,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,82,ASIAN
+TCGA-DK-A6AW,9305216005,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,70,WHITE
+TCGA-DK-A6B0,9283265100,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,61,WHITE
+TCGA-DK-A6B1,9305216035,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,67,WHITE
+TCGA-DK-A6B2,9305216035,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,70,WHITE
+TCGA-DK-A6B5,9283265100,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,45,WHITE
+TCGA-DK-A6B6,9305216005,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,57,WHITE
+TCGA-DK-AA6L,9701417044,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,48,WHITE
+TCGA-DK-AA6M,9701417090,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,64,WHITE
+TCGA-DK-AA6P,9701417036,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,72,WHITE
+TCGA-DK-AA6Q,9701417090,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,61,WHITE
+TCGA-DK-AA6R,3999510091,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,68,WHITE
+TCGA-DK-AA6S,9701417036,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,60,WHITE
+TCGA-DK-AA6T,9701417090,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,63,WHITE
+TCGA-DK-AA6U,9701417044,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-DK-AA6W,9701417036,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,78,WHITE
+TCGA-DK-AA6X,3999510108,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,63,WHITE
+TCGA-DK-AA71,9701417036,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,71,WHITE
+TCGA-DK-AA74,9701417090,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,75,WHITE
+TCGA-DK-AA75,9701417090,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,82,WHITE
+TCGA-DK-AA76,9701417044,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,64,WHITE
+TCGA-DK-AA77,9701417036,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,61,WHITE
+TCGA-E5-A2PC,6929742075,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,61,WHITE
+TCGA-E5-A4TZ,9283265100,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,64,WHITE
+TCGA-E5-A4U1,9283265102,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,72,
+TCGA-E7-A3X6,7796806096,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,70,WHITE
+TCGA-E7-A3Y1,7796806055,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,57,WHITE
+TCGA-E7-A4IJ,8795194084,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,56,ASIAN
+TCGA-E7-A4XJ,8795194083,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,66,ASIAN
+TCGA-E7-A519,8795194084,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,72,WHITE
+TCGA-E7-A541,8795194084,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,66,WHITE
+TCGA-E7-A5KE,9305216091,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,78,ASIAN
+TCGA-E7-A5KF,9305216091,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,67,ASIAN
+TCGA-E7-A677,9305216005,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,81,ASIAN
+TCGA-E7-A678,9305216035,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,55,ASIAN
+TCGA-E7-A6MD,9630789147,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Anterior,WHITE
+TCGA-E7-A6ME,9283265139,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,75,ASIAN
+TCGA-E7-A6MF,9283265139,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,37,ASIAN
+TCGA-E7-A7DU,9283265139,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Posterior,WHITE
+TCGA-E7-A7DV,9422491111,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-E7-A7PW,9630789147,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,63,ASIAN
+TCGA-E7-A7XN,9630789147,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,66,ASIAN
+TCGA-E7-A85H,9630789147,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,64,ASIAN
+TCGA-E7-A8O7,9934398122,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,52,ASIAN
+TCGA-E7-A8O8,9934398122,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,59,ASIAN
+TCGA-E7-A97P,9806233125,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,73,ASIAN
+TCGA-E7-A97Q,9806233091,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,60,WHITE
+TCGA-FD-A3B3,6929742075,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,74,WHITE
+TCGA-FD-A3B4,6929742075,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-FD-A3B5,6285633017,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,86,BLACK OR AFRICAN AMERICAN
+TCGA-FD-A3B6,6285633023,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,75,WHITE
+TCGA-FD-A3B7,6285633017,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-FD-A3B8,6285633023,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,56,WHITE
+TCGA-FD-A3N5,7786915031,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-FD-A3N6,7786915031,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,43,BLACK OR AFRICAN AMERICAN
+TCGA-FD-A3NA,7786915031,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,60,WHITE
+TCGA-FD-A3SJ,7796806075,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-FD-A3SL,7796806095,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Posterior,WHITE
+TCGA-FD-A3SM,7796806095,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Lateral,WHITE
+TCGA-FD-A3SN,7796806095,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-FD-A3SO,7796806095,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,68,WHITE
+TCGA-FD-A3SP,7796806096,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Posterior,WHITE
+TCGA-FD-A3SQ,7796806096,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-FD-A3SR,7796806096,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Posterior,WHITE
+TCGA-FD-A3SS,7796806095,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Anterior,WHITE
+TCGA-FD-A43N,8784241109,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,76,WHITE
+TCGA-FD-A43P,8784241109,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,74,BLACK OR AFRICAN AMERICAN
+TCGA-FD-A43S,8784241109,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,71,WHITE
+TCGA-FD-A43U,8784241109,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,70,WHITE
+TCGA-FD-A43X,8784241109,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,84,WHITE
+TCGA-FD-A43Y,8795194084,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,65,WHITE
+TCGA-FD-A5BR,8795194084,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,57,WHITE
+TCGA-FD-A5BS,8795194085,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,68,WHITE
+TCGA-FD-A5BT,8795194084,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,84,WHITE
+TCGA-FD-A5BU,8795194083,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,76,BLACK OR AFRICAN AMERICAN
+TCGA-FD-A5BV,8795194084,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,47,WHITE
+TCGA-FD-A5BX,8795194085,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,82,WHITE
+TCGA-FD-A5BY,9305216091,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,63,WHITE
+TCGA-FD-A5BZ,9305216091,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,77,WHITE
+TCGA-FD-A5C0,9305216091,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,61,WHITE
+TCGA-FD-A5C1,9305216110,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,61,WHITE
+TCGA-FD-A62N,9305216035,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,69,ASIAN
+TCGA-FD-A62O,9305216005,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,74,WHITE
+TCGA-FD-A62P,9305216005,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,76,WHITE
+TCGA-FD-A62S,9305216005,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-FD-A6TA,9422491074,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Anterior,WHITE
+TCGA-FD-A6TB,9422491111,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-FD-A6TC,9422491111,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,79,WHITE
+TCGA-FD-A6TD,9422491074,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Posterior,WHITE
+TCGA-FD-A6TE,9422491111,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-FD-A6TF,9283265139,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,Wall Lateral,WHITE
+TCGA-FD-A6TG,9283265139,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Lateral,WHITE
+TCGA-FD-A6TH,9283265139,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Lateral,WHITE
+TCGA-FD-A6TI,9283265139,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Lateral,WHITE
+TCGA-FD-A6TK,9422491074,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Posterior,WHITE
+TCGA-FJ-A3Z7,7800246126,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Lateral,WHITE
+TCGA-FJ-A3Z9,8795194083,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-FJ-A3ZE,7800246126,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-FJ-A3ZF,7800246126,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-FJ-A871,9630789147,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,49,WHITE
+TCGA-FT-A3EE,6929742075,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,80,WHITE
+TCGA-FT-A61P,9305216035,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-G2-A2EC,6929718034,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,58,BLACK OR AFRICAN AMERICAN
+TCGA-G2-A2EF,6285650057,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,50,WHITE
+TCGA-G2-A2EJ,6929718034,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,56,WHITE
+TCGA-G2-A2EK,6285650057,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,57,WHITE
+TCGA-G2-A2EL,6285650057,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,77,WHITE
+TCGA-G2-A2EO,6929718034,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,69,WHITE
+TCGA-G2-A2ES,6929718034,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,85,WHITE
+TCGA-G2-A3IB,6285633017,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-G2-A3IE,6285633017,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,51,WHITE
+TCGA-G2-A3VY,7796806075,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,66,ASIAN
+TCGA-G2-AA3B,9701417044,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,75,WHITE
+TCGA-G2-AA3C,9704031058,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,66,WHITE
+TCGA-G2-AA3D,9701417046,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,60,WHITE
+TCGA-G2-AA3F,3999997088,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,77,WHITE
+TCGA-GC-A3BM,7796806055,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,70,WHITE
+TCGA-GC-A3BM,7796806095,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,70,WHITE
+TCGA-GC-A3I6,6285633017,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,45,WHITE
+TCGA-GC-A3OO,7796806075,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,79,WHITE
+TCGA-GC-A3RB,7796806101,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,54,WHITE
+TCGA-GC-A3RC,7796806075,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,59,WHITE
+TCGA-GC-A3RD,7796806075,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,83,WHITE
+TCGA-GC-A3WC,7796806096,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,80,WHITE
+TCGA-GC-A3WC,7796806095,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,80,WHITE
+TCGA-GC-A3YS,7800246126,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,61,WHITE
+TCGA-GC-A4ZW,8795194085,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-GC-A6I1,9283265100,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,90,WHITE
+TCGA-GC-A6I3,9283265100,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,90,BLACK OR AFRICAN AMERICAN
+TCGA-GC-A6I3,9283265100,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,90,BLACK OR AFRICAN AMERICAN
+TCGA-GD-A2C5,6929718034,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,53,WHITE
+TCGA-GD-A2C5,6929718034,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,53,WHITE
+TCGA-GD-A3OP,7796806101,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,84,WHITE
+TCGA-GD-A3OP,7796806101,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,84,WHITE
+TCGA-GD-A3OQ,7796806101,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,48,WHITE
+TCGA-GD-A3OQ,7796806101,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,48,WHITE
+TCGA-GD-A3OS,7796806093,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,54,WHITE
+TCGA-GD-A6C6,9283265100,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,64,WHITE
+TCGA-GD-A76B,9283265139,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,86,WHITE
+TCGA-GU-A42P,8784241109,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,72,WHITE
+TCGA-GU-A42Q,8784241109,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-GU-A42R,7800246126,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,68,WHITE
+TCGA-GU-A762,9422491074,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,87,WHITE
+TCGA-GU-A763,9283265139,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,72,WHITE
+TCGA-GU-A764,9630789147,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,66,WHITE
+TCGA-GU-A766,9283265139,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-GU-A767,9283265139,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,81,WHITE
+TCGA-GU-AATO,9701417046,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,75,WHITE
+TCGA-GU-AATP,9701417044,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,74,WHITE
+TCGA-GU-AATQ,9704031058,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Lateral,WHITE
+TCGA-GV-A3JV,7796806101,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,66,WHITE
+TCGA-GV-A3JW,6285633012,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,74,WHITE
+TCGA-GV-A3JX,6285633023,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,59,WHITE
+TCGA-GV-A3JZ,7786915031,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,55,WHITE
+TCGA-GV-A3QF,7796806096,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,79,WHITE
+TCGA-GV-A3QG,7796806101,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,65,WHITE
+TCGA-GV-A3QH,7796806101,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,67,WHITE
+TCGA-GV-A3QI,7796806093,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,47,WHITE
+TCGA-GV-A3QK,7800246126,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,56,WHITE
+TCGA-GV-A40E,7800246126,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Anterior,WHITE
+TCGA-GV-A40G,7800246126,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Lateral,WHITE
+TCGA-GV-A6ZA,9422491111,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,54,WHITE
+TCGA-H4-A2HO,6929718034,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,53,WHITE
+TCGA-H4-A2HQ,6929718034,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-HQ-A2OE,6929742075,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,69,
+TCGA-HQ-A2OF,8795194084,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,52,
+TCGA-HQ-A5ND,8795194084,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,78,
+TCGA-HQ-A5NE,9305216110,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,57,
+TCGA-K4-A3WS,7796806095,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Posterior,WHITE
+TCGA-K4-A3WU,7800246126,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,87,WHITE
+TCGA-K4-A3WV,7796806075,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,77,WHITE
+TCGA-K4-A3WV,7796806075,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,77,WHITE
+TCGA-K4-A4AB,9305216110,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,76,WHITE
+TCGA-K4-A4AC,8795194084,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,83,WHITE
+TCGA-K4-A54R,8795194084,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,59,WHITE
+TCGA-K4-A54R,8795194084,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,59,WHITE
+TCGA-K4-A5RH,9305216005,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,69,WHITE
+TCGA-K4-A5RI,9305216091,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Solid Tissue Normal,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,67,WHITE
+TCGA-K4-A5RI,9305216091,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,67,WHITE
+TCGA-K4-A5RJ,9305216091,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,75,WHITE
+TCGA-K4-A6FZ,9283265102,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,0,WHITE
+TCGA-K4-A6MB,9283265100,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,64,WHITE
+TCGA-K4-A83P,9630789147,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,77,WHITE
+TCGA-K4-AAQO,9806233091,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,56,WHITE
+TCGA-KQ-A41N,9422491074,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,BLACK OR AFRICAN AMERICAN
+TCGA-KQ-A41O,9630789147,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Anterior,
+TCGA-KQ-A41P,9422491111,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Anterior,WHITE
+TCGA-KQ-A41Q,9422491111,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,89,WHITE
+TCGA-KQ-A41R,9630789147,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,80,WHITE
+TCGA-KQ-A41S,9422491111,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,0,WHITE
+TCGA-LC-A66R,9305216005,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,78,WHITE
+TCGA-LT-A5Z6,9305216091,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,56,WHITE
+TCGA-LT-A8JT,9934625034,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,69,WHITE
+TCGA-MV-A51V,8795194085,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,75,WHITE
+TCGA-PQ-A6FI,9283265100,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Lateral,WHITE
+TCGA-PQ-A6FN,9283265100,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,78,WHITE
+TCGA-R3-A69X,9305216035,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-S5-A6DX,9283265100,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,83,WHITE
+TCGA-S5-AA26,9806233120,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,46,BLACK OR AFRICAN AMERICAN
+TCGA-SY-A9G0,9806233125,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,82,WHITE
+TCGA-SY-A9G5,9806233125,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,66,WHITE
+TCGA-UY-A78K,9422491111,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,60,WHITE
+TCGA-UY-A78L,9422491074,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,62,WHITE
+TCGA-UY-A78M,9630789147,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,81,ASIAN
+TCGA-UY-A78N,9422491111,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,80,WHITE
+TCGA-UY-A78O,9422491111,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,75,WHITE
+TCGA-UY-A78P,9934398122,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,78,WHITE
+TCGA-UY-A8OB,3999510108,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,63,WHITE
+TCGA-UY-A8OC,9934625034,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,90,WHITE
+TCGA-UY-A8OD,9934398122,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-UY-A9PA,9806233110,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,48,WHITE
+TCGA-UY-A9PB,9806233110,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,49,WHITE
+TCGA-UY-A9PD,9806233110,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,80,WHITE
+TCGA-UY-A9PE,9806233120,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,86,WHITE
+TCGA-UY-A9PF,9806233110,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,77,WHITE
+TCGA-UY-A9PH,9806233125,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,73,WHITE
+TCGA-XF-A8HB,9934398122,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,50,
+TCGA-XF-A8HC,9934398122,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,79,ASIAN
+TCGA-XF-A8HD,9934398122,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,77,WHITE
+TCGA-XF-A8HE,9934625034,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,47,WHITE
+TCGA-XF-A8HF,9934398122,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,80,WHITE
+TCGA-XF-A8HG,9934398122,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,69,WHITE
+TCGA-XF-A8HH,9806233120,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,61,WHITE
+TCGA-XF-A8HI,9806233120,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,57,WHITE
+TCGA-XF-A9SG,3999510091,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,81,
+TCGA-XF-A9SH,9701417046,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,65,ASIAN
+TCGA-XF-A9SI,9701417090,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,73,ASIAN
+TCGA-XF-A9SJ,9701417036,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,83,WHITE
+TCGA-XF-A9SK,3999510104,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,65,WHITE
+TCGA-XF-A9SL,9701417044,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,69,WHITE
+TCGA-XF-A9SM,3999997088,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,76,WHITE
+TCGA-XF-A9SP,9701417090,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,59,WHITE
+TCGA-XF-A9ST,3999510091,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,68,WHITE
+TCGA-XF-A9SU,9701417046,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,74,WHITE
+TCGA-XF-A9SV,3999510104,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,82,WHITE
+TCGA-XF-A9SW,3999997088,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,85,WHITE
+TCGA-XF-A9SX,9701417090,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,63,WHITE
+TCGA-XF-A9SY,3999510104,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,60,WHITE
+TCGA-XF-A9SZ,9701417036,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,79,WHITE
+TCGA-XF-A9T0,9701417090,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,68,WHITE
+TCGA-XF-A9T2,3999510108,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,54,WHITE
+TCGA-XF-A9T3,3999997088,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,69,WHITE
+TCGA-XF-A9T4,9701417044,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,48,WHITE
+TCGA-XF-A9T5,3999510091,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,78,WHITE
+TCGA-XF-A9T6,3999510108,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,88,WHITE
+TCGA-XF-A9T8,9701417036,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,64,WHITE
+TCGA-XF-AAME,3999997088,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,64,WHITE
+TCGA-XF-AAMF,3999510104,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,68,WHITE
+TCGA-XF-AAMG,3999510091,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,49,WHITE
+TCGA-XF-AAMH,3999510108,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,80,WHITE
+TCGA-XF-AAMJ,3999510091,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,70,ASIAN
+TCGA-XF-AAML,3999510104,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,75,WHITE
+TCGA-XF-AAMQ,3999510108,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,59,WHITE
+TCGA-XF-AAMR,3999510104,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,48,WHITE
+TCGA-XF-AAMT,3999997088,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,75,WHITE
+TCGA-XF-AAMW,3999510104,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,79,WHITE
+TCGA-XF-AAMX,3999510104,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,87,BLACK OR AFRICAN AMERICAN
+TCGA-XF-AAMY,3999510091,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,78,WHITE
+TCGA-XF-AAMZ,3999510108,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,81,WHITE
+TCGA-XF-AAN0,3999510108,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,68,WHITE
+TCGA-XF-AAN1,3999997088,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,75,
+TCGA-XF-AAN2,3999510104,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,73,WHITE
+TCGA-XF-AAN3,3999510091,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,76,WHITE
+TCGA-XF-AAN4,3999510108,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,77,WHITE
+TCGA-XF-AAN5,3999997088,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,61,WHITE
+TCGA-XF-AAN7,3999510091,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,60,WHITE
+TCGA-XF-AAN8,3999997088,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,74,WHITE
+TCGA-YC-A89H,9934398122,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,78,WHITE
+TCGA-YC-A8S6,9806233110,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Lateral,WHITE
+TCGA-YC-A9TC,9701417090,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,71,WHITE
+TCGA-YF-AA3L,9806233091,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,47,
+TCGA-YF-AA3M,3999997088,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,57,
+TCGA-ZF-A9R0,9806233091,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Trigone,WHITE
+TCGA-ZF-A9R1,9704031058,R03C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-ZF-A9R2,9704031058,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-ZF-A9R3,9806233120,R02C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,53,WHITE
+TCGA-ZF-A9R4,9806233091,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,83,WHITE
+TCGA-ZF-A9R5,3999510091,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,59,WHITE
+TCGA-ZF-A9R7,9806233120,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,76,WHITE
+TCGA-ZF-A9R9,9806233125,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,58,WHITE
+TCGA-ZF-A9RC,9806233125,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,77,WHITE
+TCGA-ZF-A9RD,3999510108,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,75,WHITE
+TCGA-ZF-A9RE,9806233091,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,78,WHITE
+TCGA-ZF-A9RF,9806233120,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-ZF-A9RG,3999997088,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,70,WHITE
+TCGA-ZF-A9RL,9806233110,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,61,WHITE
+TCGA-ZF-A9RM,9806233110,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,70,WHITE
+TCGA-ZF-A9RN,3999510091,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,67,WHITE
+TCGA-ZF-AA4N,9806233091,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,,MALE,74,WHITE
+TCGA-ZF-AA4R,9806233120,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,67,WHITE
+TCGA-ZF-AA4T,9806233120,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,65,WHITE
+TCGA-ZF-AA4U,9806233110,R04C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,70,WHITE
+TCGA-ZF-AA4V,9806233110,R06C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,66,WHITE
+TCGA-ZF-AA4W,9806233110,R05C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,56,WHITE
+TCGA-ZF-AA4X,9806233091,R03C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,56,WHITE
+TCGA-ZF-AA51,9701417044,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,69,WHITE
+TCGA-ZF-AA52,9701417046,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,Wall Posterior,WHITE
+TCGA-ZF-AA53,9704031058,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,0,WHITE
+TCGA-ZF-AA54,9701417044,R01C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,71,WHITE
+TCGA-ZF-AA56,9704031058,R04C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,79,WHITE
+TCGA-ZF-AA58,3999510104,R06C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,61,WHITE
+TCGA-ZF-AA5H,9701417090,R01C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,60,WHITE
+TCGA-ZF-AA5N,3999510108,R05C02,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),FEMALE,0,WHITE
+TCGA-ZF-AA5P,9704031058,R02C01,Illumina Human Methylation 450,TCGA-BLCA,JHU_USC,Primary Tumor,Bladder,Muscle invasive urothelial carcinoma (pT2 or above),MALE,65,WHITE

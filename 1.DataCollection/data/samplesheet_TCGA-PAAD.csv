@@ -1,0 +1,196 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-2J-AAB1,9993943047,R03C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,MALE,65,WHITE
+TCGA-2J-AAB4,9993943049,R01C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,MALE,48,WHITE
+TCGA-2J-AAB6,9993943049,R03C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,75,WHITE
+TCGA-2J-AAB8,9993943047,R01C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,71,WHITE
+TCGA-2J-AAB9,9993943049,R05C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,70,WHITE
+TCGA-2J-AABA,9993943046,R03C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,55,WHITE
+TCGA-2J-AABE,9993943047,R04C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,73,WHITE
+TCGA-2J-AABF,9993943046,R02C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,73,WHITE
+TCGA-2J-AABH,9993943047,R03C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,MALE,61,WHITE
+TCGA-2J-AABI,9993943047,R06C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,FEMALE,55,WHITE
+TCGA-2J-AABK,9993943046,R04C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,71,WHITE
+TCGA-2J-AABO,9993943047,R04C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,43,WHITE
+TCGA-2J-AABP,9993943059,R01C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Undifferentiated Carcinoma,FEMALE,58,WHITE
+TCGA-2J-AABR,9993943049,R06C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,60,WHITE
+TCGA-2J-AABT,9993943049,R01C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,72,WHITE
+TCGA-2J-AABU,9993943046,R04C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,56,WHITE
+TCGA-2J-AABV,9993943047,R01C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,74,WHITE
+TCGA-2L-AAQA,9806233125,R03C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,76,WHITE
+TCGA-2L-AAQE,9828653028,R06C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,56,WHITE
+TCGA-2L-AAQI,9828653028,R01C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,66,WHITE
+TCGA-2L-AAQJ,9828653044,R02C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,49,WHITE
+TCGA-2L-AAQL,9829118148,R05C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,82,WHITE
+TCGA-2L-AAQM,9761749160,R05C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,MALE,52,WHITE
+TCGA-3A-A9I5,9829118148,R02C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,57,WHITE
+TCGA-3A-A9I7,9829118148,R03C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,45,BLACK OR AFRICAN AMERICAN
+TCGA-3A-A9I9,9829118148,R04C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,67,WHITE
+TCGA-3A-A9IB,9828653028,R06C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,69,WHITE
+TCGA-3A-A9IC,9806233125,R05C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,61,WHITE
+TCGA-3A-A9IH,9828653018,R06C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,66,WHITE
+TCGA-3A-A9IJ,9828653028,R03C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,MALE,65,WHITE
+TCGA-3A-A9IL,9829118148,R01C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,FEMALE,39,WHITE
+TCGA-3A-A9IN,9828653028,R04C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,FEMALE,62,WHITE
+TCGA-3A-A9IO,9829118148,R06C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,MALE,55,WHITE
+TCGA-3A-A9IR,9829118148,R03C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,FEMALE,64,WHITE
+TCGA-3A-A9IS,9828653028,R01C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,MALE,67,WHITE
+TCGA-3A-A9IU,9828653028,R05C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,65,WHITE
+TCGA-3A-A9IV,9993943049,R04C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,FEMALE,59,WHITE
+TCGA-3A-A9IX,9993943049,R02C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,40,WHITE
+TCGA-3A-A9IZ,9993943046,R05C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,47,WHITE
+TCGA-3A-A9J0,9993943059,R04C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,75,WHITE
+TCGA-3E-AAAY,9829119007,R01C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,67,WHITE
+TCGA-3E-AAAZ,9829118148,R06C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,71,WHITE
+TCGA-F2-6879,6285633050,R06C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,MALE,57,WHITE
+TCGA-F2-6880,6285633049,R05C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,70,WHITE
+TCGA-F2-7273,6285633049,R04C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,54,BLACK OR AFRICAN AMERICAN
+TCGA-F2-7276,6285633049,R01C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,64,WHITE
+TCGA-F2-A44G,8795194085,R05C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,79,WHITE
+TCGA-F2-A44H,8795194085,R03C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,65,WHITE
+TCGA-F2-A7TX,9806233125,R04C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,77,WHITE
+TCGA-F2-A8YN,9721366028,R03C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,76,WHITE
+TCGA-FB-A4P5,8795194086,R01C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,69,WHITE
+TCGA-FB-A4P6,8795194085,R05C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,54,WHITE
+TCGA-FB-A545,8795194085,R06C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,72,WHITE
+TCGA-FB-A5VM,9422491159,R02C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,74,WHITE
+TCGA-FB-A78T,9422491159,R05C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,71,WHITE
+TCGA-FB-A7DR,9422493022,R02C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Colloid (mucinous non-cystic) Carcinoma,MALE,48,ASIAN
+TCGA-FB-AAPP,9993943046,R06C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,71,WHITE
+TCGA-FB-AAPQ,9993943046,R01C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,65,WHITE
+TCGA-FB-AAPS,9828653028,R05C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,62,WHITE
+TCGA-FB-AAPU,9993943049,R03C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,41,ASIAN
+TCGA-FB-AAPY,9993943049,R02C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,71,WHITE
+TCGA-FB-AAPZ,9993943059,R03C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,54,WHITE
+TCGA-FB-AAQ0,9993943046,R01C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,68,WHITE
+TCGA-FB-AAQ1,9993943047,R05C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,49,WHITE
+TCGA-FB-AAQ2,9993943047,R05C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,81,WHITE
+TCGA-FB-AAQ3,9993943049,R04C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,65,WHITE
+TCGA-FB-AAQ6,9993943046,R05C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,85,WHITE
+TCGA-FZ-5919,6055424077,R05C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,59,WHITE
+TCGA-FZ-5919,6055424077,R04C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Solid Tissue Normal,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,59,WHITE
+TCGA-FZ-5920,6055424077,R02C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,52,BLACK OR AFRICAN AMERICAN
+TCGA-FZ-5920,6055424077,R05C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Solid Tissue Normal,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,52,BLACK OR AFRICAN AMERICAN
+TCGA-FZ-5922,6055424075,R06C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,81,WHITE
+TCGA-FZ-5922,6055424077,R02C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Solid Tissue Normal,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,81,WHITE
+TCGA-FZ-5923,6055424077,R03C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Solid Tissue Normal,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,71,WHITE
+TCGA-FZ-5923,6055424075,R05C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,71,WHITE
+TCGA-FZ-5924,6055424077,R01C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,83,WHITE
+TCGA-FZ-5924,6055424077,R04C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Solid Tissue Normal,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,83,WHITE
+TCGA-FZ-5926,6055424077,R06C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Solid Tissue Normal,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,73,WHITE
+TCGA-FZ-5926,6055424077,R03C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,73,WHITE
+TCGA-H6-8124,8795194038,R04C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Solid Tissue Normal,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,56,WHITE
+TCGA-H6-8124,8795194038,R06C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,56,WHITE
+TCGA-H6-A45N,8795194086,R01C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Solid Tissue Normal,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,FEMALE,88,WHITE
+TCGA-H6-A45N,8795194086,R02C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,FEMALE,88,WHITE
+TCGA-H8-A6C1,9422491152,R02C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,MALE,53,WHITE
+TCGA-HV-A5A3,8795194086,R03C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,50,ASIAN
+TCGA-HV-A5A3,8795194086,R05C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Solid Tissue Normal,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,50,ASIAN
+TCGA-HV-A5A4,8795194086,R06C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,72,ASIAN
+TCGA-HV-A5A5,8795194085,R02C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,61,ASIAN
+TCGA-HV-A5A6,8795194086,R05C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,65,ASIAN
+TCGA-HV-A7OL,9422493022,R04C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,70,ASIAN
+TCGA-HV-A7OP,9422493022,R05C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,MALE,72,ASIAN
+TCGA-HV-AA8V,9993943047,R02C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,50,ASIAN
+TCGA-HV-AA8X,9828653028,R03C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,75,ASIAN
+TCGA-HZ-7289,6285633050,R04C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,MALE,77,WHITE
+TCGA-HZ-7918,6285633062,R01C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,72,WHITE
+TCGA-HZ-7919,6285633050,R05C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,52,WHITE
+TCGA-HZ-7920,7786923093,R03C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,71,WHITE
+TCGA-HZ-7922,6285633050,R03C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,61,WHITE
+TCGA-HZ-7923,6285633050,R03C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,65,WHITE
+TCGA-HZ-7924,6285633049,R06C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,60,WHITE
+TCGA-HZ-7925,6285633049,R03C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,66,WHITE
+TCGA-HZ-7926,6285633049,R02C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-HZ-8001,7786923093,R02C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,69,WHITE
+TCGA-HZ-8002,7786923102,R01C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,61,WHITE
+TCGA-HZ-8003,7786923102,R03C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,65,WHITE
+TCGA-HZ-8005,7786923102,R04C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,81,WHITE
+TCGA-HZ-8315,8795194038,R02C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,54,WHITE
+TCGA-HZ-8317,8795194038,R03C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,69,WHITE
+TCGA-HZ-8519,8795194038,R01C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,MALE,73,WHITE
+TCGA-HZ-8636,8795194038,R02C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,58,WHITE
+TCGA-HZ-8637,8795194038,R03C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,76,WHITE
+TCGA-HZ-8638,8795194038,R04C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Colloid (mucinous non-cystic) Carcinoma,FEMALE,84,WHITE
+TCGA-HZ-A49G,8795194085,R06C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,58,WHITE
+TCGA-HZ-A49H,8795194086,R03C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,68,WHITE
+TCGA-HZ-A49I,8795194085,R04C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,77,WHITE
+TCGA-HZ-A4BH,8795194086,R02C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,75,WHITE
+TCGA-HZ-A4BK,8795194086,R04C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,MALE,72,WHITE
+TCGA-HZ-A77O,9422493022,R03C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,77,WHITE
+TCGA-HZ-A77P,9422493021,R04C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,MALE,77,WHITE
+TCGA-HZ-A77Q,9482801040,R06C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,FEMALE,55,WHITE
+TCGA-HZ-A8P0,9482801040,R04C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,76,WHITE
+TCGA-HZ-A8P1,9721366028,R03C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,81,WHITE
+TCGA-HZ-A9TJ,9993943049,R05C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Metastatic,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,MALE,70,WHITE
+TCGA-HZ-A9TJ,9993943046,R02C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,MALE,70,WHITE
+TCGA-IB-7644,6285633049,R06C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,65,WHITE
+TCGA-IB-7645,7786923102,R05C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,44,
+TCGA-IB-7646,6285633050,R06C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,60,WHITE
+TCGA-IB-7647,6285633049,R05C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,41,WHITE
+TCGA-IB-7649,6285633050,R05C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,73,
+TCGA-IB-7651,6285633050,R01C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,64,WHITE
+TCGA-IB-7652,6285633050,R02C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,49,ASIAN
+TCGA-IB-7654,6285633049,R02C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,80,WHITE
+TCGA-IB-7885,6285633049,R04C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,78,WHITE
+TCGA-IB-7886,6285633049,R01C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,80,WHITE
+TCGA-IB-7887,6285633050,R01C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,62,WHITE
+TCGA-IB-7888,6285633050,R02C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-IB-7889,6285633050,R04C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,85,WHITE
+TCGA-IB-7890,7786923093,R06C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,73,
+TCGA-IB-7891,7786923093,R04C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,49,WHITE
+TCGA-IB-7893,7786923093,R05C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,64,WHITE
+TCGA-IB-7897,7786923102,R02C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,53,WHITE
+TCGA-IB-8126,8795194038,R05C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,79,WHITE
+TCGA-IB-8127,8795194038,R01C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,59,WHITE
+TCGA-IB-A5SO,9422491159,R01C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,71,WHITE
+TCGA-IB-A5SP,9422491159,R03C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,77,WHITE
+TCGA-IB-A5SQ,9422491159,R03C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,56,WHITE
+TCGA-IB-A5SS,9422491152,R03C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,64,WHITE
+TCGA-IB-A5ST,9422491159,R01C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,64,WHITE
+TCGA-IB-A6UF,9422493022,R06C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,63,WHITE
+TCGA-IB-A6UG,9422493021,R05C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,65,WHITE
+TCGA-IB-A7LX,9482801040,R03C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,57,WHITE
+TCGA-IB-A7M4,9482801040,R01C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,81,WHITE
+TCGA-IB-AAUM,9721366028,R01C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,76,WHITE
+TCGA-IB-AAUN,9829118148,R02C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,74,WHITE
+TCGA-IB-AAUO,9829118148,R04C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,64,WHITE
+TCGA-IB-AAUP,9721366028,R02C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,68,WHITE
+TCGA-IB-AAUQ,9993943049,R06C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,50,WHITE
+TCGA-IB-AAUR,9806233125,R02C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,67,WHITE
+TCGA-IB-AAUS,9806233125,R06C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,84,WHITE
+TCGA-IB-AAUT,9721366028,R02C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Colloid (mucinous non-cystic) Carcinoma,MALE,65,WHITE
+TCGA-IB-AAUU,9721366028,R04C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,35,WHITE
+TCGA-IB-AAUV,9829118148,R01C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,49,WHITE
+TCGA-IB-AAUW,9829118148,R05C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,63,WHITE
+TCGA-L1-A7W4,9482801040,R05C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,48,WHITE
+TCGA-LB-A7SX,9422493022,R01C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,74,BLACK OR AFRICAN AMERICAN
+TCGA-LB-A8F3,9482801040,R05C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-LB-A9Q5,9828653044,R03C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,63,WHITE
+TCGA-M8-A5N4,8795194085,R01C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,48,
+TCGA-OE-A75W,9422491152,R06C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,75,WHITE
+TCGA-PZ-A5RE,9422491152,R06C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,44,WHITE
+TCGA-Q3-A5QY,9422491152,R04C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,58,WHITE
+TCGA-Q3-AA2A,9721366028,R05C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,64,WHITE
+TCGA-RB-A7B8,9422493022,R01C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,FEMALE,81,WHITE
+TCGA-RB-AA9M,9828653028,R02C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,43,WHITE
+TCGA-RL-AAAS,9828653044,R01C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,60,WHITE
+TCGA-S4-A8RM,9721366028,R06C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,67,WHITE
+TCGA-S4-A8RO,9721366028,R06C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,75,WHITE
+TCGA-S4-A8RP,9482801040,R02C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,77,WHITE
+TCGA-US-A774,9422491152,R01C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,76,WHITE
+TCGA-US-A776,9422493021,R06C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Colloid (mucinous non-cystic) Carcinoma,MALE,61,WHITE
+TCGA-US-A779,9422491159,R02C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,54,WHITE
+TCGA-US-A77E,9422491159,R04C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,MALE,73,WHITE
+TCGA-US-A77G,9422491152,R05C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,64,WHITE
+TCGA-US-A77J,9422491159,R06C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,81,WHITE
+TCGA-XD-AAUG,9993943046,R06C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,66,WHITE
+TCGA-XD-AAUH,9993943046,R03C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,57,WHITE
+TCGA-XD-AAUI,9993943047,R02C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,50,WHITE
+TCGA-XD-AAUL,9828653028,R02C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,56,WHITE
+TCGA-XN-A8T3,9482801040,R06C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,67,WHITE
+TCGA-XN-A8T5,9482801040,R01C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma-Other Subtype,FEMALE,53,WHITE
+TCGA-YB-A89D,9482801040,R04C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,59,WHITE
+TCGA-YB-A89D,9482801040,R03C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Solid Tissue Normal,Pancreas,Pancreas-Adenocarcinoma Ductal Type,MALE,59,WHITE
+TCGA-YH-A8SY,9721366028,R05C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,,FEMALE,73,WHITE
+TCGA-YY-A8LH,9482801040,R02C02,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,61,WHITE
+TCGA-Z5-AAPL,9993943059,R02C01,Illumina Human Methylation 450,TCGA-PAAD,JHU_USC,Primary Tumor,Pancreas,Pancreas-Adenocarcinoma Ductal Type,FEMALE,74,WHITE

@@ -1,0 +1,203 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-2H-A9GF,9701417132,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,67,
+TCGA-2H-A9GG,9701417002,R06C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,66,
+TCGA-2H-A9GH,9701417002,R04C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,44,
+TCGA-2H-A9GI,9701417063,R03C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,68,
+TCGA-2H-A9GJ,9701417132,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,57,
+TCGA-2H-A9GK,9701417063,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,43,
+TCGA-2H-A9GL,9701417063,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,74,
+TCGA-2H-A9GM,9701417063,R02C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,53,
+TCGA-2H-A9GN,9701417002,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,70,
+TCGA-2H-A9GO,9701417149,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,58,
+TCGA-2H-A9GQ,9701417132,R02C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,80,
+TCGA-2H-A9GR,9701417063,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,80,
+TCGA-IC-A6RE,9422492119,R04C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,59,WHITE
+TCGA-IC-A6RE,9422492098,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Solid Tissue Normal,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,59,WHITE
+TCGA-IC-A6RF,9422492119,R01C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Solid Tissue Normal,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,69,WHITE
+TCGA-IC-A6RF,9422492119,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,69,WHITE
+TCGA-IG-A3I8,8795194023,R01C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Solid Tissue Normal,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,51,WHITE
+TCGA-IG-A3I8,8795194027,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,51,WHITE
+TCGA-IG-A3QL,8795194023,R02C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,54,WHITE
+TCGA-IG-A3Y9,8795194027,R01C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,72,WHITE
+TCGA-IG-A3YA,8795194023,R03C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,53,WHITE
+TCGA-IG-A3YB,8795194027,R03C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,61,WHITE
+TCGA-IG-A3YC,8795194023,R01C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,62,WHITE
+TCGA-IG-A4P3,8784225116,R02C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,48,WHITE
+TCGA-IG-A4QS,8784225115,R03C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,71,WHITE
+TCGA-IG-A4QT,8784225115,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,56,WHITE
+TCGA-IG-A50L,8784241035,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,58,ASIAN
+TCGA-IG-A51D,8784241035,R01C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,63,WHITE
+TCGA-IG-A5B8,9305216166,R02C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,72,WHITE
+TCGA-IG-A5S3,9305216166,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,69,WHITE
+TCGA-IG-A625,9283265015,R01C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,60,ASIAN
+TCGA-IG-A6QS,9422492098,R02C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,54,WHITE
+TCGA-IG-A7DP,9422492098,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",FEMALE,50,WHITE
+TCGA-IG-A8O2,9630789196,R04C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,62,ASIAN
+TCGA-IG-A97H,9828653003,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,36,ASIAN
+TCGA-IG-A97I,9828653003,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,58,WHITE
+TCGA-JY-A6F8,9422492119,R01C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,56,WHITE
+TCGA-JY-A6FA,9422492098,R04C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,51,ASIAN
+TCGA-JY-A6FB,9422492119,R05C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,77,WHITE
+TCGA-JY-A6FD,9422492119,R03C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,51,ASIAN
+TCGA-JY-A6FE,9422492119,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,49,WHITE
+TCGA-JY-A6FG,9422492119,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,50,WHITE
+TCGA-JY-A6FH,9422492098,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,53,WHITE
+TCGA-JY-A938,9701417002,R05C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,75,WHITE
+TCGA-JY-A939,9701417132,R05C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,77,WHITE
+TCGA-JY-A93C,9828653003,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,47,ASIAN
+TCGA-JY-A93D,9828653003,R03C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,51,WHITE
+TCGA-JY-A93E,9701417149,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,61,WHITE
+TCGA-JY-A93F,9701417063,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,58,WHITE
+TCGA-KH-A6WC,9422492098,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,82,WHITE
+TCGA-L5-A43C,8795194027,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,81,WHITE
+TCGA-L5-A43C,8795194027,R01C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Solid Tissue Normal,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,81,WHITE
+TCGA-L5-A43E,8795194027,R02C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,74,WHITE
+TCGA-L5-A43H,8795194027,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,75,WHITE
+TCGA-L5-A43I,8795194023,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,77,WHITE
+TCGA-L5-A43J,8795194023,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,90,WHITE
+TCGA-L5-A43M,8795194017,R05C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",FEMALE,84,
+TCGA-L5-A4OE,8784225116,R01C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Solid Tissue Normal,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,81,WHITE
+TCGA-L5-A4OE,8784225116,R04C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,81,WHITE
+TCGA-L5-A4OF,8784225110,R01C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Solid Tissue Normal,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,63,WHITE
+TCGA-L5-A4OF,8784225110,R01C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,63,WHITE
+TCGA-L5-A4OG,8784225116,R06C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",FEMALE,79,WHITE
+TCGA-L5-A4OG,8784225115,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Solid Tissue Normal,Esophagus,"Esophagus Adenocarcinoma, NOS",FEMALE,79,WHITE
+TCGA-L5-A4OH,8784225110,R03C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,71,WHITE
+TCGA-L5-A4OH,8784225110,R05C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Solid Tissue Normal,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,71,WHITE
+TCGA-L5-A4OI,8784225116,R01C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,79,WHITE
+TCGA-L5-A4OI,8784225110,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Solid Tissue Normal,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,79,WHITE
+TCGA-L5-A4OJ,8784225110,R02C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",FEMALE,70,WHITE
+TCGA-L5-A4OJ,8784225115,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Solid Tissue Normal,Esophagus,"Esophagus Adenocarcinoma, NOS",FEMALE,70,WHITE
+TCGA-L5-A4OM,8784225110,R04C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Solid Tissue Normal,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,54,WHITE
+TCGA-L5-A4OM,8784225116,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,54,WHITE
+TCGA-L5-A4ON,8784225110,R06C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Solid Tissue Normal,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,65,WHITE
+TCGA-L5-A4ON,8784241035,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,65,WHITE
+TCGA-L5-A4OO,8784225116,R03C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,75,WHITE
+TCGA-L5-A4OP,8784225116,R05C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Solid Tissue Normal,Esophagus,"Esophagus Adenocarcinoma, NOS",FEMALE,67,WHITE
+TCGA-L5-A4OP,8784225115,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",FEMALE,67,WHITE
+TCGA-L5-A4OQ,8784225116,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,75,WHITE
+TCGA-L5-A4OQ,8784225110,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Solid Tissue Normal,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,75,WHITE
+TCGA-L5-A4OR,8784225115,R06C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,83,WHITE
+TCGA-L5-A4OS,9305216166,R06C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",FEMALE,86,WHITE
+TCGA-L5-A4OT,9305216166,R05C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,77,WHITE
+TCGA-L5-A4OU,9305216166,R03C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,81,WHITE
+TCGA-L5-A4OW,9305216166,R01C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",FEMALE,56,
+TCGA-L5-A4OX,9305216166,R04C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,60,WHITE
+TCGA-L5-A88S,9630789196,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,84,WHITE
+TCGA-L5-A88T,9482801003,R01C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,86,WHITE
+TCGA-L5-A88V,9482801003,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,60,WHITE
+TCGA-L5-A88W,9482801003,R02C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,67,WHITE
+TCGA-L5-A88Y,9482801003,R06C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,76,WHITE
+TCGA-L5-A88Z,9630789160,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,70,WHITE
+TCGA-L5-A891,9630789196,R02C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,51,WHITE
+TCGA-L5-A893,9630789160,R03C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",FEMALE,71,WHITE
+TCGA-L5-A8NE,9701417002,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,77,WHITE
+TCGA-L5-A8NF,9701417132,R01C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,57,WHITE
+TCGA-L5-A8NG,9701417132,R03C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,77,WHITE
+TCGA-L5-A8NH,9701417063,R05C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,54,WHITE
+TCGA-L5-A8NI,9701417002,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,79,WHITE
+TCGA-L5-A8NJ,9630789160,R05C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,77,WHITE
+TCGA-L5-A8NK,9701417063,R06C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,84,WHITE
+TCGA-L5-A8NL,9701417002,R01C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,56,WHITE
+TCGA-L5-A8NM,9701417132,R01C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",FEMALE,84,WHITE
+TCGA-L5-A8NN,9701417132,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,81,WHITE
+TCGA-L5-A8NQ,9630789160,R02C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,71,WHITE
+TCGA-L5-A8NR,9701417002,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",FEMALE,81,
+TCGA-L5-A8NS,9701417002,R01C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,76,WHITE
+TCGA-L5-A8NT,9701417063,R04C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,69,WHITE
+TCGA-L5-A8NU,9630789196,R03C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,84,WHITE
+TCGA-L5-A8NV,9701417132,R06C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,75,WHITE
+TCGA-L5-A8NW,9701417063,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,55,WHITE
+TCGA-L7-A56G,8784225110,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,65,BLACK OR AFRICAN AMERICAN
+TCGA-L7-A6VZ,9422492119,R06C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,62,WHITE
+TCGA-LN-A49K,8795194023,R05C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,66,ASIAN
+TCGA-LN-A49L,8795194027,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,44,ASIAN
+TCGA-LN-A49M,8784225110,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,62,ASIAN
+TCGA-LN-A49N,8795194027,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,50,ASIAN
+TCGA-LN-A49O,8795194023,R06C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,47,ASIAN
+TCGA-LN-A49P,8795194023,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,71,ASIAN
+TCGA-LN-A49R,8795194017,R06C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,46,ASIAN
+TCGA-LN-A49S,8795194023,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,59,ASIAN
+TCGA-LN-A49U,8784225115,R01C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,62,ASIAN
+TCGA-LN-A49V,8795194023,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,49,ASIAN
+TCGA-LN-A49W,8784225115,R04C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,73,ASIAN
+TCGA-LN-A49X,8784225116,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,44,ASIAN
+TCGA-LN-A49Y,8784225116,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,77,ASIAN
+TCGA-LN-A4A1,8784225115,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,60,ASIAN
+TCGA-LN-A4A2,8784241035,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,57,ASIAN
+TCGA-LN-A4A3,8784225115,R05C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,61,ASIAN
+TCGA-LN-A4A4,8784225115,R02C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,36,ASIAN
+TCGA-LN-A4A5,8784225110,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,49,ASIAN
+TCGA-LN-A4A6,8784225116,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,65,ASIAN
+TCGA-LN-A4A8,8784241035,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,52,ASIAN
+TCGA-LN-A4A9,9305216166,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,58,ASIAN
+TCGA-LN-A4MQ,9305216166,R01C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,46,ASIAN
+TCGA-LN-A4MR,9305216166,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,57,ASIAN
+TCGA-LN-A5U5,9305216149,R06C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,57,ASIAN
+TCGA-LN-A5U6,9305216166,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,54,ASIAN
+TCGA-LN-A5U7,9283265015,R04C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,46,ASIAN
+TCGA-LN-A7HV,9482801003,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,58,ASIAN
+TCGA-LN-A7HW,9482801003,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,59,ASIAN
+TCGA-LN-A7HX,9422492098,R01C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,72,ASIAN
+TCGA-LN-A7HY,9482801003,R03C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,50,ASIAN
+TCGA-LN-A7HZ,9482801003,R01C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,49,ASIAN
+TCGA-LN-A8HZ,9630789196,R06C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,56,ASIAN
+TCGA-LN-A8I0,9630789160,R04C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,52,ASIAN
+TCGA-LN-A8I1,9630789160,R06C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,67,ASIAN
+TCGA-LN-A9FO,9806233138,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,42,ASIAN
+TCGA-LN-A9FP,9806233138,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,60,ASIAN
+TCGA-LN-A9FQ,9828653003,R01C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,62,ASIAN
+TCGA-LN-A9FR,9828653003,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,70,ASIAN
+TCGA-M9-A5M8,9305216166,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,58,
+TCGA-Q9-A6FU,9283265015,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,57,WHITE
+TCGA-Q9-A6FW,9283265015,R02C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,61,WHITE
+TCGA-R6-A6DN,9283265015,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,58,WHITE
+TCGA-R6-A6DQ,9283265015,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",FEMALE,74,WHITE
+TCGA-R6-A6KZ,9283265015,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,42,WHITE
+TCGA-R6-A6L4,9283265015,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,27,WHITE
+TCGA-R6-A6L6,9422492119,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,68,WHITE
+TCGA-R6-A6XG,9422492119,R02C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,64,WHITE
+TCGA-R6-A6XQ,9422492098,R03C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,58,WHITE
+TCGA-R6-A6Y0,9422492098,R06C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,54,WHITE
+TCGA-R6-A6Y2,9422492119,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,71,WHITE
+TCGA-R6-A8W5,9701417132,R04C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,60,WHITE
+TCGA-R6-A8W8,9701417149,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,72,WHITE
+TCGA-R6-A8WC,9701417002,R02C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,56,WHITE
+TCGA-R6-A8WG,9701417002,R03C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,60,WHITE
+TCGA-RE-A7BO,9422492098,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",FEMALE,72,WHITE
+TCGA-S8-A6BV,9283265015,R03C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,76,WHITE
+TCGA-S8-A6BW,9283265015,R05C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,51,WHITE
+TCGA-V5-A7RB,9482801003,R04C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,59,
+TCGA-V5-A7RC,9934398135,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Metastatic,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-V5-A7RC,9934398135,R01C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-V5-A7RE,9482801003,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,45,WHITE
+TCGA-V5-A7RE,9482801003,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Solid Tissue Normal,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,45,WHITE
+TCGA-V5-AASV,9828653003,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-V5-AASW,9934398135,R06C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,72,WHITE
+TCGA-V5-AASX,9828653003,R01C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,74,WHITE
+TCGA-V5-AASX,9806233138,R01C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Solid Tissue Normal,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,74,WHITE
+TCGA-VR-A8EO,9630789160,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,49,WHITE
+TCGA-VR-A8EP,9934398135,R03C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,51,WHITE
+TCGA-VR-A8EQ,9630789160,R01C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,73,WHITE
+TCGA-VR-A8ER,9630789160,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,54,
+TCGA-VR-A8ET,9934398135,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,64,WHITE
+TCGA-VR-A8EU,9630789196,R01C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,51,WHITE
+TCGA-VR-A8EW,9630789196,R05C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,57,ASIAN
+TCGA-VR-A8EX,9630789160,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,63,
+TCGA-VR-A8EY,9630789196,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,44,WHITE
+TCGA-VR-A8EZ,9630789196,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,47,WHITE
+TCGA-VR-A8Q7,9701417063,R01C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,60,WHITE
+TCGA-VR-AA4D,9701417132,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,53,WHITE
+TCGA-VR-AA4G,9701417132,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,51,WHITE
+TCGA-VR-AA7B,9934398135,R04C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,65,WHITE
+TCGA-VR-AA7D,9934398135,R05C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,58,
+TCGA-VR-AA7I,9934398135,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,70,WHITE
+TCGA-X8-AAAR,9934398135,R05C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,69,WHITE
+TCGA-XP-A8T6,9630789196,R06C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,54,BLACK OR AFRICAN AMERICAN
+TCGA-XP-A8T7,9630789160,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,FEMALE,63,WHITE
+TCGA-XP-A8T8,9630789196,R02C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,49,BLACK OR AFRICAN AMERICAN
+TCGA-Z6-A8JD,9630789160,R01C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,53,WHITE
+TCGA-Z6-A8JE,9701417002,R03C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,57,WHITE
+TCGA-Z6-A9VB,9701417149,R01C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,53,WHITE
+TCGA-Z6-AAPN,9934398135,R04C01,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,Esophagus Squamous Cell Carcinoma,MALE,57,WHITE
+TCGA-ZR-A9CJ,9828653003,R04C02,Illumina Human Methylation 450,TCGA-ESCA,JHU_USC,Primary Tumor,Esophagus,"Esophagus Adenocarcinoma, NOS",MALE,65,WHITE

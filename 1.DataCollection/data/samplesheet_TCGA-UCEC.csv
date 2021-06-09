@@ -1,0 +1,474 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-2E-A9G8,9934398135,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-4E-A92E,9721366013,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,54,BLACK OR AFRICAN AMERICAN
+TCGA-5B-A90C,9721366013,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-5S-A9Q8,9934398119,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,51,BLACK OR AFRICAN AMERICAN
+TCGA-A5-A0G1,6055432009,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,67,WHITE
+TCGA-A5-A0GG,6042324062,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,76,BLACK OR AFRICAN AMERICAN
+TCGA-A5-A0GQ,6055432008,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,76,WHITE
+TCGA-A5-A0GR,6042324062,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-A5-A0VO,6042316100,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,64,WHITE
+TCGA-A5-A1OF,6264496133,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,47,
+TCGA-A5-A1OG,6264496137,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,65,ASIAN
+TCGA-A5-A1OH,7786923092,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,86,WHITE
+TCGA-A5-A1OJ,6264496133,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,31,ASIAN
+TCGA-A5-A1OK,6042316072,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-A5-A2K2,6929718099,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,77,WHITE
+TCGA-A5-A2K3,6929718085,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,68,WHITE
+TCGA-A5-A2K4,6929718099,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,69,WHITE
+TCGA-A5-A2K5,6929718086,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,76,WHITE
+TCGA-A5-A2K7,6929718086,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,41,
+TCGA-A5-A3LO,7796806046,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,64,WHITE
+TCGA-A5-A3LP,7786923099,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,74,WHITE
+TCGA-A5-A7WJ,9422492134,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-A5-A7WK,9422492134,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,71,BLACK OR AFRICAN AMERICAN
+TCGA-A5-AB3J,9934398119,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,52,BLACK OR AFRICAN AMERICAN
+TCGA-AJ-A23M,6057825044,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,61,WHITE
+TCGA-AJ-A23N,7786923094,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,70,WHITE
+TCGA-AJ-A23O,6057825044,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,69,WHITE
+TCGA-AJ-A2QK,6929718099,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,65,WHITE
+TCGA-AJ-A2QL,6929718105,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,60,WHITE
+TCGA-AJ-A2QL,6929718101,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,60,WHITE
+TCGA-AJ-A2QM,6929718105,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,67,WHITE
+TCGA-AJ-A2QN,6929718101,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,60,WHITE
+TCGA-AJ-A2QO,6929718101,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,85,WHITE
+TCGA-AJ-A3BD,6929671046,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,57,WHITE
+TCGA-AJ-A3BF,6929793072,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,65,WHITE
+TCGA-AJ-A3BG,6929671046,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,65,WHITE
+TCGA-AJ-A3BH,6929671047,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,NA,WHITE
+TCGA-AJ-A3BI,6929793072,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,67,WHITE
+TCGA-AJ-A3BK,6929671046,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,68,WHITE
+TCGA-AJ-A3EJ,6929671046,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,74,WHITE
+TCGA-AJ-A3EK,6929671039,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,53,WHITE
+TCGA-AJ-A3EL,6929793072,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,47,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER
+TCGA-AJ-A3EM,6929793072,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,69,WHITE
+TCGA-AJ-A3I9,7786923094,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,52,WHITE
+TCGA-AJ-A3IA,6929793072,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,77,WHITE
+TCGA-AJ-A3NC,7796806104,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-AJ-A3NC,7786923099,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-AJ-A3NE,7786923099,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,46,WHITE
+TCGA-AJ-A3NE,7786923099,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,46,WHITE
+TCGA-AJ-A3NF,7786923099,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,60,WHITE
+TCGA-AJ-A3NG,7796806104,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,83,WHITE
+TCGA-AJ-A3NH,7796806104,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Serous endometrial adenocarcinoma,FEMALE,90,WHITE
+TCGA-AJ-A3NH,7796806046,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,90,WHITE
+TCGA-AJ-A3OJ,7796806046,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,54,WHITE
+TCGA-AJ-A3OK,7786923092,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,73,WHITE
+TCGA-AJ-A3OL,7786923099,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,55,WHITE
+TCGA-AJ-A3QS,7786923092,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-AJ-A3TW,7796806104,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,78,WHITE
+TCGA-AJ-A5DV,9285451179,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,65,BLACK OR AFRICAN AMERICAN
+TCGA-AJ-A5DW,9285451158,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,56,BLACK OR AFRICAN AMERICAN
+TCGA-AJ-A6NU,9422492127,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-AJ-A8CT,9721366013,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,58,BLACK OR AFRICAN AMERICAN
+TCGA-AJ-A8CV,9721366013,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,58,BLACK OR AFRICAN AMERICAN
+TCGA-AJ-A8CW,9721366013,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-AP-A059,6042324062,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,69,WHITE
+TCGA-AP-A05O,6055424121,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,68,WHITE
+TCGA-AP-A0LF,6055424121,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,82,WHITE
+TCGA-AP-A0LM,6042324062,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,33,BLACK OR AFRICAN AMERICAN
+TCGA-AP-A0LS,6264496137,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-AP-A1DH,6042316143,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,62,WHITE
+TCGA-AP-A1DK,6042316102,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,53,WHITE
+TCGA-AP-A1DM,6042316142,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,60,WHITE
+TCGA-AP-A1DO,6042316114,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,62,WHITE
+TCGA-AP-A1DP,6042316102,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,70,WHITE
+TCGA-AP-A1DQ,6042316143,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,76,WHITE
+TCGA-AP-A1DR,6042316143,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-AP-A1DV,6042316102,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,59,WHITE
+TCGA-AP-A1E0,6042316102,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,40,WHITE
+TCGA-AP-A1E1,6042316142,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,74,WHITE
+TCGA-AP-A1E3,6042316142,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,45,WHITE
+TCGA-AP-A1E4,6042316142,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,54,WHITE
+TCGA-AP-A3K1,6929793072,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,56,WHITE
+TCGA-AP-A5FX,9285451179,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-AW-A1PO,6057825044,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,66,WHITE
+TCGA-AX-A05Y,9285451158,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,57,WHITE
+TCGA-AX-A06D,6055432008,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,82,WHITE
+TCGA-AX-A06H,6055432008,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,60,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-AX-A06L,6055432008,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-AX-A0IS,6042316057,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,52,WHITE
+TCGA-AX-A0IZ,9285451158,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,53,WHITE
+TCGA-AX-A0IZ,6055432009,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,53,WHITE
+TCGA-AX-A0J0,9285451158,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,47,WHITE
+TCGA-AX-A0J0,6042316142,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,47,WHITE
+TCGA-AX-A1C4,6042316102,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,52,WHITE
+TCGA-AX-A1C5,6042316142,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,47,WHITE
+TCGA-AX-A1C7,6042316114,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,77,WHITE
+TCGA-AX-A1C8,6042316142,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,77,WHITE
+TCGA-AX-A1C9,6042316143,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,73,WHITE
+TCGA-AX-A1CA,6042316143,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,70,BLACK OR AFRICAN AMERICAN
+TCGA-AX-A1CC,6042316143,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,65,WHITE
+TCGA-AX-A1CE,6042316114,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,60,WHITE
+TCGA-AX-A1CF,6042316102,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,69,WHITE
+TCGA-AX-A1CF,6042316142,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,69,WHITE
+TCGA-AX-A1CI,6042316142,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,61,WHITE
+TCGA-AX-A1CI,6042316102,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,61,WHITE
+TCGA-AX-A1CJ,6042316102,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-AX-A1CJ,6042316143,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-AX-A1CK,6042316102,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,58,WHITE
+TCGA-AX-A1CK,6042316102,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,58,WHITE
+TCGA-AX-A1CN,6042316143,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,54,WHITE
+TCGA-AX-A1CP,6042316102,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,84,WHITE
+TCGA-AX-A1CR,6042316143,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,70,WHITE
+TCGA-AX-A2H2,6929718085,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,86,BLACK OR AFRICAN AMERICAN
+TCGA-AX-A2H4,6929718105,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Serous endometrial adenocarcinoma,FEMALE,66,WHITE
+TCGA-AX-A2H4,6929718101,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,66,WHITE
+TCGA-AX-A2H5,6264509017,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Serous endometrial adenocarcinoma,FEMALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-AX-A2H5,6264509015,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-AX-A2H7,6929718101,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,87,WHITE
+TCGA-AX-A2H7,6929718101,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,87,WHITE
+TCGA-AX-A2H8,6264509017,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,64,WHITE
+TCGA-AX-A2H8,6264509015,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,64,WHITE
+TCGA-AX-A2HA,6929718101,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,35,WHITE
+TCGA-AX-A2HA,6929718101,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,35,WHITE
+TCGA-AX-A2HC,6264496137,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,53,BLACK OR AFRICAN AMERICAN
+TCGA-AX-A2HC,6264509015,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,53,BLACK OR AFRICAN AMERICAN
+TCGA-AX-A2HD,6264509013,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,69,WHITE
+TCGA-AX-A2HD,6264509017,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,69,WHITE
+TCGA-AX-A2HF,6264509013,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,67,WHITE
+TCGA-AX-A2HG,6264509015,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,56,WHITE
+TCGA-AX-A2HH,6264509015,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,60,WHITE
+TCGA-AX-A2HJ,6264496137,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,35,ASIAN
+TCGA-AX-A2HK,6264509015,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,77,WHITE
+TCGA-AX-A2IN,6929718086,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-AX-A2IO,6929718086,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,83,WHITE
+TCGA-AX-A3FS,7796806046,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,82,WHITE
+TCGA-AX-A3FT,7786923094,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,64,WHITE
+TCGA-AX-A3FV,7786923094,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,62,WHITE
+TCGA-AX-A3FW,7786923099,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,66,WHITE
+TCGA-AX-A3FX,7786923092,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,69,WHITE
+TCGA-AX-A3FZ,7786923094,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,33,WHITE
+TCGA-AX-A3G1,7786923099,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,84,WHITE
+TCGA-AX-A3G3,6929793072,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,58,WHITE
+TCGA-AX-A3G4,6929793021,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,60,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER
+TCGA-AX-A3G6,6929793072,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,67,WHITE
+TCGA-AX-A3G7,6929793072,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,71,WHITE
+TCGA-AX-A3G8,7796806046,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,76,WHITE
+TCGA-AX-A3G9,7786923092,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-AX-A3GB,7796806104,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,73,WHITE
+TCGA-AX-A3GI,6929793021,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A0JT,6055432009,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-B5-A0JU,6264496133,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A0JX,6042316100,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,62,WHITE
+TCGA-B5-A0K8,6042316100,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,71,WHITE
+TCGA-B5-A0KB,6264496133,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,62,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A11E,6042316057,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,53,WHITE
+TCGA-B5-A11F,6042316057,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,55,WHITE
+TCGA-B5-A11G,6055432009,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,71,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A11H,6055432008,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,67,WHITE
+TCGA-B5-A11I,6042316057,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,65,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A11J,6055424121,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,64,WHITE
+TCGA-B5-A11L,6042308137,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,71,WHITE
+TCGA-B5-A11M,6055432009,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,43,WHITE
+TCGA-B5-A11N,6055432009,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,69,WHITE
+TCGA-B5-A11O,6055424121,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,62,WHITE
+TCGA-B5-A11P,6264496133,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,87,WHITE
+TCGA-B5-A11Q,6055424121,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,64,WHITE
+TCGA-B5-A11R,6055424121,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,51,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A11S,6042324062,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-B5-A11U,6055424121,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,74,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A11V,6042316057,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A11W,6055432008,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,61,WHITE
+TCGA-B5-A11X,6042324053,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A11Y,6042324053,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,59,WHITE
+TCGA-B5-A11Z,6042324053,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,61,WHITE
+TCGA-B5-A121,6055424121,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,57,WHITE
+TCGA-B5-A1MR,6264496137,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,65,WHITE
+TCGA-B5-A1MS,7796806104,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,60,WHITE
+TCGA-B5-A1MU,6042308137,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,79,WHITE
+TCGA-B5-A1MV,6264496133,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,84,WHITE
+TCGA-B5-A1MW,6264509017,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,55,WHITE
+TCGA-B5-A1MX,6042316114,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,47,WHITE
+TCGA-B5-A1MY,6042316114,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,62,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A1MZ,6042316114,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,54,WHITE
+TCGA-B5-A1N2,6042316114,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,70,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A3F9,7786923094,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,56,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A3FA,6929671047,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,73,WHITE
+TCGA-B5-A3FB,6929671047,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,73,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A3FC,7796806046,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,53,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A3FD,6929671046,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,70,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A3FH,6929671047,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,74,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A3S1,7786923092,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,71,WHITE
+TCGA-B5-A5OC,9285451158,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,71,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A5OD,9283265064,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-B5-A5OE,9283265064,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-BG-A0MA,6264509017,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,60,WHITE
+TCGA-BG-A0MA,6264509017,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,60,WHITE
+TCGA-BG-A0MH,6055424121,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,61,WHITE
+TCGA-BG-A0MK,6929671046,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,52,BLACK OR AFRICAN AMERICAN
+TCGA-BG-A0VT,6042324053,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,56,WHITE
+TCGA-BG-A0VV,6042324062,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,53,WHITE
+TCGA-BG-A0VW,6055424122,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,77,WHITE
+TCGA-BG-A0VX,6055432009,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,58,WHITE
+TCGA-BG-A0VZ,6042316100,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,58,WHITE
+TCGA-BG-A0W1,6042316100,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,89,WHITE
+TCGA-BG-A0W2,6042316142,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,57,WHITE
+TCGA-BG-A0YU,6042324053,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,37,WHITE
+TCGA-BG-A0YV,6042324053,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,67,WHITE
+TCGA-BG-A186,6164655025,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-BG-A187,6164655045,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,65,WHITE
+TCGA-BG-A18A,6164647036,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,74,WHITE
+TCGA-BG-A18B,6164655025,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,53,WHITE
+TCGA-BG-A18C,6164655025,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,72,WHITE
+TCGA-BG-A220,6057825044,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,69,WHITE
+TCGA-BG-A221,6057825002,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,84,WHITE
+TCGA-BG-A222,6057825002,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,49,WHITE
+TCGA-BG-A2AD,6264509044,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-BG-A2AD,6264509043,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-BG-A2AE,6264509044,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,57,WHITE
+TCGA-BG-A2AE,6264509043,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,57,WHITE
+TCGA-BG-A2L7,6929718105,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,68,WHITE
+TCGA-BG-A2L7,6929718105,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,68,WHITE
+TCGA-BG-A3EW,7786923099,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,62,WHITE
+TCGA-BG-A3EW,7796806046,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,62,WHITE
+TCGA-BG-A3PP,7796806104,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,82,WHITE
+TCGA-BG-A3PP,7796806046,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Serous endometrial adenocarcinoma,FEMALE,82,WHITE
+TCGA-BK-A0CA,9305216011,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,61,WHITE
+TCGA-BK-A0CA,9305216011,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,61,WHITE
+TCGA-BK-A0CA,6042324062,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,61,WHITE
+TCGA-BK-A0CC,9305216011,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-BK-A0CC,9305216011,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-BK-A139,9285451179,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Recurrent Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,74,WHITE
+TCGA-BK-A139,6055424121,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,74,WHITE
+TCGA-BK-A139,9305216011,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,74,WHITE
+TCGA-BK-A139,9305216011,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,74,WHITE
+TCGA-BK-A13B,7796806046,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,58,BLACK OR AFRICAN AMERICAN
+TCGA-BK-A13C,6042324062,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,47,BLACK OR AFRICAN AMERICAN
+TCGA-BK-A13C,6055432009,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,47,BLACK OR AFRICAN AMERICAN
+TCGA-BK-A26L,9305216012,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,71,WHITE
+TCGA-BK-A26L,9305216012,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,71,WHITE
+TCGA-BK-A26L,6264509043,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,71,WHITE
+TCGA-BK-A4ZD,9285451158,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,42,BLACK OR AFRICAN AMERICAN
+TCGA-BK-A4ZD,9285451158,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,42,BLACK OR AFRICAN AMERICAN
+TCGA-BK-A56F,9285451179,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,75,BLACK OR AFRICAN AMERICAN
+TCGA-BK-A6W3,9422492134,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,34,BLACK OR AFRICAN AMERICAN
+TCGA-BK-A6W4,9422492134,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,62,BLACK OR AFRICAN AMERICAN
+TCGA-BS-A0T9,6164655045,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,39,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER
+TCGA-BS-A0U5,6042316100,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,76,WHITE
+TCGA-BS-A0U9,6042316057,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,59,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER
+TCGA-BS-A0UA,6055432008,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,68,WHITE
+TCGA-BS-A0UL,6042316100,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,54,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER
+TCGA-BS-A0V4,6264496133,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,56,WHITE
+TCGA-BS-A0V6,6055432009,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,55,ASIAN
+TCGA-BS-A0V7,6055432009,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,48,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER
+TCGA-BS-A0V8,6055432009,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,68,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER
+TCGA-BS-A0VI,6264496133,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,58,WHITE
+TCGA-BS-A0WQ,6042316142,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,55,ASIAN
+TCGA-D1-A0ZN,6055424121,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,60,WHITE
+TCGA-D1-A0ZO,6042324062,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,75,WHITE
+TCGA-D1-A0ZP,6042316057,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,59,WHITE
+TCGA-D1-A0ZQ,6055432008,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,90,WHITE
+TCGA-D1-A0ZR,6042316057,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,57,WHITE
+TCGA-D1-A0ZS,6055424121,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,54,WHITE
+TCGA-D1-A0ZU,6042316057,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,34,WHITE
+TCGA-D1-A0ZV,6042316057,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,58,WHITE
+TCGA-D1-A0ZZ,6042324053,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,80,WHITE
+TCGA-D1-A101,6042324053,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,60,WHITE
+TCGA-D1-A102,6042324053,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,49,WHITE
+TCGA-D1-A103,6042324053,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,87,WHITE
+TCGA-D1-A15V,6055432008,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,68,WHITE
+TCGA-D1-A15W,6055432008,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,58,WHITE
+TCGA-D1-A15X,6042324062,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,45,WHITE
+TCGA-D1-A15Z,6055432008,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,72,WHITE
+TCGA-D1-A160,6042324062,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,70,WHITE
+TCGA-D1-A161,6055432009,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,78,WHITE
+TCGA-D1-A162,6055432008,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,69,WHITE
+TCGA-D1-A163,6164655045,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,50,WHITE
+TCGA-D1-A165,6164647036,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,64,WHITE
+TCGA-D1-A167,6164647036,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,70,WHITE
+TCGA-D1-A168,6164647035,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,67,WHITE
+TCGA-D1-A169,6164647035,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-D1-A16B,6164655045,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,64,WHITE
+TCGA-D1-A16D,6164655025,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,49,WHITE
+TCGA-D1-A16E,6164647036,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,73,WHITE
+TCGA-D1-A16F,6164647036,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,60,WHITE
+TCGA-D1-A16G,6164655045,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,74,WHITE
+TCGA-D1-A16I,6164647036,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,62,WHITE
+TCGA-D1-A16J,6164647035,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,61,WHITE
+TCGA-D1-A16N,6164647036,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,51,WHITE
+TCGA-D1-A16O,6164655045,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,44,WHITE
+TCGA-D1-A16Q,6164655025,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,54,WHITE
+TCGA-D1-A16R,6164647036,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,39,WHITE
+TCGA-D1-A16S,6164647035,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,70,WHITE
+TCGA-D1-A16V,6164655025,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,78,WHITE
+TCGA-D1-A16X,6164655045,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,54,WHITE
+TCGA-D1-A16Y,6164647036,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,56,WHITE
+TCGA-D1-A174,6164647035,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,51,WHITE
+TCGA-D1-A175,6164647035,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,48,WHITE
+TCGA-D1-A176,6164647035,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,67,WHITE
+TCGA-D1-A177,6164655045,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,70,WHITE
+TCGA-D1-A179,6164647035,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,76,WHITE
+TCGA-D1-A17A,6164655025,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,59,WHITE
+TCGA-D1-A17B,6164655025,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,69,WHITE
+TCGA-D1-A17C,6164647036,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,78,WHITE
+TCGA-D1-A17D,6164647036,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,58,WHITE
+TCGA-D1-A17F,6164655045,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,68,WHITE
+TCGA-D1-A17H,6164647035,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,61,WHITE
+TCGA-D1-A17K,6164647035,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,74,WHITE
+TCGA-D1-A17L,6164647035,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,81,WHITE
+TCGA-D1-A17M,6164647036,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,56,WHITE
+TCGA-D1-A17N,6164655025,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,46,
+TCGA-D1-A17Q,6164655025,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,54,WHITE
+TCGA-D1-A17R,6164655045,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,58,WHITE
+TCGA-D1-A17S,6164647035,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,59,WHITE
+TCGA-D1-A17T,6164655045,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,67,WHITE
+TCGA-D1-A17U,6164655045,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,53,WHITE
+TCGA-D1-A1NS,6264496125,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,53,WHITE
+TCGA-D1-A1NU,6264496137,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,74,WHITE
+TCGA-D1-A1NW,6042316100,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,72,WHITE
+TCGA-D1-A1NX,6264509044,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,66,WHITE
+TCGA-D1-A1NY,6264509044,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,67,WHITE
+TCGA-D1-A1NZ,6264496137,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,60,WHITE
+TCGA-D1-A1O0,6264509017,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,77,WHITE
+TCGA-D1-A1O5,6264496137,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,61,WHITE
+TCGA-D1-A1O7,6264496133,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,60,WHITE
+TCGA-D1-A1O8,6264496133,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,70,WHITE
+TCGA-D1-A2G0,6264509017,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,70,WHITE
+TCGA-D1-A2G5,6264509013,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,50,WHITE
+TCGA-D1-A2G6,6264509013,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,53,WHITE
+TCGA-D1-A2G7,6929718085,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,65,WHITE
+TCGA-D1-A3DA,6929793072,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,77,WHITE
+TCGA-D1-A3DG,6929671046,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,81,WHITE
+TCGA-D1-A3DH,6929671039,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,71,WHITE
+TCGA-D1-A3JP,7786923092,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,61,WHITE
+TCGA-D1-A3JQ,7786923094,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,61,WHITE
+TCGA-DF-A2KN,6929718085,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,NA,
+TCGA-DF-A2KR,6929718085,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,84,
+TCGA-DF-A2KS,6929718105,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,69,
+TCGA-DF-A2KU,6929718085,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,NA,
+TCGA-DF-A2KV,6929718085,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,55,
+TCGA-DF-A2KY,6929793021,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,49,
+TCGA-DF-A2KZ,6929793072,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,87,
+TCGA-DF-A2L0,6929718085,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,60,
+TCGA-DI-A0WH,6164655025,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,64,WHITE
+TCGA-DI-A1BU,6042316143,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,55,WHITE
+TCGA-DI-A1BY,6042316143,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-DI-A1C3,6042316143,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,38,WHITE
+TCGA-DI-A1NN,6264509044,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Serous endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-DI-A1NN,6264509044,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-DI-A1NO,6057825044,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-DI-A1NO,6057825044,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-DI-A2QT,6929671039,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,51,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-DI-A2QU,6929718099,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,67,WHITE
+TCGA-DI-A2QU,6929718105,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,67,WHITE
+TCGA-DI-A2QY,6929671047,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,64,WHITE
+TCGA-DI-A2QY,6929671047,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Serous endometrial adenocarcinoma,FEMALE,64,WHITE
+TCGA-E6-A1LX,6264496125,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,40,WHITE
+TCGA-E6-A1LZ,6042316114,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,76,BLACK OR AFRICAN AMERICAN
+TCGA-E6-A1M0,6042316114,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,56,WHITE
+TCGA-E6-A1M0,6042316114,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,56,WHITE
+TCGA-E6-A2P8,6929671047,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,53,BLACK OR AFRICAN AMERICAN
+TCGA-E6-A2P9,6929671039,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,65,WHITE
+TCGA-E6-A8L9,9721366013,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-EC-A1NJ,6264496137,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,73,WHITE
+TCGA-EC-A1QX,6264509044,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,71,WHITE
+TCGA-EC-A24G,6264509043,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,57,WHITE
+TCGA-EO-A1Y5,6057825044,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,63,
+TCGA-EO-A1Y7,6057825044,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,65,
+TCGA-EO-A1Y8,6057825044,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,87,
+TCGA-EO-A22R,6929718105,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,56,
+TCGA-EO-A22R,6929718101,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,56,
+TCGA-EO-A22S,6929718105,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,58,
+TCGA-EO-A22S,6929718099,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,58,
+TCGA-EO-A22T,6929718101,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Solid Tissue Normal,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,56,ASIAN
+TCGA-EO-A22T,6929718105,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,56,ASIAN
+TCGA-EO-A22U,6929718085,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,83,WHITE
+TCGA-EO-A22X,6929718085,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,36,
+TCGA-EO-A22Y,6929718085,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,68,WHITE
+TCGA-EO-A2CG,6929718085,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,69,ASIAN
+TCGA-EO-A2CH,6929718086,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,73,
+TCGA-EO-A3AS,6929671039,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,86,
+TCGA-EO-A3AU,6929671046,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,72,
+TCGA-EO-A3AV,6929671046,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,51,
+TCGA-EO-A3AY,6929671046,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,58,
+TCGA-EO-A3AZ,6929671039,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,80,
+TCGA-EO-A3B0,6929671046,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,43,ASIAN
+TCGA-EO-A3B1,6929671046,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,63,
+TCGA-EO-A3KU,7786923092,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,68,
+TCGA-EO-A3KW,7786923092,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,72,
+TCGA-EO-A3KX,7786923094,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,80,WHITE
+TCGA-EO-A3L0,7786923099,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,76,WHITE
+TCGA-EY-A1G7,6042308137,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,86,WHITE
+TCGA-EY-A1G8,6042308077,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,83,WHITE
+TCGA-EY-A1GC,6042308137,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,62,WHITE
+TCGA-EY-A1GD,6042308077,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,51,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A1GE,6042308077,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,67,WHITE
+TCGA-EY-A1GF,6042308077,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,75,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A1GH,6042308137,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,70,WHITE
+TCGA-EY-A1GI,6042308137,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,52,WHITE
+TCGA-EY-A1GJ,6042316114,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,73,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A1GK,6042308137,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,74,WHITE
+TCGA-EY-A1GL,6042308077,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,51,WHITE
+TCGA-EY-A1GM,6264496137,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A1GO,6264496133,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,65,WHITE
+TCGA-EY-A1GP,6042308077,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,54,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A1GQ,6042308077,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,76,WHITE
+TCGA-EY-A1GR,6042308137,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A1GS,6042308137,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,71,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A1GT,6042308137,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,68,WHITE
+TCGA-EY-A1GU,6042308077,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A1GV,6042308077,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,75,WHITE
+TCGA-EY-A1GW,6042308077,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,73,WHITE
+TCGA-EY-A1GX,6042308137,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,76,WHITE
+TCGA-EY-A1H0,6042308137,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A210,6057825002,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,82,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A212,6042316100,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,83,WHITE
+TCGA-EY-A214,6057825044,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,66,WHITE
+TCGA-EY-A215,6042316100,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,60,WHITE
+TCGA-EY-A2OM,6929718101,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,55,WHITE
+TCGA-EY-A2ON,6929718105,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A2OO,6929671047,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,56,WHITE
+TCGA-EY-A2OP,6929671047,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-EY-A2OQ,6929671039,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,61,WHITE
+TCGA-EY-A3L3,7786923099,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,82,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A3QX,7796806046,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,64,WHITE
+TCGA-EY-A4KR,9285451179,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,56,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A547,9285451179,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,75,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A548,9285451185,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,83,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A549,9285451158,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,78,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A54A,9285451158,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A5W2,9283265015,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,72,BLACK OR AFRICAN AMERICAN
+TCGA-EY-A72D,9422492134,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,87,BLACK OR AFRICAN AMERICAN
+TCGA-FI-A2CX,6264509013,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,82,WHITE
+TCGA-FI-A2CY,6264509015,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-FI-A2D0,6264496137,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,55,WHITE
+TCGA-FI-A2D2,6264509013,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,66,WHITE
+TCGA-FI-A2D4,6264509013,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,44,WHITE
+TCGA-FI-A2D5,6264509013,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,56,WHITE
+TCGA-FI-A2D6,6264509013,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,74,WHITE
+TCGA-FI-A2EU,6264509013,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,68,
+TCGA-FI-A2EW,6264509015,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,71,BLACK OR AFRICAN AMERICAN
+TCGA-FI-A2EX,6264509017,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,58,WHITE
+TCGA-FI-A2EY,6929718105,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-FI-A2F4,6264509015,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-FI-A2F8,6264509013,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,64,WHITE
+TCGA-FI-A2F9,6264509017,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,79,WHITE
+TCGA-FI-A3PV,7796806046,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-FI-A3PX,7786923094,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,57,WHITE
+TCGA-H5-A2HR,6929718086,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,71,BLACK OR AFRICAN AMERICAN
+TCGA-JU-AAVI,9934398119,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-K6-A3WQ,7786923094,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,60,WHITE
+TCGA-KJ-A3U4,7786923092,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,55,WHITE
+TCGA-KP-A3VZ,7786923099,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,69,WHITE
+TCGA-KP-A3W0,7786923092,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,72,
+TCGA-KP-A3W1,7786923094,R03C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,76,
+TCGA-KP-A3W3,7796806046,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,72,WHITE
+TCGA-KP-A3W4,7786923092,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,63,WHITE
+TCGA-PG-A5BC,9285451158,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,72,BLACK OR AFRICAN AMERICAN
+TCGA-PG-A6IB,9283265064,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-PG-A7D5,9422492134,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,62,BLACK OR AFRICAN AMERICAN
+TCGA-PG-A914,9721366013,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,73,BLACK OR AFRICAN AMERICAN
+TCGA-PG-A915,9721366013,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Serous endometrial adenocarcinoma,FEMALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-PG-A916,9721366013,R04C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,70,BLACK OR AFRICAN AMERICAN
+TCGA-PG-A917,9721366013,R05C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,74,BLACK OR AFRICAN AMERICAN
+TCGA-QF-A5YS,9283265064,R01C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Mixed serous and endometrioid,FEMALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-QF-A5YT,9283265064,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-QS-A5YQ,9283265064,R02C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-QS-A5YR,9283265064,R01C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-QS-A744,9422492134,R04C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,86,BLACK OR AFRICAN AMERICAN
+TCGA-QS-A8F1,9721366013,R06C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Other  Specify,Serous endometrial adenocarcinoma,FEMALE,85,BLACK OR AFRICAN AMERICAN
+TCGA-SJ-A6ZI,9422492134,R03C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-SJ-A6ZJ,9422492127,R05C02,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-SL-A6J9,9283265064,R02C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,73,BLACK OR AFRICAN AMERICAN
+TCGA-SL-A6JA,9283265064,R06C01,Illumina Human Methylation 450,TCGA-UCEC,JHU_USC,Primary Tumor,Endometrial,Endometrioid endometrial adenocarcinoma,FEMALE,77,BLACK OR AFRICAN AMERICAN

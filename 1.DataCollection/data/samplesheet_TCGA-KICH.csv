@@ -1,0 +1,67 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-KL-8323,7786915164,R01C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,57,WHITE
+TCGA-KL-8324,7786923081,R04C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,67,WHITE
+TCGA-KL-8325,7786923084,R05C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,56,WHITE
+TCGA-KL-8326,7786923009,R01C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,69,WHITE
+TCGA-KL-8327,7786915164,R04C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,46,WHITE
+TCGA-KL-8328,7786923081,R06C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,60,WHITE
+TCGA-KL-8329,7786923084,R01C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,57,ASIAN
+TCGA-KL-8330,7786923009,R06C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,44,BLACK OR AFRICAN AMERICAN
+TCGA-KL-8331,7786923009,R01C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,48,WHITE
+TCGA-KL-8332,7786923081,R01C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,55,WHITE
+TCGA-KL-8333,7786915164,R06C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,69,WHITE
+TCGA-KL-8334,7786923021,R01C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,37,WHITE
+TCGA-KL-8335,7786915164,R03C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,67,WHITE
+TCGA-KL-8336,7786923081,R03C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,51,WHITE
+TCGA-KL-8337,7786923084,R03C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,26,BLACK OR AFRICAN AMERICAN
+TCGA-KL-8338,7786915164,R06C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,51,WHITE
+TCGA-KL-8339,7786915164,R02C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,67,WHITE
+TCGA-KL-8340,7786923009,R05C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,34,WHITE
+TCGA-KL-8341,7786923009,R04C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,41,ASIAN
+TCGA-KL-8342,7786923081,R06C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,45,WHITE
+TCGA-KL-8343,7786923079,R05C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,72,WHITE
+TCGA-KL-8344,7786923009,R04C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,51,WHITE
+TCGA-KL-8345,7786923009,R03C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,75,WHITE
+TCGA-KL-8346,7786915164,R04C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,62,WHITE
+TCGA-KM-8438,7786923081,R03C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,45,WHITE
+TCGA-KM-8439,7786923079,R03C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,30,WHITE
+TCGA-KM-8440,7786923079,R06C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,37,BLACK OR AFRICAN AMERICAN
+TCGA-KM-8441,7786923081,R01C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,61,WHITE
+TCGA-KM-8442,7786915164,R05C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,38,
+TCGA-KM-8443,7786923081,R02C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,57,WHITE
+TCGA-KM-8476,7786923079,R06C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,47,WHITE
+TCGA-KM-8477,7786923079,R05C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,56,WHITE
+TCGA-KM-8639,8784241076,R06C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,67,WHITE
+TCGA-KN-8418,7786923081,R05C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,41,WHITE
+TCGA-KN-8419,7786923079,R01C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,43,BLACK OR AFRICAN AMERICAN
+TCGA-KN-8421,7786923009,R02C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,47,WHITE
+TCGA-KN-8422,7786915164,R01C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,28,WHITE
+TCGA-KN-8423,7786923021,R03C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,44,WHITE
+TCGA-KN-8424,7786923079,R04C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,42,WHITE
+TCGA-KN-8425,7786923084,R02C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,53,WHITE
+TCGA-KN-8426,7786923021,R04C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,50,WHITE
+TCGA-KN-8427,7786923081,R05C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,54,WHITE
+TCGA-KN-8428,7786923079,R04C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,71,WHITE
+TCGA-KN-8429,7786923084,R06C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,38,WHITE
+TCGA-KN-8430,7786923079,R02C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,75,WHITE
+TCGA-KN-8431,7786923079,R02C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,35,
+TCGA-KN-8432,7786923009,R02C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,86,WHITE
+TCGA-KN-8433,7786923021,R06C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,46,WHITE
+TCGA-KN-8434,7786923021,R06C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,65,WHITE
+TCGA-KN-8435,7786923021,R05C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,59,WHITE
+TCGA-KN-8436,7786923021,R05C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,62,WHITE
+TCGA-KN-8437,7786915164,R05C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,42,WHITE
+TCGA-KO-8403,7786923009,R05C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,49,WHITE
+TCGA-KO-8404,7786915164,R02C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,78,WHITE
+TCGA-KO-8405,7786923021,R01C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,29,WHITE
+TCGA-KO-8406,7786923009,R06C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,17,WHITE
+TCGA-KO-8407,7786923021,R02C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,42,WHITE
+TCGA-KO-8408,7786923021,R04C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,47,WHITE
+TCGA-KO-8409,7786923084,R04C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,69,WHITE
+TCGA-KO-8410,7786915164,R03C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,74,WHITE
+TCGA-KO-8411,7786923079,R01C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,58,WHITE
+TCGA-KO-8413,7786923081,R04C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,46,WHITE
+TCGA-KO-8414,7786923079,R03C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,50,WHITE
+TCGA-KO-8415,7786923081,R02C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,44,WHITE
+TCGA-KO-8416,7786923009,R03C02,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,MALE,41,WHITE
+TCGA-KO-8417,7786923021,R02C01,Illumina Human Methylation 450,TCGA-KICH,JHU_USC,Primary Tumor,Kidney,Kidney Chromophobe,FEMALE,30,WHITE

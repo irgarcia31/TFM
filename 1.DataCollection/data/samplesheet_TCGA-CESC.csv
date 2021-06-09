@@ -1,0 +1,313 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-2W-A8YY,9828653014,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Adenosquamous,FEMALE,51,WHITE
+TCGA-4J-AA1J,9829119010,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,31,WHITE
+TCGA-BI-A0VR,6042316010,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,53,WHITE
+TCGA-BI-A0VS,6042316010,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,48,WHITE
+TCGA-BI-A20A,6285625081,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,49,WHITE
+TCGA-C5-A0TN,6285625081,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,21,BLACK OR AFRICAN AMERICAN
+TCGA-C5-A1BE,6285625106,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,64,WHITE
+TCGA-C5-A1BF,6285625106,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,46,WHITE
+TCGA-C5-A1BI,6285625095,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,31,WHITE
+TCGA-C5-A1BJ,6285625095,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,34,WHITE
+TCGA-C5-A1BK,6929671122,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,36,BLACK OR AFRICAN AMERICAN
+TCGA-C5-A1BL,6285625106,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,32,WHITE
+TCGA-C5-A1BM,6285625095,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,78,BLACK OR AFRICAN AMERICAN
+TCGA-C5-A1BN,6285625081,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,26,WHITE
+TCGA-C5-A1BQ,6929742050,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,65,WHITE
+TCGA-C5-A1M5,6285625106,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,53,WHITE
+TCGA-C5-A1M6,6929671122,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,55,WHITE
+TCGA-C5-A1M7,6285625095,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,37,WHITE
+TCGA-C5-A1M8,6285625095,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,43,WHITE
+TCGA-C5-A1M9,6285625095,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,46,WHITE
+TCGA-C5-A1ME,6285625106,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,40,WHITE
+TCGA-C5-A1MF,6285625095,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,49,WHITE
+TCGA-C5-A1MH,6285625106,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,71,WHITE
+TCGA-C5-A1MI,6929671129,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,50,WHITE
+TCGA-C5-A1MJ,6285625106,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,61,WHITE
+TCGA-C5-A1MK,6285625081,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,79,WHITE
+TCGA-C5-A1ML,6285625106,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,49,WHITE
+TCGA-C5-A1MN,6285625081,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,42,WHITE
+TCGA-C5-A1MP,6285625081,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,34,BLACK OR AFRICAN AMERICAN
+TCGA-C5-A1MQ,6285625081,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,35,WHITE
+TCGA-C5-A2LS,7796806055,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Adenocarcinoma of the Usual Type,FEMALE,37,WHITE
+TCGA-C5-A2LT,6929718078,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,38,WHITE
+TCGA-C5-A2LV,6929718078,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,36,BLACK OR AFRICAN AMERICAN
+TCGA-C5-A2LX,6929718078,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,54,WHITE
+TCGA-C5-A2LY,6929718044,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,30,WHITE
+TCGA-C5-A2LZ,6929793021,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,65,WHITE
+TCGA-C5-A2M1,6929718078,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,37,WHITE
+TCGA-C5-A2M2,6929718044,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,56,WHITE
+TCGA-C5-A3HD,6929742050,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,51,WHITE
+TCGA-C5-A3HE,7796806096,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,44,WHITE
+TCGA-C5-A3HF,6929742050,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Mucinous Adenocarcinoma of Endocervical Type,FEMALE,24,WHITE
+TCGA-C5-A3HL,6929793021,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,76,WHITE
+TCGA-C5-A7CG,9422492030,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,55,WHITE
+TCGA-C5-A7CH,9422492029,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,43,WHITE
+TCGA-C5-A7CJ,9422492030,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,42,WHITE
+TCGA-C5-A7CK,9422492030,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,58,WHITE
+TCGA-C5-A7CL,9422492089,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,48,WHITE
+TCGA-C5-A7CM,9422492029,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Adenocarcinoma of the Usual Type,FEMALE,35,WHITE
+TCGA-C5-A7CO,9482801015,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,68,WHITE
+TCGA-C5-A7UC,9482801015,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,48,WHITE
+TCGA-C5-A7UE,9422492029,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,45,WHITE
+TCGA-C5-A7UH,9482801015,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,55,WHITE
+TCGA-C5-A7UI,9630789197,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,42,BLACK OR AFRICAN AMERICAN
+TCGA-C5-A7X3,9482801015,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,70,WHITE
+TCGA-C5-A7X5,9630789197,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,72,BLACK OR AFRICAN AMERICAN
+TCGA-C5-A7X8,9630789197,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Mucinous Adenocarcinoma of Endocervical Type,FEMALE,35,WHITE
+TCGA-C5-A7XC,9829119060,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,26,WHITE
+TCGA-C5-A8XH,9828653016,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,39,WHITE
+TCGA-C5-A8XI,9828653016,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-C5-A8XJ,9828653016,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,74,WHITE
+TCGA-C5-A8XK,9828653022,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,30,BLACK OR AFRICAN AMERICAN
+TCGA-C5-A8YQ,9828653022,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,79,WHITE
+TCGA-C5-A8YR,9828653022,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,56,WHITE
+TCGA-C5-A8YT,9828653029,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,36,WHITE
+TCGA-C5-A8ZZ,9828653014,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,41,WHITE
+TCGA-C5-A901,9828653016,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,44,WHITE
+TCGA-C5-A902,9828653016,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,35,BLACK OR AFRICAN AMERICAN
+TCGA-C5-A905,9828653016,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,37,BLACK OR AFRICAN AMERICAN
+TCGA-C5-A907,9828653022,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,47,WHITE
+TCGA-DG-A2KH,7796806055,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Adenosquamous,FEMALE,25,
+TCGA-DG-A2KJ,6929718078,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,50,
+TCGA-DG-A2KK,6929671022,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,51,
+TCGA-DG-A2KL,6929793020,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,53,
+TCGA-DG-A2KM,6929671022,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,46,
+TCGA-DR-A0ZL,6042316010,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,53,ASIAN
+TCGA-DR-A0ZM,6042316010,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,61,WHITE
+TCGA-DS-A0VK,6042316010,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,45,WHITE
+TCGA-DS-A0VL,6042316010,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,25,WHITE
+TCGA-DS-A0VM,6042316010,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,51,WHITE
+TCGA-DS-A0VN,6042316010,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,47,WHITE
+TCGA-DS-A1O9,6285625106,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,75,WHITE
+TCGA-DS-A1OA,6285625081,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,77,ASIAN
+TCGA-DS-A1OB,6285625081,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,45,WHITE
+TCGA-DS-A1OC,6285625106,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,47,WHITE
+TCGA-DS-A1OD,6285625081,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,49,WHITE
+TCGA-DS-A3LQ,7786923106,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,46,
+TCGA-DS-A5RQ,9305216149,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,80,WHITE
+TCGA-DS-A7WF,9482801015,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Adenosquamous,FEMALE,41,
+TCGA-DS-A7WH,9482801015,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Mucinous Adenocarcinoma of Endocervical Type,FEMALE,34,WHITE
+TCGA-DS-A7WI,9482801015,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,43,WHITE
+TCGA-EA-A1QS,7796806095,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,46,WHITE
+TCGA-EA-A1QT,6285625081,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,47,WHITE
+TCGA-EA-A3HQ,6929793021,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,60,WHITE
+TCGA-EA-A3HR,6929742050,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,57,WHITE
+TCGA-EA-A3HS,6929742015,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,35,WHITE
+TCGA-EA-A3HT,7786923106,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,68,WHITE
+TCGA-EA-A3HU,6929742050,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,43,WHITE
+TCGA-EA-A3QD,7796806075,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,59,WHITE
+TCGA-EA-A3QE,7786923106,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,45,WHITE
+TCGA-EA-A3Y4,8784225111,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,40,WHITE
+TCGA-EA-A410,8784225111,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,51,WHITE
+TCGA-EA-A411,8784225111,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,50,WHITE
+TCGA-EA-A439,8784225111,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,50,ASIAN
+TCGA-EA-A43B,8784225111,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,43,WHITE
+TCGA-EA-A44S,9305216161,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,31,WHITE
+TCGA-EA-A4BA,9305216159,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,49,WHITE
+TCGA-EA-A50E,9305216159,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,45,ASIAN
+TCGA-EA-A556,9305216159,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endometrioid Adenocarcinoma of Endocervix,FEMALE,38,WHITE
+TCGA-EA-A5FO,9305216149,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,59,WHITE
+TCGA-EA-A5O9,9305216147,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,39,WHITE
+TCGA-EA-A5ZD,9305216149,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,40,ASIAN
+TCGA-EA-A5ZE,9305216149,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,54,ASIAN
+TCGA-EA-A5ZF,9305216149,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,56,ASIAN
+TCGA-EA-A6QX,9422492029,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,49,ASIAN
+TCGA-EA-A78R,9422492030,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,54,ASIAN
+TCGA-EA-A97N,9829119060,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,38,WHITE
+TCGA-EK-A2GZ,6929671019,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-EK-A2H0,6929793020,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,24,WHITE
+TCGA-EK-A2H1,6929671019,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,20,WHITE
+TCGA-EK-A2IP,6929671022,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,28,WHITE
+TCGA-EK-A2IR,6929793020,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,48,WHITE
+TCGA-EK-A2PG,6929718034,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,88,BLACK OR AFRICAN AMERICAN
+TCGA-EK-A2PI,6929718044,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,44,WHITE
+TCGA-EK-A2PK,6929718044,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,43,WHITE
+TCGA-EK-A2PL,6929718078,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,36,WHITE
+TCGA-EK-A2PM,6929718044,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,81,WHITE
+TCGA-EK-A2R7,6929718097,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,45,WHITE
+TCGA-EK-A2R8,6929718044,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,48,WHITE
+TCGA-EK-A2R9,6929718044,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,58,WHITE
+TCGA-EK-A2RA,6929718078,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,74,
+TCGA-EK-A2RB,6929718044,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,48,WHITE
+TCGA-EK-A2RC,6929718044,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,33,
+TCGA-EK-A2RD,6929793021,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,47,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-EK-A2RE,6929718044,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,26,WHITE
+TCGA-EK-A2RJ,6929718078,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,51,WHITE
+TCGA-EK-A2RK,6929718078,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,67,WHITE
+TCGA-EK-A2RL,6929718078,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,32,BLACK OR AFRICAN AMERICAN
+TCGA-EK-A2RM,6929718044,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,40,WHITE
+TCGA-EK-A2RN,6929793021,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,45,WHITE
+TCGA-EK-A2RO,6929718044,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,59,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-EK-A3GJ,6929742050,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,51,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER
+TCGA-EK-A3GK,6929793021,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,33,WHITE
+TCGA-EK-A3GM,6929742015,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,65,WHITE
+TCGA-EK-A3GN,6929742015,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,47,WHITE
+TCGA-EX-A1H5,6929671122,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,58,BLACK OR AFRICAN AMERICAN
+TCGA-EX-A1H6,7796806055,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,38,WHITE
+TCGA-EX-A3L1,7786923106,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,32,WHITE
+TCGA-EX-A449,8784225115,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,42,WHITE
+TCGA-EX-A69L,9422492089,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,41,ASIAN
+TCGA-EX-A69M,9422492030,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,62,WHITE
+TCGA-EX-A8YF,9828653022,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,44,WHITE
+TCGA-FU-A23K,6264509055,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,28,WHITE
+TCGA-FU-A23L,6264509055,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,60,WHITE
+TCGA-FU-A2QG,6929718078,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,29,WHITE
+TCGA-FU-A3EO,6929793021,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Solid Tissue Normal,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,55,WHITE
+TCGA-FU-A3EO,6929793021,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,55,WHITE
+TCGA-FU-A3HY,7786923106,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,47,WHITE
+TCGA-FU-A3HZ,6929742050,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,64,WHITE
+TCGA-FU-A3NI,7786923106,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,45,WHITE
+TCGA-FU-A3TQ,7796806075,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,55,WHITE
+TCGA-FU-A3TX,7796806075,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,78,
+TCGA-FU-A3WB,7796806096,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,43,WHITE
+TCGA-FU-A3YQ,7796806095,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,35,WHITE
+TCGA-FU-A40J,8784225111,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,38,WHITE
+TCGA-FU-A57G,9305216159,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,49,WHITE
+TCGA-FU-A5XV,9305216147,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,32,WHITE
+TCGA-FU-A770,9422492029,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Adenocarcinoma of the Usual Type,FEMALE,33,WHITE
+TCGA-GH-A9DA,9828653022,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,27,WHITE
+TCGA-HG-A2PA,6929793021,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,38,WHITE
+TCGA-HG-A9SC,3999510090,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Adenosquamous,FEMALE,49,WHITE
+TCGA-HM-A3JJ,7786923106,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Solid Tissue Normal,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,40,BLACK OR AFRICAN AMERICAN
+TCGA-HM-A3JJ,7786923106,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,40,BLACK OR AFRICAN AMERICAN
+TCGA-HM-A3JK,7786923106,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,64,WHITE
+TCGA-HM-A4S6,9305216159,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,51,WHITE
+TCGA-HM-A6W2,9422492029,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Metastatic,Cervical,Adenosquamous,FEMALE,34,BLACK OR AFRICAN AMERICAN
+TCGA-HM-A6W2,9422492029,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Adenosquamous,FEMALE,34,BLACK OR AFRICAN AMERICAN
+TCGA-IR-A3L7,6929742050,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,37,WHITE
+TCGA-IR-A3LA,7796806096,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endometrioid Adenocarcinoma of Endocervix,FEMALE,60,WHITE
+TCGA-IR-A3LB,8784225111,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,53,WHITE
+TCGA-IR-A3LC,6929742015,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,40,WHITE
+TCGA-IR-A3LF,7796806095,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Adenocarcinoma of the Usual Type,FEMALE,64,WHITE
+TCGA-IR-A3LH,6929742050,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,49,BLACK OR AFRICAN AMERICAN
+TCGA-IR-A3LI,6929742050,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,48,WHITE
+TCGA-IR-A3LK,6929742050,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,69,WHITE
+TCGA-IR-A3LL,6929742050,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,60,WHITE
+TCGA-JW-A5VG,9305216149,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,35,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-JW-A5VH,9305216147,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,53,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-JW-A5VI,9305216149,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,45,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-JW-A5VJ,9305216147,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,56,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-JW-A5VK,9305216147,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,43,BLACK OR AFRICAN AMERICAN
+TCGA-JW-A5VL,9305216149,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,37,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-JW-A69B,9422492030,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,44,WHITE
+TCGA-JW-A852,9482801015,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,42,WHITE
+TCGA-JW-AAVH,9829119060,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,46,WHITE
+TCGA-JX-A3PZ,7786923106,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,25,WHITE
+TCGA-JX-A3Q0,7786923106,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,63,BLACK OR AFRICAN AMERICAN
+TCGA-JX-A3Q8,7786923106,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,40,ASIAN
+TCGA-JX-A5QV,9305216149,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,37,WHITE
+TCGA-LP-A4AU,8784225111,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,35,ASIAN
+TCGA-LP-A4AV,8784225111,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,63,ASIAN
+TCGA-LP-A4AW,8784225111,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,52,ASIAN
+TCGA-LP-A4AX,8784225111,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,45,ASIAN
+TCGA-LP-A5U2,9305216147,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Adenocarcinoma of the Usual Type,FEMALE,30,ASIAN
+TCGA-LP-A5U3,9305216149,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,40,ASIAN
+TCGA-LP-A7HU,9422492029,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,53,ASIAN
+TCGA-MA-AA3W,9829119060,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,54,WHITE
+TCGA-MA-AA3X,3999510090,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,50,BLACK OR AFRICAN AMERICAN
+TCGA-MA-AA3Y,9829119060,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,48,WHITE
+TCGA-MA-AA3Z,9829119060,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,43,WHITE
+TCGA-MA-AA41,9829119010,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,33,WHITE
+TCGA-MA-AA42,9829119010,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,75,WHITE
+TCGA-MA-AA43,3999510096,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,48,WHITE
+TCGA-MU-A51Y,9305216159,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,27,WHITE
+TCGA-MU-A5YI,9422492030,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-MU-A8JM,9630789197,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,46,WHITE
+TCGA-MY-A5BD,9305216159,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,62,WHITE
+TCGA-MY-A5BE,9305216159,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,42,BLACK OR AFRICAN AMERICAN
+TCGA-MY-A5BF,9305216161,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,68,WHITE
+TCGA-MY-A5BF,9305216159,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Solid Tissue Normal,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,68,WHITE
+TCGA-MY-A913,9828653029,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,28,BLACK OR AFRICAN AMERICAN
+TCGA-PN-A8MA,9630789197,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,43,BLACK OR AFRICAN AMERICAN
+TCGA-Q1-A5R1,9305216147,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Mucinous Adenocarcinoma of Endocervical Type,FEMALE,32,WHITE
+TCGA-Q1-A5R2,9305216147,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,64,WHITE
+TCGA-Q1-A5R3,9305216147,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,56,WHITE
+TCGA-Q1-A6DT,9422492089,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,55,WHITE
+TCGA-Q1-A6DV,9422492089,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Mucinous Adenocarcinoma of Endocervical Type,FEMALE,36,ASIAN
+TCGA-Q1-A6DW,9422492030,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,44,WHITE
+TCGA-Q1-A73O,9422492089,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,37,
+TCGA-Q1-A73P,9422492089,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,45,WHITE
+TCGA-Q1-A73Q,9422492030,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,46,WHITE
+TCGA-Q1-A73R,9422492029,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Type of Adenocarcinoma,FEMALE,45,WHITE
+TCGA-Q1-A73S,9422492029,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Adenosquamous,FEMALE,33,WHITE
+TCGA-R2-A69V,9422492030,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,42,WHITE
+TCGA-RA-A741,9422492029,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,34,WHITE
+TCGA-UC-A7PD,9482801015,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,21,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-UC-A7PF,9482801015,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,44,
+TCGA-UC-A7PG,3999510090,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,44,WHITE
+TCGA-UC-A7PG,3999510090,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Metastatic,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,44,WHITE
+TCGA-UC-A7PI,3999510090,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endometrioid Adenocarcinoma of Endocervix,FEMALE,44,WHITE
+TCGA-VS-A8EB,9630789197,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,41,WHITE
+TCGA-VS-A8EC,9630789197,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,55,WHITE
+TCGA-VS-A8EG,9630789197,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,36,
+TCGA-VS-A8EH,9630789197,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,56,
+TCGA-VS-A8EI,9828653014,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,38,WHITE
+TCGA-VS-A8EJ,9828653016,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,60,WHITE
+TCGA-VS-A8EK,9828653016,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,65,WHITE
+TCGA-VS-A8EL,9828653016,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,38,BLACK OR AFRICAN AMERICAN
+TCGA-VS-A8Q8,9828653022,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,26,WHITE
+TCGA-VS-A8Q9,9828653022,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,79,WHITE
+TCGA-VS-A8QA,9828653022,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,44,
+TCGA-VS-A8QC,9828653029,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,51,WHITE
+TCGA-VS-A8QF,9828653014,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,42,WHITE
+TCGA-VS-A8QH,9828653016,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Mucinous Adenocarcinoma of Endocervical Type,FEMALE,76,WHITE
+TCGA-VS-A8QM,9828653016,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,47,
+TCGA-VS-A94W,9828653016,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,39,WHITE
+TCGA-VS-A94X,9829119060,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,40,BLACK OR AFRICAN AMERICAN
+TCGA-VS-A94Y,9829119060,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,47,WHITE
+TCGA-VS-A94Z,9829119060,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,38,WHITE
+TCGA-VS-A950,3999510100,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,42,
+TCGA-VS-A952,9829119010,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Mucinous Adenocarcinoma of Endocervical Type,FEMALE,66,WHITE
+TCGA-VS-A953,9829119060,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,63,
+TCGA-VS-A954,9829119060,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,67,
+TCGA-VS-A957,3999492075,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,64,WHITE
+TCGA-VS-A958,3999510090,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,46,WHITE
+TCGA-VS-A959,3999510081,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,76,
+TCGA-VS-A9U5,3999510096,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,57,WHITE
+TCGA-VS-A9U6,3999510090,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,52,WHITE
+TCGA-VS-A9U7,3999510081,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,30,WHITE
+TCGA-VS-A9UA,3999492075,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,60,WHITE
+TCGA-VS-A9UB,3999510090,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,54,
+TCGA-VS-A9UC,3999510081,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,32,
+TCGA-VS-A9UD,3999510081,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,73,WHITE
+TCGA-VS-A9UH,3999510100,R02C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,53,BLACK OR AFRICAN AMERICAN
+TCGA-VS-A9UI,3999510081,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,76,WHITE
+TCGA-VS-A9UJ,3999510100,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,55,
+TCGA-VS-A9UL,3999510100,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,79,WHITE
+TCGA-VS-A9UM,3999510096,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,39,BLACK OR AFRICAN AMERICAN
+TCGA-VS-A9UO,3999510081,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Mucinous Adenocarcinoma of Endocervical Type,FEMALE,43,WHITE
+TCGA-VS-A9UP,3999510096,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Mucinous Adenocarcinoma of Endocervical Type,FEMALE,43,
+TCGA-VS-A9UQ,3999510090,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Mucinous Adenocarcinoma of Endocervical Type,FEMALE,32,
+TCGA-VS-A9UR,3999510096,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Mucinous Adenocarcinoma of Endocervical Type,FEMALE,53,WHITE
+TCGA-VS-A9UT,3999510100,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Mucinous Adenocarcinoma of Endocervical Type,FEMALE,72,ASIAN
+TCGA-VS-A9UU,3999510100,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,42,
+TCGA-VS-A9UV,3999510081,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,74,
+TCGA-VS-A9UY,3999510081,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,29,
+TCGA-VS-A9UZ,3999510090,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Mucinous Adenocarcinoma of Endocervical Type,FEMALE,61,WHITE
+TCGA-VS-A9V0,3999492075,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Mucinous Adenocarcinoma of Endocervical Type,FEMALE,58,
+TCGA-VS-A9V1,3999510096,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Mucinous Adenocarcinoma of Endocervical Type,FEMALE,46,WHITE
+TCGA-VS-A9V2,3999492075,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,29,WHITE
+TCGA-VS-A9V3,3999510081,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,62,WHITE
+TCGA-VS-A9V4,3999510100,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Mucinous Adenocarcinoma of Endocervical Type,FEMALE,63,WHITE
+TCGA-VS-A9V5,3999510090,R06C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Mucinous Adenocarcinoma of Endocervical Type,FEMALE,50,WHITE
+TCGA-VS-AA62,3999510100,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,51,WHITE
+TCGA-WL-A834,9482801015,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,57,WHITE
+TCGA-XS-A8TJ,9630789197,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,41,BLACK OR AFRICAN AMERICAN
+TCGA-ZJ-A8QO,9828653022,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,73,
+TCGA-ZJ-A8QQ,9828653022,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,24,WHITE
+TCGA-ZJ-A8QR,9828653022,R06C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,38,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER
+TCGA-ZJ-AAX4,3999510096,R04C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,85,WHITE
+TCGA-ZJ-AAX8,3999510081,R03C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,58,
+TCGA-ZJ-AAXA,3999510096,R03C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,64,WHITE
+TCGA-ZJ-AAXB,3999510100,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Endocervical Adenocarcinoma of the Usual Type,FEMALE,42,WHITE
+TCGA-ZJ-AAXD,3999510090,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,35,
+TCGA-ZJ-AAXF,3999510081,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,62,
+TCGA-ZJ-AAXI,3999510096,R04C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,67,
+TCGA-ZJ-AAXJ,3999510100,R01C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,43,
+TCGA-ZJ-AAXN,3999510081,R01C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,34,WHITE
+TCGA-ZJ-AAXT,3999510100,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,54,WHITE
+TCGA-ZJ-AAXU,3999510096,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,51,WHITE
+TCGA-ZJ-AB0H,3999510096,R05C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,48,
+TCGA-ZJ-AB0I,3999492075,R02C02,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,25,WHITE
+TCGA-ZX-AA5X,3999510100,R05C01,Illumina Human Methylation 450,TCGA-CESC,JHU_USC,Primary Tumor,Cervical,Cervical Squamous Cell Carcinoma,FEMALE,64,WHITE

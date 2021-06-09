@@ -1,0 +1,188 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-P7-A5NX,9482801035,R03C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,78,WHITE
+TCGA-P7-A5NY,9482801142,R03C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Additional - New Primary,Adrenal gland,Pheochromocytoma,FEMALE,21,WHITE
+TCGA-P7-A5NY,9630789033,R05C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,21,WHITE
+TCGA-P8-A5KC,9482801142,R02C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Solid Tissue Normal,Adrenal gland,Pheochromocytoma,MALE,48,WHITE
+TCGA-P8-A5KC,9630789032,R03C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,48,WHITE
+TCGA-P8-A5KD,9482801096,R01C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Solid Tissue Normal,Adrenal gland,Pheochromocytoma,FEMALE,35,WHITE
+TCGA-P8-A5KD,9482801142,R04C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,35,WHITE
+TCGA-P8-A6RX,9630789033,R04C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,MALE,65,WHITE
+TCGA-P8-A6RY,9630789032,R05C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,55,WHITE
+TCGA-PR-A5PF,9630789033,R06C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,62,WHITE
+TCGA-PR-A5PG,9630789032,R05C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,42,WHITE
+TCGA-PR-A5PH,9482801035,R02C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,47,WHITE
+TCGA-QR-A6GO,9482801035,R05C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,43,WHITE
+TCGA-QR-A6GR,9482801087,R02C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,30,WHITE
+TCGA-QR-A6GS,9482801005,R01C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,51,WHITE
+TCGA-QR-A6GT,9482801035,R06C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Pheochromocytoma,FEMALE,63,WHITE
+TCGA-QR-A6GU,9482801035,R01C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,31,WHITE
+TCGA-QR-A6GW,9482801096,R01C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,53,WHITE
+TCGA-QR-A6GX,9630789032,R01C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,28,BLACK OR AFRICAN AMERICAN
+TCGA-QR-A6GY,9630789033,R02C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,37,WHITE
+TCGA-QR-A6GZ,9482801087,R04C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Additional - New Primary,Adrenal gland,Pheochromocytoma,MALE,31,WHITE
+TCGA-QR-A6GZ,9482801005,R02C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,31,WHITE
+TCGA-QR-A6H0,9482801036,R06C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma; Extra-adrenal Pheochromocytoma,MALE,53,WHITE
+TCGA-QR-A6H1,9482801005,R04C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,55,WHITE
+TCGA-QR-A6H2,9482801142,R05C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,33,ASIAN
+TCGA-QR-A6H3,9630789033,R03C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,MALE,41,WHITE
+TCGA-QR-A6H4,9630789033,R05C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,56,WHITE
+TCGA-QR-A6H5,9482801005,R03C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,30,BLACK OR AFRICAN AMERICAN
+TCGA-QR-A6H6,9482801087,R05C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,MALE,27,WHITE
+TCGA-QR-A6ZZ,9482801096,R04C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,30,WHITE
+TCGA-QR-A700,9482801096,R06C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,67,WHITE
+TCGA-QR-A702,9482801036,R05C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,FEMALE,75,WHITE
+TCGA-QR-A703,9482801036,R02C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,23,WHITE
+TCGA-QR-A705,9630789033,R01C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma; Extra-adrenal Pheochromocytoma,FEMALE,63,WHITE
+TCGA-QR-A706,9482801096,R03C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,FEMALE,50,WHITE
+TCGA-QR-A707,9482801005,R05C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,43,WHITE
+TCGA-QR-A708,9482801087,R01C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,44,WHITE
+TCGA-QR-A70A,9482801005,R06C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,54,WHITE
+TCGA-QR-A70C,9630789032,R03C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,51,BLACK OR AFRICAN AMERICAN
+TCGA-QR-A70D,9482801005,R05C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,FEMALE,39,BLACK OR AFRICAN AMERICAN
+TCGA-QR-A70E,9630789032,R02C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,31,WHITE
+TCGA-QR-A70G,9482801005,R06C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,54,BLACK OR AFRICAN AMERICAN
+TCGA-QR-A70H,9482801087,R06C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,36,WHITE
+TCGA-QR-A70I,9482801142,R03C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,MALE,24,BLACK OR AFRICAN AMERICAN
+TCGA-QR-A70J,9482801036,R01C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,42,WHITE
+TCGA-QR-A70K,9482801035,R01C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,61,WHITE
+TCGA-QR-A70M,9482801087,R02C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,38,WHITE
+TCGA-QR-A70N,9482801096,R04C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,32,BLACK OR AFRICAN AMERICAN
+TCGA-QR-A70O,9482801096,R05C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,35,WHITE
+TCGA-QR-A70P,9482801036,R04C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,FEMALE,45,WHITE
+TCGA-QR-A70Q,9482801035,R04C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma; Extra-adrenal Pheochromocytoma,MALE,33,WHITE
+TCGA-QR-A70R,9482801142,R02C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,43,WHITE
+TCGA-QR-A70T,9630789032,R06C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,FEMALE,40,BLACK OR AFRICAN AMERICAN
+TCGA-QR-A70U,9482801005,R02C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,46,WHITE
+TCGA-QR-A70V,9482801035,R03C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,66,
+TCGA-QR-A70W,9482801005,R03C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,40,WHITE
+TCGA-QR-A70X,9482801096,R05C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,46,BLACK OR AFRICAN AMERICAN
+TCGA-QR-A7IN,9482801005,R04C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,52,BLACK OR AFRICAN AMERICAN
+TCGA-QR-A7IP,9630789032,R06C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,MALE,30,WHITE
+TCGA-QT-A5XJ,9482801096,R02C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,42,BLACK OR AFRICAN AMERICAN
+TCGA-QT-A5XK,9482801036,R03C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,56,BLACK OR AFRICAN AMERICAN
+TCGA-QT-A5XL,9482801036,R04C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,27,WHITE
+TCGA-QT-A5XM,9482801036,R05C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,43,WHITE
+TCGA-QT-A5XN,9482801087,R06C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,51,BLACK OR AFRICAN AMERICAN
+TCGA-QT-A5XO,9482801142,R06C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,63,BLACK OR AFRICAN AMERICAN
+TCGA-QT-A5XP,9482801096,R03C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-QT-A69Q,9482801142,R06C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,40,WHITE
+TCGA-QT-A7U0,9482801142,R01C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma; Extra-adrenal Pheochromocytoma,MALE,56,WHITE
+TCGA-RM-A68T,9482801035,R02C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,MALE,46,BLACK OR AFRICAN AMERICAN
+TCGA-RM-A68W,9630789032,R01C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma; Extra-adrenal Pheochromocytoma,FEMALE,41,WHITE
+TCGA-RT-A6Y9,9482801142,R01C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,50,WHITE
+TCGA-RT-A6YA,9630789033,R02C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,71,WHITE
+TCGA-RT-A6YC,9482801087,R01C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,31,WHITE
+TCGA-RW-A67V,9482801036,R06C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,44,WHITE
+TCGA-RW-A67W,9482801087,R05C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,46,WHITE
+TCGA-RW-A67X,9482801142,R05C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,47,WHITE
+TCGA-RW-A67Y,9482801036,R02C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,43,WHITE
+TCGA-RW-A680,9630789032,R02C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma; Extra-adrenal Pheochromocytoma,FEMALE,57,WHITE
+TCGA-RW-A681,9482801036,R01C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,56,WHITE
+TCGA-RW-A684,9482801087,R03C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,64,WHITE
+TCGA-RW-A685,9630789033,R03C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,70,WHITE
+TCGA-RW-A686,9482801096,R02C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Metastatic,Adrenal gland,Pheochromocytoma,MALE,62,WHITE
+TCGA-RW-A686,9482801087,R03C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,62,WHITE
+TCGA-RW-A688,9482801036,R03C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,69,WHITE
+TCGA-RW-A689,9482801087,R04C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,58,WHITE
+TCGA-RW-A68A,9630789033,R06C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,19,WHITE
+TCGA-RW-A68B,9630789033,R01C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,31,
+TCGA-RW-A68C,9482801035,R04C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,43,WHITE
+TCGA-RW-A68D,9630789032,R04C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,31,ASIAN
+TCGA-RW-A68F,9482801142,R04C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,51,WHITE
+TCGA-RW-A68G,9482801096,R06C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,49,WHITE
+TCGA-RW-A7CZ,9482801035,R05C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma; Extra-adrenal Pheochromocytoma,FEMALE,72,WHITE
+TCGA-RW-A7D0,9630789032,R04C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,47,WHITE
+TCGA-RW-A8AZ,9630789033,R04C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,66,WHITE
+TCGA-RX-A8JQ,9482801005,R01C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,MALE,44,WHITE
+TCGA-S7-A7WL,9611519077,R01C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,59,WHITE
+TCGA-S7-A7WM,9482801167,R01C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,76,WHITE
+TCGA-S7-A7WN,9482801026,R02C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,40,WHITE
+TCGA-S7-A7WO,9482801095,R06C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,76,WHITE
+TCGA-S7-A7WP,9482801041,R03C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,25,WHITE
+TCGA-S7-A7WQ,9482801085,R02C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,19,WHITE
+TCGA-S7-A7WR,9482801085,R05C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,32,WHITE
+TCGA-S7-A7WT,9482801167,R04C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,74,WHITE
+TCGA-S7-A7WU,9611519077,R06C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,63,WHITE
+TCGA-S7-A7WV,9482801085,R04C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,35,WHITE
+TCGA-S7-A7WW,9482801026,R06C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,34,WHITE
+TCGA-S7-A7WX,9482801167,R01C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,52,WHITE
+TCGA-S7-A7X0,9482801167,R02C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma; Extra-adrenal Pheochromocytoma,FEMALE,75,WHITE
+TCGA-S7-A7X1,9482801085,R02C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,23,WHITE
+TCGA-S7-A7X2,9611519077,R02C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,57,WHITE
+TCGA-SA-A6C2,9482801094,R06C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma; Extra-adrenal Pheochromocytoma,FEMALE,46,BLACK OR AFRICAN AMERICAN
+TCGA-SP-A6QC,9482801026,R03C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,46,WHITE
+TCGA-SP-A6QD,9482801094,R03C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,26,
+TCGA-SP-A6QF,9482801167,R03C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,48,ASIAN
+TCGA-SP-A6QG,9482801002,R06C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,FEMALE,35,WHITE
+TCGA-SP-A6QH,9482801095,R03C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,35,ASIAN
+TCGA-SP-A6QI,9482801167,R06C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,47,WHITE
+TCGA-SP-A6QJ,9482801095,R01C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,64,WHITE
+TCGA-SP-A6QK,9482801002,R05C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,46,ASIAN
+TCGA-SQ-A6I4,9482801002,R02C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Solid Tissue Normal,Adrenal gland,Pheochromocytoma,MALE,53,WHITE
+TCGA-SQ-A6I4,9482801095,R04C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,53,WHITE
+TCGA-SQ-A6I6,9482801041,R01C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,39,WHITE
+TCGA-SR-A6MP,9482801095,R02C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,30,WHITE
+TCGA-SR-A6MQ,9482801026,R06C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,FEMALE,61,ASIAN
+TCGA-SR-A6MR,9482801094,R04C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,MALE,41,WHITE
+TCGA-SR-A6MS,9482801095,R03C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,35,WHITE
+TCGA-SR-A6MT,9482801094,R04C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,57,WHITE
+TCGA-SR-A6MU,9482801094,R02C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,49,WHITE
+TCGA-SR-A6MV,9482801002,R03C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,FEMALE,35,WHITE
+TCGA-SR-A6MX,9482801085,R03C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,MALE,55,WHITE
+TCGA-SR-A6MX,9482801095,R05C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Metastatic,Extra-adrenal Site,Paraganglioma,MALE,55,WHITE
+TCGA-SR-A6MX,9482801094,R05C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Additional - New Primary,Extra-adrenal Site,Paraganglioma,MALE,55,WHITE
+TCGA-SR-A6MY,9482801002,R01C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,54,WHITE
+TCGA-SR-A6MZ,9482801085,R01C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,46,WHITE
+TCGA-SR-A6N0,9482801041,R05C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,45,WHITE
+TCGA-TT-A6YJ,9482801041,R03C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,45,
+TCGA-TT-A6YK,9482801095,R06C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma; Extra-adrenal Pheochromocytoma,MALE,61,WHITE
+TCGA-TT-A6YN,9482801002,R02C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,37,WHITE
+TCGA-TT-A6YO,9482801094,R06C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-TT-A6YP,9482801085,R04C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,19,WHITE
+TCGA-W2-A7H5,9482801094,R01C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,25,WHITE
+TCGA-W2-A7H7,9611519077,R04C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,59,WHITE
+TCGA-W2-A7HA,9482801026,R04C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,63,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-W2-A7HB,9482801026,R05C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,24,WHITE
+TCGA-W2-A7HC,9482801085,R03C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,67,WHITE
+TCGA-W2-A7HD,9482801041,R05C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,76,WHITE
+TCGA-W2-A7HE,9482801167,R06C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,80,WHITE
+TCGA-W2-A7HF,9482801085,R05C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,28,BLACK OR AFRICAN AMERICAN
+TCGA-W2-A7HH,9611519077,R05C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma,FEMALE,69,WHITE
+TCGA-W2-A7UY,9482801041,R02C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,44,WHITE
+TCGA-WB-A80K,9482801041,R06C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,49,WHITE
+TCGA-WB-A80L,9482801085,R06C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,30,WHITE
+TCGA-WB-A80M,9611519077,R03C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,63,WHITE
+TCGA-WB-A80N,9482801094,R05C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,54,WHITE
+TCGA-WB-A80O,9482801095,R04C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,83,WHITE
+TCGA-WB-A80P,9482801167,R04C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma; Extra-adrenal Pheochromocytoma,MALE,20,WHITE
+TCGA-WB-A80Q,9482801002,R04C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,64,WHITE
+TCGA-WB-A80V,9482801095,R02C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,63,WHITE
+TCGA-WB-A80Y,9482801095,R05C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,59,WHITE
+TCGA-WB-A814,9482801041,R04C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma; Extra-adrenal Pheochromocytoma,FEMALE,35,BLACK OR AFRICAN AMERICAN
+TCGA-WB-A815,9611519077,R02C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,68,WHITE
+TCGA-WB-A816,9482801002,R03C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,42,WHITE
+TCGA-WB-A817,9482801167,R03C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,27,WHITE
+TCGA-WB-A818,9482801002,R05C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,37,WHITE
+TCGA-WB-A819,9482801041,R01C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,36,WHITE
+TCGA-WB-A81A,9611519077,R01C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,65,WHITE
+TCGA-WB-A81D,9482801002,R01C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,82,WHITE
+TCGA-WB-A81E,9482801041,R02C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Extra-adrenal Site,Paraganglioma; Extra-adrenal Pheochromocytoma,FEMALE,47,WHITE
+TCGA-WB-A81F,9482801041,R06C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,40,WHITE
+TCGA-WB-A81G,9482801002,R04C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,25,WHITE
+TCGA-WB-A81H,9482801085,R01C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,44,WHITE
+TCGA-WB-A81I,9482801094,R01C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,64,WHITE
+TCGA-WB-A81J,9482801026,R05C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,40,WHITE
+TCGA-WB-A81K,9482801026,R03C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,45,WHITE
+TCGA-WB-A81M,9482801026,R01C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,42,WHITE
+TCGA-WB-A81N,9482801002,R06C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,28,WHITE
+TCGA-WB-A81P,9482801094,R02C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,73,WHITE
+TCGA-WB-A81Q,9482801095,R01C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,44,WHITE
+TCGA-WB-A81R,9482801026,R04C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,55,WHITE
+TCGA-WB-A81S,9482801167,R05C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,59,WHITE
+TCGA-WB-A81T,9482801167,R02C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,45,WHITE
+TCGA-WB-A81V,9482801167,R05C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,57,WHITE
+TCGA-WB-A81W,9482801041,R04C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,41,WHITE
+TCGA-WB-A820,9611519077,R03C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,40,WHITE
+TCGA-WB-A821,9482801026,R02C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,73,WHITE
+TCGA-WB-A822,9482801026,R01C02,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,MALE,23,WHITE
+TCGA-XG-A823,9482801085,R06C01,Illumina Human Methylation 450,TCGA-PCPG,JHU_USC,Primary Tumor,Adrenal gland,Pheochromocytoma,FEMALE,25,WHITE

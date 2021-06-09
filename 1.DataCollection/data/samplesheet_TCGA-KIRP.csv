@@ -1,0 +1,322 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-2K-A9WE,9828653052,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,53,WHITE
+TCGA-2Z-A9J1,9828653052,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,71,WHITE
+TCGA-2Z-A9J2,9828653043,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,71,WHITE
+TCGA-2Z-A9J3,9828653043,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,67,WHITE
+TCGA-2Z-A9J5,9828653052,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,80,WHITE
+TCGA-2Z-A9J6,9828653052,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,60,WHITE
+TCGA-2Z-A9J7,9828653052,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,63,WHITE
+TCGA-2Z-A9J8,3999510102,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,50,WHITE
+TCGA-2Z-A9J9,3999510119,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,77,BLACK OR AFRICAN AMERICAN
+TCGA-2Z-A9JD,3999510102,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,66,WHITE
+TCGA-2Z-A9JE,3999510119,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,59,WHITE
+TCGA-2Z-A9JG,3999510102,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,64,WHITE
+TCGA-2Z-A9JI,3999510143,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,38,WHITE
+TCGA-2Z-A9JJ,3999510143,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,69,WHITE
+TCGA-2Z-A9JK,3999510119,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,50,WHITE
+TCGA-2Z-A9JL,3999510119,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,47,BLACK OR AFRICAN AMERICAN
+TCGA-2Z-A9JM,3999510119,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,28,WHITE
+TCGA-2Z-A9JN,3999510143,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,50,BLACK OR AFRICAN AMERICAN
+TCGA-2Z-A9JO,3999510119,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,56,BLACK OR AFRICAN AMERICAN
+TCGA-2Z-A9JP,3999510144,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,63,WHITE
+TCGA-2Z-A9JQ,3999510143,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,66,WHITE
+TCGA-2Z-A9JR,3999510144,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,57,WHITE
+TCGA-2Z-A9JS,3999510102,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,74,WHITE
+TCGA-2Z-A9JT,3999510102,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,71,WHITE
+TCGA-4A-A93W,9701417162,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,66,WHITE
+TCGA-4A-A93X,9701417162,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,58,WHITE
+TCGA-4A-A93Y,9701417161,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,63,BLACK OR AFRICAN AMERICAN
+TCGA-5P-A9JU,9996247061,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,81,WHITE
+TCGA-5P-A9JV,3999510102,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,49,WHITE
+TCGA-5P-A9JW,3999510119,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,64,WHITE
+TCGA-5P-A9JY,3999510143,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,79,WHITE
+TCGA-5P-A9JZ,3999510102,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,51,WHITE
+TCGA-5P-A9K0,3999510102,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,75,WHITE
+TCGA-5P-A9K2,3999510143,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,62,WHITE
+TCGA-5P-A9K3,3999510119,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,59,WHITE
+TCGA-5P-A9K4,3999492075,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,54,WHITE
+TCGA-5P-A9K6,3999510144,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,64,WHITE
+TCGA-5P-A9K8,3999510143,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,51,WHITE
+TCGA-5P-A9K9,3999510143,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,59,WHITE
+TCGA-5P-A9KA,3999510144,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,61,WHITE
+TCGA-5P-A9KC,3999510144,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,51,WHITE
+TCGA-5P-A9KE,3999510119,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,70,WHITE
+TCGA-5P-A9KF,3999510102,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,53,WHITE
+TCGA-5P-A9KH,3999510102,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,77,WHITE
+TCGA-A4-7286,6929742015,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,42,WHITE
+TCGA-A4-7287,7310440066,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,75,WHITE
+TCGA-A4-7288,7310440061,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,71,WHITE
+TCGA-A4-7288,7310440066,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,71,WHITE
+TCGA-A4-7583,7310440066,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-A4-7584,7310440061,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-A4-7585,7310440066,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,67,WHITE
+TCGA-A4-7585,7310440061,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,67,WHITE
+TCGA-A4-7732,7310440066,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-A4-7732,7310440066,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-A4-7734,7310440061,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,53,WHITE
+TCGA-A4-7828,7310440066,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,74,BLACK OR AFRICAN AMERICAN
+TCGA-A4-7915,7786923102,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,35,BLACK OR AFRICAN AMERICAN
+TCGA-A4-7996,7786923102,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,61,WHITE
+TCGA-A4-7997,7786923102,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,67,WHITE
+TCGA-A4-8098,7800246206,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,73,BLACK OR AFRICAN AMERICAN
+TCGA-A4-8310,7800246204,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,58,WHITE
+TCGA-A4-8311,7800246204,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,60,WHITE
+TCGA-A4-8312,7800246206,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-A4-8515,7800246206,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,47,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-A4-8516,7800246206,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,62,WHITE
+TCGA-A4-8517,7800246206,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,71,WHITE
+TCGA-A4-8518,7800246206,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,48,WHITE
+TCGA-A4-8630,7800246206,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,59,WHITE
+TCGA-A4-A48D,8784225052,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,84,BLACK OR AFRICAN AMERICAN
+TCGA-A4-A4ZT,9305216203,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,71,WHITE
+TCGA-A4-A57E,9305216161,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,59,WHITE
+TCGA-A4-A5DU,9296931055,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,45,WHITE
+TCGA-A4-A5XZ,9305216028,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,65,WHITE
+TCGA-A4-A5Y0,9305216059,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,61,WHITE
+TCGA-A4-A5Y1,9296931055,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,75,WHITE
+TCGA-A4-A6HP,9305216059,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,66,WHITE
+TCGA-A4-A772,9630789228,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,39,WHITE
+TCGA-A4-A7UZ,9630789230,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,71,WHITE
+TCGA-AL-7173,7310440066,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,72,WHITE
+TCGA-AL-A5DJ,9305216161,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,54,WHITE
+TCGA-AT-A5NU,9296931073,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,77,WHITE
+TCGA-B1-5398,6285609019,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,73,WHITE
+TCGA-B1-7332,7310440061,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-B1-A47M,8784225052,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,79,BLACK OR AFRICAN AMERICAN
+TCGA-B1-A47M,8784225052,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,79,BLACK OR AFRICAN AMERICAN
+TCGA-B1-A47N,8784225052,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,62,WHITE
+TCGA-B1-A47O,8784225052,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,54,WHITE
+TCGA-B1-A654,9305216028,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,43,BLACK OR AFRICAN AMERICAN
+TCGA-B1-A655,9305216059,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,77,WHITE
+TCGA-B1-A656,9305216028,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,64,WHITE
+TCGA-B1-A657,9305216028,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,54,WHITE
+TCGA-B3-8121,7800246204,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,48,BLACK OR AFRICAN AMERICAN
+TCGA-B3-A6W5,9630789228,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,43,BLACK OR AFRICAN AMERICAN
+TCGA-B9-5155,6285609019,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,71,WHITE
+TCGA-B9-5156,6285609045,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,51,WHITE
+TCGA-B9-7268,7310440061,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,59,WHITE
+TCGA-B9-A44B,8784225052,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,70,BLACK OR AFRICAN AMERICAN
+TCGA-B9-A5W7,9305216059,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,47,BLACK OR AFRICAN AMERICAN
+TCGA-B9-A5W8,9296931055,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,50,BLACK OR AFRICAN AMERICAN
+TCGA-B9-A5W9,9296931055,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,40,WHITE
+TCGA-B9-A69E,9305216059,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,71,WHITE
+TCGA-B9-A8YH,9701417161,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,52,BLACK OR AFRICAN AMERICAN
+TCGA-B9-A8YI,9701417162,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,79,BLACK OR AFRICAN AMERICAN
+TCGA-BQ-5875,6285609019,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,66,WHITE
+TCGA-BQ-5875,6285609019,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,66,WHITE
+TCGA-BQ-5876,6929689007,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,75,WHITE
+TCGA-BQ-5876,6285609018,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,75,WHITE
+TCGA-BQ-5877,6264496102,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-BQ-5877,6285609045,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-BQ-5878,6264496102,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,79,WHITE
+TCGA-BQ-5878,6285609019,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,79,WHITE
+TCGA-BQ-5879,6285609018,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,32,WHITE
+TCGA-BQ-5879,6285609018,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,32,WHITE
+TCGA-BQ-5880,6929671163,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,79,WHITE
+TCGA-BQ-5880,6285609045,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,79,WHITE
+TCGA-BQ-5881,6929671163,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,69,WHITE
+TCGA-BQ-5881,6285609018,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,69,WHITE
+TCGA-BQ-5882,6285609018,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,54,
+TCGA-BQ-5882,6285609045,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,54,
+TCGA-BQ-5883,6264496102,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,79,BLACK OR AFRICAN AMERICAN
+TCGA-BQ-5883,6264496102,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,79,BLACK OR AFRICAN AMERICAN
+TCGA-BQ-5884,6929671163,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-BQ-5884,6264496102,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-BQ-5885,6929689007,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,63,WHITE
+TCGA-BQ-5885,6285609018,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,63,WHITE
+TCGA-BQ-5886,6929671163,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,75,WHITE
+TCGA-BQ-5886,6285609045,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,75,WHITE
+TCGA-BQ-5887,6285633061,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,54,WHITE
+TCGA-BQ-5887,6285633058,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,54,WHITE
+TCGA-BQ-5888,6285609018,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,74,WHITE
+TCGA-BQ-5888,6264496102,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,74,WHITE
+TCGA-BQ-5889,6929671163,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,63,WHITE
+TCGA-BQ-5889,6285609019,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,63,WHITE
+TCGA-BQ-5890,6285609045,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,69,WHITE
+TCGA-BQ-5890,6264496102,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,69,WHITE
+TCGA-BQ-5891,6285609045,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,57,WHITE
+TCGA-BQ-5891,6929671163,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,57,WHITE
+TCGA-BQ-5892,6264496102,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,51,WHITE
+TCGA-BQ-5892,6285609019,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,51,WHITE
+TCGA-BQ-5893,6285609019,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,61,WHITE
+TCGA-BQ-5893,6929689007,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,61,WHITE
+TCGA-BQ-5894,6929671163,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,42,
+TCGA-BQ-5894,6929671163,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,42,
+TCGA-BQ-7044,6285633058,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,73,WHITE
+TCGA-BQ-7044,6285633058,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,73,WHITE
+TCGA-BQ-7045,6285633053,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,78,BLACK OR AFRICAN AMERICAN
+TCGA-BQ-7045,6285633052,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,78,BLACK OR AFRICAN AMERICAN
+TCGA-BQ-7046,6285633052,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,61,WHITE
+TCGA-BQ-7046,6285633052,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,61,WHITE
+TCGA-BQ-7048,6285633052,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,64,WHITE
+TCGA-BQ-7048,6285633053,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,64,WHITE
+TCGA-BQ-7049,6285633053,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,45,WHITE
+TCGA-BQ-7049,6285633053,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,45,WHITE
+TCGA-BQ-7050,6285633052,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,53,WHITE
+TCGA-BQ-7050,6285633052,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,53,WHITE
+TCGA-BQ-7051,6285633053,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,74,WHITE
+TCGA-BQ-7051,6285633058,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,74,WHITE
+TCGA-BQ-7053,6285633061,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-BQ-7053,6285633053,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-BQ-7055,6285633053,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,73,WHITE
+TCGA-BQ-7055,6285633052,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,73,WHITE
+TCGA-BQ-7056,6285633061,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,75,WHITE
+TCGA-BQ-7056,6285633061,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,75,WHITE
+TCGA-BQ-7058,6285633053,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,81,WHITE
+TCGA-BQ-7058,6285633034,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,81,WHITE
+TCGA-BQ-7059,6285633052,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,71,WHITE
+TCGA-BQ-7059,6285633058,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,71,WHITE
+TCGA-BQ-7060,6285633061,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,53,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-BQ-7060,6285633058,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,53,AMERICAN INDIAN OR ALASKA NATIVE
+TCGA-BQ-7061,6285633053,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,83,WHITE
+TCGA-BQ-7061,6285633034,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,83,WHITE
+TCGA-BQ-7062,6285633052,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-BQ-7062,6285633052,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-DW-5560,6285609018,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,38,WHITE
+TCGA-DW-5561,6285609045,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,51,BLACK OR AFRICAN AMERICAN
+TCGA-DW-7834,7310440066,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,53,WHITE
+TCGA-DW-7836,7310440061,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,55,WHITE
+TCGA-DW-7837,7310440061,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,43,BLACK OR AFRICAN AMERICAN
+TCGA-DW-7838,7310440061,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,66,WHITE
+TCGA-DW-7839,6929742015,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,58,WHITE
+TCGA-DW-7840,6929742015,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-DW-7841,7310440066,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-DW-7842,7310440066,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,52,WHITE
+TCGA-DW-7963,9296931048,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,43,BLACK OR AFRICAN AMERICAN
+TCGA-DZ-6131,6285633053,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,31,WHITE
+TCGA-DZ-6131,6285633034,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,31,WHITE
+TCGA-DZ-6132,6285633034,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,69,
+TCGA-DZ-6132,6285633052,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,69,
+TCGA-DZ-6133,6285633061,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,66,WHITE
+TCGA-DZ-6133,6285633034,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,66,WHITE
+TCGA-DZ-6134,6285633058,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,69,WHITE
+TCGA-DZ-6134,6285633058,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,69,WHITE
+TCGA-DZ-6135,6285633052,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,45,
+TCGA-DZ-6135,6285633058,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,45,
+TCGA-EV-5901,6264496102,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,47,WHITE
+TCGA-EV-5902,6264496102,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,58,WHITE
+TCGA-EV-5903,6285609019,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,57,WHITE
+TCGA-F9-A4JJ,8784225052,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,35,BLACK OR AFRICAN AMERICAN
+TCGA-F9-A7Q0,9630789214,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,37,ASIAN
+TCGA-F9-A7VF,9630789228,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,75,WHITE
+TCGA-F9-A8NY,9630789235,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,38,ASIAN
+TCGA-F9-A97G,9828653052,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,79,ASIAN
+TCGA-G7-6789,6285633034,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,53,WHITE
+TCGA-G7-6790,6285633034,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,57,WHITE
+TCGA-G7-6792,6285633034,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,40,BLACK OR AFRICAN AMERICAN
+TCGA-G7-6793,6285633053,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,60,WHITE
+TCGA-G7-6795,6285633034,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,56,WHITE
+TCGA-G7-6796,6285633058,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,58,WHITE
+TCGA-G7-6797,6285633034,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,46,WHITE
+TCGA-G7-7501,7786923102,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-G7-7502,7786923102,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,83,WHITE
+TCGA-G7-A4TM,9305216059,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,40,BLACK OR AFRICAN AMERICAN
+TCGA-G7-A8LB,9630789214,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,70,WHITE
+TCGA-G7-A8LC,9630789235,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,61,WHITE
+TCGA-G7-A8LD,9630789214,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,71,WHITE
+TCGA-G7-A8LE,9630789214,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,62,WHITE
+TCGA-GL-6846,6285633034,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,52,WHITE
+TCGA-GL-6846,6285633058,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Solid Tissue Normal,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,52,WHITE
+TCGA-GL-7773,6929742015,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,63,WHITE
+TCGA-GL-7966,7786923102,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,28,WHITE
+TCGA-GL-8500,7800246204,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,63,WHITE
+TCGA-GL-A4EM,8784225052,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,61,WHITE
+TCGA-GL-A59R,9305216203,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,79,WHITE
+TCGA-GL-A59T,9296931055,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,46,WHITE
+TCGA-GL-A9DC,9701417161,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,66,WHITE
+TCGA-GL-A9DD,9701417162,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,69,WHITE
+TCGA-GL-A9DE,9701417162,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,74,BLACK OR AFRICAN AMERICAN
+TCGA-HE-7128,6285633053,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,NA,
+TCGA-HE-7129,6285633061,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,NA,
+TCGA-HE-7130,6285633034,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,NA,
+TCGA-HE-A5NF,9305216203,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,58,
+TCGA-HE-A5NH,9305216161,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,62,
+TCGA-HE-A5NI,9305216203,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,73,
+TCGA-HE-A5NJ,9305216161,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,58,
+TCGA-HE-A5NK,9305216161,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,82,
+TCGA-HE-A5NL,9305216161,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,51,
+TCGA-IA-A40U,8784225052,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,56,WHITE
+TCGA-IA-A40X,8784225052,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,49,BLACK OR AFRICAN AMERICAN
+TCGA-IA-A40Y,8784225052,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,60,WHITE
+TCGA-IA-A83S,9630789230,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,81,WHITE
+TCGA-IA-A83T,9630789230,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,80,WHITE
+TCGA-IA-A83V,9630789230,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,63,WHITE
+TCGA-IA-A83W,9630789231,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,70,WHITE
+TCGA-IZ-8195,7800246206,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,82,WHITE
+TCGA-IZ-8196,7800246206,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,50,WHITE
+TCGA-IZ-A6M8,9305216028,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-IZ-A6M9,9305216028,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,63,WHITE
+TCGA-J7-6720,7310440061,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,42,ASIAN
+TCGA-J7-8537,7800246206,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,37,ASIAN
+TCGA-J7-A8I2,9630789214,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,75,ASIAN
+TCGA-KV-A6GD,9305216059,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,85,WHITE
+TCGA-KV-A6GE,9305216059,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,65,WHITE
+TCGA-KV-A74V,9630789228,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,40,WHITE
+TCGA-MH-A55W,9305216203,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,50,BLACK OR AFRICAN AMERICAN
+TCGA-MH-A55Z,9305216161,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,65,BLACK OR AFRICAN AMERICAN
+TCGA-MH-A560,9305216161,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,62,WHITE
+TCGA-MH-A561,9305216161,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,66,WHITE
+TCGA-MH-A562,9305216203,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-MH-A854,9630789231,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,62,BLACK OR AFRICAN AMERICAN
+TCGA-MH-A855,9630789231,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,52,BLACK OR AFRICAN AMERICAN
+TCGA-MH-A856,9630789230,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,54,WHITE
+TCGA-MH-A857,9630789230,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,63,BLACK OR AFRICAN AMERICAN
+TCGA-O9-A75Z,9630789228,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,44,WHITE
+TCGA-P4-A5E6,9296931055,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-P4-A5E7,9296931055,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,74,WHITE
+TCGA-P4-A5E8,9296931055,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,57,WHITE
+TCGA-P4-A5EA,9296931055,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,54,WHITE
+TCGA-P4-A5EB,9296931055,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,83,WHITE
+TCGA-P4-A5ED,9296931048,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,51,WHITE
+TCGA-P4-AAVK,3999510144,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,74,WHITE
+TCGA-P4-AAVL,3999510119,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,85,WHITE
+TCGA-P4-AAVM,3999510144,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,69,WHITE
+TCGA-P4-AAVO,3999510144,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,69,WHITE
+TCGA-PJ-A5Z8,9296931055,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,60,WHITE
+TCGA-PJ-A5Z9,9296931048,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,80,WHITE
+TCGA-PJ-A8JU,9630789235,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,81,WHITE
+TCGA-Q2-A5QZ,9296931055,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-SX-A71R,9630789228,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,51,WHITE
+TCGA-SX-A71S,9630789228,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,66,WHITE
+TCGA-SX-A71U,9630789230,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,57,WHITE
+TCGA-SX-A71V,9630789228,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,80,WHITE
+TCGA-SX-A71W,9630789230,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,66,WHITE
+TCGA-SX-A7SL,9630789230,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,74,
+TCGA-SX-A7SM,9630789231,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-SX-A7SN,9630789231,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,52,WHITE
+TCGA-SX-A7SO,9630789231,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,64,WHITE
+TCGA-SX-A7SP,9630789230,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,66,WHITE
+TCGA-SX-A7SQ,9630789214,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,48,WHITE
+TCGA-SX-A7SR,9630789214,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,66,WHITE
+TCGA-SX-A7SS,9630789214,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,67,WHITE
+TCGA-SX-A7SU,9630789235,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,47,
+TCGA-UN-AAZ9,9828653052,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,76,BLACK OR AFRICAN AMERICAN
+TCGA-UZ-A9PJ,9828653043,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,78,WHITE
+TCGA-UZ-A9PK,9828653043,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,71,WHITE
+TCGA-UZ-A9PL,9828653052,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,59,WHITE
+TCGA-UZ-A9PM,9828653052,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,62,WHITE
+TCGA-UZ-A9PN,9828653052,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,54,WHITE
+TCGA-UZ-A9PO,9828653052,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,80,WHITE
+TCGA-UZ-A9PP,3999510102,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,60,WHITE
+TCGA-UZ-A9PQ,3999510143,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-UZ-A9PR,3999510143,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,84,WHITE
+TCGA-UZ-A9PS,9996247061,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Additional - New Primary,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,62,BLACK OR AFRICAN AMERICAN
+TCGA-UZ-A9PS,3999510119,R05C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,62,BLACK OR AFRICAN AMERICAN
+TCGA-UZ-A9PU,3999510144,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,77,WHITE
+TCGA-UZ-A9PV,3999510144,R01C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,65,WHITE
+TCGA-UZ-A9PX,3999510144,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,73,WHITE
+TCGA-UZ-A9PZ,3999510102,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,65,WHITE
+TCGA-UZ-A9Q0,3999510119,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,60,WHITE
+TCGA-UZ-A9Q1,3999510144,R06C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,88,WHITE
+TCGA-V9-A7HT,9630789228,R01C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-WN-A9G9,9701417162,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,55,WHITE
+TCGA-WN-AB4C,3999510143,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,60,WHITE
+TCGA-Y8-A894,9630789214,R05C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,57,WHITE
+TCGA-Y8-A895,9630789214,R04C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,74,WHITE
+TCGA-Y8-A896,9630789214,R04C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,62,WHITE
+TCGA-Y8-A897,9630789235,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,FEMALE,68,WHITE
+TCGA-Y8-A898,9630789230,R02C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,69,WHITE
+TCGA-Y8-A8RY,9701417162,R02C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,63,WHITE
+TCGA-Y8-A8RZ,9701417162,R03C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,55,WHITE
+TCGA-Y8-A8S0,9701417162,R03C02,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,58,WHITE
+TCGA-Y8-A8S1,9701417162,R06C01,Illumina Human Methylation 450,TCGA-KIRP,JHU_USC,Primary Tumor,Kidney,Kidney Papillary Renal Cell Carcinoma,MALE,61,WHITE

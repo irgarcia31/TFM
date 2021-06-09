@@ -1,0 +1,49 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-FA-8693,8795194031,R05C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,Stomach,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,75,WHITE
+TCGA-FA-A4BB,9305216059,R04C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,LiverOther Extranodal Site,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,67,WHITE
+TCGA-FA-A4XK,9305216060,R04C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,Small intestine,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,40,ASIAN
+TCGA-FA-A6HN,9305216060,R03C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,73,ASIAN
+TCGA-FA-A6HO,9305216060,R01C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,58,ASIAN
+TCGA-FA-A7DS,9828653043,R05C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,Breast,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,54,ASIAN
+TCGA-FA-A7Q1,9828653029,R05C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,61,ASIAN
+TCGA-FA-A82F,9828653029,R01C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,Small intestine,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,48,ASIAN
+TCGA-FA-A86F,9828653029,R03C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,64,WHITE
+TCGA-FF-8041,7786923062,R03C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Primary mediastinal (thymic) DLBCL,FEMALE,28,ASIAN
+TCGA-FF-8042,7786915146,R06C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,57,ASIAN
+TCGA-FF-8043,7786915146,R01C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,Colon,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,70,ASIAN
+TCGA-FF-8046,7786923062,R02C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,51,ASIAN
+TCGA-FF-8047,7786915146,R06C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,38,ASIAN
+TCGA-FF-8061,7786915146,R04C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,Small intestine,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,42,ASIAN
+TCGA-FF-8062,7786915146,R03C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,Thyroid,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,60,ASIAN
+TCGA-FF-A7CQ,9828653029,R05C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,AdrenalBoneBone MarrowLiverPleura/Pleural EffusionOther Extranodal Site,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,74,ASIAN
+TCGA-FF-A7CR,9828653043,R01C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,BrainSinus,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,61,ASIAN
+TCGA-FF-A7CW,9828653043,R03C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,Parotid Gland,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,72,ASIAN
+TCGA-FF-A7CX,9828653043,R06C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,AdrenalSoft Tissue (muscle  ligaments  subcutaneous)BrainThyroidLung,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,46,ASIAN
+TCGA-FM-8000,7786915146,R02C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,ColonSmall intestine,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,70,WHITE
+TCGA-G8-6324,7786915146,R05C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,Ascites/Peritoneum,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,43,BLACK OR AFRICAN AMERICAN
+TCGA-G8-6325,7786923062,R04C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,69,WHITE
+TCGA-G8-6326,7786915146,R02C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,Ascites/PeritoneumOther Extranodal Site,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,52,WHITE
+TCGA-G8-6906,7786923062,R05C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,Other Extranodal Site,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,58,WHITE
+TCGA-G8-6907,7786915146,R05C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,57,WHITE
+TCGA-G8-6909,7786923062,R01C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,67,WHITE
+TCGA-G8-6914,7786915146,R03C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,67,WHITE
+TCGA-GR-7351,7786923062,R06C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,Thyroid,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,56,WHITE
+TCGA-GR-7353,7786915146,R01C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,36,WHITE
+TCGA-GR-A4D4,9305216060,R01C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,BoneSoft Tissue (muscle  ligaments  subcutaneous),Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,57,WHITE
+TCGA-GR-A4D5,9305216059,R06C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,BoneSkinSoft Tissue (muscle  ligaments  subcutaneous),Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,46,WHITE
+TCGA-GR-A4D6,9305216060,R06C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,54,ASIAN
+TCGA-GR-A4D9,9305216060,R05C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,Soft Tissue (muscle  ligaments  subcutaneous)LungPleura/Pleural Effusion,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,66,WHITE
+TCGA-GS-A9TQ,9828653029,R06C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,69,WHITE
+TCGA-GS-A9TT,9828653029,R02C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,BoneTestes,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,70,WHITE
+TCGA-GS-A9TU,9828653029,R04C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,45,WHITE
+TCGA-GS-A9TV,9828653029,R06C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Primary mediastinal (thymic) DLBCL,FEMALE,40,WHITE
+TCGA-GS-A9TW,9828653043,R02C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Primary mediastinal (thymic) DLBCL,FEMALE,23,WHITE
+TCGA-GS-A9TX,9828653043,R04C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,37,WHITE
+TCGA-GS-A9TY,9828653044,R01C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,82,WHITE
+TCGA-GS-A9TZ,9828653044,R02C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Primary mediastinal (thymic) DLBCL,MALE,51,WHITE
+TCGA-GS-A9U3,9828653044,R04C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,77,WHITE
+TCGA-GS-A9U4,9828653044,R05C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),FEMALE,27,WHITE
+TCGA-RQ-A68N,9305216060,R02C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,Brain,Primary DLBCL of the CNS,MALE,63,WHITE
+TCGA-RQ-A6JB,9305216059,R05C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,BoneSkinSoft Tissue (muscle  ligaments  subcutaneous),Primary DLBCL of the CNS,FEMALE,62,WHITE
+TCGA-RQ-AAAT,9828653044,R06C01,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,Brain,Primary DLBCL of the CNS,FEMALE,63,WHITE
+TCGA-VB-A8QN,9828653043,R01C02,Illumina Human Methylation 450,TCGA-DLBC,JHU_USC,Primary Tumor,Stomach,Diffuse large B-cell lymphoma (DLBCL) NOS (any anatomic site nodal or extranodal),MALE,55,WHITE

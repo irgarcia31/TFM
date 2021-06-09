@@ -1,0 +1,11 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-13-A5FT,9761749133,R02C02,Illumina Human Methylation 450,TCGA-OV,JHU_USC,Primary Tumor,Ovary,Serous Cystadenocarcinoma,FEMALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-13-A5FU,9761749133,R03C02,Illumina Human Methylation 450,TCGA-OV,JHU_USC,Primary Tumor,Ovary,Serous Cystadenocarcinoma,FEMALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-29-A5NZ,9761749133,R04C02,Illumina Human Methylation 450,TCGA-OV,JHU_USC,Primary Tumor,Omentum,Serous Cystadenocarcinoma,FEMALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-3P-A9WA,9761749133,R04C01,Illumina Human Methylation 450,TCGA-OV,JHU_USC,Primary Tumor,Ovary,Serous Cystadenocarcinoma,FEMALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-59-A5PD,9761749133,R03C01,Illumina Human Methylation 450,TCGA-OV,JHU_USC,Primary Tumor,Ovary,Serous Cystadenocarcinoma,FEMALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-5X-AA5U,9761749133,R06C01,Illumina Human Methylation 450,TCGA-OV,JHU_USC,Primary Tumor,Ovary,Serous Cystadenocarcinoma,FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-OY-A56P,9761749133,R02C01,Illumina Human Methylation 450,TCGA-OV,JHU_USC,Primary Tumor,Ovary,Serous Cystadenocarcinoma,FEMALE,48,BLACK OR AFRICAN AMERICAN
+TCGA-OY-A56Q,9761749133,R05C01,Illumina Human Methylation 450,TCGA-OV,JHU_USC,Primary Tumor,Ovary,Serous Cystadenocarcinoma,FEMALE,78,BLACK OR AFRICAN AMERICAN
+TCGA-VG-A8LO,9761749133,R01C01,Illumina Human Methylation 450,TCGA-OV,JHU_USC,Primary Tumor,Ovary,Serous Cystadenocarcinoma,FEMALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-WR-A838,9761749133,R05C02,Illumina Human Methylation 450,TCGA-OV,JHU_USC,Primary Tumor,Ovary,Serous Cystadenocarcinoma,FEMALE,72,BLACK OR AFRICAN AMERICAN

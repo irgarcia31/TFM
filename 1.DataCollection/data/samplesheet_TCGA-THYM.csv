@@ -1,0 +1,127 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-3G-AB0O,9934625155,R03C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B1,MALE,47,WHITE
+TCGA-3G-AB0Q,9934625127,R01C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type A,MALE,66,WHITE
+TCGA-3G-AB0T,9934625151,R02C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type B1,MALE,45,WHITE
+TCGA-3G-AB14,9934625127,R03C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,MALE,51,WHITE
+TCGA-3G-AB19,9934625151,R01C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type A,FEMALE,76,WHITE
+TCGA-3Q-A9WF,9934625082,R05C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,MALE,71,BLACK OR AFRICAN AMERICAN
+TCGA-3S-A8YW,9934625151,R06C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type C,MALE,63,WHITE
+TCGA-3S-AAYX,9934625026,R04C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B1,FEMALE,55,WHITE
+TCGA-3T-AA9L,9934625082,R06C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type B1,FEMALE,31,WHITE
+TCGA-4V-A9QI,9934625004,R05C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,MALE,68,WHITE
+TCGA-4V-A9QJ,9934625026,R05C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B3,MALE,64,WHITE
+TCGA-4V-A9QL,9934625004,R04C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,FEMALE,58,WHITE
+TCGA-4V-A9QM,9934625139,R05C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,MALE,39,WHITE
+TCGA-4V-A9QN,9934625155,R05C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B3,FEMALE,40,WHITE
+TCGA-4V-A9QQ,9934625139,R03C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B3,FEMALE,65,WHITE
+TCGA-4V-A9QR,9934625151,R03C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B3,FEMALE,51,WHITE
+TCGA-4V-A9QS,9934625004,R05C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,FEMALE,53,WHITE
+TCGA-4V-A9QT,9934625155,R05C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B1,FEMALE,79,WHITE
+TCGA-4V-A9QU,9934625155,R04C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,FEMALE,76,WHITE
+TCGA-4V-A9QW,9934625151,R06C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,MALE,62,WHITE
+TCGA-4V-A9QX,9934625004,R02C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,FEMALE,77,WHITE
+TCGA-4X-A9F9,9934625004,R06C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B1,FEMALE,57,WHITE
+TCGA-4X-A9FA,9934625155,R04C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type A,MALE,52,WHITE
+TCGA-4X-A9FB,9934625151,R04C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,MALE,44,WHITE
+TCGA-4X-A9FC,9934625139,R06C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,FEMALE,50,WHITE
+TCGA-4X-A9FD,9934625139,R01C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,FEMALE,43,WHITE
+TCGA-5G-A9ZZ,9934625026,R01C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type C,FEMALE,52,WHITE
+TCGA-5K-AAAP,9934625082,R04C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type A,MALE,54,WHITE
+TCGA-5U-AB0D,9934625004,R03C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type C,FEMALE,71,WHITE
+TCGA-5U-AB0E,9934625082,R03C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type B3,MALE,62,WHITE
+TCGA-5U-AB0F,9934625127,R02C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type AB,FEMALE,58,WHITE
+TCGA-5V-A9RR,9934625139,R02C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,MALE,67,WHITE
+TCGA-X7-A8D6,9934625026,R06C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,FEMALE,48,WHITE
+TCGA-X7-A8D6,9934625155,R06C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Solid Tissue Normal,Thymus,Thymoma; Type B2,FEMALE,48,WHITE
+TCGA-X7-A8D7,9934625082,R02C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B1,FEMALE,46,BLACK OR AFRICAN AMERICAN
+TCGA-X7-A8D7,9934625026,R02C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Solid Tissue Normal,Thymus,Thymoma; Type B1,FEMALE,46,BLACK OR AFRICAN AMERICAN
+TCGA-X7-A8D8,9934625082,R02C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,MALE,53,WHITE
+TCGA-X7-A8D9,9934625082,R03C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,FEMALE,NA,WHITE
+TCGA-X7-A8DB,9934625127,R05C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,FEMALE,71,WHITE
+TCGA-X7-A8DC,9934625026,R01C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,MALE,68,WHITE
+TCGA-X7-A8DD,9934625151,R05C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B1,FEMALE,54,WHITE
+TCGA-X7-A8DE,9934625139,R03C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,FEMALE,35,WHITE
+TCGA-X7-A8DF,9934625127,R02C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,MALE,40,WHITE
+TCGA-X7-A8DG,9934625151,R04C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,MALE,47,WHITE
+TCGA-X7-A8DI,9934625004,R06C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,FEMALE,57,WHITE
+TCGA-X7-A8DJ,9934625026,R04C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,MALE,68,
+TCGA-X7-A8M0,9934625127,R06C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2Thymoma; Type B3,FEMALE,61,WHITE
+TCGA-X7-A8M1,9934625082,R06C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,MALE,51,ASIAN
+TCGA-X7-A8M3,9934625127,R04C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B3,FEMALE,64,WHITE
+TCGA-X7-A8M4,9934625139,R04C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type B2,MALE,41,WHITE
+TCGA-X7-A8M5,9934625004,R01C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B3,FEMALE,65,WHITE
+TCGA-X7-A8M6,9934625155,R01C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,MALE,43,WHITE
+TCGA-X7-A8M7,9934625004,R02C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type B2,MALE,26,WHITE
+TCGA-X7-A8M8,9934625026,R05C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,MALE,45,BLACK OR AFRICAN AMERICAN
+TCGA-XH-A853,9934625026,R02C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,MALE,67,BLACK OR AFRICAN AMERICAN
+TCGA-XM-A8R8,9934625155,R03C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type C,FEMALE,67,ASIAN
+TCGA-XM-A8R9,9934625127,R01C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type A,FEMALE,71,WHITE
+TCGA-XM-A8RB,9934625127,R05C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B1,FEMALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-XM-A8RC,9934625082,R05C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type B2,MALE,67,WHITE
+TCGA-XM-A8RD,9934625026,R03C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,FEMALE,69,WHITE
+TCGA-XM-A8RE,9934625139,R05C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,FEMALE,54,WHITE
+TCGA-XM-A8RF,9934625004,R04C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type A,FEMALE,84,WHITE
+TCGA-XM-A8RG,9934625082,R04C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type A,MALE,67,WHITE
+TCGA-XM-A8RH,9934625082,R01C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B1,FEMALE,60,WHITE
+TCGA-XM-A8RI,9934625155,R02C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,MALE,77,
+TCGA-XM-A8RL,9934625151,R05C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type B1,MALE,44,WHITE
+TCGA-XM-AAZ1,9934625139,R04C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type B2Thymoma; Type B3,MALE,42,WHITE
+TCGA-XM-AAZ2,9934625082,R01C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type A,MALE,73,BLACK OR AFRICAN AMERICAN
+TCGA-XM-AAZ3,9934625026,R06C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type AB,MALE,64,WHITE
+TCGA-XU-A92O,9934625155,R06C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type A,MALE,63,ASIAN
+TCGA-XU-A92Q,9934625139,R06C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type A,MALE,50,ASIAN
+TCGA-XU-A92R,9934625139,R01C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,FEMALE,76,ASIAN
+TCGA-XU-A92T,9934625127,R03C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,FEMALE,81,WHITE
+TCGA-XU-A92U,9934625127,R04C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,MALE,67,WHITE
+TCGA-XU-A92V,9934625151,R03C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,FEMALE,72,ASIAN
+TCGA-XU-A92W,9934625127,R06C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,MALE,61,WHITE
+TCGA-XU-A92X,9934625155,R02C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,MALE,17,ASIAN
+TCGA-XU-A92Y,9934625151,R01C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type B3,FEMALE,71,WHITE
+TCGA-XU-A92Z,9934625139,R02C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type C,MALE,76,ASIAN
+TCGA-XU-A930,9934625151,R02C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B3,MALE,43,WHITE
+TCGA-XU-A931,9934625004,R03C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B3,FEMALE,61,WHITE
+TCGA-XU-A932,9934625155,R01C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,MALE,37,ASIAN
+TCGA-XU-A933,9934625004,R01C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type C,FEMALE,52,ASIAN
+TCGA-XU-A936,9934987126,R05C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type C,FEMALE,65,WHITE
+TCGA-XU-AAXV,9934987127,R02C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,FEMALE,45,WHITE
+TCGA-XU-AAXW,9934625157,R01C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,FEMALE,39,ASIAN
+TCGA-XU-AAXX,9934625157,R02C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,FEMALE,44,WHITE
+TCGA-XU-AAXY,9934987126,R04C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,MALE,43,WHITE
+TCGA-XU-AAXZ,9934987126,R06C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B3,MALE,63,WHITE
+TCGA-XU-AAY0,9934987148,R06C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,FEMALE,62,ASIAN
+TCGA-XU-AAY1,9934625157,R05C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,FEMALE,51,ASIAN
+TCGA-YT-A95D,9934625157,R01C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type AB,FEMALE,50,WHITE
+TCGA-YT-A95E,9934987127,R02C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type B2,MALE,52,WHITE
+TCGA-YT-A95F,9934987127,R05C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type AB,FEMALE,55,WHITE
+TCGA-YT-A95G,9934987148,R04C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2,FEMALE,61,WHITE
+TCGA-YT-A95H,9934987126,R03C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type AB,MALE,69,WHITE
+TCGA-ZB-A961,9934625157,R06C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type A,MALE,69,WHITE
+TCGA-ZB-A962,9934987148,R01C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type A,MALE,64,WHITE
+TCGA-ZB-A963,9934987127,R01C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,MALE,46,WHITE
+TCGA-ZB-A964,9934987127,R06C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type A,MALE,70,WHITE
+TCGA-ZB-A965,9934625157,R04C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AThymoma; Type AB,FEMALE,75,WHITE
+TCGA-ZB-A966,9934625157,R06C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type C,FEMALE,78,WHITE
+TCGA-ZB-A969,9934625157,R02C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type C,FEMALE,72,WHITE
+TCGA-ZB-A96A,9934987148,R02C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B2Thymoma; Type B3,MALE,53,WHITE
+TCGA-ZB-A96B,9934987127,R06C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B1,MALE,51,WHITE
+TCGA-ZB-A96C,9934625157,R05C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,FEMALE,77,WHITE
+TCGA-ZB-A96D,9934987148,R03C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,FEMALE,52,WHITE
+TCGA-ZB-A96E,9934987127,R05C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AThymoma; Type AB,MALE,60,WHITE
+TCGA-ZB-A96F,9934987126,R03C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,MALE,39,WHITE
+TCGA-ZB-A96G,9934987127,R04C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,MALE,59,WHITE
+TCGA-ZB-A96H,9934987127,R04C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type A,MALE,73,WHITE
+TCGA-ZB-A96I,9934987126,R02C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type AB,FEMALE,71,WHITE
+TCGA-ZB-A96K,9934987127,R03C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,MALE,69,WHITE
+TCGA-ZB-A96L,9934987127,R01C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B3,FEMALE,70,WHITE
+TCGA-ZB-A96M,9934625157,R03C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,FEMALE,56,WHITE
+TCGA-ZB-A96O,9934987148,R02C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B1,FEMALE,54,WHITE
+TCGA-ZB-A96P,9934987127,R03C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type B1,MALE,73,WHITE
+TCGA-ZB-A96Q,9934987148,R03C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,MALE,49,WHITE
+TCGA-ZB-A96R,9934625157,R04C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type B1Thymoma; Type B2,MALE,38,WHITE
+TCGA-ZB-A96V,9934987148,R04C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type C,MALE,44,WHITE
+TCGA-ZC-AAA7,9934987126,R06C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type C,MALE,63,WHITE
+TCGA-ZC-AAAA,9934987126,R01C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type B2,MALE,39,WHITE
+TCGA-ZC-AAAF,9934625157,R03C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type AB,FEMALE,74,WHITE
+TCGA-ZC-AAAH,9934987126,R04C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type B2,MALE,52,WHITE
+TCGA-ZL-A9V6,9934987126,R05C01,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Thymus,Thymoma; Type AB,MALE,61,WHITE
+TCGA-ZT-A8OM,9934987148,R01C02,Illumina Human Methylation 450,TCGA-THYM,JHU_USC,Primary Tumor,Anterior Mediastinum,Thymoma; Type A,FEMALE,73,WHITE

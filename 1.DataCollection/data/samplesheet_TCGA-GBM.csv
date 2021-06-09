@@ -1,0 +1,153 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-06-0125,9976861010,R01C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,63,WHITE
+TCGA-06-0125,6929671047,R05C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Recurrent Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,63,WHITE
+TCGA-06-0152,9976861010,R01C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,68,WHITE
+TCGA-06-0152,6929671059,R01C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Recurrent Tumor,Brain,Untreated primary (de novo) GBM,MALE,68,WHITE
+TCGA-06-0171,9976861010,R02C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,65,WHITE
+TCGA-06-0171,6929671059,R03C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Recurrent Tumor,Brain,Untreated primary (de novo) GBM,MALE,65,WHITE
+TCGA-06-0190,6929671059,R05C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Recurrent Tumor,Brain,Untreated primary (de novo) GBM,MALE,62,WHITE
+TCGA-06-0190,9976861010,R03C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,62,WHITE
+TCGA-06-0210,9976861010,R04C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,72,WHITE
+TCGA-06-0210,6929671059,R01C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Recurrent Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,72,WHITE
+TCGA-06-0211,9976861010,R05C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,47,WHITE
+TCGA-06-0211,6929671059,R03C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Recurrent Tumor,Brain,Untreated primary (de novo) GBM,MALE,47,WHITE
+TCGA-06-0221,6929671059,R05C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Recurrent Tumor,Brain,Untreated primary (de novo) GBM,MALE,31,WHITE
+TCGA-06-0221,9976861010,R06C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,31,WHITE
+TCGA-06-0650,6042316122,R01C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,39,WHITE
+TCGA-06-1804,6042316093,R02C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,81,WHITE
+TCGA-06-1806,6929718033,R05C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),MALE,47,WHITE
+TCGA-06-5408,6042316093,R03C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,54,WHITE
+TCGA-06-5410,6042316090,R06C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,72,WHITE
+TCGA-06-5411,6042316092,R02C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,51,WHITE
+TCGA-06-5412,6042316090,R03C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,78,WHITE
+TCGA-06-5413,6042316122,R04C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,67,WHITE
+TCGA-06-5414,6042324082,R02C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,61,WHITE
+TCGA-06-5415,6042324058,R05C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,60,WHITE
+TCGA-06-5416,6042324049,R04C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,23,WHITE
+TCGA-06-5417,6042324082,R04C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,45,WHITE
+TCGA-06-5418,6042324058,R01C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,75,WHITE
+TCGA-06-5856,6042316090,R02C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,58,WHITE
+TCGA-06-5858,6042316092,R03C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,45,WHITE
+TCGA-06-5859,6042316090,R02C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,63,WHITE
+TCGA-06-6388,6929718035,R06C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,64,WHITE
+TCGA-06-6389,6042316090,R05C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,49,WHITE
+TCGA-06-6390,6042316090,R04C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,58,WHITE
+TCGA-06-6391,6042316092,R06C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,44,WHITE
+TCGA-06-6693,6929718033,R02C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,64,WHITE
+TCGA-06-6694,6929718029,R06C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,76,WHITE
+TCGA-06-6695,6929718035,R05C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,64,WHITE
+TCGA-06-6697,6929718033,R04C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,65,WHITE
+TCGA-06-6698,6929718033,R01C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,53,WHITE
+TCGA-06-6699,6929718035,R01C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,58,WHITE
+TCGA-06-6700,6929718029,R03C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,76,WHITE
+TCGA-06-6701,6929718035,R06C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,60,WHITE
+TCGA-06-A5U0,9422493021,R02C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),FEMALE,21,BLACK OR AFRICAN AMERICAN
+TCGA-06-A5U1,9422493021,R01C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),FEMALE,78,BLACK OR AFRICAN AMERICAN
+TCGA-06-A6S0,9422493021,R03C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),MALE,79,BLACK OR AFRICAN AMERICAN
+TCGA-06-A6S1,9422493021,R05C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),FEMALE,53,BLACK OR AFRICAN AMERICAN
+TCGA-06-A7TK,9704031124,R02C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),MALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-06-A7TL,9704031124,R01C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),FEMALE,30,BLACK OR AFRICAN AMERICAN
+TCGA-12-5295,6042324058,R02C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,60,WHITE
+TCGA-12-5299,6042324049,R06C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,56,WHITE
+TCGA-12-5301,6042324058,R03C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,59,WHITE
+TCGA-14-0736,9976861010,R03C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,49,BLACK OR AFRICAN AMERICAN
+TCGA-14-0736,6929671070,R01C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Recurrent Tumor,Brain,Untreated primary (de novo) GBM,MALE,49,BLACK OR AFRICAN AMERICAN
+TCGA-14-0740,6929718029,R02C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,70,WHITE
+TCGA-14-0781,6042316093,R06C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,49,BLACK OR AFRICAN AMERICAN
+TCGA-14-0862,6929718029,R06C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,60,WHITE
+TCGA-14-1034,6929671047,R06C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Recurrent Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,60,
+TCGA-14-1043,6929718036,R04C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,61,WHITE
+TCGA-14-1395,6929718033,R04C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,52,WHITE
+TCGA-14-1402,6929671059,R02C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Recurrent Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,58,WHITE
+TCGA-14-1402,9976861010,R02C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,58,WHITE
+TCGA-14-1450,6929718033,R01C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-15-1444,6042316093,R01C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),MALE,21,WHITE
+TCGA-19-0957,9976861010,R04C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,48,WHITE
+TCGA-19-0957,6929671059,R04C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Recurrent Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,48,WHITE
+TCGA-19-1389,9976861010,R05C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,51,WHITE
+TCGA-19-1389,6929671059,R06C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Recurrent Tumor,Brain,Untreated primary (de novo) GBM,MALE,51,WHITE
+TCGA-19-4065,6929671059,R02C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Recurrent Tumor,Brain,Untreated primary (de novo) GBM,MALE,36,WHITE
+TCGA-19-4065,6929671059,R04C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,36,WHITE
+TCGA-19-5947,6042316090,R04C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,47,BLACK OR AFRICAN AMERICAN
+TCGA-19-5950,6042316090,R01C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,52,WHITE
+TCGA-19-5951,6042316093,R05C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,76,WHITE
+TCGA-19-5952,6042316092,R04C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,62,WHITE
+TCGA-19-5953,6929718033,R03C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,58,WHITE
+TCGA-19-5954,6042316092,R05C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,72,WHITE
+TCGA-19-5955,6042316092,R01C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,83,WHITE
+TCGA-19-5956,6042316092,R04C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,53,WHITE
+TCGA-19-5958,6042316092,R02C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,56,WHITE
+TCGA-19-5959,6042316090,R05C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,77,WHITE
+TCGA-19-5960,6042316090,R03C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,56,WHITE
+TCGA-19-A60I,9422493016,R06C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),MALE,39,BLACK OR AFRICAN AMERICAN
+TCGA-19-A6J4,9422493021,R02C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),MALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-19-A6J5,9422493021,R04C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),MALE,40,BLACK OR AFRICAN AMERICAN
+TCGA-26-1442,6042316092,R01C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,43,WHITE
+TCGA-26-5132,6042324082,R03C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,74,WHITE
+TCGA-26-5133,6042324082,R06C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,59,WHITE
+TCGA-26-5134,6042324058,R04C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,74,WHITE
+TCGA-26-5135,6042324058,R06C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,72,WHITE
+TCGA-26-5136,6042324082,R01C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,78,WHITE
+TCGA-26-5139,6042324049,R02C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,65,WHITE
+TCGA-26-6173,6929718029,R05C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,57,WHITE
+TCGA-26-6174,6929718035,R04C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,65,WHITE
+TCGA-26-A7UX,9704031124,R06C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),MALE,47,BLACK OR AFRICAN AMERICAN
+TCGA-28-5204,6042324082,R06C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,72,WHITE
+TCGA-28-5207,6042324049,R05C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,71,WHITE
+TCGA-28-5208,6042324049,R02C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,52,WHITE
+TCGA-28-5209,6042324082,R05C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,66,WHITE
+TCGA-28-5211,6929718035,R03C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,42,BLACK OR AFRICAN AMERICAN
+TCGA-28-5213,6042324049,R03C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,72,WHITE
+TCGA-28-5214,6042324082,R02C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,53,WHITE
+TCGA-28-5215,6042324058,R05C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,62,WHITE
+TCGA-28-5216,6042324049,R06C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,52,WHITE
+TCGA-28-5218,6042324082,R05C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,63,WHITE
+TCGA-28-5219,6042324049,R01C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,47,WHITE
+TCGA-28-5220,6042324058,R03C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,67,WHITE
+TCGA-28-6450,6042316093,R05C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,60,WHITE
+TCGA-32-1979,6042316090,R06C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,69,WHITE
+TCGA-32-1980,6042316092,R06C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,72,WHITE
+TCGA-32-5222,6042324049,R04C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,66,WHITE
+TCGA-41-5651,6042316122,R03C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-41-6646,6929718036,R05C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,73,WHITE
+TCGA-4W-AA9R,9704031124,R04C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),MALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-4W-AA9S,9761749160,R03C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),MALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-4W-AA9T,9704031124,R05C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),FEMALE,54,BLACK OR AFRICAN AMERICAN
+TCGA-74-6573,6929718028,R06C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Solid Tissue Normal,Brain,Untreated primary (de novo) GBM,MALE,67,
+TCGA-74-6573,6929718035,R01C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,67,
+TCGA-74-6575,6929718035,R05C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,73,
+TCGA-74-6577,6929718036,R06C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,51,
+TCGA-74-6578,6929718029,R01C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,58,
+TCGA-74-6581,6929718035,R03C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,77,
+TCGA-74-6584,6929718033,R03C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,55,
+TCGA-76-4925,6042324058,R02C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,76,WHITE
+TCGA-76-4926,6042324058,R06C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,68,WHITE
+TCGA-76-4927,6042324082,R04C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,58,WHITE
+TCGA-76-4928,6042324058,R01C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,85,WHITE
+TCGA-76-4929,6042324082,R03C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,76,WHITE
+TCGA-76-4931,6042324049,R05C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,70,WHITE
+TCGA-76-4932,6042324082,R01C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Treated primary GBM,FEMALE,50,WHITE
+TCGA-76-4934,6042324049,R03C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,66,WHITE
+TCGA-76-4935,6042324049,R01C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,52,WHITE
+TCGA-76-6191,6042316093,R02C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,57,WHITE
+TCGA-76-6192,6042316093,R06C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,74,WHITE
+TCGA-76-6193,6042316092,R05C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,78,
+TCGA-76-6280,6929718036,R01C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,57,WHITE
+TCGA-76-6282,6042316092,R03C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,63,WHITE
+TCGA-76-6283,6929718033,R06C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),FEMALE,71,WHITE
+TCGA-76-6285,6042316093,R03C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,64,WHITE
+TCGA-76-6286,6929718036,R02C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,60,WHITE
+TCGA-76-6656,6929718035,R02C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,66,BLACK OR AFRICAN AMERICAN
+TCGA-76-6657,6929718035,R04C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,74,WHITE
+TCGA-76-6660,6929718033,R02C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),MALE,73,WHITE
+TCGA-76-6661,6929718033,R06C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,54,WHITE
+TCGA-76-6662,6929718029,R04C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,58,WHITE
+TCGA-76-6663,6929718035,R02C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,44,WHITE
+TCGA-76-6664,6929718033,R05C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,49,WHITE
+TCGA-81-5910,6042316122,R02C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,64,WHITE
+TCGA-81-5911,6929718036,R03C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,MALE,33,WHITE
+TCGA-87-5896,6042316093,R01C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Untreated primary (de novo) GBM,FEMALE,50,WHITE
+TCGA-OX-A56R,9422493016,R05C02,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),MALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-RR-A6KA,9422493021,R06C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),FEMALE,72,BLACK OR AFRICAN AMERICAN
+TCGA-RR-A6KB,9422493021,R03C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),MALE,51,BLACK OR AFRICAN AMERICAN
+TCGA-RR-A6KC,9422493021,R01C01,Illumina Human Methylation 450,TCGA-GBM,JHU_USC,Primary Tumor,Brain,Glioblastoma Multiforme (GBM),MALE,55,BLACK OR AFRICAN AMERICAN

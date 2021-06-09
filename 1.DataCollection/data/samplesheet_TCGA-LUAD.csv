@@ -1,0 +1,508 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-05-4384,6285625099,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,66,
+TCGA-05-4390,6264488083,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,58,
+TCGA-05-4396,6285625070,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,76,
+TCGA-05-4405,6285625076,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,74,
+TCGA-05-4410,6929671163,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,62,
+TCGA-05-4415,6929671163,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,57,
+TCGA-05-4417,6929671148,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,51,
+TCGA-05-4424,6285625072,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,70,
+TCGA-05-4425,6285625064,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,70,
+TCGA-05-4427,6929671148,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,65,
+TCGA-05-4433,6285625070,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,82,
+TCGA-05-5420,6042308156,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,67,
+TCGA-05-5420,6042308099,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,67,
+TCGA-05-5423,6042308156,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,65,
+TCGA-05-5425,6042308138,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,68,
+TCGA-05-5428,6042308156,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,57,
+TCGA-05-5429,6042308156,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,60,
+TCGA-05-5715,6042308138,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,69,
+TCGA-35-5375,6042308156,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,61,WHITE
+TCGA-38-4631,6285625090,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,72,WHITE
+TCGA-38-4631,6929671086,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,72,WHITE
+TCGA-38-4632,6285625064,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,42,BLACK OR AFRICAN AMERICAN
+TCGA-38-4632,6285625087,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,42,BLACK OR AFRICAN AMERICAN
+TCGA-38-6178,6264488083,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,70,WHITE
+TCGA-38-7271,6929742041,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,72,WHITE
+TCGA-38-A44F,8795194077,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,80,WHITE
+TCGA-44-2655,6042316106,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,65,WHITE
+TCGA-44-2656,9305216007,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,59,WHITE
+TCGA-44-2656,6042316106,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,59,WHITE
+TCGA-44-2656,9305216007,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,59,WHITE
+TCGA-44-2659,6042316106,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,65,WHITE
+TCGA-44-2662,6042316106,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,65,WHITE
+TCGA-44-2665,9305216007,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,55,WHITE
+TCGA-44-2665,9305216007,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,55,WHITE
+TCGA-44-2665,6042316106,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,55,WHITE
+TCGA-44-2666,9305216007,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,43,WHITE
+TCGA-44-2666,9305216007,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,43,WHITE
+TCGA-44-2668,6042316106,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,51,WHITE
+TCGA-44-2668,9305216009,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,51,WHITE
+TCGA-44-2668,9305216009,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,51,WHITE
+TCGA-44-3917,9305216009,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,33,WHITE
+TCGA-44-3917,9305216009,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,33,WHITE
+TCGA-44-3918,9305216009,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,60,WHITE
+TCGA-44-3918,9305216009,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,60,WHITE
+TCGA-44-4112,9305216009,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,60,WHITE
+TCGA-44-4112,9305216009,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,60,WHITE
+TCGA-44-5643,6042308156,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,53,BLACK OR AFRICAN AMERICAN
+TCGA-44-5643,6042308138,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,53,BLACK OR AFRICAN AMERICAN
+TCGA-44-5644,6929742045,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,51,WHITE
+TCGA-44-5645,9305216009,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-44-5645,6042308138,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-44-5645,9305216009,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-44-5645,6042308099,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-44-6144,6285625087,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,58,WHITE
+TCGA-44-6144,6285625099,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,58,WHITE
+TCGA-44-6145,6285625087,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,62,WHITE
+TCGA-44-6145,6929671122,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,62,WHITE
+TCGA-44-6146,6285625087,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Mucinous Adenocarcinoma,MALE,64,WHITE
+TCGA-44-6146,9305216009,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Mucinous Adenocarcinoma,MALE,64,WHITE
+TCGA-44-6146,6264488083,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Mucinous Adenocarcinoma,MALE,64,WHITE
+TCGA-44-6146,9305216009,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Mucinous Adenocarcinoma,MALE,64,WHITE
+TCGA-44-6147,9305216011,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,67,WHITE
+TCGA-44-6147,6285625099,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,67,WHITE
+TCGA-44-6147,6285625099,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,67,WHITE
+TCGA-44-6147,9305216011,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,67,WHITE
+TCGA-44-6148,6285625099,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Mucinous Adenocarcinoma,MALE,60,WHITE
+TCGA-44-6148,6285625099,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Mucinous Adenocarcinoma,MALE,60,WHITE
+TCGA-44-6774,6285625076,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,56,WHITE
+TCGA-44-6775,6285625072,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,72,WHITE
+TCGA-44-6775,9305216011,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,72,WHITE
+TCGA-44-6775,9305216011,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,72,WHITE
+TCGA-44-6776,6929671148,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,60,WHITE
+TCGA-44-6777,6285625072,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,85,WHITE
+TCGA-44-6778,6285625070,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-44-6778,6285625068,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-44-6779,6285625070,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,50,WHITE
+TCGA-44-7659,6929671031,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-44-7660,6929671032,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,72,WHITE
+TCGA-44-7661,6929671032,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,69,WHITE
+TCGA-44-7662,6929671031,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,61,WHITE
+TCGA-44-7667,6929671031,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,49,WHITE
+TCGA-44-7669,6929671032,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-44-7670,6929671032,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,47,WHITE
+TCGA-44-7671,6929671039,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-44-7672,6929671039,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,52,WHITE
+TCGA-44-8117,6264488067,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,54,WHITE
+TCGA-44-8119,6264488070,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-44-8120,6264488070,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,58,BLACK OR AFRICAN AMERICAN
+TCGA-44-A479,8795194104,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,73,BLACK OR AFRICAN AMERICAN
+TCGA-44-A47A,8795194077,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,78,WHITE
+TCGA-44-A47B,8795194076,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,79,WHITE
+TCGA-44-A47F,8795194027,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-44-A47G,8795194077,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,73,WHITE
+TCGA-44-A4SS,8784241084,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,73,WHITE
+TCGA-44-A4SU,8784241071,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,67,WHITE
+TCGA-49-4487,6285625070,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,72,WHITE
+TCGA-49-4488,6285625064,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,74,WHITE
+TCGA-49-4488,6285625090,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,74,WHITE
+TCGA-49-4490,6285625072,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,45,WHITE
+TCGA-49-4512,6285625076,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,69,WHITE
+TCGA-49-4514,6285625076,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,FEMALE,79,WHITE
+TCGA-49-6742,6285625076,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Mucinous (Colloid) Carcinoma,MALE,70,WHITE
+TCGA-49-6743,6285625068,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Clear Cell Adenocarcinoma,FEMALE,81,WHITE
+TCGA-49-6744,6929671163,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,64,WHITE
+TCGA-49-6745,6285625072,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,82,WHITE
+TCGA-49-6745,6929671148,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,82,WHITE
+TCGA-49-6761,6929671144,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,68,WHITE
+TCGA-49-6767,6285625076,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,46,WHITE
+TCGA-49-AAQV,9828653011,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,63,BLACK OR AFRICAN AMERICAN
+TCGA-49-AAR0,9828653011,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-49-AAR2,9828653011,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,MALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-49-AAR3,3999510111,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-49-AAR4,3999510111,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,51,BLACK OR AFRICAN AMERICAN
+TCGA-49-AAR9,3999510111,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-49-AARE,3999510111,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,51,BLACK OR AFRICAN AMERICAN
+TCGA-49-AARN,3999510111,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,56,BLACK OR AFRICAN AMERICAN
+TCGA-49-AARO,3999510111,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,FEMALE,39,BLACK OR AFRICAN AMERICAN
+TCGA-49-AARQ,3999510111,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,41,BLACK OR AFRICAN AMERICAN
+TCGA-49-AARR,3999510111,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-4B-A93V,9828653011,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,52,BLACK OR AFRICAN AMERICAN
+TCGA-50-5044,6285625070,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,72,WHITE
+TCGA-50-5045,6042308156,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,57,BLACK OR AFRICAN AMERICAN
+TCGA-50-5049,6042308138,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-50-5051,6285625076,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,42,WHITE
+TCGA-50-5055,6042308099,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,79,WHITE
+TCGA-50-5066,6042308099,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,72,BLACK OR AFRICAN AMERICAN
+TCGA-50-5066,6929742075,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Recurrent Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,72,BLACK OR AFRICAN AMERICAN
+TCGA-50-5068,6042308138,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,59,WHITE
+TCGA-50-5072,6285625072,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-50-5930,6285625087,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,47,WHITE
+TCGA-50-5930,6264488083,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,47,WHITE
+TCGA-50-5931,6285625064,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,75,WHITE
+TCGA-50-5931,6929671122,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,75,WHITE
+TCGA-50-5932,6285625090,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,75,WHITE
+TCGA-50-5932,6285625090,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,75,WHITE
+TCGA-50-5933,6285625090,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,72,WHITE
+TCGA-50-5933,6285625064,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,72,WHITE
+TCGA-50-5935,6929671122,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,86,WHITE
+TCGA-50-5935,6264488083,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,86,WHITE
+TCGA-50-5936,6042308156,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Mucinous (Colloid) Carcinoma,MALE,58,WHITE
+TCGA-50-5936,6042308156,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Mucinous (Colloid) Carcinoma,MALE,58,WHITE
+TCGA-50-5939,6042308099,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,85,WHITE
+TCGA-50-5939,6042308099,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,85,WHITE
+TCGA-50-5941,6285625064,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,55,WHITE
+TCGA-50-5942,6264488083,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,67,WHITE
+TCGA-50-5944,6285625064,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,FEMALE,69,WHITE
+TCGA-50-5946,6285625099,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,62,WHITE
+TCGA-50-5946,6929742075,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Recurrent Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,62,WHITE
+TCGA-50-6590,6929671148,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,72,WHITE
+TCGA-50-6591,6285625090,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,63,WHITE
+TCGA-50-6591,6285625099,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,63,WHITE
+TCGA-50-6592,6285625099,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,71,WHITE
+TCGA-50-6592,6285625064,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,71,WHITE
+TCGA-50-6593,6285625064,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,49,WHITE
+TCGA-50-6593,6929671122,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,49,WHITE
+TCGA-50-6594,6264488083,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,79,BLACK OR AFRICAN AMERICAN
+TCGA-50-6594,6285625099,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,79,BLACK OR AFRICAN AMERICAN
+TCGA-50-6595,6285625068,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,74,WHITE
+TCGA-50-6597,6285625076,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,79,WHITE
+TCGA-50-6673,6285650107,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,84,WHITE
+TCGA-50-7109,7310440042,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,60,WHITE
+TCGA-50-8457,7786923090,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,63,BLACK OR AFRICAN AMERICAN
+TCGA-50-8459,7786923084,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Mucinous (Colloid) Carcinoma,MALE,68,WHITE
+TCGA-50-8460,7786923090,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,MALE,74,WHITE
+TCGA-53-7624,6929671032,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,40,WHITE
+TCGA-53-7626,6929671032,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,76,WHITE
+TCGA-53-7813,6285633062,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,FEMALE,51,WHITE
+TCGA-53-A4EZ,8784241084,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,MALE,63,WHITE
+TCGA-55-5899,6042308156,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,58,WHITE
+TCGA-55-6543,6929671122,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Mucinous,FEMALE,60,WHITE
+TCGA-55-6642,6285625076,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,63,WHITE
+TCGA-55-6712,6929671148,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,71,WHITE
+TCGA-55-6968,6285650106,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,61,WHITE
+TCGA-55-6969,6285650107,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,52,WHITE
+TCGA-55-6970,6285650110,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,FEMALE,67,WHITE
+TCGA-55-6971,6285650110,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,59,WHITE
+TCGA-55-6972,6285650110,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,MALE,72,WHITE
+TCGA-55-6975,6285650110,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,61,WHITE
+TCGA-55-6978,6285650107,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,81,WHITE
+TCGA-55-6979,6929671144,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,59,WHITE
+TCGA-55-6980,6285650107,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,MALE,56,WHITE
+TCGA-55-6981,6285650106,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,53,WHITE
+TCGA-55-6982,6929671148,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,79,WHITE
+TCGA-55-6983,6285650106,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Mucinous (Colloid) Carcinoma,MALE,81,WHITE
+TCGA-55-6984,6285650106,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,71,WHITE
+TCGA-55-6985,6285650110,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,58,WHITE
+TCGA-55-6986,6929671144,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,FEMALE,74,WHITE
+TCGA-55-6987,6285650106,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,77,WHITE
+TCGA-55-7227,6929742041,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,77,WHITE
+TCGA-55-7281,6929742041,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,70,WHITE
+TCGA-55-7283,6929742045,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,FEMALE,76,WHITE
+TCGA-55-7284,6264488026,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,MALE,74,WHITE
+TCGA-55-7570,6929742041,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-55-7573,6929742041,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,72,WHITE
+TCGA-55-7574,6929742041,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,64,WHITE
+TCGA-55-7576,6929671039,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,54,BLACK OR AFRICAN AMERICAN
+TCGA-55-7724,6285633063,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,76,WHITE
+TCGA-55-7725,6285633062,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,68,WHITE
+TCGA-55-7726,6285633063,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,72,WHITE
+TCGA-55-7727,6285633062,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-55-7728,7786923075,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Mucinous (Colloid) Carcinoma,FEMALE,64,WHITE
+TCGA-55-7815,6285633062,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,76,
+TCGA-55-7816,6285633062,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,49,WHITE
+TCGA-55-7903,6285633062,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,64,WHITE
+TCGA-55-7907,6285633062,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,77,WHITE
+TCGA-55-7910,6285633063,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,50,BLACK OR AFRICAN AMERICAN
+TCGA-55-7911,6285633063,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,70,WHITE
+TCGA-55-7913,6264488070,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-55-7914,6285633062,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,71,WHITE
+TCGA-55-7994,7786923062,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,81,WHITE
+TCGA-55-7995,7786923075,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,73,WHITE
+TCGA-55-8085,6264488067,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,MALE,64,WHITE
+TCGA-55-8087,6264488026,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,59,WHITE
+TCGA-55-8089,6264488067,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,56,WHITE
+TCGA-55-8090,6264488067,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,80,WHITE
+TCGA-55-8091,6264488026,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,74,WHITE
+TCGA-55-8092,6264488070,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,75,WHITE
+TCGA-55-8094,6264488026,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,51,WHITE
+TCGA-55-8096,6264488026,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,67,WHITE
+TCGA-55-8097,6264488070,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,60,WHITE
+TCGA-55-8203,6264488070,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,69,WHITE
+TCGA-55-8204,6264488070,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,87,WHITE
+TCGA-55-8205,6264488026,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,76,WHITE
+TCGA-55-8206,6264488067,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,56,WHITE
+TCGA-55-8207,6264488070,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,MALE,73,WHITE
+TCGA-55-8208,6264488067,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,73,WHITE
+TCGA-55-8299,6285633040,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,61,WHITE
+TCGA-55-8301,6285633040,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,58,WHITE
+TCGA-55-8302,7786923090,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,54,WHITE
+TCGA-55-8505,8784241064,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,62,WHITE
+TCGA-55-8506,8784241063,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,62,WHITE
+TCGA-55-8507,8784241064,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,53,WHITE
+TCGA-55-8508,8784241064,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Mucinous (Colloid) Carcinoma,FEMALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-55-8510,8784241063,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,55,WHITE
+TCGA-55-8511,8784241063,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,73,WHITE
+TCGA-55-8512,8784241063,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,MALE,41,WHITE
+TCGA-55-8513,8784241076,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Mucinous (Colloid) Carcinoma,FEMALE,77,WHITE
+TCGA-55-8514,8784241076,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,70,BLACK OR AFRICAN AMERICAN
+TCGA-55-8614,8784241063,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,76,WHITE
+TCGA-55-8615,8784241063,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,67,WHITE
+TCGA-55-8616,8784241064,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,58,WHITE
+TCGA-55-8619,8784241076,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Mucinous (Colloid) Carcinoma,FEMALE,72,WHITE
+TCGA-55-8620,8784241076,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,60,WHITE
+TCGA-55-8621,8784241064,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,75,WHITE
+TCGA-55-A48X,8795194104,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,63,WHITE
+TCGA-55-A48Y,8795194076,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,69,WHITE
+TCGA-55-A48Z,8784241110,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,60,WHITE
+TCGA-55-A490,8795194104,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,78,WHITE
+TCGA-55-A491,8795194077,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,81,WHITE
+TCGA-55-A492,8795194076,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,70,WHITE
+TCGA-55-A493,8795194076,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,54,WHITE
+TCGA-55-A494,8784241084,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,61,WHITE
+TCGA-55-A4DF,8795194076,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,88,WHITE
+TCGA-55-A4DG,8795194104,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,71,WHITE
+TCGA-55-A57B,9828653011,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,80,BLACK OR AFRICAN AMERICAN
+TCGA-62-8394,7786923084,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,65,WHITE
+TCGA-62-8395,7786923084,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,80,WHITE
+TCGA-62-8397,7786923084,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,70,WHITE
+TCGA-62-8398,7786923090,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,55,WHITE
+TCGA-62-8399,7786923090,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,MALE,62,WHITE
+TCGA-62-8402,7786923090,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,73,WHITE
+TCGA-62-A46O,8795194027,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,65,WHITE
+TCGA-62-A46P,8795194076,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,65,WHITE
+TCGA-62-A46R,8795194076,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,54,WHITE
+TCGA-62-A46S,8795194077,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,MALE,73,WHITE
+TCGA-62-A46U,8795194077,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,71,WHITE
+TCGA-62-A46V,8795194076,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,78,WHITE
+TCGA-62-A46Y,8795194077,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,70,WHITE
+TCGA-62-A470,8795194077,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,MALE,84,WHITE
+TCGA-62-A471,8795194104,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,64,WHITE
+TCGA-62-A472,8795194104,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-64-1679,6929671032,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,58,WHITE
+TCGA-64-1681,6929671031,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,61,WHITE
+TCGA-64-5774,6042308099,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,60,WHITE
+TCGA-64-5775,6042308138,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,71,WHITE
+TCGA-64-5778,6042308138,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,MALE,60,WHITE
+TCGA-64-5779,6042308138,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,MALE,61,WHITE
+TCGA-64-5781,6042308156,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,55,WHITE
+TCGA-64-5815,6042308156,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,74,WHITE
+TCGA-67-4679,6929671086,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,69,WHITE
+TCGA-67-6215,6264488083,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,52,WHITE
+TCGA-67-6216,6285625087,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,57,WHITE
+TCGA-67-6217,6264488083,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,73,WHITE
+TCGA-69-7760,6285633063,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,73,WHITE
+TCGA-69-7761,6285633063,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,MALE,84,WHITE
+TCGA-69-7763,6285633062,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,69,WHITE
+TCGA-69-7764,6285633063,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,75,WHITE
+TCGA-69-7765,6285633062,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,56,BLACK OR AFRICAN AMERICAN
+TCGA-69-7973,7786923062,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,42,WHITE
+TCGA-69-7974,7786923062,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,54,WHITE
+TCGA-69-7978,7786923062,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,59,WHITE
+TCGA-69-7979,7786923075,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,FEMALE,71,WHITE
+TCGA-69-7980,7786923075,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,70,WHITE
+TCGA-69-8253,6285633020,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,59,BLACK OR AFRICAN AMERICAN
+TCGA-69-8254,6285633036,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,85,WHITE
+TCGA-69-8255,6285633036,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Solid Pattern Predominant Adenocarcinoma,MALE,71,WHITE
+TCGA-69-8453,7786923084,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Mucinous (Colloid) Carcinoma,MALE,77,WHITE
+TCGA-69-A59K,8784241135,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-71-6725,6285625070,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,FEMALE,48,ASIAN
+TCGA-71-8520,8784241076,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,60,ASIAN
+TCGA-73-4658,6285625095,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,80,WHITE
+TCGA-73-4658,6285625064,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,80,WHITE
+TCGA-73-4676,6264488083,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,45,WHITE
+TCGA-73-4676,6285625090,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Solid Tissue Normal,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,45,WHITE
+TCGA-73-7498,7786923075,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,FEMALE,58,WHITE
+TCGA-73-7499,7786923075,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,81,WHITE
+TCGA-73-A9RS,3999510111,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,41,BLACK OR AFRICAN AMERICAN
+TCGA-75-5122,6285625087,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,NA,
+TCGA-75-5125,6264488083,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,NA,
+TCGA-75-5126,6285625099,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,FEMALE,NA,
+TCGA-75-5146,6042308138,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,NA,
+TCGA-75-5147,6042308099,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,NA,
+TCGA-75-6203,6929671122,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,NA,
+TCGA-75-6205,6285625090,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,NA,
+TCGA-75-6206,9934987148,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,NA,
+TCGA-75-6207,6285625064,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,NA,
+TCGA-75-6211,6285625090,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,NA,
+TCGA-75-6212,6285625099,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Micropapillary Adenocarcinoma,FEMALE,NA,
+TCGA-75-6214,6929671144,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,NA,
+TCGA-75-7025,6285650107,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,NA,
+TCGA-75-7027,6285650110,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,NA,
+TCGA-75-7030,6285650107,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,NA,
+TCGA-75-7031,6285650106,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,NA,
+TCGA-78-7143,7310440042,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,FEMALE,62,WHITE
+TCGA-78-7145,6929742045,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,52,WHITE
+TCGA-78-7146,7310440042,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,71,WHITE
+TCGA-78-7147,6929742041,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,67,WHITE
+TCGA-78-7148,6929742045,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,71,WHITE
+TCGA-78-7149,6929742045,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,71,WHITE
+TCGA-78-7150,6929742045,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,59,WHITE
+TCGA-78-7152,6929742041,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,65,WHITE
+TCGA-78-7153,7310440042,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,65,WHITE
+TCGA-78-7154,6929742041,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,72,WHITE
+TCGA-78-7155,6929742045,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,68,WHITE
+TCGA-78-7156,6929742045,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,62,WHITE
+TCGA-78-7158,7310440042,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,59,WHITE
+TCGA-78-7159,6929742041,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,60,WHITE
+TCGA-78-7160,7310440042,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,61,WHITE
+TCGA-78-7161,7310440042,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,69,WHITE
+TCGA-78-7162,6929671039,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,75,WHITE
+TCGA-78-7163,6929671032,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,60,WHITE
+TCGA-78-7166,6929671032,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,84,WHITE
+TCGA-78-7167,6929671031,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,MALE,77,WHITE
+TCGA-78-7220,7310440042,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,53,WHITE
+TCGA-78-7535,6929671031,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,45,WHITE
+TCGA-78-7536,6929671031,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,69,WHITE
+TCGA-78-7537,6929671031,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,72,
+TCGA-78-7539,6929671031,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,75,WHITE
+TCGA-78-7540,6929671032,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Mucinous,FEMALE,66,WHITE
+TCGA-78-7542,6929671031,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,56,WHITE
+TCGA-78-7633,6929671032,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,67,WHITE
+TCGA-78-8640,8784241076,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,59,
+TCGA-78-8648,8784241076,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,58,
+TCGA-78-8655,8784241076,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,77,
+TCGA-78-8660,8784241064,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,69,
+TCGA-78-8662,8784241063,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,53,
+TCGA-80-5607,6285650107,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,NA,
+TCGA-80-5608,6285650106,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,NA,
+TCGA-80-5611,6042308138,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Solid Pattern Predominant Adenocarcinoma,MALE,NA,
+TCGA-83-5908,6285633036,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,59,WHITE
+TCGA-86-6562,6929671122,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,52,WHITE
+TCGA-86-6851,6929671144,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,73,WHITE
+TCGA-86-7701,6285633063,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,66,WHITE
+TCGA-86-7711,6929671031,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-86-7713,6929671039,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-86-7714,6285633063,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,61,BLACK OR AFRICAN AMERICAN
+TCGA-86-7953,7786923062,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,69,WHITE
+TCGA-86-7954,7786923075,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,FEMALE,68,WHITE
+TCGA-86-7955,7786923075,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,62,WHITE
+TCGA-86-8054,6264488067,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,MALE,61,WHITE
+TCGA-86-8055,6264488067,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,79,WHITE
+TCGA-86-8056,6264488026,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,63,WHITE
+TCGA-86-8073,6264488067,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,MALE,58,WHITE
+TCGA-86-8074,6264488067,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,62,WHITE
+TCGA-86-8075,6264488070,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,66,WHITE
+TCGA-86-8076,6264488026,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,MALE,42,WHITE
+TCGA-86-8278,6285633036,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,63,WHITE
+TCGA-86-8279,6285633036,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,46,WHITE
+TCGA-86-8280,6285633036,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,FEMALE,54,WHITE
+TCGA-86-8281,6285633036,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,75,WHITE
+TCGA-86-8358,7786923090,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,44,WHITE
+TCGA-86-8359,7786923084,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,52,WHITE
+TCGA-86-8585,8784241064,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Solid Pattern Predominant Adenocarcinoma,MALE,57,WHITE
+TCGA-86-8668,8784241063,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Mucinous,FEMALE,61,WHITE
+TCGA-86-8669,8784241063,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,64,WHITE
+TCGA-86-8671,8784241064,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,FEMALE,72,WHITE
+TCGA-86-8672,8784241076,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,59,WHITE
+TCGA-86-8673,8784241064,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,MALE,61,WHITE
+TCGA-86-8674,8784241063,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,MALE,50,WHITE
+TCGA-86-A456,8795194077,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,FEMALE,78,ASIAN
+TCGA-86-A4D0,8795194076,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,48,WHITE
+TCGA-86-A4JF,8784241120,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,56,WHITE
+TCGA-86-A4P7,8784241120,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,63,WHITE
+TCGA-86-A4P8,8784241110,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,59,WHITE
+TCGA-91-6828,6285625068,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,70,WHITE
+TCGA-91-6829,6285625072,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,MALE,78,WHITE
+TCGA-91-6830,6285650106,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,65,WHITE
+TCGA-91-6831,6285625076,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,66,WHITE
+TCGA-91-6835,6285625072,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,81,WHITE
+TCGA-91-6836,6285625068,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,52,WHITE
+TCGA-91-6840,6929671144,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,59,WHITE
+TCGA-91-6847,6285650110,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,62,WHITE
+TCGA-91-6848,6285650106,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,59,WHITE
+TCGA-91-6849,6929671144,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,75,BLACK OR AFRICAN AMERICAN
+TCGA-91-7771,6285633063,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,62,WHITE
+TCGA-91-8496,8784241076,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,FEMALE,63,WHITE
+TCGA-91-8497,8784241064,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,75,WHITE
+TCGA-91-8499,8784241064,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,76,WHITE
+TCGA-91-A4BC,8795194104,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,59,WHITE
+TCGA-91-A4BD,8795194077,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,78,WHITE
+TCGA-93-7347,7786923062,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,76,WHITE
+TCGA-93-7348,6929742045,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,75,WHITE
+TCGA-93-8067,6285633036,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,77,ASIAN
+TCGA-93-A4JN,8784241120,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,MALE,71,WHITE
+TCGA-93-A4JO,8784241084,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,70,WHITE
+TCGA-93-A4JP,8784241120,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,MALE,64,ASIAN
+TCGA-93-A4JQ,8784241120,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,MALE,49,WHITE
+TCGA-95-7039,6285650110,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,54,WHITE
+TCGA-95-7043,6285650107,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,63,WHITE
+TCGA-95-7562,6264488070,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,71,BLACK OR AFRICAN AMERICAN
+TCGA-95-7567,6929671032,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,61,WHITE
+TCGA-95-7944,7786923075,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,71,WHITE
+TCGA-95-7947,7786923075,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,67,WHITE
+TCGA-95-7948,7786923075,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,42,WHITE
+TCGA-95-8039,6264488026,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,MALE,72,WHITE
+TCGA-95-8494,7786923090,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,67,WHITE
+TCGA-95-A4VK,8784241132,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,74,WHITE
+TCGA-95-A4VN,8784241135,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Solid Pattern Predominant Adenocarcinoma,FEMALE,62,WHITE
+TCGA-95-A4VP,8784241135,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,FEMALE,66,WHITE
+TCGA-97-7546,6929742041,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,FEMALE,76,WHITE
+TCGA-97-7547,7310440042,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,FEMALE,67,WHITE
+TCGA-97-7552,7310440042,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Mucinous,MALE,70,WHITE
+TCGA-97-7553,6929742041,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,FEMALE,58,WHITE
+TCGA-97-7554,6929742045,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,FEMALE,83,WHITE
+TCGA-97-7937,6285633063,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Micropapillary Adenocarcinoma,MALE,65,WHITE
+TCGA-97-7938,6285633062,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,FEMALE,76,WHITE
+TCGA-97-7941,7786923075,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,FEMALE,72,WHITE
+TCGA-97-8171,6285633036,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,MALE,81,ASIAN
+TCGA-97-8172,6285633036,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,FEMALE,75,WHITE
+TCGA-97-8174,6285633040,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,MALE,67,WHITE
+TCGA-97-8175,6285633020,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Solid Pattern Predominant Adenocarcinoma,FEMALE,55,WHITE
+TCGA-97-8176,8784241064,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,MALE,63,WHITE
+TCGA-97-8177,6285633036,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,59,WHITE
+TCGA-97-8179,6285633020,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Acinar Adenocarcinoma,MALE,72,WHITE
+TCGA-97-8547,8784241076,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,78,
+TCGA-97-8552,8784241063,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,FEMALE,55,WHITE
+TCGA-97-A4LX,8784241084,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,81,WHITE
+TCGA-97-A4M0,8784241110,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,60,WHITE
+TCGA-97-A4M1,8784241120,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,52,WHITE
+TCGA-97-A4M2,8784241120,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,66,WHITE
+TCGA-97-A4M3,8784241084,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,69,WHITE
+TCGA-97-A4M5,8784241084,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,83,WHITE
+TCGA-97-A4M6,8784241110,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,45,WHITE
+TCGA-97-A4M7,8784241110,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,74,WHITE
+TCGA-99-7458,6929742045,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Nonmucinous,FEMALE,74,WHITE
+TCGA-99-8025,6264488070,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,72,BLACK OR AFRICAN AMERICAN
+TCGA-99-8028,6264488026,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,50,BLACK OR AFRICAN AMERICAN
+TCGA-99-8032,6264488026,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,61,WHITE
+TCGA-99-8033,6264488067,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,74,WHITE
+TCGA-99-AA5R,9828653011,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,70,BLACK OR AFRICAN AMERICAN
+TCGA-J2-8192,6264488026,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,65,WHITE
+TCGA-J2-8194,6264488070,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,69,WHITE
+TCGA-J2-A4AD,8795194104,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,61,WHITE
+TCGA-J2-A4AE,8795194077,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,77,WHITE
+TCGA-J2-A4AG,8795194076,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,66,WHITE
+TCGA-L4-A4E5,8784241071,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,48,WHITE
+TCGA-L4-A4E6,8795194077,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,67,WHITE
+TCGA-L9-A443,8795194027,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,63,WHITE
+TCGA-L9-A444,8795194076,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,60,WHITE
+TCGA-L9-A50W,9828653011,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,MALE,75,BLACK OR AFRICAN AMERICAN
+TCGA-L9-A5IP,9828653011,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,40,BLACK OR AFRICAN AMERICAN
+TCGA-L9-A743,9828653011,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,56,BLACK OR AFRICAN AMERICAN
+TCGA-L9-A7SV,9828653010,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,69,BLACK OR AFRICAN AMERICAN
+TCGA-L9-A8F4,9828653011,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,64,BLACK OR AFRICAN AMERICAN
+TCGA-MN-A4N1,8784241110,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,60,BLACK OR AFRICAN AMERICAN
+TCGA-MN-A4N4,8784241110,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,57,WHITE
+TCGA-MN-A4N5,8784241084,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,63,WHITE
+TCGA-MP-A4SV,8784241084,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,67,
+TCGA-MP-A4SW,8784241110,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,53,WHITE
+TCGA-MP-A4SY,8784241084,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,61,WHITE
+TCGA-MP-A4T2,8784241110,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,71,WHITE
+TCGA-MP-A4T4,8784241135,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,68,WHITE
+TCGA-MP-A4T6,8784241135,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,76,WHITE
+TCGA-MP-A4T7,8784241120,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,75,
+TCGA-MP-A4T8,8784241110,R01C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,68,
+TCGA-MP-A4T9,8784241084,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,54,WHITE
+TCGA-MP-A4TA,8784241120,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,75,WHITE
+TCGA-MP-A4TC,8784241110,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,77,WHITE
+TCGA-MP-A4TD,8784241135,R05C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,71,WHITE
+TCGA-MP-A4TE,8784241135,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,56,WHITE
+TCGA-MP-A4TF,8784241132,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,58,WHITE
+TCGA-MP-A4TH,8784241132,R05C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,70,WHITE
+TCGA-MP-A4TI,8784241110,R04C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,72,WHITE
+TCGA-MP-A4TJ,8784241132,R06C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Signet Ring Adenocarcinoma,FEMALE,62,
+TCGA-MP-A4TK,8784241120,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,56,
+TCGA-MP-A5C7,9285451185,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,76,WHITE
+TCGA-NJ-A4YF,8784241132,R03C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma Mixed Subtype,FEMALE,50,BLACK OR AFRICAN AMERICAN
+TCGA-NJ-A4YG,8784241132,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,65,WHITE
+TCGA-NJ-A4YI,8784241132,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,FEMALE,87,WHITE
+TCGA-NJ-A4YP,8784241135,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Papillary Adenocarcinoma,MALE,52,WHITE
+TCGA-NJ-A4YQ,8784241132,R01C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,69,WHITE
+TCGA-NJ-A55A,8784241132,R02C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,76,WHITE
+TCGA-NJ-A55O,8784241135,R06C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Mucinous (Colloid) Carcinoma,FEMALE,56,WHITE
+TCGA-NJ-A55R,8784241135,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,67,WHITE
+TCGA-NJ-A7XG,9828653011,R04C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),MALE,49,BLACK OR AFRICAN AMERICAN
+TCGA-O1-A52J,8784241135,R02C01,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Adenocarcinoma- Not Otherwise Specified (NOS),FEMALE,74,WHITE
+TCGA-S2-AA1A,9828653011,R03C02,Illumina Human Methylation 450,TCGA-LUAD,JHU_USC,Primary Tumor,Lung,Lung Bronchioloalveolar Carcinoma Mucinous,FEMALE,68,BLACK OR AFRICAN AMERICAN

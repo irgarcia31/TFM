@@ -1,0 +1,398 @@
+sample_name,Sentrix_ID,Sentrix_Position,platform,project,center_short_name,sample_type,tumor_tissue_site,histological_type,gender,age_at_initial_pathologic_diagnosis,race_list
+TCGA-3M-AB46,3999492115,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,70,WHITE
+TCGA-3M-AB47,3999492087,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,51,WHITE
+TCGA-B7-5816,6285609037,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,51,WHITE
+TCGA-B7-5818,6285609043,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,62,WHITE
+TCGA-B7-A5TI,9283265072,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,52,WHITE
+TCGA-B7-A5TJ,9283265072,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,74,WHITE
+TCGA-B7-A5TK,9283265072,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,51,WHITE
+TCGA-B7-A5TN,9283265064,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,60,WHITE
+TCGA-BR-6452,6285609108,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Solid Tissue Normal,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,78,WHITE
+TCGA-BR-6452,6285617033,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,78,WHITE
+TCGA-BR-6453,6285617033,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,54,WHITE
+TCGA-BR-6454,6285617033,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,58,WHITE
+TCGA-BR-6455,6285617033,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,59,WHITE
+TCGA-BR-6456,6285617033,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,74,WHITE
+TCGA-BR-6457,6285617033,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,69,WHITE
+TCGA-BR-6458,6285617033,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,57,WHITE
+TCGA-BR-6563,7796806005,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,60,WHITE
+TCGA-BR-6564,6929718093,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,46,WHITE
+TCGA-BR-6565,6285617033,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,67,WHITE
+TCGA-BR-6566,6285609108,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Solid Tissue Normal,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,64,WHITE
+TCGA-BR-6566,6285617033,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,64,WHITE
+TCGA-BR-6705,6929718093,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,68,WHITE
+TCGA-BR-6706,6929718093,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,63,WHITE
+TCGA-BR-6707,6929718102,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,75,WHITE
+TCGA-BR-6709,6929718093,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,57,WHITE
+TCGA-BR-6710,6929718102,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,41,WHITE
+TCGA-BR-6801,6929718093,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,70,WHITE
+TCGA-BR-6802,6929718093,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,65,WHITE
+TCGA-BR-6803,6929718102,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,54,WHITE
+TCGA-BR-6852,6929718092,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,64,WHITE
+TCGA-BR-7196,7796806005,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,64,WHITE
+TCGA-BR-7197,7786923093,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,69,WHITE
+TCGA-BR-7703,7796806004,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Papillary Type",MALE,81,WHITE
+TCGA-BR-7704,7796806005,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,69,WHITE
+TCGA-BR-7707,7796806004,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,69,WHITE
+TCGA-BR-7715,7796806004,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,65,WHITE
+TCGA-BR-7716,7796806004,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,62,WHITE
+TCGA-BR-7717,7796806005,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,63,WHITE
+TCGA-BR-7722,7786923091,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,62,WHITE
+TCGA-BR-7723,7796806004,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,59,WHITE
+TCGA-BR-7851,7786923091,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,74,WHITE
+TCGA-BR-7901,7786923093,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,74,WHITE
+TCGA-BR-7957,7786923093,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,50,WHITE
+TCGA-BR-7958,7796806061,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,60,WHITE
+TCGA-BR-7959,7796806023,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",MALE,59,WHITE
+TCGA-BR-8058,7796806061,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,53,WHITE
+TCGA-BR-8059,7796806023,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,72,WHITE
+TCGA-BR-8060,7796806056,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,75,WHITE
+TCGA-BR-8077,7796806023,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,58,WHITE
+TCGA-BR-8078,7796806073,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,70,WHITE
+TCGA-BR-8080,7796806073,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",FEMALE,72,WHITE
+TCGA-BR-8081,7796806056,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,71,WHITE
+TCGA-BR-8284,7796806013,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,72,WHITE
+TCGA-BR-8285,7796806073,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,57,WHITE
+TCGA-BR-8286,7796806023,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,49,WHITE
+TCGA-BR-8289,7796806013,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,57,WHITE
+TCGA-BR-8291,7796806023,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,61,WHITE
+TCGA-BR-8295,7796806056,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,60,WHITE
+TCGA-BR-8296,7796806061,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,58,WHITE
+TCGA-BR-8297,7796806056,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,58,WHITE
+TCGA-BR-8360,7796806013,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,66,WHITE
+TCGA-BR-8361,7796806073,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,71,WHITE
+TCGA-BR-8362,7796806073,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,65,WHITE
+TCGA-BR-8363,7796806061,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,73,WHITE
+TCGA-BR-8364,7796806061,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,42,WHITE
+TCGA-BR-8365,8795194031,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,70,WHITE
+TCGA-BR-8366,7796806023,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,80,WHITE
+TCGA-BR-8367,7796806013,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,55,WHITE
+TCGA-BR-8368,7796806013,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,84,WHITE
+TCGA-BR-8369,7796806088,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,76,WHITE
+TCGA-BR-8370,7796806013,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,64,WHITE
+TCGA-BR-8371,7796806056,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,62,WHITE
+TCGA-BR-8372,7796806013,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,63,WHITE
+TCGA-BR-8373,7796806056,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,65,WHITE
+TCGA-BR-8380,7796806013,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,55,WHITE
+TCGA-BR-8381,8784241024,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,51,WHITE
+TCGA-BR-8382,8784241024,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,67,WHITE
+TCGA-BR-8384,8784241057,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,69,WHITE
+TCGA-BR-8483,8784241057,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,59,WHITE
+TCGA-BR-8484,8784241057,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,61,WHITE
+TCGA-BR-8485,8784241024,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,68,WHITE
+TCGA-BR-8486,8784241002,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,90,WHITE
+TCGA-BR-8487,8784241057,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,64,WHITE
+TCGA-BR-8588,8784241024,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,55,WHITE
+TCGA-BR-8589,8784241057,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,56,WHITE
+TCGA-BR-8590,8784241057,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,62,WHITE
+TCGA-BR-8591,8784241024,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,79,WHITE
+TCGA-BR-8592,8784241002,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,63,WHITE
+TCGA-BR-8676,8784241024,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,59,WHITE
+TCGA-BR-8677,8784241057,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,74,WHITE
+TCGA-BR-8678,8784241024,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,76,WHITE
+TCGA-BR-8679,8784241024,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,63,WHITE
+TCGA-BR-8680,8784241024,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,45,ASIAN
+TCGA-BR-8682,8784241063,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",MALE,52,ASIAN
+TCGA-BR-8683,8784241002,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,75,ASIAN
+TCGA-BR-8686,8784241057,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,69,ASIAN
+TCGA-BR-8687,8784241057,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,67,WHITE
+TCGA-BR-8690,8784241002,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,54,WHITE
+TCGA-BR-A44T,8795194038,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,53,WHITE
+TCGA-BR-A44U,8795194061,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,70,WHITE
+TCGA-BR-A452,8795194016,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,57,ASIAN
+TCGA-BR-A453,8795194061,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach Adenocarcinoma, Signet Ring Type",MALE,51,ASIAN
+TCGA-BR-A4CQ,8795194014,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,58,WHITE
+TCGA-BR-A4CR,8795194061,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,70,WHITE
+TCGA-BR-A4CS,8795194061,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,77,WHITE
+TCGA-BR-A4IU,8795194014,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,34,ASIAN
+TCGA-BR-A4IV,8784241124,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,47,ASIAN
+TCGA-BR-A4IY,8795194010,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,58,ASIAN
+TCGA-BR-A4IZ,8795194016,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,45,ASIAN
+TCGA-BR-A4J1,8795194010,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,63,ASIAN
+TCGA-BR-A4J2,8795194016,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,70,ASIAN
+TCGA-BR-A4J4,8795194016,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,39,ASIAN
+TCGA-BR-A4J5,8795194059,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",MALE,56,ASIAN
+TCGA-BR-A4J6,8784241124,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,69,WHITE
+TCGA-BR-A4J7,8784241124,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",MALE,49,ASIAN
+TCGA-BR-A4J8,8795194014,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,71,WHITE
+TCGA-BR-A4J9,8795194016,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,55,WHITE
+TCGA-BR-A4PD,8795194016,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,72,WHITE
+TCGA-BR-A4PE,8795194016,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,68,WHITE
+TCGA-BR-A4PF,8795194059,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,72,WHITE
+TCGA-BR-A4QI,8795194014,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,70,WHITE
+TCGA-BR-A4QL,8795194010,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,75,WHITE
+TCGA-BR-A4QM,8795194016,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,65,WHITE
+TCGA-CD-5798,6285609051,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",MALE,82,ASIAN
+TCGA-CD-5799,6285609043,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,45,ASIAN
+TCGA-CD-5800,6285609051,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Papillary Type",FEMALE,51,ASIAN
+TCGA-CD-5801,6285609043,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,69,ASIAN
+TCGA-CD-5802,6285609051,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,58,ASIAN
+TCGA-CD-5803,6285609051,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,78,ASIAN
+TCGA-CD-5804,7796806004,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,90,ASIAN
+TCGA-CD-5813,6285609037,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",MALE,60,ASIAN
+TCGA-CD-8524,7796806061,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,61,ASIAN
+TCGA-CD-8525,7796806061,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",FEMALE,82,ASIAN
+TCGA-CD-8526,7796806073,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,73,ASIAN
+TCGA-CD-8527,7796806088,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,72,ASIAN
+TCGA-CD-8528,7796806013,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,43,ASIAN
+TCGA-CD-8529,7796806073,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",MALE,65,ASIAN
+TCGA-CD-8530,7796806056,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,51,ASIAN
+TCGA-CD-8531,7796806073,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,66,ASIAN
+TCGA-CD-8532,7796806023,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,52,ASIAN
+TCGA-CD-8533,7796806013,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,48,ASIAN
+TCGA-CD-8534,7796806023,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,41,ASIAN
+TCGA-CD-8535,7796806023,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,59,ASIAN
+TCGA-CD-8536,7796806073,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,74,ASIAN
+TCGA-CD-A486,8795194093,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,68,ASIAN
+TCGA-CD-A487,8795194093,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,51,ASIAN
+TCGA-CD-A489,8795194038,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,58,ASIAN
+TCGA-CD-A48A,8795194061,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,57,ASIAN
+TCGA-CD-A48C,8795194061,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,79,ASIAN
+TCGA-CD-A4MG,8784241124,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,76,ASIAN
+TCGA-CD-A4MH,8795194014,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,86,ASIAN
+TCGA-CD-A4MI,8795194010,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,62,ASIAN
+TCGA-CD-A4MJ,8795194016,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,60,ASIAN
+TCGA-CG-4437,6285609111,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,83,
+TCGA-CG-4441,6285609111,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,83,
+TCGA-CG-5716,6285617033,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,86,
+TCGA-CG-5717,6285609051,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,58,
+TCGA-CG-5718,6285609051,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,78,
+TCGA-CG-5719,6285609043,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,54,
+TCGA-CG-5720,6285609051,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,71,
+TCGA-CG-5721,6285609043,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,58,
+TCGA-CG-5722,6285609043,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,67,
+TCGA-CG-5723,6285609043,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,83,
+TCGA-CG-5724,6285609037,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,59,
+TCGA-CG-5725,6285609051,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,72,
+TCGA-CG-5726,6285609051,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,73,
+TCGA-CG-5727,6285609037,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,66,
+TCGA-CG-5728,6285609043,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,88,
+TCGA-CG-5730,6285609051,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,80,
+TCGA-CG-5732,6285609051,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,66,
+TCGA-CG-5733,6285609037,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,83,
+TCGA-CG-5734,6285609043,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,68,
+TCGA-D7-5577,6285609043,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,53,WHITE
+TCGA-D7-5578,6285609043,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,80,WHITE
+TCGA-D7-5579,6285609043,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",MALE,74,WHITE
+TCGA-D7-6518,6285609111,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,75,WHITE
+TCGA-D7-6519,6285609111,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,64,WHITE
+TCGA-D7-6520,6285609111,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,53,WHITE
+TCGA-D7-6521,6285609111,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,65,WHITE
+TCGA-D7-6522,6285609111,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,58,WHITE
+TCGA-D7-6524,6285609111,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,53,WHITE
+TCGA-D7-6525,6285609111,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,58,WHITE
+TCGA-D7-6526,6285609111,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,67,WHITE
+TCGA-D7-6527,6285609111,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Papillary Type",MALE,62,WHITE
+TCGA-D7-6528,6285609111,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,70,WHITE
+TCGA-D7-6815,6929718093,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,70,WHITE
+TCGA-D7-6817,6929718093,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,63,WHITE
+TCGA-D7-6818,6929718102,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,53,WHITE
+TCGA-D7-6820,6929718093,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,64,WHITE
+TCGA-D7-6822,6929718092,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,77,WHITE
+TCGA-D7-8570,7796806061,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,44,WHITE
+TCGA-D7-8572,7796806061,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,57,WHITE
+TCGA-D7-8573,7796806056,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,57,WHITE
+TCGA-D7-8574,7796806073,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,72,WHITE
+TCGA-D7-8575,7796806073,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,75,WHITE
+TCGA-D7-8576,7796806056,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,54,WHITE
+TCGA-D7-8578,7796806023,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,72,WHITE
+TCGA-D7-8579,7796806056,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,66,WHITE
+TCGA-D7-A4YT,8795194014,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,56,WHITE
+TCGA-D7-A4YU,8784241124,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,73,WHITE
+TCGA-D7-A4YV,8795194016,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,69,WHITE
+TCGA-D7-A4YX,8795194014,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,63,WHITE
+TCGA-D7-A4YY,8784241124,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,61,WHITE
+TCGA-D7-A4Z0,8795194014,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",FEMALE,60,WHITE
+TCGA-D7-A6ET,9422491112,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,76,WHITE
+TCGA-D7-A6EV,9283265064,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,71,WHITE
+TCGA-D7-A6EX,9283265064,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,72,WHITE
+TCGA-D7-A6EY,9283265072,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,72,WHITE
+TCGA-D7-A6EZ,9283265072,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,66,WHITE
+TCGA-D7-A6F0,9283265072,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,79,WHITE
+TCGA-D7-A6F2,9283265072,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,62,WHITE
+TCGA-D7-A747,9422493016,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,57,WHITE
+TCGA-D7-A748,9422491112,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,41,WHITE
+TCGA-D7-A74A,9422491112,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,61,WHITE
+TCGA-D7-A74B,9422493016,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,52,WHITE
+TCGA-EQ-5647,6285609051,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,86,WHITE
+TCGA-EQ-8122,7796806088,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,71,WHITE
+TCGA-EQ-A4SO,8795194010,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,,MALE,70,WHITE
+TCGA-F1-6177,6285617033,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,90,BLACK OR AFRICAN AMERICAN
+TCGA-F1-6874,6929718093,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,79,WHITE
+TCGA-F1-6875,7796806005,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,79,BLACK OR AFRICAN AMERICAN
+TCGA-F1-A448,8795194061,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",MALE,70,WHITE
+TCGA-F1-A72C,9422493016,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,68,ASIAN
+TCGA-FP-7735,7796806005,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,77,BLACK OR AFRICAN AMERICAN
+TCGA-FP-7829,7796806004,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",MALE,69,WHITE
+TCGA-FP-7916,7786923091,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,77,ASIAN
+TCGA-FP-7998,7786923093,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,77,WHITE
+TCGA-FP-8099,7796806023,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,79,WHITE
+TCGA-FP-8209,7796806073,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,49,WHITE
+TCGA-FP-8210,7796806023,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,48,ASIAN
+TCGA-FP-8211,7796806061,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,62,WHITE
+TCGA-FP-8631,8784241024,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,68,WHITE
+TCGA-FP-A4BE,8795194093,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,55,BLACK OR AFRICAN AMERICAN
+TCGA-FP-A4BF,8795194061,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach Adenocarcinoma, Signet Ring Type",MALE,68,WHITE
+TCGA-FP-A8CX,9630789217,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach Adenocarcinoma, Signet Ring Type",MALE,60,WHITE
+TCGA-FP-A9TM,9828653017,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,77,WHITE
+TCGA-HF-7131,7796806005,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,NA,
+TCGA-HF-7132,7796806004,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",MALE,NA,
+TCGA-HF-7133,7796806005,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",FEMALE,NA,
+TCGA-HF-7134,7796806004,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,NA,
+TCGA-HF-7136,7796806004,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,NA,
+TCGA-HF-A5NB,9283265072,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",FEMALE,75,
+TCGA-HJ-7597,7786923093,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach Adenocarcinoma, Signet Ring Type",FEMALE,71,WHITE
+TCGA-HU-8238,7796806088,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,56,ASIAN
+TCGA-HU-8243,7796806056,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,66,ASIAN
+TCGA-HU-8244,7796806013,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,77,ASIAN
+TCGA-HU-8245,7796806061,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Papillary Type",MALE,72,ASIAN
+TCGA-HU-8249,7796806061,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,76,ASIAN
+TCGA-HU-8602,8784241024,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,58,ASIAN
+TCGA-HU-8604,8784241024,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,82,ASIAN
+TCGA-HU-8608,8784241057,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,70,ASIAN
+TCGA-HU-8610,8784241057,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,75,ASIAN
+TCGA-HU-A4G2,8795194059,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,45,ASIAN
+TCGA-HU-A4G3,8795194093,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,54,ASIAN
+TCGA-HU-A4G6,8795194093,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Papillary Type",MALE,74,ASIAN
+TCGA-HU-A4G8,8795194016,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,71,ASIAN
+TCGA-HU-A4G9,8795194061,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,67,ASIAN
+TCGA-HU-A4GC,8795194014,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,74,ASIAN
+TCGA-HU-A4GD,8795194010,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,56,ASIAN
+TCGA-HU-A4GF,8795194061,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,69,ASIAN
+TCGA-HU-A4GH,8795194061,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,75,ASIAN
+TCGA-HU-A4GJ,8784241124,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,60,ASIAN
+TCGA-HU-A4GN,8795194010,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,61,ASIAN
+TCGA-HU-A4GP,8795194014,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,62,ASIAN
+TCGA-HU-A4GQ,8784241124,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,71,ASIAN
+TCGA-HU-A4GT,8795194014,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,71,ASIAN
+TCGA-HU-A4GU,8784241124,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,73,ASIAN
+TCGA-HU-A4GX,8795194010,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,70,ASIAN
+TCGA-HU-A4GY,8795194061,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,76,ASIAN
+TCGA-HU-A4H0,8784241124,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,72,ASIAN
+TCGA-HU-A4H2,8795194010,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,58,ASIAN
+TCGA-HU-A4H3,8795194014,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,56,ASIAN
+TCGA-HU-A4H4,8795194016,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,53,ASIAN
+TCGA-HU-A4H5,8795194010,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Papillary Type",MALE,71,ASIAN
+TCGA-HU-A4H6,8795194010,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,72,ASIAN
+TCGA-HU-A4H8,8784241124,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,77,ASIAN
+TCGA-HU-A4HB,8784241124,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,68,ASIAN
+TCGA-HU-A4HD,8795194059,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,73,ASIAN
+TCGA-IN-7806,7796806004,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,50,WHITE
+TCGA-IN-7808,7786923091,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,59,WHITE
+TCGA-IN-8462,7796806013,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,80,WHITE
+TCGA-IN-8663,8784241057,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,68,WHITE
+TCGA-IN-A6RI,9422491112,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,45,WHITE
+TCGA-IN-A6RJ,9422493016,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,64,WHITE
+TCGA-IN-A6RL,9422491112,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,84,WHITE
+TCGA-IN-A6RN,9422493016,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,72,WHITE
+TCGA-IN-A6RO,9422493016,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,70,ASIAN
+TCGA-IN-A6RP,9422493016,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,63,WHITE
+TCGA-IN-A6RR,9422491112,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,84,WHITE
+TCGA-IN-A6RS,9630789109,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,76,WHITE
+TCGA-IN-A7NR,9630789109,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,64,WHITE
+TCGA-IN-A7NT,9630789109,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,73,WHITE
+TCGA-IN-A7NU,9630789109,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,69,WHITE
+TCGA-IN-AB1V,3999492115,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,63,WHITE
+TCGA-IN-AB1X,9828653017,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,78,WHITE
+TCGA-IP-7968,7786923093,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,74,WHITE
+TCGA-KB-A6F5,9422493016,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,73,
+TCGA-KB-A6F7,9422491112,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,54,
+TCGA-KB-A93G,9828653017,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach Adenocarcinoma, Signet Ring Type",MALE,68,WHITE
+TCGA-KB-A93H,9828653017,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,79,ASIAN
+TCGA-KB-A93J,9828653018,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,78,WHITE
+TCGA-MX-A5UG,9283265072,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,78,ASIAN
+TCGA-MX-A5UJ,9283265072,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,86,WHITE
+TCGA-MX-A663,9283265072,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,66,WHITE
+TCGA-MX-A666,9283265072,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,61,WHITE
+TCGA-R5-A7O7,9422493016,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,51,WHITE
+TCGA-R5-A7ZE,9630789109,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,66,WHITE
+TCGA-R5-A7ZF,9630789109,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,65,BLACK OR AFRICAN AMERICAN
+TCGA-R5-A7ZI,9630789109,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,44,WHITE
+TCGA-R5-A7ZR,9630789109,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,70,BLACK OR AFRICAN AMERICAN
+TCGA-R5-A804,9630789217,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,54,BLACK OR AFRICAN AMERICAN
+TCGA-R5-A805,9630789217,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,71,WHITE
+TCGA-RD-A7BS,9422491112,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,46,WHITE
+TCGA-RD-A7BT,9422493016,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,66,NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER
+TCGA-RD-A7BW,9422491112,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,68,WHITE
+TCGA-RD-A7C1,9422491112,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,82,WHITE
+TCGA-RD-A8MV,9630789217,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,56,WHITE
+TCGA-RD-A8MW,9630789227,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,72,WHITE
+TCGA-RD-A8N0,9630789217,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,53,WHITE
+TCGA-RD-A8N1,9630789217,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,70,WHITE
+TCGA-RD-A8N2,9630789217,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,59,WHITE
+TCGA-RD-A8N4,9630789217,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,58,WHITE
+TCGA-RD-A8N5,9630789227,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",MALE,78,WHITE
+TCGA-RD-A8N6,9630789215,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,78,WHITE
+TCGA-RD-A8N9,9828653017,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,63,ASIAN
+TCGA-RD-A8NB,9828653017,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,80,WHITE
+TCGA-SW-A7EA,9630789109,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",FEMALE,61,WHITE
+TCGA-SW-A7EB,9630789109,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",MALE,45,WHITE
+TCGA-VQ-A8DL,9630789217,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,69,WHITE
+TCGA-VQ-A8DT,9630789227,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,43,
+TCGA-VQ-A8DU,9630789217,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,63,WHITE
+TCGA-VQ-A8DV,9630789215,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,48,WHITE
+TCGA-VQ-A8DZ,9630789215,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach Adenocarcinoma, Signet Ring Type",MALE,70,BLACK OR AFRICAN AMERICAN
+TCGA-VQ-A8E0,3999492099,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,68,BLACK OR AFRICAN AMERICAN
+TCGA-VQ-A8E2,9630789215,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,57,ASIAN
+TCGA-VQ-A8E3,9761749160,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,79,WHITE
+TCGA-VQ-A8E7,3999492087,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,59,WHITE
+TCGA-VQ-A8P2,9630789217,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",MALE,68,WHITE
+TCGA-VQ-A8P3,9630789217,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,72,WHITE
+TCGA-VQ-A8P5,9828653017,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,67,WHITE
+TCGA-VQ-A8P8,9828653017,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",FEMALE,72,BLACK OR AFRICAN AMERICAN
+TCGA-VQ-A8PB,9828653017,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Papillary Type",FEMALE,65,WHITE
+TCGA-VQ-A8PC,9828653017,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach Adenocarcinoma, Signet Ring Type",MALE,65,WHITE
+TCGA-VQ-A8PD,3999492106,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,69,WHITE
+TCGA-VQ-A8PE,3999492096,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,78,WHITE
+TCGA-VQ-A8PF,3999492096,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,76,
+TCGA-VQ-A8PH,3999492115,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,62,WHITE
+TCGA-VQ-A8PJ,3999492099,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,53,
+TCGA-VQ-A8PK,3999492099,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,58,WHITE
+TCGA-VQ-A8PM,3999492096,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach Adenocarcinoma, Signet Ring Type",MALE,56,WHITE
+TCGA-VQ-A8PO,3999492087,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach Adenocarcinoma, Signet Ring Type",MALE,74,WHITE
+TCGA-VQ-A8PP,3999492106,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,76,
+TCGA-VQ-A8PQ,3999492099,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,50,WHITE
+TCGA-VQ-A8PS,3999492106,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,76,WHITE
+TCGA-VQ-A8PT,3999492106,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,65,WHITE
+TCGA-VQ-A8PU,3999492087,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,72,WHITE
+TCGA-VQ-A8PX,3999492115,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,51,
+TCGA-VQ-A8PY,3999492115,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,47,WHITE
+TCGA-VQ-A8PZ,3999492096,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach Adenocarcinoma, Signet Ring Type",FEMALE,56,WHITE
+TCGA-VQ-A91A,3999492096,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",MALE,67,WHITE
+TCGA-VQ-A91D,3999492096,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,70,WHITE
+TCGA-VQ-A91E,3999492106,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,67,WHITE
+TCGA-VQ-A91K,3999492099,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,69,WHITE
+TCGA-VQ-A91N,3999492099,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,59,
+TCGA-VQ-A91Q,3999492087,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,61,
+TCGA-VQ-A91S,3999492115,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,63,BLACK OR AFRICAN AMERICAN
+TCGA-VQ-A91U,3999492087,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,78,ASIAN
+TCGA-VQ-A91V,3999492106,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,58,
+TCGA-VQ-A91W,3999492099,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,30,WHITE
+TCGA-VQ-A91X,3999492096,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,74,WHITE
+TCGA-VQ-A91Y,3999492106,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,67,WHITE
+TCGA-VQ-A91Z,3999492115,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,67,WHITE
+TCGA-VQ-A922,3999492096,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,70,
+TCGA-VQ-A923,3999492115,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,90,WHITE
+TCGA-VQ-A924,3999492115,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,69,
+TCGA-VQ-A925,3999492087,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,66,WHITE
+TCGA-VQ-A927,3999492087,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,81,WHITE
+TCGA-VQ-A928,3999492106,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Papillary Type",MALE,49,WHITE
+TCGA-VQ-A92D,3999492096,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",MALE,67,WHITE
+TCGA-VQ-A94O,3999492087,R06C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,74,BLACK OR AFRICAN AMERICAN
+TCGA-VQ-A94P,3999492087,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach Adenocarcinoma, Signet Ring Type",MALE,57,WHITE
+TCGA-VQ-A94R,3999492096,R04C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,63,WHITE
+TCGA-VQ-A94T,3999492106,R05C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Adenocarcinoma, Diffuse Type",MALE,73,
+TCGA-VQ-A94U,3999492087,R01C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach Adenocarcinoma, Signet Ring Type",MALE,70,WHITE
+TCGA-VQ-AA64,3999492096,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,68,WHITE
+TCGA-VQ-AA68,3999492087,R02C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,52,WHITE
+TCGA-VQ-AA69,3999492106,R03C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,35,WHITE
+TCGA-VQ-AA6A,3999492115,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,56,WHITE
+TCGA-VQ-AA6B,3999492106,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,48,WHITE
+TCGA-VQ-AA6D,3999492099,R06C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,52,
+TCGA-VQ-AA6F,3999492106,R02C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,57,WHITE
+TCGA-VQ-AA6G,3999492099,R05C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,68,WHITE
+TCGA-VQ-AA6I,3999492099,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,68,WHITE
+TCGA-VQ-AA6J,3999492096,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,75,BLACK OR AFRICAN AMERICAN
+TCGA-VQ-AA6K,3999492099,R01C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach Adenocarcinoma, Signet Ring Type",MALE,59,WHITE
+TCGA-ZA-A8F6,9630789215,R04C02,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",MALE,71,WHITE
+TCGA-ZQ-A9CR,9828653017,R03C01,Illumina Human Methylation 450,TCGA-STAD,JHU_USC,Primary Tumor,Stomach,"Stomach, Intestinal Adenocarcinoma, Tubular Type",FEMALE,79,WHITE
