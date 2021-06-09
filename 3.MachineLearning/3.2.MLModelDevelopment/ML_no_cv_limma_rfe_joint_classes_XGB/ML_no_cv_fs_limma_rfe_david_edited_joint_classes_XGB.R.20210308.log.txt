@@ -1,0 +1,2291 @@
+Loading required package: lattice
+Loading required package: ggplot2
+randomForest 4.6-14
+Type rfNews() to see new features/changes/bug fixes.
+
+Attaching package: ‘randomForest’
+
+The following object is masked from ‘package:ggplot2’:
+
+    margin
+
+Loading required package: foreach
+Loading required package: iterators
+Loading required package: parallel
+[1] "2. DATA EXPLORATION"
+[1] "Splitting data set into training / test"
+[1] "Performing FS:"
+[1] "...removing features by missing value percentage"
+[1] "...impute NA values"
+[1] "...selecting features using limma"
+[1] "[MSG limma_fs]"
+[1] "[MSG limma_fs] Starting limma FS"
+[1] "[MSG limma_fs] Creating contrast matrix"
+[1] "[MSG limma_fs] Fitting limma"
+[1] "[MSG limma_fs] eBayes"
+[1] "Features: 7821"
+[1] "...removing highly correlated features"
+[1] "Features: 6657"
+[1] "...selecting features using RFE"
+
+Recursive feature selection
+
+Outer resampling method: Cross-Validated (10 fold) 
+
+Resampling performance over subset size:
+
+ Variables Accuracy   Kappa AccuracySD  KappaSD Selected
+         1   0.1079 0.05879   0.010452 0.010924         
+         2   0.2072 0.16059   0.022920 0.023866         
+         3   0.3002 0.25799   0.041413 0.043559         
+         4   0.3637 0.32516   0.046838 0.049534         
+         5   0.4373 0.40332   0.045769 0.048653         
+         6   0.4884 0.45777   0.046073 0.049077         
+         7   0.5358 0.50778   0.035474 0.037718         
+         8   0.5779 0.55261   0.042927 0.045656         
+         9   0.6133 0.59035   0.045424 0.048319         
+        10   0.6373 0.61580   0.033694 0.035978         
+        11   0.6673 0.64753   0.042911 0.045588         
+        13   0.7057 0.68835   0.024134 0.025643         
+        16   0.7410 0.72595   0.035372 0.037526         
+        20   0.7747 0.76163   0.029369 0.031145         
+        25   0.8059 0.79480   0.023025 0.024388         
+        31   0.8326 0.82306   0.023930 0.025319         
+        38   0.8557 0.84749   0.021081 0.022254         
+        46   0.8733 0.86610   0.018136 0.019160         
+        55   0.8863 0.87991   0.015234 0.016079         
+        65   0.8978 0.89205   0.016811 0.017742         
+        76   0.9048 0.89940   0.014888 0.015718         
+        88   0.9100 0.90494   0.014781 0.015604         
+       101   0.9181 0.91354   0.010547 0.011135         
+       115   0.9241 0.91979   0.012323 0.013021         
+       130   0.9269 0.92282   0.011214 0.011836         
+       146   0.9296 0.92568   0.012512 0.013203         
+       163   0.9325 0.92872   0.010530 0.011124         
+       181   0.9349 0.93122   0.010016 0.010578         
+       200   0.9399 0.93658   0.012853 0.013575         
+       220   0.9388 0.93533   0.006917 0.007309         
+       241   0.9413 0.93800   0.011876 0.012546         
+       263   0.9448 0.94175   0.010406 0.010988         
+       286   0.9430 0.93978   0.011098 0.011714         
+       310   0.9442 0.94104   0.010403 0.010986         
+       335   0.9450 0.94193   0.009310 0.009834         
+       361   0.9452 0.94210   0.008401 0.008873         
+       388   0.9465 0.94353   0.009965 0.010528         
+       416   0.9475 0.94461   0.009416 0.009941         
+       445   0.9479 0.94497   0.010655 0.011256         
+       475   0.9481 0.94514   0.008954 0.009457         
+       506   0.9492 0.94639   0.008846 0.009341         
+       538   0.9491 0.94622   0.008443 0.008914         
+       571   0.9506 0.94783   0.009699 0.010241         
+       605   0.9502 0.94746   0.010557 0.011152         
+       640   0.9501 0.94728   0.009395 0.009923         
+       676   0.9508 0.94801   0.009488 0.010017         
+       713   0.9503 0.94747   0.009266 0.009785         
+       751   0.9519 0.94924   0.009925 0.010486         
+       790   0.9501 0.94728   0.011650 0.012305         
+       830   0.9511 0.94836   0.012246 0.012934         
+       871   0.9513 0.94853   0.010846 0.011460         
+       913   0.9497 0.94693   0.011193 0.011822         
+       956   0.9531 0.95050   0.010131 0.010701         
+      1000   0.9509 0.94817   0.010857 0.011470         
+      1045   0.9513 0.94854   0.010025 0.010591         
+      1091   0.9508 0.94800   0.010736 0.011341         
+      1138   0.9502 0.94746   0.010933 0.011543         
+      1186   0.9501 0.94728   0.011531 0.012180         
+      1235   0.9521 0.94942   0.010400 0.010983         
+      1285   0.9508 0.94800   0.010681 0.011280         
+      1336   0.9518 0.94907   0.012067 0.012747         
+      1388   0.9514 0.94871   0.010049 0.010613         
+      1441   0.9506 0.94782   0.010372 0.010949         
+      1495   0.9503 0.94746   0.010987 0.011605         
+      1550   0.9503 0.94747   0.011333 0.011970         
+      1606   0.9521 0.94943   0.010856 0.011463         
+      1663   0.9516 0.94889   0.010720 0.011326         
+      1721   0.9516 0.94889   0.010024 0.010583         
+      1780   0.9516 0.94889   0.011350 0.011985         
+      1840   0.9528 0.95014   0.010077 0.010642         
+      1901   0.9528 0.95014   0.009690 0.010233         
+      1963   0.9541 0.95158   0.008709 0.009195        *
+      2026   0.9518 0.94907   0.011053 0.011676         
+      2090   0.9511 0.94835   0.010231 0.010805         
+      2155   0.9538 0.95122   0.008135 0.008591         
+      2221   0.9518 0.94907   0.009778 0.010327         
+      2288   0.9528 0.95014   0.009444 0.009977         
+      2356   0.9513 0.94853   0.011137 0.011767         
+      2425   0.9506 0.94782   0.009095 0.009604         
+      2495   0.9506 0.94782   0.007606 0.008032         
+      2566   0.9531 0.95050   0.010118 0.010687         
+      2638   0.9514 0.94871   0.010175 0.010746         
+      2711   0.9511 0.94835   0.009626 0.010166         
+      2785   0.9501 0.94728   0.009708 0.010256         
+      2860   0.9523 0.94960   0.009989 0.010551         
+      2936   0.9526 0.94996   0.008923 0.009422         
+      3013   0.9516 0.94889   0.010459 0.011045         
+      3091   0.9523 0.94960   0.010941 0.011559         
+      3170   0.9516 0.94889   0.010340 0.010923         
+      3250   0.9530 0.95031   0.009355 0.009883         
+      3331   0.9523 0.94960   0.009563 0.010102         
+      3413   0.9518 0.94907   0.011104 0.011730         
+      3496   0.9526 0.94996   0.010056 0.010627         
+      3580   0.9533 0.95067   0.008111 0.008572         
+      3665   0.9523 0.94961   0.009327 0.009854         
+      3751   0.9514 0.94872   0.009195 0.009711         
+      3838   0.9521 0.94943   0.009588 0.010127         
+      3926   0.9524 0.94978   0.009386 0.009917         
+      4015   0.9513 0.94853   0.009466 0.010000         
+      4105   0.9513 0.94853   0.011195 0.011830         
+      4196   0.9518 0.94907   0.009054 0.009561         
+      4288   0.9516 0.94889   0.011036 0.011660         
+      4381   0.9506 0.94781   0.008978 0.009481         
+      4475   0.9519 0.94925   0.009839 0.010397         
+      4570   0.9523 0.94960   0.007654 0.008086         
+      4666   0.9519 0.94925   0.008486 0.008964         
+      4763   0.9511 0.94834   0.010153 0.010727         
+      4861   0.9514 0.94871   0.007762 0.008202         
+      4960   0.9531 0.95050   0.008876 0.009376         
+      5060   0.9519 0.94925   0.009115 0.009626         
+      5161   0.9521 0.94943   0.008798 0.009294         
+      5263   0.9504 0.94763   0.009569 0.010112         
+      5366   0.9523 0.94961   0.007789 0.008228         
+      5470   0.9496 0.94674   0.009134 0.009649         
+      5575   0.9504 0.94764   0.007609 0.008041         
+      5681   0.9516 0.94888   0.008967 0.009476         
+      5788   0.9497 0.94692   0.008890 0.009391         
+      5896   0.9503 0.94746   0.011431 0.012079         
+      6005   0.9523 0.94960   0.009309 0.009839         
+      6115   0.9508 0.94799   0.008441 0.008919         
+      6226   0.9511 0.94834   0.009096 0.009612         
+      6338   0.9497 0.94692   0.008896 0.009397         
+      6451   0.9516 0.94889   0.008101 0.008557         
+      6565   0.9511 0.94835   0.007183 0.007591         
+      6657   0.9508 0.94799   0.010204 0.010782         
+
+The top 5 variables (out of 1963):
+   cg25408237, cg06717750, cg06511389, cg00827973, cg16508600
+
+null device 
+          1 
+[1] "Features: 1964"
+[1] "FS completed"
+[1] "Training LDA"
+Linear Discriminant Analysis 
+
+5911 samples
+1965 predictors
+  29 classes: 'Adrenal', 'B.Cell', 'Bladder', 'Bone.Marrow', 'Brain', 'Breast', 'Central.nervous.system', 'Cervical', 'Colon.Rectum', 'Endometrial.Uterus', 'Esophagus.Adenocarcinoma.Stomach', 'Esophagus.Squamous.Cell.Carcinoma', 'Head.and.Neck', 'Kidney.Chromophobe', 'Kidney.Clear.Cell.Renal.Carcinoma', 'Kidney.Papillary.Renal.Cell.Carcinoma', 'Liver', 'Non.glabrous.skin', 'Non.small.cell.Lung.Carcinoma', 'Pancreas', 'Pheochromocytoma.and.Paraganglioma', 'Pleura', 'Prostate', 'Sarcoma', 'Small.Cell.Lung.Carcinoma', 'Testes', 'Thymoma', 'Thyroid', 'Uveal.Melanoma' 
+
+No pre-processing
+Resampling: Cross-Validated (10 fold, repeated 3 times) 
+Summary of sample sizes: 5321, 5321, 5323, 5320, 5321, 5315, ... 
+Resampling results:
+
+  Accuracy  Kappa    
+  0.963972  0.9619713
+
+Confusion Matrix and Statistics
+
+                                       Reference
+Prediction                              Adrenal B.Cell Bladder Bone.Marrow
+  Adrenal                                    23      0       0           0
+  B.Cell                                      0     12       0           0
+  Bladder                                     0      0     116           0
+  Bone.Marrow                                 0      0       0          57
+  Brain                                       0      0       0           0
+  Breast                                      0      0       0           0
+  Central.nervous.system                      0      0       0           0
+  Cervical                                    0      0       2           0
+  Colon.Rectum                                0      0       0           0
+  Endometrial.Uterus                          0      0       0           0
+  Esophagus.Adenocarcinoma.Stomach            0      1       0           0
+  Esophagus.Squamous.Cell.Carcinoma           0      0       2           0
+  Head.and.Neck                               0      0       2           0
+  Kidney.Chromophobe                          0      0       0           0
+  Kidney.Clear.Cell.Renal.Carcinoma           0      0       0           0
+  Kidney.Papillary.Renal.Cell.Carcinoma       0      0       0           0
+  Liver                                       0      0       0           0
+  Non.glabrous.skin                           0      0       0           0
+  Non.small.cell.Lung.Carcinoma               1      1       1           0
+  Pancreas                                    0      0       0           0
+  Pheochromocytoma.and.Paraganglioma          0      0       0           0
+  Pleura                                      0      0       0           0
+  Prostate                                    0      0       0           0
+  Sarcoma                                     0      0       0           0
+  Small.Cell.Lung.Carcinoma                   0      0       0           0
+  Testes                                      0      0       0           0
+  Thymoma                                     0      0       0           0
+  Thyroid                                     0      0       0           0
+  Uveal.Melanoma                              0      0       0           0
+                                       Reference
+Prediction                              Brain Breast Central.nervous.system
+  Adrenal                                   0      0                      0
+  B.Cell                                    0      0                      0
+  Bladder                                   0      0                      0
+  Bone.Marrow                               0      0                      0
+  Brain                                    37      0                      7
+  Breast                                    0    225                      0
+  Central.nervous.system                    4      0                    146
+  Cervical                                  0      0                      0
+  Colon.Rectum                              0      0                      0
+  Endometrial.Uterus                        0      0                      0
+  Esophagus.Adenocarcinoma.Stomach          0      0                      0
+  Esophagus.Squamous.Cell.Carcinoma         0      0                      0
+  Head.and.Neck                             0      1                      0
+  Kidney.Chromophobe                        0      0                      0
+  Kidney.Clear.Cell.Renal.Carcinoma         0      0                      0
+  Kidney.Papillary.Renal.Cell.Carcinoma     0      0                      0
+  Liver                                     0      0                      0
+  Non.glabrous.skin                         0      0                      0
+  Non.small.cell.Lung.Carcinoma             0      1                      0
+  Pancreas                                  0      0                      0
+  Pheochromocytoma.and.Paraganglioma        0      0                      0
+  Pleura                                    0      0                      0
+  Prostate                                  0      0                      0
+  Sarcoma                                   0      0                      0
+  Small.Cell.Lung.Carcinoma                 0      0                      0
+  Testes                                    0      0                      0
+  Thymoma                                   0      0                      0
+  Thyroid                                   0      0                      0
+  Uveal.Melanoma                            0      0                      0
+                                       Reference
+Prediction                              Cervical Colon.Rectum
+  Adrenal                                      0            0
+  B.Cell                                       0            0
+  Bladder                                      1            0
+  Bone.Marrow                                  0            0
+  Brain                                        0            0
+  Breast                                       0            0
+  Central.nervous.system                       0            0
+  Cervical                                    86            0
+  Colon.Rectum                                 0          108
+  Endometrial.Uterus                           3            0
+  Esophagus.Adenocarcinoma.Stomach             0            1
+  Esophagus.Squamous.Cell.Carcinoma            0            0
+  Head.and.Neck                                1            0
+  Kidney.Chromophobe                           0            0
+  Kidney.Clear.Cell.Renal.Carcinoma            0            0
+  Kidney.Papillary.Renal.Cell.Carcinoma        0            0
+  Liver                                        0            0
+  Non.glabrous.skin                            0            0
+  Non.small.cell.Lung.Carcinoma                0            0
+  Pancreas                                     0            0
+  Pheochromocytoma.and.Paraganglioma           0            0
+  Pleura                                       0            0
+  Prostate                                     0            0
+  Sarcoma                                      0            0
+  Small.Cell.Lung.Carcinoma                    0            0
+  Testes                                       0            0
+  Thymoma                                      0            0
+  Thyroid                                      0            0
+  Uveal.Melanoma                               0            0
+                                       Reference
+Prediction                              Endometrial.Uterus
+  Adrenal                                                0
+  B.Cell                                                 0
+  Bladder                                                0
+  Bone.Marrow                                            0
+  Brain                                                  0
+  Breast                                                 0
+  Central.nervous.system                                 0
+  Cervical                                               1
+  Colon.Rectum                                           0
+  Endometrial.Uterus                                   143
+  Esophagus.Adenocarcinoma.Stomach                       0
+  Esophagus.Squamous.Cell.Carcinoma                      0
+  Head.and.Neck                                          0
+  Kidney.Chromophobe                                     0
+  Kidney.Clear.Cell.Renal.Carcinoma                      0
+  Kidney.Papillary.Renal.Cell.Carcinoma                  0
+  Liver                                                  0
+  Non.glabrous.skin                                      0
+  Non.small.cell.Lung.Carcinoma                          0
+  Pancreas                                               0
+  Pheochromocytoma.and.Paraganglioma                     0
+  Pleura                                                 0
+  Prostate                                               0
+  Sarcoma                                                0
+  Small.Cell.Lung.Carcinoma                              0
+  Testes                                                 0
+  Thymoma                                                0
+  Thyroid                                                0
+  Uveal.Melanoma                                         0
+                                       Reference
+Prediction                              Esophagus.Adenocarcinoma.Stomach
+  Adrenal                                                              0
+  B.Cell                                                               0
+  Bladder                                                              0
+  Bone.Marrow                                                          0
+  Brain                                                                0
+  Breast                                                               0
+  Central.nervous.system                                               0
+  Cervical                                                             0
+  Colon.Rectum                                                         1
+  Endometrial.Uterus                                                   0
+  Esophagus.Adenocarcinoma.Stomach                                   140
+  Esophagus.Squamous.Cell.Carcinoma                                    2
+  Head.and.Neck                                                        0
+  Kidney.Chromophobe                                                   0
+  Kidney.Clear.Cell.Renal.Carcinoma                                    0
+  Kidney.Papillary.Renal.Cell.Carcinoma                                0
+  Liver                                                                0
+  Non.glabrous.skin                                                    0
+  Non.small.cell.Lung.Carcinoma                                        0
+  Pancreas                                                             0
+  Pheochromocytoma.and.Paraganglioma                                   0
+  Pleura                                                               0
+  Prostate                                                             0
+  Sarcoma                                                              0
+  Small.Cell.Lung.Carcinoma                                            0
+  Testes                                                               0
+  Thymoma                                                              0
+  Thyroid                                                              0
+  Uveal.Melanoma                                                       0
+                                       Reference
+Prediction                              Esophagus.Squamous.Cell.Carcinoma
+  Adrenal                                                               0
+  B.Cell                                                                0
+  Bladder                                                               1
+  Bone.Marrow                                                           0
+  Brain                                                                 0
+  Breast                                                                0
+  Central.nervous.system                                                0
+  Cervical                                                              0
+  Colon.Rectum                                                          0
+  Endometrial.Uterus                                                    0
+  Esophagus.Adenocarcinoma.Stomach                                      0
+  Esophagus.Squamous.Cell.Carcinoma                                    21
+  Head.and.Neck                                                         5
+  Kidney.Chromophobe                                                    0
+  Kidney.Clear.Cell.Renal.Carcinoma                                     0
+  Kidney.Papillary.Renal.Cell.Carcinoma                                 0
+  Liver                                                                 0
+  Non.glabrous.skin                                                     0
+  Non.small.cell.Lung.Carcinoma                                         0
+  Pancreas                                                              0
+  Pheochromocytoma.and.Paraganglioma                                    0
+  Pleura                                                                0
+  Prostate                                                              0
+  Sarcoma                                                               0
+  Small.Cell.Lung.Carcinoma                                             0
+  Testes                                                                0
+  Thymoma                                                               0
+  Thyroid                                                               0
+  Uveal.Melanoma                                                        0
+                                       Reference
+Prediction                              Head.and.Neck Kidney.Chromophobe
+  Adrenal                                           0                  0
+  B.Cell                                            0                  0
+  Bladder                                           0                  0
+  Bone.Marrow                                       0                  0
+  Brain                                             0                  0
+  Breast                                            0                  0
+  Central.nervous.system                            0                  0
+  Cervical                                          0                  0
+  Colon.Rectum                                      0                  0
+  Endometrial.Uterus                                0                  0
+  Esophagus.Adenocarcinoma.Stomach                  0                  0
+  Esophagus.Squamous.Cell.Carcinoma                 4                  0
+  Head.and.Neck                                   151                  0
+  Kidney.Chromophobe                                0                 19
+  Kidney.Clear.Cell.Renal.Carcinoma                 0                  0
+  Kidney.Papillary.Renal.Cell.Carcinoma             0                  0
+  Liver                                             0                  0
+  Non.glabrous.skin                                 0                  0
+  Non.small.cell.Lung.Carcinoma                     2                  0
+  Pancreas                                          0                  0
+  Pheochromocytoma.and.Paraganglioma                0                  0
+  Pleura                                            0                  0
+  Prostate                                          0                  0
+  Sarcoma                                           0                  0
+  Small.Cell.Lung.Carcinoma                         0                  0
+  Testes                                            0                  0
+  Thymoma                                           0                  0
+  Thyroid                                           0                  0
+  Uveal.Melanoma                                    0                  0
+                                       Reference
+Prediction                              Kidney.Clear.Cell.Renal.Carcinoma
+  Adrenal                                                               0
+  B.Cell                                                                0
+  Bladder                                                               0
+  Bone.Marrow                                                           0
+  Brain                                                                 0
+  Breast                                                                0
+  Central.nervous.system                                                0
+  Cervical                                                              0
+  Colon.Rectum                                                          0
+  Endometrial.Uterus                                                    0
+  Esophagus.Adenocarcinoma.Stomach                                      0
+  Esophagus.Squamous.Cell.Carcinoma                                     0
+  Head.and.Neck                                                         0
+  Kidney.Chromophobe                                                    0
+  Kidney.Clear.Cell.Renal.Carcinoma                                    89
+  Kidney.Papillary.Renal.Cell.Carcinoma                                 3
+  Liver                                                                 0
+  Non.glabrous.skin                                                     0
+  Non.small.cell.Lung.Carcinoma                                         1
+  Pancreas                                                              0
+  Pheochromocytoma.and.Paraganglioma                                    0
+  Pleura                                                                0
+  Prostate                                                              0
+  Sarcoma                                                               2
+  Small.Cell.Lung.Carcinoma                                             0
+  Testes                                                                0
+  Thymoma                                                               0
+  Thyroid                                                               0
+  Uveal.Melanoma                                                        0
+                                       Reference
+Prediction                              Kidney.Papillary.Renal.Cell.Carcinoma
+  Adrenal                                                                   0
+  B.Cell                                                                    0
+  Bladder                                                                   0
+  Bone.Marrow                                                               0
+  Brain                                                                     0
+  Breast                                                                    0
+  Central.nervous.system                                                    0
+  Cervical                                                                  0
+  Colon.Rectum                                                              0
+  Endometrial.Uterus                                                        0
+  Esophagus.Adenocarcinoma.Stomach                                          0
+  Esophagus.Squamous.Cell.Carcinoma                                         0
+  Head.and.Neck                                                             0
+  Kidney.Chromophobe                                                        0
+  Kidney.Clear.Cell.Renal.Carcinoma                                         0
+  Kidney.Papillary.Renal.Cell.Carcinoma                                    82
+  Liver                                                                     0
+  Non.glabrous.skin                                                         0
+  Non.small.cell.Lung.Carcinoma                                             0
+  Pancreas                                                                  0
+  Pheochromocytoma.and.Paraganglioma                                        0
+  Pleura                                                                    0
+  Prostate                                                                  0
+  Sarcoma                                                                   0
+  Small.Cell.Lung.Carcinoma                                                 0
+  Testes                                                                    0
+  Thymoma                                                                   0
+  Thyroid                                                                   0
+  Uveal.Melanoma                                                            0
+                                       Reference
+Prediction                              Liver Non.glabrous.skin
+  Adrenal                                   0                 0
+  B.Cell                                    0                 0
+  Bladder                                   0                 0
+  Bone.Marrow                               0                 0
+  Brain                                     0                 0
+  Breast                                    0                 0
+  Central.nervous.system                    0                 0
+  Cervical                                  0                 0
+  Colon.Rectum                              0                 0
+  Endometrial.Uterus                        0                 0
+  Esophagus.Adenocarcinoma.Stomach          1                 0
+  Esophagus.Squamous.Cell.Carcinoma         0                 0
+  Head.and.Neck                             0                 0
+  Kidney.Chromophobe                        0                 0
+  Kidney.Clear.Cell.Renal.Carcinoma         0                 0
+  Kidney.Papillary.Renal.Cell.Carcinoma     0                 0
+  Liver                                   110                 0
+  Non.glabrous.skin                         0                31
+  Non.small.cell.Lung.Carcinoma             0                 0
+  Pancreas                                  0                 0
+  Pheochromocytoma.and.Paraganglioma        0                 0
+  Pleura                                    0                 0
+  Prostate                                  0                 0
+  Sarcoma                                   0                 0
+  Small.Cell.Lung.Carcinoma                 0                 0
+  Testes                                    0                 0
+  Thymoma                                   0                 0
+  Thyroid                                   0                 0
+  Uveal.Melanoma                            0                 0
+                                       Reference
+Prediction                              Non.small.cell.Lung.Carcinoma Pancreas
+  Adrenal                                                           0        0
+  B.Cell                                                            0        0
+  Bladder                                                           0        0
+  Bone.Marrow                                                       0        0
+  Brain                                                             0        0
+  Breast                                                            0        0
+  Central.nervous.system                                            0        0
+  Cervical                                                          0        0
+  Colon.Rectum                                                      0        0
+  Endometrial.Uterus                                                0        0
+  Esophagus.Adenocarcinoma.Stomach                                  0        1
+  Esophagus.Squamous.Cell.Carcinoma                                 1        0
+  Head.and.Neck                                                     6        0
+  Kidney.Chromophobe                                                0        0
+  Kidney.Clear.Cell.Renal.Carcinoma                                 0        0
+  Kidney.Papillary.Renal.Cell.Carcinoma                             0        0
+  Liver                                                             0        0
+  Non.glabrous.skin                                                 0        0
+  Non.small.cell.Lung.Carcinoma                                   239        1
+  Pancreas                                                          0       49
+  Pheochromocytoma.and.Paraganglioma                                0        0
+  Pleura                                                            0        0
+  Prostate                                                          0        0
+  Sarcoma                                                           0        0
+  Small.Cell.Lung.Carcinoma                                         0        0
+  Testes                                                            0        0
+  Thymoma                                                           0        0
+  Thyroid                                                           0        0
+  Uveal.Melanoma                                                    0        0
+                                       Reference
+Prediction                              Pheochromocytoma.and.Paraganglioma
+  Adrenal                                                                1
+  B.Cell                                                                 0
+  Bladder                                                                0
+  Bone.Marrow                                                            0
+  Brain                                                                  0
+  Breast                                                                 0
+  Central.nervous.system                                                 0
+  Cervical                                                               0
+  Colon.Rectum                                                           0
+  Endometrial.Uterus                                                     0
+  Esophagus.Adenocarcinoma.Stomach                                       0
+  Esophagus.Squamous.Cell.Carcinoma                                      0
+  Head.and.Neck                                                          0
+  Kidney.Chromophobe                                                     0
+  Kidney.Clear.Cell.Renal.Carcinoma                                      0
+  Kidney.Papillary.Renal.Cell.Carcinoma                                  0
+  Liver                                                                  0
+  Non.glabrous.skin                                                      0
+  Non.small.cell.Lung.Carcinoma                                          0
+  Pancreas                                                               0
+  Pheochromocytoma.and.Paraganglioma                                    52
+  Pleura                                                                 0
+  Prostate                                                               0
+  Sarcoma                                                                0
+  Small.Cell.Lung.Carcinoma                                              0
+  Testes                                                                 0
+  Thymoma                                                                0
+  Thyroid                                                                0
+  Uveal.Melanoma                                                         0
+                                       Reference
+Prediction                              Pleura Prostate Sarcoma
+  Adrenal                                    0        0       0
+  B.Cell                                     0        0       0
+  Bladder                                    0        0       0
+  Bone.Marrow                                0        0       0
+  Brain                                      0        0       0
+  Breast                                     0        0       0
+  Central.nervous.system                     0        0       0
+  Cervical                                   0        0       0
+  Colon.Rectum                               0        0       0
+  Endometrial.Uterus                         0        0       0
+  Esophagus.Adenocarcinoma.Stomach           0        0       0
+  Esophagus.Squamous.Cell.Carcinoma          0        0       0
+  Head.and.Neck                              0        0       0
+  Kidney.Chromophobe                         0        0       0
+  Kidney.Clear.Cell.Renal.Carcinoma          0        0       0
+  Kidney.Papillary.Renal.Cell.Carcinoma      0        0       0
+  Liver                                      0        0       0
+  Non.glabrous.skin                          0        0       0
+  Non.small.cell.Lung.Carcinoma              2        0       0
+  Pancreas                                   0        0       0
+  Pheochromocytoma.and.Paraganglioma         0        0       0
+  Pleura                                    21        0       0
+  Prostate                                   0      148       0
+  Sarcoma                                    3        0      72
+  Small.Cell.Lung.Carcinoma                  0        0       0
+  Testes                                     0        0       0
+  Thymoma                                    0        0       0
+  Thyroid                                    0        0       0
+  Uveal.Melanoma                             0        0       0
+                                       Reference
+Prediction                              Small.Cell.Lung.Carcinoma Testes
+  Adrenal                                                       0      0
+  B.Cell                                                        0      0
+  Bladder                                                       0      0
+  Bone.Marrow                                                   0      0
+  Brain                                                         0      0
+  Breast                                                        0      0
+  Central.nervous.system                                        0      0
+  Cervical                                                      0      0
+  Colon.Rectum                                                  0      0
+  Endometrial.Uterus                                            0      0
+  Esophagus.Adenocarcinoma.Stomach                              0      0
+  Esophagus.Squamous.Cell.Carcinoma                             0      0
+  Head.and.Neck                                                 0      0
+  Kidney.Chromophobe                                            0      0
+  Kidney.Clear.Cell.Renal.Carcinoma                             0      0
+  Kidney.Papillary.Renal.Cell.Carcinoma                         0      0
+  Liver                                                         0      0
+  Non.glabrous.skin                                             0      0
+  Non.small.cell.Lung.Carcinoma                                 3      0
+  Pancreas                                                      0      0
+  Pheochromocytoma.and.Paraganglioma                            0      0
+  Pleura                                                        0      0
+  Prostate                                                      0      0
+  Sarcoma                                                       1      0
+  Small.Cell.Lung.Carcinoma                                    16      0
+  Testes                                                        0     40
+  Thymoma                                                       0      0
+  Thyroid                                                       0      0
+  Uveal.Melanoma                                                0      0
+                                       Reference
+Prediction                              Thymoma Thyroid Uveal.Melanoma
+  Adrenal                                     0       0              0
+  B.Cell                                      0       0              0
+  Bladder                                     0       0              0
+  Bone.Marrow                                 0       0              0
+  Brain                                       0       0              0
+  Breast                                      0       0              0
+  Central.nervous.system                      0       0              0
+  Cervical                                    0       0              0
+  Colon.Rectum                                0       0              0
+  Endometrial.Uterus                          0       0              0
+  Esophagus.Adenocarcinoma.Stomach            0       0              0
+  Esophagus.Squamous.Cell.Carcinoma           0       0              0
+  Head.and.Neck                               0       0              0
+  Kidney.Chromophobe                          0       0              0
+  Kidney.Clear.Cell.Renal.Carcinoma           0       0              0
+  Kidney.Papillary.Renal.Cell.Carcinoma       0       0              0
+  Liver                                       0       0              0
+  Non.glabrous.skin                           0       0              0
+  Non.small.cell.Lung.Carcinoma               0       1              0
+  Pancreas                                    0       0              0
+  Pheochromocytoma.and.Paraganglioma          0       0              0
+  Pleura                                      0       0              0
+  Prostate                                    0       0              0
+  Sarcoma                                     0       0              0
+  Small.Cell.Lung.Carcinoma                   0       0              0
+  Testes                                      0       0              0
+  Thymoma                                    37       0              0
+  Thyroid                                     0     150              0
+  Uveal.Melanoma                              0       0             24
+
+Overall Statistics
+                                          
+               Accuracy : 0.9714          
+                 95% CI : (0.9641, 0.9775)
+    No Information Rate : 0.0978          
+    P-Value [Acc > NIR] : < 2.2e-16       
+                                          
+                  Kappa : 0.9698          
+                                          
+ Mcnemar's Test P-Value : NA              
+
+Statistics by Class:
+
+                     Class: Adrenal Class: B.Cell Class: Bladder
+Sensitivity                0.958333      0.857143        0.94309
+Specificity                0.999599      1.000000        0.99916
+Pos Pred Value             0.958333      1.000000        0.98305
+Neg Pred Value             0.999599      0.999201        0.99708
+Prevalence                 0.009539      0.005564        0.04889
+Detection Rate             0.009141      0.004769        0.04610
+Detection Prevalence       0.009539      0.004769        0.04690
+Balanced Accuracy          0.978966      0.928571        0.97113
+                     Class: Bone.Marrow Class: Brain Class: Breast
+Sensitivity                     1.00000      0.90244       0.99119
+Specificity                     1.00000      0.99717       1.00000
+Pos Pred Value                  1.00000      0.84091       1.00000
+Neg Pred Value                  1.00000      0.99838       0.99913
+Prevalence                      0.02266      0.01630       0.09022
+Detection Rate                  0.02266      0.01471       0.08943
+Detection Prevalence            0.02266      0.01749       0.08943
+Balanced Accuracy               1.00000      0.94981       0.99559
+                     Class: Central.nervous.system Class: Cervical
+Sensitivity                                0.95425         0.94505
+Specificity                                0.99831         0.99876
+Pos Pred Value                             0.97333         0.96629
+Neg Pred Value                             0.99704         0.99794
+Prevalence                                 0.06081         0.03617
+Detection Rate                             0.05803         0.03418
+Detection Prevalence                       0.05962         0.03537
+Balanced Accuracy                          0.97628         0.97191
+                     Class: Colon.Rectum Class: Endometrial.Uterus
+Sensitivity                      0.99083                   0.99306
+Specificity                      0.99958                   0.99874
+Pos Pred Value                   0.99083                   0.97945
+Neg Pred Value                   0.99958                   0.99958
+Prevalence                       0.04332                   0.05723
+Detection Rate                   0.04293                   0.05684
+Detection Prevalence             0.04332                   0.05803
+Balanced Accuracy                0.99521                   0.99590
+                     Class: Esophagus.Adenocarcinoma.Stomach
+Sensitivity                                          0.97902
+Specificity                                          0.99831
+Pos Pred Value                                       0.97222
+Neg Pred Value                                       0.99874
+Prevalence                                           0.05684
+Detection Rate                                       0.05564
+Detection Prevalence                                 0.05723
+Balanced Accuracy                                    0.98867
+                     Class: Esophagus.Squamous.Cell.Carcinoma
+Sensitivity                                          0.777778
+Specificity                                          0.996384
+Pos Pred Value                                       0.700000
+Neg Pred Value                                       0.997586
+Prevalence                                           0.010731
+Detection Rate                                       0.008347
+Detection Prevalence                                 0.011924
+Balanced Accuracy                                    0.887081
+                     Class: Head.and.Neck Class: Kidney.Chromophobe
+Sensitivity                       0.96178                  1.000000
+Specificity                       0.99364                  1.000000
+Pos Pred Value                    0.90964                  1.000000
+Neg Pred Value                    0.99745                  1.000000
+Prevalence                        0.06240                  0.007552
+Detection Rate                    0.06002                  0.007552
+Detection Prevalence              0.06598                  0.007552
+Balanced Accuracy                 0.97771                  1.000000
+                     Class: Kidney.Clear.Cell.Renal.Carcinoma
+Sensitivity                                           0.93684
+Specificity                                           1.00000
+Pos Pred Value                                        1.00000
+Neg Pred Value                                        0.99753
+Prevalence                                            0.03776
+Detection Rate                                        0.03537
+Detection Prevalence                                  0.03537
+Balanced Accuracy                                     0.96842
+                     Class: Kidney.Papillary.Renal.Cell.Carcinoma Class: Liver
+Sensitivity                                               1.00000      0.99099
+Specificity                                               0.99877      1.00000
+Pos Pred Value                                            0.96471      1.00000
+Neg Pred Value                                            1.00000      0.99958
+Prevalence                                                0.03259      0.04412
+Detection Rate                                            0.03259      0.04372
+Detection Prevalence                                      0.03378      0.04372
+Balanced Accuracy                                         0.99938      0.99550
+                     Class: Non.glabrous.skin
+Sensitivity                           1.00000
+Specificity                           1.00000
+Pos Pred Value                        1.00000
+Neg Pred Value                        1.00000
+Prevalence                            0.01232
+Detection Rate                        0.01232
+Detection Prevalence                  0.01232
+Balanced Accuracy                     1.00000
+                     Class: Non.small.cell.Lung.Carcinoma Class: Pancreas
+Sensitivity                                       0.97154         0.96078
+Specificity                                       0.99383         1.00000
+Pos Pred Value                                    0.94466         1.00000
+Neg Pred Value                                    0.99691         0.99919
+Prevalence                                        0.09777         0.02027
+Detection Rate                                    0.09499         0.01948
+Detection Prevalence                              0.10056         0.01948
+Balanced Accuracy                                 0.98269         0.98039
+                     Class: Pheochromocytoma.and.Paraganglioma Class: Pleura
+Sensitivity                                            0.98113      0.807692
+Specificity                                            1.00000      1.000000
+Pos Pred Value                                         1.00000      1.000000
+Neg Pred Value                                         0.99959      0.997996
+Prevalence                                             0.02107      0.010334
+Detection Rate                                         0.02067      0.008347
+Detection Prevalence                                   0.02067      0.008347
+Balanced Accuracy                                      0.99057      0.903846
+                     Class: Prostate Class: Sarcoma
+Sensitivity                  1.00000        1.00000
+Specificity                  1.00000        0.99755
+Pos Pred Value               1.00000        0.92308
+Neg Pred Value               1.00000        1.00000
+Prevalence                   0.05882        0.02862
+Detection Rate               0.05882        0.02862
+Detection Prevalence         0.05882        0.03100
+Balanced Accuracy            1.00000        0.99877
+                     Class: Small.Cell.Lung.Carcinoma Class: Testes
+Sensitivity                                  0.800000        1.0000
+Specificity                                  1.000000        1.0000
+Pos Pred Value                               1.000000        1.0000
+Neg Pred Value                               0.998400        1.0000
+Prevalence                                   0.007949        0.0159
+Detection Rate                               0.006359        0.0159
+Detection Prevalence                         0.006359        0.0159
+Balanced Accuracy                            0.900000        1.0000
+                     Class: Thymoma Class: Thyroid Class: Uveal.Melanoma
+Sensitivity                 1.00000        0.99338              1.000000
+Specificity                 1.00000        1.00000              1.000000
+Pos Pred Value              1.00000        1.00000              1.000000
+Neg Pred Value              1.00000        0.99958              1.000000
+Prevalence                  0.01471        0.06002              0.009539
+Detection Rate              0.01471        0.05962              0.009539
+Detection Prevalence        0.01471        0.05962              0.009539
+Balanced Accuracy           1.00000        0.99669              1.000000
+[1] "Training RF"
+Random Forest 
+
+5911 samples
+1965 predictors
+  29 classes: 'Adrenal', 'B.Cell', 'Bladder', 'Bone.Marrow', 'Brain', 'Breast', 'Central.nervous.system', 'Cervical', 'Colon.Rectum', 'Endometrial.Uterus', 'Esophagus.Adenocarcinoma.Stomach', 'Esophagus.Squamous.Cell.Carcinoma', 'Head.and.Neck', 'Kidney.Chromophobe', 'Kidney.Clear.Cell.Renal.Carcinoma', 'Kidney.Papillary.Renal.Cell.Carcinoma', 'Liver', 'Non.glabrous.skin', 'Non.small.cell.Lung.Carcinoma', 'Pancreas', 'Pheochromocytoma.and.Paraganglioma', 'Pleura', 'Prostate', 'Sarcoma', 'Small.Cell.Lung.Carcinoma', 'Testes', 'Thymoma', 'Thyroid', 'Uveal.Melanoma' 
+
+No pre-processing
+Resampling: Cross-Validated (10 fold, repeated 3 times) 
+Summary of sample sizes: 5317, 5322, 5317, 5322, 5323, 5319, ... 
+Resampling results across tuning parameters:
+
+  mtry  Accuracy   Kappa    
+     2  0.9350465  0.9313703
+    62  0.9524699  0.9498037
+  1963  0.9457038  0.9426702
+
+Accuracy was used to select the optimal model using the largest value.
+The final value used for the model was mtry = 62.
+Confusion Matrix and Statistics
+
+                                       Reference
+Prediction                              Adrenal B.Cell Bladder Bone.Marrow
+  Adrenal                                    23      0       0           0
+  B.Cell                                      0     14       0           0
+  Bladder                                     0      0     115           0
+  Bone.Marrow                                 0      0       0          57
+  Brain                                       0      0       0           0
+  Breast                                      0      0       0           0
+  Central.nervous.system                      0      0       0           0
+  Cervical                                    0      0       3           0
+  Colon.Rectum                                0      0       0           0
+  Endometrial.Uterus                          0      0       0           0
+  Esophagus.Adenocarcinoma.Stomach            0      0       0           0
+  Esophagus.Squamous.Cell.Carcinoma           0      0       0           0
+  Head.and.Neck                               0      0       4           0
+  Kidney.Chromophobe                          0      0       0           0
+  Kidney.Clear.Cell.Renal.Carcinoma           0      0       0           0
+  Kidney.Papillary.Renal.Cell.Carcinoma       0      0       0           0
+  Liver                                       0      0       0           0
+  Non.glabrous.skin                           0      0       0           0
+  Non.small.cell.Lung.Carcinoma               1      0       0           0
+  Pancreas                                    0      0       0           0
+  Pheochromocytoma.and.Paraganglioma          0      0       0           0
+  Pleura                                      0      0       0           0
+  Prostate                                    0      0       0           0
+  Sarcoma                                     0      0       1           0
+  Small.Cell.Lung.Carcinoma                   0      0       0           0
+  Testes                                      0      0       0           0
+  Thymoma                                     0      0       0           0
+  Thyroid                                     0      0       0           0
+  Uveal.Melanoma                              0      0       0           0
+                                       Reference
+Prediction                              Brain Breast Central.nervous.system
+  Adrenal                                   0      0                      0
+  B.Cell                                    0      0                      0
+  Bladder                                   0      2                      0
+  Bone.Marrow                               0      0                      0
+  Brain                                    33      0                      6
+  Breast                                    0    223                      0
+  Central.nervous.system                    7      0                    147
+  Cervical                                  0      0                      0
+  Colon.Rectum                              0      0                      0
+  Endometrial.Uterus                        0      0                      0
+  Esophagus.Adenocarcinoma.Stomach          0      0                      0
+  Esophagus.Squamous.Cell.Carcinoma         0      0                      0
+  Head.and.Neck                             0      2                      0
+  Kidney.Chromophobe                        0      0                      0
+  Kidney.Clear.Cell.Renal.Carcinoma         0      0                      0
+  Kidney.Papillary.Renal.Cell.Carcinoma     0      0                      0
+  Liver                                     0      0                      0
+  Non.glabrous.skin                         0      0                      0
+  Non.small.cell.Lung.Carcinoma             0      0                      0
+  Pancreas                                  0      0                      0
+  Pheochromocytoma.and.Paraganglioma        0      0                      0
+  Pleura                                    0      0                      0
+  Prostate                                  0      0                      0
+  Sarcoma                                   1      0                      0
+  Small.Cell.Lung.Carcinoma                 0      0                      0
+  Testes                                    0      0                      0
+  Thymoma                                   0      0                      0
+  Thyroid                                   0      0                      0
+  Uveal.Melanoma                            0      0                      0
+                                       Reference
+Prediction                              Cervical Colon.Rectum
+  Adrenal                                      0            0
+  B.Cell                                       0            0
+  Bladder                                      3            0
+  Bone.Marrow                                  0            0
+  Brain                                        0            0
+  Breast                                       0            0
+  Central.nervous.system                       0            0
+  Cervical                                    82            0
+  Colon.Rectum                                 0          107
+  Endometrial.Uterus                           4            0
+  Esophagus.Adenocarcinoma.Stomach             0            1
+  Esophagus.Squamous.Cell.Carcinoma            0            0
+  Head.and.Neck                                2            0
+  Kidney.Chromophobe                           0            0
+  Kidney.Clear.Cell.Renal.Carcinoma            0            0
+  Kidney.Papillary.Renal.Cell.Carcinoma        0            0
+  Liver                                        0            0
+  Non.glabrous.skin                            0            0
+  Non.small.cell.Lung.Carcinoma                0            0
+  Pancreas                                     0            1
+  Pheochromocytoma.and.Paraganglioma           0            0
+  Pleura                                       0            0
+  Prostate                                     0            0
+  Sarcoma                                      0            0
+  Small.Cell.Lung.Carcinoma                    0            0
+  Testes                                       0            0
+  Thymoma                                      0            0
+  Thyroid                                      0            0
+  Uveal.Melanoma                               0            0
+                                       Reference
+Prediction                              Endometrial.Uterus
+  Adrenal                                                0
+  B.Cell                                                 0
+  Bladder                                                0
+  Bone.Marrow                                            0
+  Brain                                                  0
+  Breast                                                 0
+  Central.nervous.system                                 0
+  Cervical                                               1
+  Colon.Rectum                                           0
+  Endometrial.Uterus                                   142
+  Esophagus.Adenocarcinoma.Stomach                       0
+  Esophagus.Squamous.Cell.Carcinoma                      0
+  Head.and.Neck                                          0
+  Kidney.Chromophobe                                     0
+  Kidney.Clear.Cell.Renal.Carcinoma                      0
+  Kidney.Papillary.Renal.Cell.Carcinoma                  0
+  Liver                                                  0
+  Non.glabrous.skin                                      0
+  Non.small.cell.Lung.Carcinoma                          0
+  Pancreas                                               0
+  Pheochromocytoma.and.Paraganglioma                     0
+  Pleura                                                 0
+  Prostate                                               0
+  Sarcoma                                                1
+  Small.Cell.Lung.Carcinoma                              0
+  Testes                                                 0
+  Thymoma                                                0
+  Thyroid                                                0
+  Uveal.Melanoma                                         0
+                                       Reference
+Prediction                              Esophagus.Adenocarcinoma.Stomach
+  Adrenal                                                              0
+  B.Cell                                                               0
+  Bladder                                                              1
+  Bone.Marrow                                                          0
+  Brain                                                                0
+  Breast                                                               0
+  Central.nervous.system                                               0
+  Cervical                                                             0
+  Colon.Rectum                                                         1
+  Endometrial.Uterus                                                   0
+  Esophagus.Adenocarcinoma.Stomach                                   139
+  Esophagus.Squamous.Cell.Carcinoma                                    0
+  Head.and.Neck                                                        0
+  Kidney.Chromophobe                                                   0
+  Kidney.Clear.Cell.Renal.Carcinoma                                    0
+  Kidney.Papillary.Renal.Cell.Carcinoma                                0
+  Liver                                                                0
+  Non.glabrous.skin                                                    0
+  Non.small.cell.Lung.Carcinoma                                        2
+  Pancreas                                                             0
+  Pheochromocytoma.and.Paraganglioma                                   0
+  Pleura                                                               0
+  Prostate                                                             0
+  Sarcoma                                                              0
+  Small.Cell.Lung.Carcinoma                                            0
+  Testes                                                               0
+  Thymoma                                                              0
+  Thyroid                                                              0
+  Uveal.Melanoma                                                       0
+                                       Reference
+Prediction                              Esophagus.Squamous.Cell.Carcinoma
+  Adrenal                                                               0
+  B.Cell                                                                0
+  Bladder                                                               1
+  Bone.Marrow                                                           0
+  Brain                                                                 0
+  Breast                                                                0
+  Central.nervous.system                                                0
+  Cervical                                                              1
+  Colon.Rectum                                                          0
+  Endometrial.Uterus                                                    0
+  Esophagus.Adenocarcinoma.Stomach                                      0
+  Esophagus.Squamous.Cell.Carcinoma                                     4
+  Head.and.Neck                                                        19
+  Kidney.Chromophobe                                                    0
+  Kidney.Clear.Cell.Renal.Carcinoma                                     0
+  Kidney.Papillary.Renal.Cell.Carcinoma                                 0
+  Liver                                                                 0
+  Non.glabrous.skin                                                     0
+  Non.small.cell.Lung.Carcinoma                                         2
+  Pancreas                                                              0
+  Pheochromocytoma.and.Paraganglioma                                    0
+  Pleura                                                                0
+  Prostate                                                              0
+  Sarcoma                                                               0
+  Small.Cell.Lung.Carcinoma                                             0
+  Testes                                                                0
+  Thymoma                                                               0
+  Thyroid                                                               0
+  Uveal.Melanoma                                                        0
+                                       Reference
+Prediction                              Head.and.Neck Kidney.Chromophobe
+  Adrenal                                           0                  0
+  B.Cell                                            0                  0
+  Bladder                                           0                  0
+  Bone.Marrow                                       0                  0
+  Brain                                             0                  0
+  Breast                                            0                  0
+  Central.nervous.system                            0                  0
+  Cervical                                          0                  0
+  Colon.Rectum                                      0                  0
+  Endometrial.Uterus                                0                  0
+  Esophagus.Adenocarcinoma.Stomach                  0                  0
+  Esophagus.Squamous.Cell.Carcinoma                 0                  0
+  Head.and.Neck                                   155                  0
+  Kidney.Chromophobe                                0                 19
+  Kidney.Clear.Cell.Renal.Carcinoma                 0                  0
+  Kidney.Papillary.Renal.Cell.Carcinoma             0                  0
+  Liver                                             0                  0
+  Non.glabrous.skin                                 0                  0
+  Non.small.cell.Lung.Carcinoma                     2                  0
+  Pancreas                                          0                  0
+  Pheochromocytoma.and.Paraganglioma                0                  0
+  Pleura                                            0                  0
+  Prostate                                          0                  0
+  Sarcoma                                           0                  0
+  Small.Cell.Lung.Carcinoma                         0                  0
+  Testes                                            0                  0
+  Thymoma                                           0                  0
+  Thyroid                                           0                  0
+  Uveal.Melanoma                                    0                  0
+                                       Reference
+Prediction                              Kidney.Clear.Cell.Renal.Carcinoma
+  Adrenal                                                               0
+  B.Cell                                                                0
+  Bladder                                                               0
+  Bone.Marrow                                                           0
+  Brain                                                                 0
+  Breast                                                                0
+  Central.nervous.system                                                0
+  Cervical                                                              0
+  Colon.Rectum                                                          0
+  Endometrial.Uterus                                                    0
+  Esophagus.Adenocarcinoma.Stomach                                      0
+  Esophagus.Squamous.Cell.Carcinoma                                     0
+  Head.and.Neck                                                         0
+  Kidney.Chromophobe                                                    0
+  Kidney.Clear.Cell.Renal.Carcinoma                                    88
+  Kidney.Papillary.Renal.Cell.Carcinoma                                 4
+  Liver                                                                 0
+  Non.glabrous.skin                                                     0
+  Non.small.cell.Lung.Carcinoma                                         1
+  Pancreas                                                              0
+  Pheochromocytoma.and.Paraganglioma                                    0
+  Pleura                                                                0
+  Prostate                                                              0
+  Sarcoma                                                               2
+  Small.Cell.Lung.Carcinoma                                             0
+  Testes                                                                0
+  Thymoma                                                               0
+  Thyroid                                                               0
+  Uveal.Melanoma                                                        0
+                                       Reference
+Prediction                              Kidney.Papillary.Renal.Cell.Carcinoma
+  Adrenal                                                                   0
+  B.Cell                                                                    0
+  Bladder                                                                   0
+  Bone.Marrow                                                               0
+  Brain                                                                     0
+  Breast                                                                    0
+  Central.nervous.system                                                    0
+  Cervical                                                                  0
+  Colon.Rectum                                                              0
+  Endometrial.Uterus                                                        0
+  Esophagus.Adenocarcinoma.Stomach                                          0
+  Esophagus.Squamous.Cell.Carcinoma                                         0
+  Head.and.Neck                                                             0
+  Kidney.Chromophobe                                                        0
+  Kidney.Clear.Cell.Renal.Carcinoma                                         0
+  Kidney.Papillary.Renal.Cell.Carcinoma                                    82
+  Liver                                                                     0
+  Non.glabrous.skin                                                         0
+  Non.small.cell.Lung.Carcinoma                                             0
+  Pancreas                                                                  0
+  Pheochromocytoma.and.Paraganglioma                                        0
+  Pleura                                                                    0
+  Prostate                                                                  0
+  Sarcoma                                                                   0
+  Small.Cell.Lung.Carcinoma                                                 0
+  Testes                                                                    0
+  Thymoma                                                                   0
+  Thyroid                                                                   0
+  Uveal.Melanoma                                                            0
+                                       Reference
+Prediction                              Liver Non.glabrous.skin
+  Adrenal                                   0                 0
+  B.Cell                                    0                 0
+  Bladder                                   0                 0
+  Bone.Marrow                               0                 0
+  Brain                                     0                 0
+  Breast                                    1                 0
+  Central.nervous.system                    0                 0
+  Cervical                                  0                 0
+  Colon.Rectum                              0                 0
+  Endometrial.Uterus                        0                 0
+  Esophagus.Adenocarcinoma.Stomach          1                 0
+  Esophagus.Squamous.Cell.Carcinoma         0                 0
+  Head.and.Neck                             0                 0
+  Kidney.Chromophobe                        0                 0
+  Kidney.Clear.Cell.Renal.Carcinoma         0                 0
+  Kidney.Papillary.Renal.Cell.Carcinoma     0                 0
+  Liver                                   108                 0
+  Non.glabrous.skin                         0                31
+  Non.small.cell.Lung.Carcinoma             0                 0
+  Pancreas                                  0                 0
+  Pheochromocytoma.and.Paraganglioma        0                 0
+  Pleura                                    0                 0
+  Prostate                                  0                 0
+  Sarcoma                                   1                 0
+  Small.Cell.Lung.Carcinoma                 0                 0
+  Testes                                    0                 0
+  Thymoma                                   0                 0
+  Thyroid                                   0                 0
+  Uveal.Melanoma                            0                 0
+                                       Reference
+Prediction                              Non.small.cell.Lung.Carcinoma Pancreas
+  Adrenal                                                           0        0
+  B.Cell                                                            0        0
+  Bladder                                                           0        0
+  Bone.Marrow                                                       0        0
+  Brain                                                             0        0
+  Breast                                                            0        0
+  Central.nervous.system                                            0        0
+  Cervical                                                          0        0
+  Colon.Rectum                                                      0        0
+  Endometrial.Uterus                                                0        0
+  Esophagus.Adenocarcinoma.Stomach                                  0        1
+  Esophagus.Squamous.Cell.Carcinoma                                 0        0
+  Head.and.Neck                                                     2        0
+  Kidney.Chromophobe                                                0        0
+  Kidney.Clear.Cell.Renal.Carcinoma                                 0        0
+  Kidney.Papillary.Renal.Cell.Carcinoma                             0        0
+  Liver                                                             0        0
+  Non.glabrous.skin                                                 0        0
+  Non.small.cell.Lung.Carcinoma                                   243        0
+  Pancreas                                                          0       48
+  Pheochromocytoma.and.Paraganglioma                                0        2
+  Pleura                                                            0        0
+  Prostate                                                          0        0
+  Sarcoma                                                           0        0
+  Small.Cell.Lung.Carcinoma                                         0        0
+  Testes                                                            1        0
+  Thymoma                                                           0        0
+  Thyroid                                                           0        0
+  Uveal.Melanoma                                                    0        0
+                                       Reference
+Prediction                              Pheochromocytoma.and.Paraganglioma
+  Adrenal                                                                1
+  B.Cell                                                                 0
+  Bladder                                                                0
+  Bone.Marrow                                                            0
+  Brain                                                                  0
+  Breast                                                                 0
+  Central.nervous.system                                                 0
+  Cervical                                                               0
+  Colon.Rectum                                                           0
+  Endometrial.Uterus                                                     0
+  Esophagus.Adenocarcinoma.Stomach                                       0
+  Esophagus.Squamous.Cell.Carcinoma                                      0
+  Head.and.Neck                                                          0
+  Kidney.Chromophobe                                                     0
+  Kidney.Clear.Cell.Renal.Carcinoma                                      0
+  Kidney.Papillary.Renal.Cell.Carcinoma                                  0
+  Liver                                                                  0
+  Non.glabrous.skin                                                      0
+  Non.small.cell.Lung.Carcinoma                                          0
+  Pancreas                                                               0
+  Pheochromocytoma.and.Paraganglioma                                    52
+  Pleura                                                                 0
+  Prostate                                                               0
+  Sarcoma                                                                0
+  Small.Cell.Lung.Carcinoma                                              0
+  Testes                                                                 0
+  Thymoma                                                                0
+  Thyroid                                                                0
+  Uveal.Melanoma                                                         0
+                                       Reference
+Prediction                              Pleura Prostate Sarcoma
+  Adrenal                                    0        0       0
+  B.Cell                                     0        0       0
+  Bladder                                    0        0       0
+  Bone.Marrow                                0        0       0
+  Brain                                      0        0       1
+  Breast                                     0        0       0
+  Central.nervous.system                     0        0       0
+  Cervical                                   0        0       0
+  Colon.Rectum                               0        0       0
+  Endometrial.Uterus                         0        0       0
+  Esophagus.Adenocarcinoma.Stomach           0        0       0
+  Esophagus.Squamous.Cell.Carcinoma          0        0       0
+  Head.and.Neck                              0        0       0
+  Kidney.Chromophobe                         0        0       0
+  Kidney.Clear.Cell.Renal.Carcinoma          0        0       0
+  Kidney.Papillary.Renal.Cell.Carcinoma      0        0       0
+  Liver                                      0        0       0
+  Non.glabrous.skin                          0        0       0
+  Non.small.cell.Lung.Carcinoma              2        0       0
+  Pancreas                                   0        0       0
+  Pheochromocytoma.and.Paraganglioma         0        0       0
+  Pleura                                    20        0       0
+  Prostate                                   0      148       0
+  Sarcoma                                    4        0      71
+  Small.Cell.Lung.Carcinoma                  0        0       0
+  Testes                                     0        0       0
+  Thymoma                                    0        0       0
+  Thyroid                                    0        0       0
+  Uveal.Melanoma                             0        0       0
+                                       Reference
+Prediction                              Small.Cell.Lung.Carcinoma Testes
+  Adrenal                                                       0      0
+  B.Cell                                                        0      0
+  Bladder                                                       0      0
+  Bone.Marrow                                                   0      0
+  Brain                                                         0      0
+  Breast                                                        0      0
+  Central.nervous.system                                        0      0
+  Cervical                                                      0      0
+  Colon.Rectum                                                  0      0
+  Endometrial.Uterus                                            0      0
+  Esophagus.Adenocarcinoma.Stomach                              0      0
+  Esophagus.Squamous.Cell.Carcinoma                             0      0
+  Head.and.Neck                                                 0      0
+  Kidney.Chromophobe                                            0      0
+  Kidney.Clear.Cell.Renal.Carcinoma                             0      0
+  Kidney.Papillary.Renal.Cell.Carcinoma                         0      0
+  Liver                                                         0      0
+  Non.glabrous.skin                                             0      0
+  Non.small.cell.Lung.Carcinoma                                 4      0
+  Pancreas                                                      0      0
+  Pheochromocytoma.and.Paraganglioma                            0      0
+  Pleura                                                        0      0
+  Prostate                                                      0      0
+  Sarcoma                                                       1      0
+  Small.Cell.Lung.Carcinoma                                    15      0
+  Testes                                                        0     40
+  Thymoma                                                       0      0
+  Thyroid                                                       0      0
+  Uveal.Melanoma                                                0      0
+                                       Reference
+Prediction                              Thymoma Thyroid Uveal.Melanoma
+  Adrenal                                     0       0              0
+  B.Cell                                      0       0              0
+  Bladder                                     0       0              0
+  Bone.Marrow                                 0       0              0
+  Brain                                       0       0              0
+  Breast                                      0       0              0
+  Central.nervous.system                      0       0              0
+  Cervical                                    0       0              0
+  Colon.Rectum                                0       0              0
+  Endometrial.Uterus                          0       0              0
+  Esophagus.Adenocarcinoma.Stomach            0       0              0
+  Esophagus.Squamous.Cell.Carcinoma           0       0              0
+  Head.and.Neck                               0       0              0
+  Kidney.Chromophobe                          0       0              0
+  Kidney.Clear.Cell.Renal.Carcinoma           0       0              0
+  Kidney.Papillary.Renal.Cell.Carcinoma       0       0              0
+  Liver                                       0       0              0
+  Non.glabrous.skin                           0       0              1
+  Non.small.cell.Lung.Carcinoma               0       0              0
+  Pancreas                                    0       0              0
+  Pheochromocytoma.and.Paraganglioma          0       0              0
+  Pleura                                      0       0              0
+  Prostate                                    0       0              0
+  Sarcoma                                     0       0              0
+  Small.Cell.Lung.Carcinoma                   0       0              0
+  Testes                                      0       0              0
+  Thymoma                                    37       0              0
+  Thyroid                                     0     151              0
+  Uveal.Melanoma                              0       0             23
+
+Overall Statistics
+                                          
+               Accuracy : 0.9607          
+                 95% CI : (0.9523, 0.9679)
+    No Information Rate : 0.0978          
+    P-Value [Acc > NIR] : < 2.2e-16       
+                                          
+                  Kappa : 0.9584          
+                                          
+ Mcnemar's Test P-Value : NA              
+
+Statistics by Class:
+
+                     Class: Adrenal Class: B.Cell Class: Bladder
+Sensitivity                0.958333      1.000000        0.93496
+Specificity                0.999599      1.000000        0.99707
+Pos Pred Value             0.958333      1.000000        0.94262
+Neg Pred Value             0.999599      1.000000        0.99666
+Prevalence                 0.009539      0.005564        0.04889
+Detection Rate             0.009141      0.005564        0.04571
+Detection Prevalence       0.009539      0.005564        0.04849
+Balanced Accuracy          0.978966      1.000000        0.96602
+                     Class: Bone.Marrow Class: Brain Class: Breast
+Sensitivity                     1.00000      0.80488       0.98238
+Specificity                     1.00000      0.99717       0.99956
+Pos Pred Value                  1.00000      0.82500       0.99554
+Neg Pred Value                  1.00000      0.99677       0.99825
+Prevalence                      0.02266      0.01630       0.09022
+Detection Rate                  0.02266      0.01312       0.08863
+Detection Prevalence            0.02266      0.01590       0.08903
+Balanced Accuracy               1.00000      0.90102       0.99097
+                     Class: Central.nervous.system Class: Cervical
+Sensitivity                                0.96078         0.90110
+Specificity                                0.99704         0.99794
+Pos Pred Value                             0.95455         0.94253
+Neg Pred Value                             0.99746         0.99629
+Prevalence                                 0.06081         0.03617
+Detection Rate                             0.05843         0.03259
+Detection Prevalence                       0.06121         0.03458
+Balanced Accuracy                          0.97891         0.94952
+                     Class: Colon.Rectum Class: Endometrial.Uterus
+Sensitivity                      0.98165                   0.98611
+Specificity                      0.99958                   0.99831
+Pos Pred Value                   0.99074                   0.97260
+Neg Pred Value                   0.99917                   0.99916
+Prevalence                       0.04332                   0.05723
+Detection Rate                   0.04253                   0.05644
+Detection Prevalence             0.04293                   0.05803
+Balanced Accuracy                0.99062                   0.99221
+                     Class: Esophagus.Adenocarcinoma.Stomach
+Sensitivity                                          0.97203
+Specificity                                          0.99874
+Pos Pred Value                                       0.97887
+Neg Pred Value                                       0.99832
+Prevalence                                           0.05684
+Detection Rate                                       0.05525
+Detection Prevalence                                 0.05644
+Balanced Accuracy                                    0.98538
+                     Class: Esophagus.Squamous.Cell.Carcinoma
+Sensitivity                                           0.14815
+Specificity                                           1.00000
+Pos Pred Value                                        1.00000
+Neg Pred Value                                        0.99084
+Prevalence                                            0.01073
+Detection Rate                                        0.00159
+Detection Prevalence                                  0.00159
+Balanced Accuracy                                     0.57407
+                     Class: Head.and.Neck Class: Kidney.Chromophobe
+Sensitivity                       0.98726                  1.000000
+Specificity                       0.98771                  1.000000
+Pos Pred Value                    0.84239                  1.000000
+Neg Pred Value                    0.99914                  1.000000
+Prevalence                        0.06240                  0.007552
+Detection Rate                    0.06161                  0.007552
+Detection Prevalence              0.07313                  0.007552
+Balanced Accuracy                 0.98748                  1.000000
+                     Class: Kidney.Clear.Cell.Renal.Carcinoma
+Sensitivity                                           0.92632
+Specificity                                           1.00000
+Pos Pred Value                                        1.00000
+Neg Pred Value                                        0.99712
+Prevalence                                            0.03776
+Detection Rate                                        0.03498
+Detection Prevalence                                  0.03498
+Balanced Accuracy                                     0.96316
+                     Class: Kidney.Papillary.Renal.Cell.Carcinoma Class: Liver
+Sensitivity                                               1.00000      0.97297
+Specificity                                               0.99836      1.00000
+Pos Pred Value                                            0.95349      1.00000
+Neg Pred Value                                            1.00000      0.99875
+Prevalence                                                0.03259      0.04412
+Detection Rate                                            0.03259      0.04293
+Detection Prevalence                                      0.03418      0.04293
+Balanced Accuracy                                         0.99918      0.98649
+                     Class: Non.glabrous.skin
+Sensitivity                           1.00000
+Specificity                           0.99960
+Pos Pred Value                        0.96875
+Neg Pred Value                        1.00000
+Prevalence                            0.01232
+Detection Rate                        0.01232
+Detection Prevalence                  0.01272
+Balanced Accuracy                     0.99980
+                     Class: Non.small.cell.Lung.Carcinoma Class: Pancreas
+Sensitivity                                       0.98780         0.94118
+Specificity                                       0.99383         0.99959
+Pos Pred Value                                    0.94553         0.97959
+Neg Pred Value                                    0.99867         0.99878
+Prevalence                                        0.09777         0.02027
+Detection Rate                                    0.09658         0.01908
+Detection Prevalence                              0.10215         0.01948
+Balanced Accuracy                                 0.99082         0.97039
+                     Class: Pheochromocytoma.and.Paraganglioma Class: Pleura
+Sensitivity                                            0.98113      0.769231
+Specificity                                            0.99919      1.000000
+Pos Pred Value                                         0.96296      1.000000
+Neg Pred Value                                         0.99959      0.997596
+Prevalence                                             0.02107      0.010334
+Detection Rate                                         0.02067      0.007949
+Detection Prevalence                                   0.02146      0.007949
+Balanced Accuracy                                      0.99016      0.884615
+                     Class: Prostate Class: Sarcoma
+Sensitivity                  1.00000        0.98611
+Specificity                  1.00000        0.99550
+Pos Pred Value               1.00000        0.86585
+Neg Pred Value               1.00000        0.99959
+Prevalence                   0.05882        0.02862
+Detection Rate               0.05882        0.02822
+Detection Prevalence         0.05882        0.03259
+Balanced Accuracy            1.00000        0.99081
+                     Class: Small.Cell.Lung.Carcinoma Class: Testes
+Sensitivity                                  0.750000        1.0000
+Specificity                                  1.000000        0.9996
+Pos Pred Value                               1.000000        0.9756
+Neg Pred Value                               0.998001        1.0000
+Prevalence                                   0.007949        0.0159
+Detection Rate                               0.005962        0.0159
+Detection Prevalence                         0.005962        0.0163
+Balanced Accuracy                            0.875000        0.9998
+                     Class: Thymoma Class: Thyroid Class: Uveal.Melanoma
+Sensitivity                 1.00000        1.00000              0.958333
+Specificity                 1.00000        1.00000              1.000000
+Pos Pred Value              1.00000        1.00000              1.000000
+Neg Pred Value              1.00000        1.00000              0.999599
+Prevalence                  0.01471        0.06002              0.009539
+Detection Rate              0.01471        0.06002              0.009141
+Detection Prevalence        0.01471        0.06002              0.009141
+Balanced Accuracy           1.00000        1.00000              0.979167
+[1] "Training XGBoost"
+eXtreme Gradient Boosting 
+
+5911 samples
+1965 predictors
+  29 classes: 'Adrenal', 'B.Cell', 'Bladder', 'Bone.Marrow', 'Brain', 'Breast', 'Central.nervous.system', 'Cervical', 'Colon.Rectum', 'Endometrial.Uterus', 'Esophagus.Adenocarcinoma.Stomach', 'Esophagus.Squamous.Cell.Carcinoma', 'Head.and.Neck', 'Kidney.Chromophobe', 'Kidney.Clear.Cell.Renal.Carcinoma', 'Kidney.Papillary.Renal.Cell.Carcinoma', 'Liver', 'Non.glabrous.skin', 'Non.small.cell.Lung.Carcinoma', 'Pancreas', 'Pheochromocytoma.and.Paraganglioma', 'Pleura', 'Prostate', 'Sarcoma', 'Small.Cell.Lung.Carcinoma', 'Testes', 'Thymoma', 'Thyroid', 'Uveal.Melanoma' 
+
+No pre-processing
+Resampling: Cross-Validated (10 fold, repeated 3 times) 
+Summary of sample sizes: 5319, 5321, 5322, 5318, 5319, 5318, ... 
+Resampling results across tuning parameters:
+
+  eta  max_depth  colsample_bytree  subsample  nrounds  Accuracy     Kappa
+  0.3  1          0.6               0.50        50      0.016190992  0    
+  0.3  1          0.6               0.50       100      0.016638173  0    
+  0.3  1          0.6               0.50       150      0.017872058  0    
+  0.3  1          0.6               0.75        50      0.011205926  0    
+  0.3  1          0.6               0.75       100      0.010317568  0    
+  0.3  1          0.6               0.75       150      0.009308214  0    
+  0.3  1          0.6               1.00        50      0.006539924  0    
+  0.3  1          0.6               1.00       100      0.006539924  0    
+  0.3  1          0.6               1.00       150      0.006539924  0    
+  0.3  1          0.8               0.50        50      0.012301499  0    
+  0.3  1          0.8               0.50       100      0.012005813  0    
+  0.3  1          0.8               0.50       150      0.009984236  0    
+  0.3  1          0.8               0.75        50      0.015317586  0    
+  0.3  1          0.8               0.75       100      0.011153528  0    
+  0.3  1          0.8               0.75       150      0.012578780  0    
+  0.3  1          0.8               1.00        50      0.006539924  0    
+  0.3  1          0.8               1.00       100      0.006539924  0    
+  0.3  1          0.8               1.00       150      0.006539924  0    
+  0.3  2          0.6               0.50        50      0.012848796  0    
+  0.3  2          0.6               0.50       100      0.014093721  0    
+  0.3  2          0.6               0.50       150      0.012560419  0    
+  0.3  2          0.6               0.75        50      0.010714645  0    
+  0.3  2          0.6               0.75       100      0.011780593  0    
+  0.3  2          0.6               0.75       150      0.012395488  0    
+  0.3  2          0.6               1.00        50      0.006539924  0    
+  0.3  2          0.6               1.00       100      0.006539924  0    
+  0.3  2          0.6               1.00       150      0.006539924  0    
+  0.3  2          0.8               0.50        50      0.013250471  0    
+  0.3  2          0.8               0.50       100      0.013647547  0    
+  0.3  2          0.8               0.50       150      0.012232636  0    
+  0.3  2          0.8               0.75        50      0.011542730  0    
+  0.3  2          0.8               0.75       100      0.013684296  0    
+  0.3  2          0.8               0.75       150      0.014827178  0    
+  0.3  2          0.8               1.00        50      0.006539924  0    
+  0.3  2          0.8               1.00       100      0.006539924  0    
+  0.3  2          0.8               1.00       150      0.006539924  0    
+  0.3  3          0.6               0.50        50      0.014990089  0    
+  0.3  3          0.6               0.50       100      0.014095046  0    
+  0.3  3          0.6               0.50       150      0.010823814  0    
+  0.3  3          0.6               0.75        50      0.014926706  0    
+  0.3  3          0.6               0.75       100      0.009473894  0    
+  0.3  3          0.6               0.75       150      0.011725437  0    
+  0.3  3          0.6               1.00        50      0.006539924  0    
+  0.3  3          0.6               1.00       100      0.006539924  0    
+  0.3  3          0.6               1.00       150      0.006539924  0    
+  0.3  3          0.8               0.50        50      0.012739870  0    
+  0.3  3          0.8               0.50       100      0.014215214  0    
+  0.3  3          0.8               0.50       150      0.014382528  0    
+  0.3  3          0.8               0.75        50      0.010603389  0    
+  0.3  3          0.8               0.75       100      0.012744206  0    
+  0.3  3          0.8               0.75       150      0.010825171  0    
+  0.3  3          0.8               1.00        50      0.006539924  0    
+  0.3  3          0.8               1.00       100      0.006539924  0    
+  0.3  3          0.8               1.00       150      0.006539924  0    
+  0.4  1          0.6               0.50        50      0.013488872  0    
+  0.4  1          0.6               0.50       100      0.012357686  0    
+  0.4  1          0.6               0.50       150      0.012124067  0    
+  0.4  1          0.6               0.75        50      0.014391842  0    
+  0.4  1          0.6               0.75       100      0.010540345  0    
+  0.4  1          0.6               0.75       150      0.011900755  0    
+  0.4  1          0.6               1.00        50      0.006539924  0    
+  0.4  1          0.6               1.00       100      0.006539924  0    
+  0.4  1          0.6               1.00       150      0.006539924  0    
+  0.4  1          0.8               0.50        50      0.017704339  0    
+  0.4  1          0.8               0.50       100      0.017906446  0    
+  0.4  1          0.8               0.50       150      0.014090460  0    
+  0.4  1          0.8               0.75        50      0.009639298  0    
+  0.4  1          0.8               0.75       100      0.012855864  0    
+  0.4  1          0.8               0.75       150      0.013738519  0    
+  0.4  1          0.8               1.00        50      0.006539924  0    
+  0.4  1          0.8               1.00       100      0.006539924  0    
+  0.4  1          0.8               1.00       150      0.006539924  0    
+  0.4  2          0.6               0.50        50      0.011212680  0    
+  0.4  2          0.6               0.50       100      0.017706176  0    
+  0.4  2          0.6               0.50       150      0.012241235  0    
+  0.4  2          0.6               0.75        50      0.012121398  0    
+  0.4  2          0.6               0.75       100      0.013417192  0    
+  0.4  2          0.6               0.75       150      0.011719079  0    
+  0.4  2          0.6               1.00        50      0.006539924  0    
+  0.4  2          0.6               1.00       100      0.006539924  0    
+  0.4  2          0.6               1.00       150      0.006539924  0    
+  0.4  2          0.8               0.50        50      0.014432538  0    
+  0.4  2          0.8               0.50       100      0.015960919  0    
+  0.4  2          0.8               0.50       150      0.011614796  0    
+  0.4  2          0.8               0.75        50      0.012679288  0    
+  0.4  2          0.8               0.75       100      0.011668906  0    
+  0.4  2          0.8               0.75       150      0.013452515  0    
+  0.4  2          0.8               1.00        50      0.006539924  0    
+  0.4  2          0.8               1.00       100      0.006539924  0    
+  0.4  2          0.8               1.00       150      0.006539924  0    
+  0.4  3          0.6               0.50        50      0.013974726  0    
+  0.4  3          0.6               0.50       100      0.010943901  0    
+  0.4  3          0.6               0.50       150      0.012751344  0    
+  0.4  3          0.6               0.75        50      0.010545341  0    
+  0.4  3          0.6               0.75       100      0.013094564  0    
+  0.4  3          0.6               0.75       150      0.014136603  0    
+  0.4  3          0.6               1.00        50      0.006539924  0    
+  0.4  3          0.6               1.00       100      0.006539924  0    
+  0.4  3          0.6               1.00       150      0.006539924  0    
+  0.4  3          0.8               0.50        50      0.012905409  0    
+  0.4  3          0.8               0.50       100      0.011899234  0    
+  0.4  3          0.8               0.50       150      0.008399669  0    
+  0.4  3          0.8               0.75        50      0.013702896  0    
+  0.4  3          0.8               0.75       100      0.012676065  0    
+  0.4  3          0.8               0.75       150      0.014270531  0    
+  0.4  3          0.8               1.00        50      0.006539924  0    
+  0.4  3          0.8               1.00       100      0.006539924  0    
+  0.4  3          0.8               1.00       150      0.006539924  0    
+
+Tuning parameter 'gamma' was held constant at a value of 0
+Tuning
+ parameter 'min_child_weight' was held constant at a value of 1
+Accuracy was used to select the optimal model using the largest value.
+The final values used for the model were nrounds = 100, max_depth = 1, eta
+ = 0.4, gamma = 0, colsample_bytree = 0.8, min_child_weight = 1 and subsample
+ = 0.5.
+Confusion Matrix and Statistics
+
+                                       Reference
+Prediction                              Adrenal B.Cell Bladder Bone.Marrow
+  Adrenal                                     0      0       0           0
+  B.Cell                                      0      0       0           0
+  Bladder                                     0      0       0           0
+  Bone.Marrow                                 0      0       0           0
+  Brain                                       0      0       0           0
+  Breast                                      0      0       0           0
+  Central.nervous.system                      0      0       0           0
+  Cervical                                    0      0       0           0
+  Colon.Rectum                                0      0       0           0
+  Endometrial.Uterus                          0      0       0           0
+  Esophagus.Adenocarcinoma.Stomach            0      0       0           0
+  Esophagus.Squamous.Cell.Carcinoma           0      0       0           0
+  Head.and.Neck                               0      0       0           0
+  Kidney.Chromophobe                          0      0       0           0
+  Kidney.Clear.Cell.Renal.Carcinoma           0      0       0           0
+  Kidney.Papillary.Renal.Cell.Carcinoma       0      0       0           0
+  Liver                                       0      0       0           0
+  Non.glabrous.skin                           0      0       0           0
+  Non.small.cell.Lung.Carcinoma               0      0       0           0
+  Pancreas                                    0      0       0           0
+  Pheochromocytoma.and.Paraganglioma          0      0       0           0
+  Pleura                                      0      0       0           0
+  Prostate                                    0      0       0           0
+  Sarcoma                                     0      0       0           0
+  Small.Cell.Lung.Carcinoma                   0      0       0           0
+  Testes                                      0      0       0           0
+  Thymoma                                     0      0       0           0
+  Thyroid                                     0      0       0           0
+  Uveal.Melanoma                             24     14     123          57
+                                       Reference
+Prediction                              Brain Breast Central.nervous.system
+  Adrenal                                   0      0                      0
+  B.Cell                                    0      0                      0
+  Bladder                                   0      0                      0
+  Bone.Marrow                               0      0                      0
+  Brain                                     0      0                      0
+  Breast                                    0      0                      0
+  Central.nervous.system                    0      0                      0
+  Cervical                                  0      0                      0
+  Colon.Rectum                              0      0                      0
+  Endometrial.Uterus                        0      0                      0
+  Esophagus.Adenocarcinoma.Stomach          0      0                      0
+  Esophagus.Squamous.Cell.Carcinoma         0      0                      0
+  Head.and.Neck                             0      0                      0
+  Kidney.Chromophobe                        0      0                      0
+  Kidney.Clear.Cell.Renal.Carcinoma         0      0                      0
+  Kidney.Papillary.Renal.Cell.Carcinoma     0      0                      0
+  Liver                                     0      0                      0
+  Non.glabrous.skin                         0      0                      0
+  Non.small.cell.Lung.Carcinoma             0      0                      0
+  Pancreas                                  0      0                      0
+  Pheochromocytoma.and.Paraganglioma        0      0                      0
+  Pleura                                    0      0                      0
+  Prostate                                  0      0                      0
+  Sarcoma                                   0      0                      0
+  Small.Cell.Lung.Carcinoma                 0      0                      0
+  Testes                                    0      0                      0
+  Thymoma                                   0      0                      0
+  Thyroid                                   0      0                      0
+  Uveal.Melanoma                           41    227                    153
+                                       Reference
+Prediction                              Cervical Colon.Rectum
+  Adrenal                                      0            0
+  B.Cell                                       0            0
+  Bladder                                      0            0
+  Bone.Marrow                                  0            0
+  Brain                                        0            0
+  Breast                                       0            0
+  Central.nervous.system                       0            0
+  Cervical                                     0            0
+  Colon.Rectum                                 0            0
+  Endometrial.Uterus                           0            0
+  Esophagus.Adenocarcinoma.Stomach             0            0
+  Esophagus.Squamous.Cell.Carcinoma            0            0
+  Head.and.Neck                                0            0
+  Kidney.Chromophobe                           0            0
+  Kidney.Clear.Cell.Renal.Carcinoma            0            0
+  Kidney.Papillary.Renal.Cell.Carcinoma        0            0
+  Liver                                        0            0
+  Non.glabrous.skin                            0            0
+  Non.small.cell.Lung.Carcinoma                0            0
+  Pancreas                                     0            0
+  Pheochromocytoma.and.Paraganglioma           0            0
+  Pleura                                       0            0
+  Prostate                                     0            0
+  Sarcoma                                      0            0
+  Small.Cell.Lung.Carcinoma                    0            0
+  Testes                                       0            0
+  Thymoma                                      0            0
+  Thyroid                                      0            0
+  Uveal.Melanoma                              91          109
+                                       Reference
+Prediction                              Endometrial.Uterus
+  Adrenal                                                0
+  B.Cell                                                 0
+  Bladder                                                0
+  Bone.Marrow                                            0
+  Brain                                                  0
+  Breast                                                 0
+  Central.nervous.system                                 0
+  Cervical                                               0
+  Colon.Rectum                                           0
+  Endometrial.Uterus                                     0
+  Esophagus.Adenocarcinoma.Stomach                       0
+  Esophagus.Squamous.Cell.Carcinoma                      0
+  Head.and.Neck                                          0
+  Kidney.Chromophobe                                     0
+  Kidney.Clear.Cell.Renal.Carcinoma                      0
+  Kidney.Papillary.Renal.Cell.Carcinoma                  0
+  Liver                                                  0
+  Non.glabrous.skin                                      0
+  Non.small.cell.Lung.Carcinoma                          0
+  Pancreas                                               0
+  Pheochromocytoma.and.Paraganglioma                     0
+  Pleura                                                 0
+  Prostate                                               0
+  Sarcoma                                                0
+  Small.Cell.Lung.Carcinoma                              0
+  Testes                                                 0
+  Thymoma                                                0
+  Thyroid                                                0
+  Uveal.Melanoma                                       144
+                                       Reference
+Prediction                              Esophagus.Adenocarcinoma.Stomach
+  Adrenal                                                              0
+  B.Cell                                                               0
+  Bladder                                                              0
+  Bone.Marrow                                                          0
+  Brain                                                                0
+  Breast                                                               0
+  Central.nervous.system                                               0
+  Cervical                                                             0
+  Colon.Rectum                                                         0
+  Endometrial.Uterus                                                   0
+  Esophagus.Adenocarcinoma.Stomach                                     0
+  Esophagus.Squamous.Cell.Carcinoma                                    0
+  Head.and.Neck                                                        0
+  Kidney.Chromophobe                                                   0
+  Kidney.Clear.Cell.Renal.Carcinoma                                    0
+  Kidney.Papillary.Renal.Cell.Carcinoma                                0
+  Liver                                                                0
+  Non.glabrous.skin                                                    0
+  Non.small.cell.Lung.Carcinoma                                        0
+  Pancreas                                                             0
+  Pheochromocytoma.and.Paraganglioma                                   0
+  Pleura                                                               0
+  Prostate                                                             0
+  Sarcoma                                                              0
+  Small.Cell.Lung.Carcinoma                                            0
+  Testes                                                               0
+  Thymoma                                                              0
+  Thyroid                                                              0
+  Uveal.Melanoma                                                     143
+                                       Reference
+Prediction                              Esophagus.Squamous.Cell.Carcinoma
+  Adrenal                                                               0
+  B.Cell                                                                0
+  Bladder                                                               0
+  Bone.Marrow                                                           0
+  Brain                                                                 0
+  Breast                                                                0
+  Central.nervous.system                                                0
+  Cervical                                                              0
+  Colon.Rectum                                                          0
+  Endometrial.Uterus                                                    0
+  Esophagus.Adenocarcinoma.Stomach                                      0
+  Esophagus.Squamous.Cell.Carcinoma                                     0
+  Head.and.Neck                                                         0
+  Kidney.Chromophobe                                                    0
+  Kidney.Clear.Cell.Renal.Carcinoma                                     0
+  Kidney.Papillary.Renal.Cell.Carcinoma                                 0
+  Liver                                                                 0
+  Non.glabrous.skin                                                     0
+  Non.small.cell.Lung.Carcinoma                                         0
+  Pancreas                                                              0
+  Pheochromocytoma.and.Paraganglioma                                    0
+  Pleura                                                                0
+  Prostate                                                              0
+  Sarcoma                                                               0
+  Small.Cell.Lung.Carcinoma                                             0
+  Testes                                                                0
+  Thymoma                                                               0
+  Thyroid                                                               0
+  Uveal.Melanoma                                                       27
+                                       Reference
+Prediction                              Head.and.Neck Kidney.Chromophobe
+  Adrenal                                           0                  0
+  B.Cell                                            0                  0
+  Bladder                                           0                  0
+  Bone.Marrow                                       0                  0
+  Brain                                             0                  0
+  Breast                                            0                  0
+  Central.nervous.system                            0                  0
+  Cervical                                          0                  0
+  Colon.Rectum                                      0                  0
+  Endometrial.Uterus                                0                  0
+  Esophagus.Adenocarcinoma.Stomach                  0                  0
+  Esophagus.Squamous.Cell.Carcinoma                 0                  0
+  Head.and.Neck                                     0                  0
+  Kidney.Chromophobe                                0                  0
+  Kidney.Clear.Cell.Renal.Carcinoma                 0                  0
+  Kidney.Papillary.Renal.Cell.Carcinoma             0                  0
+  Liver                                             0                  0
+  Non.glabrous.skin                                 0                  0
+  Non.small.cell.Lung.Carcinoma                     0                  0
+  Pancreas                                          0                  0
+  Pheochromocytoma.and.Paraganglioma                0                  0
+  Pleura                                            0                  0
+  Prostate                                          0                  0
+  Sarcoma                                           0                  0
+  Small.Cell.Lung.Carcinoma                         0                  0
+  Testes                                            0                  0
+  Thymoma                                           0                  0
+  Thyroid                                           0                  0
+  Uveal.Melanoma                                  157                 19
+                                       Reference
+Prediction                              Kidney.Clear.Cell.Renal.Carcinoma
+  Adrenal                                                               0
+  B.Cell                                                                0
+  Bladder                                                               0
+  Bone.Marrow                                                           0
+  Brain                                                                 0
+  Breast                                                                0
+  Central.nervous.system                                                0
+  Cervical                                                              0
+  Colon.Rectum                                                          0
+  Endometrial.Uterus                                                    0
+  Esophagus.Adenocarcinoma.Stomach                                      0
+  Esophagus.Squamous.Cell.Carcinoma                                     0
+  Head.and.Neck                                                         0
+  Kidney.Chromophobe                                                    0
+  Kidney.Clear.Cell.Renal.Carcinoma                                     0
+  Kidney.Papillary.Renal.Cell.Carcinoma                                 0
+  Liver                                                                 0
+  Non.glabrous.skin                                                     0
+  Non.small.cell.Lung.Carcinoma                                         0
+  Pancreas                                                              0
+  Pheochromocytoma.and.Paraganglioma                                    0
+  Pleura                                                                0
+  Prostate                                                              0
+  Sarcoma                                                               0
+  Small.Cell.Lung.Carcinoma                                             0
+  Testes                                                                0
+  Thymoma                                                               0
+  Thyroid                                                               0
+  Uveal.Melanoma                                                       95
+                                       Reference
+Prediction                              Kidney.Papillary.Renal.Cell.Carcinoma
+  Adrenal                                                                   0
+  B.Cell                                                                    0
+  Bladder                                                                   0
+  Bone.Marrow                                                               0
+  Brain                                                                     0
+  Breast                                                                    0
+  Central.nervous.system                                                    0
+  Cervical                                                                  0
+  Colon.Rectum                                                              0
+  Endometrial.Uterus                                                        0
+  Esophagus.Adenocarcinoma.Stomach                                          0
+  Esophagus.Squamous.Cell.Carcinoma                                         0
+  Head.and.Neck                                                             0
+  Kidney.Chromophobe                                                        0
+  Kidney.Clear.Cell.Renal.Carcinoma                                         0
+  Kidney.Papillary.Renal.Cell.Carcinoma                                     0
+  Liver                                                                     0
+  Non.glabrous.skin                                                         0
+  Non.small.cell.Lung.Carcinoma                                             0
+  Pancreas                                                                  0
+  Pheochromocytoma.and.Paraganglioma                                        0
+  Pleura                                                                    0
+  Prostate                                                                  0
+  Sarcoma                                                                   0
+  Small.Cell.Lung.Carcinoma                                                 0
+  Testes                                                                    0
+  Thymoma                                                                   0
+  Thyroid                                                                   0
+  Uveal.Melanoma                                                           82
+                                       Reference
+Prediction                              Liver Non.glabrous.skin
+  Adrenal                                   0                 0
+  B.Cell                                    0                 0
+  Bladder                                   0                 0
+  Bone.Marrow                               0                 0
+  Brain                                     0                 0
+  Breast                                    0                 0
+  Central.nervous.system                    0                 0
+  Cervical                                  0                 0
+  Colon.Rectum                              0                 0
+  Endometrial.Uterus                        0                 0
+  Esophagus.Adenocarcinoma.Stomach          0                 0
+  Esophagus.Squamous.Cell.Carcinoma         0                 0
+  Head.and.Neck                             0                 0
+  Kidney.Chromophobe                        0                 0
+  Kidney.Clear.Cell.Renal.Carcinoma         0                 0
+  Kidney.Papillary.Renal.Cell.Carcinoma     0                 0
+  Liver                                     0                 0
+  Non.glabrous.skin                         0                 0
+  Non.small.cell.Lung.Carcinoma             0                 0
+  Pancreas                                  0                 0
+  Pheochromocytoma.and.Paraganglioma        0                 0
+  Pleura                                    0                 0
+  Prostate                                  0                 0
+  Sarcoma                                   0                 0
+  Small.Cell.Lung.Carcinoma                 0                 0
+  Testes                                    0                 0
+  Thymoma                                   0                 0
+  Thyroid                                   0                 0
+  Uveal.Melanoma                          111                31
+                                       Reference
+Prediction                              Non.small.cell.Lung.Carcinoma Pancreas
+  Adrenal                                                           0        0
+  B.Cell                                                            0        0
+  Bladder                                                           0        0
+  Bone.Marrow                                                       0        0
+  Brain                                                             0        0
+  Breast                                                            0        0
+  Central.nervous.system                                            0        0
+  Cervical                                                          0        0
+  Colon.Rectum                                                      0        0
+  Endometrial.Uterus                                                0        0
+  Esophagus.Adenocarcinoma.Stomach                                  0        0
+  Esophagus.Squamous.Cell.Carcinoma                                 0        0
+  Head.and.Neck                                                     0        0
+  Kidney.Chromophobe                                                0        0
+  Kidney.Clear.Cell.Renal.Carcinoma                                 0        0
+  Kidney.Papillary.Renal.Cell.Carcinoma                             0        0
+  Liver                                                             0        0
+  Non.glabrous.skin                                                 0        0
+  Non.small.cell.Lung.Carcinoma                                     0        0
+  Pancreas                                                          0        0
+  Pheochromocytoma.and.Paraganglioma                                0        0
+  Pleura                                                            0        0
+  Prostate                                                          0        0
+  Sarcoma                                                           0        0
+  Small.Cell.Lung.Carcinoma                                         0        0
+  Testes                                                            0        0
+  Thymoma                                                           0        0
+  Thyroid                                                           0        0
+  Uveal.Melanoma                                                  246       51
+                                       Reference
+Prediction                              Pheochromocytoma.and.Paraganglioma
+  Adrenal                                                                0
+  B.Cell                                                                 0
+  Bladder                                                                0
+  Bone.Marrow                                                            0
+  Brain                                                                  0
+  Breast                                                                 0
+  Central.nervous.system                                                 0
+  Cervical                                                               0
+  Colon.Rectum                                                           0
+  Endometrial.Uterus                                                     0
+  Esophagus.Adenocarcinoma.Stomach                                       0
+  Esophagus.Squamous.Cell.Carcinoma                                      0
+  Head.and.Neck                                                          0
+  Kidney.Chromophobe                                                     0
+  Kidney.Clear.Cell.Renal.Carcinoma                                      0
+  Kidney.Papillary.Renal.Cell.Carcinoma                                  0
+  Liver                                                                  0
+  Non.glabrous.skin                                                      0
+  Non.small.cell.Lung.Carcinoma                                          0
+  Pancreas                                                               0
+  Pheochromocytoma.and.Paraganglioma                                     0
+  Pleura                                                                 0
+  Prostate                                                               0
+  Sarcoma                                                                0
+  Small.Cell.Lung.Carcinoma                                              0
+  Testes                                                                 0
+  Thymoma                                                                0
+  Thyroid                                                                0
+  Uveal.Melanoma                                                        53
+                                       Reference
+Prediction                              Pleura Prostate Sarcoma
+  Adrenal                                    0        0       0
+  B.Cell                                     0        0       0
+  Bladder                                    0        0       0
+  Bone.Marrow                                0        0       0
+  Brain                                      0        0       0
+  Breast                                     0        0       0
+  Central.nervous.system                     0        0       0
+  Cervical                                   0        0       0
+  Colon.Rectum                               0        0       0
+  Endometrial.Uterus                         0        0       0
+  Esophagus.Adenocarcinoma.Stomach           0        0       0
+  Esophagus.Squamous.Cell.Carcinoma          0        0       0
+  Head.and.Neck                              0        0       0
+  Kidney.Chromophobe                         0        0       0
+  Kidney.Clear.Cell.Renal.Carcinoma          0        0       0
+  Kidney.Papillary.Renal.Cell.Carcinoma      0        0       0
+  Liver                                      0        0       0
+  Non.glabrous.skin                          0        0       0
+  Non.small.cell.Lung.Carcinoma              0        0       0
+  Pancreas                                   0        0       0
+  Pheochromocytoma.and.Paraganglioma         0        0       0
+  Pleura                                     0        0       0
+  Prostate                                   0        0       0
+  Sarcoma                                    0        0       0
+  Small.Cell.Lung.Carcinoma                  0        0       0
+  Testes                                     0        0       0
+  Thymoma                                    0        0       0
+  Thyroid                                    0        0       0
+  Uveal.Melanoma                            26      148      72
+                                       Reference
+Prediction                              Small.Cell.Lung.Carcinoma Testes
+  Adrenal                                                       0      0
+  B.Cell                                                        0      0
+  Bladder                                                       0      0
+  Bone.Marrow                                                   0      0
+  Brain                                                         0      0
+  Breast                                                        0      0
+  Central.nervous.system                                        0      0
+  Cervical                                                      0      0
+  Colon.Rectum                                                  0      0
+  Endometrial.Uterus                                            0      0
+  Esophagus.Adenocarcinoma.Stomach                              0      0
+  Esophagus.Squamous.Cell.Carcinoma                             0      0
+  Head.and.Neck                                                 0      0
+  Kidney.Chromophobe                                            0      0
+  Kidney.Clear.Cell.Renal.Carcinoma                             0      0
+  Kidney.Papillary.Renal.Cell.Carcinoma                         0      0
+  Liver                                                         0      0
+  Non.glabrous.skin                                             0      0
+  Non.small.cell.Lung.Carcinoma                                 0      0
+  Pancreas                                                      0      0
+  Pheochromocytoma.and.Paraganglioma                            0      0
+  Pleura                                                        0      0
+  Prostate                                                      0      0
+  Sarcoma                                                       0      0
+  Small.Cell.Lung.Carcinoma                                     0      0
+  Testes                                                        0      0
+  Thymoma                                                       0      0
+  Thyroid                                                       0      0
+  Uveal.Melanoma                                               20     40
+                                       Reference
+Prediction                              Thymoma Thyroid Uveal.Melanoma
+  Adrenal                                     0       0              0
+  B.Cell                                      0       0              0
+  Bladder                                     0       0              0
+  Bone.Marrow                                 0       0              0
+  Brain                                       0       0              0
+  Breast                                      0       0              0
+  Central.nervous.system                      0       0              0
+  Cervical                                    0       0              0
+  Colon.Rectum                                0       0              0
+  Endometrial.Uterus                          0       0              0
+  Esophagus.Adenocarcinoma.Stomach            0       0              0
+  Esophagus.Squamous.Cell.Carcinoma           0       0              0
+  Head.and.Neck                               0       0              0
+  Kidney.Chromophobe                          0       0              0
+  Kidney.Clear.Cell.Renal.Carcinoma           0       0              0
+  Kidney.Papillary.Renal.Cell.Carcinoma       0       0              0
+  Liver                                       0       0              0
+  Non.glabrous.skin                           0       0              0
+  Non.small.cell.Lung.Carcinoma               0       0              0
+  Pancreas                                    0       0              0
+  Pheochromocytoma.and.Paraganglioma          0       0              0
+  Pleura                                      0       0              0
+  Prostate                                    0       0              0
+  Sarcoma                                     0       0              0
+  Small.Cell.Lung.Carcinoma                   0       0              0
+  Testes                                      0       0              0
+  Thymoma                                     0       0              0
+  Thyroid                                     0       0              0
+  Uveal.Melanoma                             37     151             24
+
+Overall Statistics
+                                          
+               Accuracy : 0.0095          
+                 95% CI : (0.0061, 0.0142)
+    No Information Rate : 0.0978          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0               
+                                          
+ Mcnemar's Test P-Value : NA              
+
+Statistics by Class:
+
+                     Class: Adrenal Class: B.Cell Class: Bladder
+Sensitivity                0.000000      0.000000        0.00000
+Specificity                1.000000      1.000000        1.00000
+Pos Pred Value                  NaN           NaN            NaN
+Neg Pred Value             0.990461      0.994436        0.95111
+Prevalence                 0.009539      0.005564        0.04889
+Detection Rate             0.000000      0.000000        0.00000
+Detection Prevalence       0.000000      0.000000        0.00000
+Balanced Accuracy          0.500000      0.500000        0.50000
+                     Class: Bone.Marrow Class: Brain Class: Breast
+Sensitivity                     0.00000       0.0000       0.00000
+Specificity                     1.00000       1.0000       1.00000
+Pos Pred Value                      NaN          NaN           NaN
+Neg Pred Value                  0.97734       0.9837       0.90978
+Prevalence                      0.02266       0.0163       0.09022
+Detection Rate                  0.00000       0.0000       0.00000
+Detection Prevalence            0.00000       0.0000       0.00000
+Balanced Accuracy               0.50000       0.5000       0.50000
+                     Class: Central.nervous.system Class: Cervical
+Sensitivity                                0.00000         0.00000
+Specificity                                1.00000         1.00000
+Pos Pred Value                                 NaN             NaN
+Neg Pred Value                             0.93919         0.96383
+Prevalence                                 0.06081         0.03617
+Detection Rate                             0.00000         0.00000
+Detection Prevalence                       0.00000         0.00000
+Balanced Accuracy                          0.50000         0.50000
+                     Class: Colon.Rectum Class: Endometrial.Uterus
+Sensitivity                      0.00000                   0.00000
+Specificity                      1.00000                   1.00000
+Pos Pred Value                       NaN                       NaN
+Neg Pred Value                   0.95668                   0.94277
+Prevalence                       0.04332                   0.05723
+Detection Rate                   0.00000                   0.00000
+Detection Prevalence             0.00000                   0.00000
+Balanced Accuracy                0.50000                   0.50000
+                     Class: Esophagus.Adenocarcinoma.Stomach
+Sensitivity                                          0.00000
+Specificity                                          1.00000
+Pos Pred Value                                           NaN
+Neg Pred Value                                       0.94316
+Prevalence                                           0.05684
+Detection Rate                                       0.00000
+Detection Prevalence                                 0.00000
+Balanced Accuracy                                    0.50000
+                     Class: Esophagus.Squamous.Cell.Carcinoma
+Sensitivity                                           0.00000
+Specificity                                           1.00000
+Pos Pred Value                                            NaN
+Neg Pred Value                                        0.98927
+Prevalence                                            0.01073
+Detection Rate                                        0.00000
+Detection Prevalence                                  0.00000
+Balanced Accuracy                                     0.50000
+                     Class: Head.and.Neck Class: Kidney.Chromophobe
+Sensitivity                        0.0000                  0.000000
+Specificity                        1.0000                  1.000000
+Pos Pred Value                        NaN                       NaN
+Neg Pred Value                     0.9376                  0.992448
+Prevalence                         0.0624                  0.007552
+Detection Rate                     0.0000                  0.000000
+Detection Prevalence               0.0000                  0.000000
+Balanced Accuracy                  0.5000                  0.500000
+                     Class: Kidney.Clear.Cell.Renal.Carcinoma
+Sensitivity                                           0.00000
+Specificity                                           1.00000
+Pos Pred Value                                            NaN
+Neg Pred Value                                        0.96224
+Prevalence                                            0.03776
+Detection Rate                                        0.00000
+Detection Prevalence                                  0.00000
+Balanced Accuracy                                     0.50000
+                     Class: Kidney.Papillary.Renal.Cell.Carcinoma Class: Liver
+Sensitivity                                               0.00000      0.00000
+Specificity                                               1.00000      1.00000
+Pos Pred Value                                                NaN          NaN
+Neg Pred Value                                            0.96741      0.95588
+Prevalence                                                0.03259      0.04412
+Detection Rate                                            0.00000      0.00000
+Detection Prevalence                                      0.00000      0.00000
+Balanced Accuracy                                         0.50000      0.50000
+                     Class: Non.glabrous.skin
+Sensitivity                           0.00000
+Specificity                           1.00000
+Pos Pred Value                            NaN
+Neg Pred Value                        0.98768
+Prevalence                            0.01232
+Detection Rate                        0.00000
+Detection Prevalence                  0.00000
+Balanced Accuracy                     0.50000
+                     Class: Non.small.cell.Lung.Carcinoma Class: Pancreas
+Sensitivity                                       0.00000         0.00000
+Specificity                                       1.00000         1.00000
+Pos Pred Value                                        NaN             NaN
+Neg Pred Value                                    0.90223         0.97973
+Prevalence                                        0.09777         0.02027
+Detection Rate                                    0.00000         0.00000
+Detection Prevalence                              0.00000         0.00000
+Balanced Accuracy                                 0.50000         0.50000
+                     Class: Pheochromocytoma.and.Paraganglioma Class: Pleura
+Sensitivity                                            0.00000       0.00000
+Specificity                                            1.00000       1.00000
+Pos Pred Value                                             NaN           NaN
+Neg Pred Value                                         0.97893       0.98967
+Prevalence                                             0.02107       0.01033
+Detection Rate                                         0.00000       0.00000
+Detection Prevalence                                   0.00000       0.00000
+Balanced Accuracy                                      0.50000       0.50000
+                     Class: Prostate Class: Sarcoma
+Sensitivity                  0.00000        0.00000
+Specificity                  1.00000        1.00000
+Pos Pred Value                   NaN            NaN
+Neg Pred Value               0.94118        0.97138
+Prevalence                   0.05882        0.02862
+Detection Rate               0.00000        0.00000
+Detection Prevalence         0.00000        0.00000
+Balanced Accuracy            0.50000        0.50000
+                     Class: Small.Cell.Lung.Carcinoma Class: Testes
+Sensitivity                                  0.000000        0.0000
+Specificity                                  1.000000        1.0000
+Pos Pred Value                                    NaN           NaN
+Neg Pred Value                               0.992051        0.9841
+Prevalence                                   0.007949        0.0159
+Detection Rate                               0.000000        0.0000
+Detection Prevalence                         0.000000        0.0000
+Balanced Accuracy                            0.500000        0.5000
+                     Class: Thymoma Class: Thyroid Class: Uveal.Melanoma
+Sensitivity                 0.00000        0.00000              1.000000
+Specificity                 1.00000        1.00000              0.000000
+Pos Pred Value                  NaN            NaN              0.009539
+Neg Pred Value              0.98529        0.93998                   NaN
+Prevalence                  0.01471        0.06002              0.009539
+Detection Rate              0.00000        0.00000              0.009539
+Detection Prevalence        0.00000        0.00000              1.000000
+Balanced Accuracy           0.50000        0.50000              0.500000
+
+Call:
+summary.resamples(object = results)
+
+Models: LDA, RF, XGB 
+Number of resamples: 30 
+
+Accuracy 
+           Min.     1st Qu.     Median       Mean    3rd Qu.       Max. NA's
+LDA 0.943143813 0.959235471 0.96346404 0.96397204 0.96908142 0.97952218    0
+RF  0.936241611 0.947143960 0.95282221 0.95246992 0.95755518 0.96632997    0
+XGB 0.005033557 0.008463822 0.01018676 0.01790645 0.01525424 0.09747899    0
+
+Kappa 
+         Min.   1st Qu.    Median      Mean   3rd Qu.      Max. NA's
+LDA 0.9400413 0.9569475 0.9614339 0.9619713 0.9673707 0.9783747    0
+RF  0.9327474 0.9441285 0.9501815 0.9498037 0.9551739 0.9644453    0
+XGB 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000    0
+
+null device 
+          1 
+Random Forest 
+
+5911 samples
+1965 predictors
+  29 classes: 'Adrenal', 'B.Cell', 'Bladder', 'Bone.Marrow', 'Brain', 'Breast', 'Central.nervous.system', 'Cervical', 'Colon.Rectum', 'Endometrial.Uterus', 'Esophagus.Adenocarcinoma.Stomach', 'Esophagus.Squamous.Cell.Carcinoma', 'Head.and.Neck', 'Kidney.Chromophobe', 'Kidney.Clear.Cell.Renal.Carcinoma', 'Kidney.Papillary.Renal.Cell.Carcinoma', 'Liver', 'Non.glabrous.skin', 'Non.small.cell.Lung.Carcinoma', 'Pancreas', 'Pheochromocytoma.and.Paraganglioma', 'Pleura', 'Prostate', 'Sarcoma', 'Small.Cell.Lung.Carcinoma', 'Testes', 'Thymoma', 'Thyroid', 'Uveal.Melanoma' 
+
+No pre-processing
+Resampling: Cross-Validated (10 fold, repeated 3 times) 
+Summary of sample sizes: 5321, 5321, 5323, 5320, 5321, 5315, ... 
+Resampling results across tuning parameters:
+
+  mtry  Accuracy   Kappa    
+    98  0.9533753  0.9507621
+   326  0.9572601  0.9548746
+   400  0.9579360  0.9555882
+   623  0.9574880  0.9551159
+   645  0.9574870  0.9551157
+   726  0.9577708  0.9554155
+   900  0.9571518  0.9547632
+   905  0.9571514  0.9547634
+   934  0.9565302  0.9541055
+  1004  0.9554604  0.9529757
+  1018  0.9555753  0.9530983
+  1125  0.9552935  0.9527978
+  1127  0.9547297  0.9522037
+  1626  0.9496499  0.9468376
+  1942  0.9454792  0.9424320
+
+Accuracy was used to select the optimal model using the largest value.
+The final value used for the model was mtry = 400.
+null device 
+          1 
+eXtreme Gradient Boosting 
+
+5911 samples
+1965 predictors
+  29 classes: 'Adrenal', 'B.Cell', 'Bladder', 'Bone.Marrow', 'Brain', 'Breast', 'Central.nervous.system', 'Cervical', 'Colon.Rectum', 'Endometrial.Uterus', 'Esophagus.Adenocarcinoma.Stomach', 'Esophagus.Squamous.Cell.Carcinoma', 'Head.and.Neck', 'Kidney.Chromophobe', 'Kidney.Clear.Cell.Renal.Carcinoma', 'Kidney.Papillary.Renal.Cell.Carcinoma', 'Liver', 'Non.glabrous.skin', 'Non.small.cell.Lung.Carcinoma', 'Pancreas', 'Pheochromocytoma.and.Paraganglioma', 'Pleura', 'Prostate', 'Sarcoma', 'Small.Cell.Lung.Carcinoma', 'Testes', 'Thymoma', 'Thyroid', 'Uveal.Melanoma' 
+
+No pre-processing
+Resampling: Cross-Validated (10 fold, repeated 3 times) 
+Summary of sample sizes: 5321, 5321, 5323, 5320, 5321, 5315, ... 
+Resampling results across tuning parameters:
+
+  eta   max_depth  nrounds  Accuracy   Kappa    
+  0.05  3          100      0.9244402  0.9203526
+  0.05  3          200      0.9341959  0.9306440
+  0.05  3          300      0.9402882  0.9370597
+  0.05  4          100      0.9235438  0.9194075
+  0.05  4          200      0.9344252  0.9308883
+  0.05  4          300      0.9401748  0.9369385
+  0.05  5          100      0.9250720  0.9210183
+  0.05  5          200      0.9345972  0.9310699
+  0.05  5          300      0.9405179  0.9373014
+  0.05  6          100      0.9249534  0.9208916
+  0.05  6          200      0.9345949  0.9310691
+  0.05  6          300      0.9400056  0.9367603
+  0.05  7          100      0.9246706  0.9205921
+  0.05  7          200      0.9345938  0.9310638
+  0.05  7          300      0.9402314  0.9369996
+  1.00  3          100      0.9396216  0.9363553
+  1.00  3          200      0.9406364  0.9374228
+  1.00  3          300      0.9408052  0.9376004
+  1.00  4          100      0.9425468  0.9394339
+  1.00  4          200      0.9428862  0.9397924
+  1.00  4          300      0.9431098  0.9400272
+  1.00  5          100      0.9396683  0.9364057
+  1.00  5          200      0.9399500  0.9367008
+  1.00  5          300      0.9399495  0.9366997
+  1.00  6          100      0.9395589  0.9362894
+  1.00  6          200      0.9404633  0.9372416
+  1.00  6          300      0.9402355  0.9370004
+  1.00  7          100      0.9404066  0.9371794
+  1.00  7          200      0.9404626  0.9372377
+  1.00  7          300      0.9411935  0.9380058
+
+Tuning parameter 'gamma' was held constant at a value of 0.01
+Tuning
+
+Tuning parameter 'min_child_weight' was held constant at a value of 0
+
+Tuning parameter 'subsample' was held constant at a value of 0.5
+Accuracy was used to select the optimal model using the largest value.
+The final values used for the model were nrounds = 300, max_depth = 4, eta =
+ 1, gamma = 0.01, colsample_bytree = 0.75, min_child_weight = 0 and subsample
+ = 0.5.
+null device 
+          1 
+null device 
+          1 
