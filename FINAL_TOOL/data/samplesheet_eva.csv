@@ -1,0 +1,10 @@
+[Header],,,,,,
+Investigator Name,Eva,,,,,
+Project Name,DNA Methylation EPIC,,,,,
+Experiment Name,Test,,,,,
+Date,20-Dec-2020,,,,,
+,,,,,,
+[Data],,,,,,
+Sample_Name,Sample_Well,Sample_Plate,Sample_Group,Pool_ID,Sentrix_ID,Sentrix_Position
+B19-23929-A13,G01,SMET0339,A13,Epic,203941510062,R07C01
+B19-23929-H4,H01,SMET0339,H4,Epic,203941510062,R08C01
